@@ -1,6 +1,14 @@
 logo: /images/sch-title2.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Our School
+    collection: our-school
+  - title: Our Family
+    collection: our-family
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Publications
+    url: /publications
+  - title: Useful Links
+    url: /useful-links
+  - title: Open House
+    url: /e-open-house
