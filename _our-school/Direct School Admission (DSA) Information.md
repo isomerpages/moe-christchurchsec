@@ -61,6 +61,10 @@ Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for di
 		<a href = "https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school" target = "_self"> 
           <img src="/images/DSA2022_03d.png"> 
 	</a>
+	<a href = "https://go.gov.sg/apply-dsa-sec-nms" target = "_self"> 
+          <img src="/images/DSA2022_03e.png"> 
+	</a>
+	
 	
 
 
