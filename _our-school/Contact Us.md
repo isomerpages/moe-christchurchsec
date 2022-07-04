@@ -69,8 +69,8 @@ Operating Hours: 10.30am - 8.30pm
 * * *
 
   
-**School Bus Services****  
-Yeoong Charter Bus**  
-Mr Ooi Wah Leong  
+**School Bus Services** 
+<br><strong>Yeoong Charter Bus</strong>
+<br> Mr Ooi Wah Leong  
 Tel:  9781 1531 / 9655 5407  
 Fax: 6205 0328
