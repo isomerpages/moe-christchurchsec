@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Parent's Gateway.md
       - Non Financial Information.md
       - Contact Us.md
       - Principal’s Letter to CHRians.md
