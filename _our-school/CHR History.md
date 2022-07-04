@@ -227,3 +227,63 @@ Today, we are proud to develop students equipped with the 21st Century skills t
   </tr>
 </tbody>
 </table>
+
+<br>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Our Chaplains</span></th>
+    <th class="tg-pll1"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1953 to 1972</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Revd Canon Samuel Baboo</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1973 to 1981</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Revd Canon C A Caldwell</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1981 to 1989</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Revd J. Villie Devapiragasam</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1989 to 1992</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Revd Kingsley Ponniah</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1992 to 2001</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Revd Canon Dr. A George Karunakaran</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2002 to 2007</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Revd John Sim Teck Chuan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2007 to 2010</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Revd Daniel Wee</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2011 to 2016</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Revd Tang Wai Lung</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2016 to date</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Revd William Tham Kok Meng</span></td>
+  </tr>
+</tbody>
+</table>
