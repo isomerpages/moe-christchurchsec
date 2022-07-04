@@ -7,6 +7,10 @@ description: ""
 
 Christ Church Secondary School (CHR) will be using the PG App (one-stop portal) to strengthen school-home partnership to support our children in their education journey.
 
+<img src="/images/Logo.png" 
+     style="width:25%">
+
+
 ***
 
 <strong><u>About the PG</u></strong>
