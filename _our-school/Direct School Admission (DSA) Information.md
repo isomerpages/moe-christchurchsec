@@ -7,7 +7,9 @@ description: ""
   
 ***
 
-![](/images/DSA%20banner%20for%20website%20v2.jpeg)
+<img src="/images/DSA%20banner%20for%20website%20v2.jpeg" 
+     style="width:65%">
+
 
 # What is Direct School Admission (DSA)?
 
@@ -21,9 +23,12 @@ Students admitted to a secondary school through DSA-Sec are not allowed to submi
 
 # Why Christ Church Secondary School (CHR)?  
 
-![](/images/DSA2022_02.png)
+<img src="/images/DSA2022_02.png" 
+     style="width:65%">
 
-![](/images/you%20v2.jpeg)
+
+<img src="/images/you%20v2.jpeg" 
+     style="width:65%">
 
 <body>
       <a href = "/CHR_PROSPECTUS" target = "_self"> 
