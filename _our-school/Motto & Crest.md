@@ -35,4 +35,4 @@ description: ""
 
 **GREEN:** May our lives and spirits be continually RENEWED, that we may be eternally grateful and thankful for God’s blessed abundance.
 
-**WHITE:** May we never lose our PURITY of thought, word and deed, and in all earnestness and sincerity we Pray as we Work. 
+**WHITE:** May we never lose our PURITY of thought, word and deed, and in all earnestness and sincerity we Pray as we Work.
