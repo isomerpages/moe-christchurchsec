@@ -154,3 +154,76 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 </table>
 
 <br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 370px">
+<colgroup>
+<col style="width: 107px">
+<col style="width: 263px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Our Principals</span></th>
+    <th class="tg-pll1"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1953 to 1972</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Revd Canon Samuel Baboo</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1973</span><br><span style="color:#222;background-color:#EAEAEA">(Supervisor)</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr S E Jesudason</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1973 to 1981</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Daniel Kovipillai</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1981 to 1988</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Gabriel Rajamoorthy</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1988 to 1990</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Victor Wee Tai Tien</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1990 to 1992</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr David Chen Chee Kang</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1992 to 1997</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Koh Boon Long</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1998 to 2002</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Victor Giam Chong Guan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2002 to 2008</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Ang Chee Seng</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2009 to 2014</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mrs Yeo Chin Nam</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2015 to 2021</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr David Lau Yan Boon</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2021 to date</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Adrian Tay Juncheng </span></td>
+  </tr>
+</tbody>
+</table>
