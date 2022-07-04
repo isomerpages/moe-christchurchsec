@@ -44,21 +44,21 @@ Membership Qualification and Rights
 <thead>
   <tr>
     <th class="tg-3xsn"><span style="color:#FFF">Ordinary Membership</span><br></th>
-    <th class="tg-zr06">Open to any former students of the School<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dorset, Tyrwhitt or Woodlands locations;<br>CALumniompleted not less than 12 months in the School as a student;<br>21 years old or above at the point of registration.<br>their annual subscription fee is $20.</th>
+    <th class="tg-zr06">Open to any former students of the School<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dorset, Tyrwhitt or Woodlands locations;<br>CALumniompleted not less than 12 months in the School as a student;<br>21 years old or above at the point of registration.<br>their annual subscription fee is <strong><u>$20</u></strong>.</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-3xsn"><span style="color:#FFF">Youth Wing Membership</span></td>
-    <td class="tg-zr06">Open to any former students of the School;<br>Strictly below 21 years old but 17 years and above;<br>Currently studying, in the work force or in National Service;<br>They shall not have any vote nor hold office, nor have any say in the management of the CHR Alumni<br>Their annual subscription fee is $5.</td>
+    <td class="tg-zr06">Open to any former students of the School;<br>Strictly below 21 years old but 17 years and above;<br>Currently studying, in the work force or in National Service;<br>They shall not have any vote nor hold office, nor have any say in the management of the CHR Alumni<br>Their annual subscription fee is <strong><u>$5</u></strong>.</td>
   </tr>
   <tr>
     <td class="tg-3xsn"><span style="color:#FFF"> Associate Membership</span><br></td>
-    <td class="tg-zr06">Open to past and present principals and staff of the School;<br>They are non-Alumnil<br>They will be in partnership with CHR Alumni but shall not have the right to vote and to hold office in the CHR Alumni.<br>Their annual subscription fee is $10.</td>
+    <td class="tg-zr06">Open to past and present principals and staff of the School;<br>They are non-Alumnil<br>They will be in partnership with CHR Alumni but shall not have the right to vote and to hold office in the CHR Alumni.<br>Their annual subscription fee is <strong><u>$10</u></strong>.</td>
   </tr>
   <tr>
     <td class="tg-3xsn"><span style="color:#FFF">Life Membership</span></td>
-    <td class="tg-zr06">Open to any ORdinary Member or Associate Member who pays the one-time payment of the required subscription fee of $200.</td>
+    <td class="tg-zr06">Open to any ORdinary Member or Associate Member who pays the one-time payment of the required subscription fee of <strong><u>$200</u></strong>.</td>
   </tr>
 </tbody>
 </table>
