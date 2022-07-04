@@ -41,12 +41,12 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 3.</span></td>
-    <td class="tg-elnk"><a href="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/forms/2020/NPP%20PC-Bundle%20Application%20Form%20v5.3%20(2%20Sep%202020)%20for%20MOE-SPED%20FAS.pdf"><span style="text-decoration:none;color:#FF7E00"> Application for Neu PC Plus</span></a><br>(MOE-SPED)</td>
+    <td class="tg-elnk"><a href="[](/files/NPP%20PC-Bundle%20Application%20Form%20for%20MOE-SPED%20FAS.pdf)"><span style="text-decoration:none;color:#FF7E00"> Application for Neu PC Plus</span></a><br>(MOE-SPED)</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">A Digital Inclusion initiative by IMDA to help needy students with computing device and/or broadband service plan </span>(MOE-SPED)</td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 4.</span></td>
-    <td class="tg-pip2"><a href="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/forms/2020/NPP%20PC-Bundle%20Application%20Form%20v12.3%20(2%20Sep%202020)%20for%20NON%20MOE-SPED%20FAS.pdf"><span style="text-decoration:underline;color:#FF7E00">Application for Neu PC Plus</span></a><br>(NON MOE-SPED)</td>
+    <td class="tg-pip2"><a href="[](/files/NPP%20PC-Bundle%20Application%20Form%20for%20NON%20MOE-SPED%20FAS.pdf)"><span style="text-decoration:underline;color:#FF7E00">Application for Neu PC Plus</span></a><br>(NON MOE-SPED)</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> A Digital Inclusion initiative by IMDA to help students with computing device and/or broadband service plan </span>(NON MOE-SPED)</td>
   </tr>
   <tr>
