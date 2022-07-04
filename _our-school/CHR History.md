@@ -101,6 +101,7 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 </tbody>
 </table>
 
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -150,3 +151,6 @@ Today, we are proud to develop students equipped with the 21st Century skills t
   </tr>
 </tbody>
 </table>
+
+<br>
+
