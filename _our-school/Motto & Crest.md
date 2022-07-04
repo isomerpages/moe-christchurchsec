@@ -17,9 +17,11 @@ description: ""
 
   
 
-**Our School Crest**
+<strong><center><u>Our School Crest</u></center></strong>
 
-![chr_logo_small.jpg](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/Motto%20&%20Crest/chr_logo_small.jpg)
+<img src="/images/chr_logo_small.jpeg" 
+     style="width:45%">
+
 
 | 
 FLAMING TORCH: At the heart of the crest, the torch symbolizes CHRians’ commitment to lifelong learning. This journey of life, and of learning, is one where each CHRian grows in character and in his God-given talents.
