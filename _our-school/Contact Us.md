@@ -57,8 +57,8 @@ Fax: 6748 9139
 * * *
 
   
-**School Uniforms****  
-Finest Fashion Centre**  
+**School Uniforms** 
+<br>**Finest Fashion Centre**  
 144 Upper Bukit Timah Road  
 Beauty World Centre, #B1-03  
 Tel: 6466 5697 / 9026 9738 (Mr Koh)  
