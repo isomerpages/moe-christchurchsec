@@ -77,4 +77,4 @@ Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for di
 
 **Clarification**
 
-For further enquiries, please contact Mr Ho Chee Hoong, HOD PE/CCA, at 68933297 during office hours or email him at **ho\_chee\_hoong@moe.edu.sg**
+For further enquiries, please contact Mr Ho Chee Hoong, HOD PE/CCA, at 68933297 during office hours or email him at <a href="mailto:ho_chee_hoong@moe.edu.sg">ho_chee_hoong@moe.edu.sg</a>
