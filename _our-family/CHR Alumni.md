@@ -65,3 +65,16 @@ Membership Qualification and Rights
 
 
 Click over the type of membership you want to apply below to download the application form: [Ordinary Member](/files/Ordinary%20Member.pdf) , [Youth Wing Member](/files/Youth-Wing%20Member.pdf) , [Associate Member](/files/Associate%20Member.pdf) , [Life Member](/files/Life%20Member.pdf).
+
+![](/images/Almuni%20Committee.png)
+
+<br>
+
+-------
+
+<h3> Mustard Seed Fund</h3>
+
+![](/images/MSF%201.png)
+![](/images/msf2.png)
+![](/images/msf3.png)
+
