@@ -174,7 +174,7 @@ Ensures that lights and fans are switched off when classroom/facilities are not 
 
  
 
-2.2 VICE-CHAIRMAN
+**2.2 VICE-CHAIRMAN**
 
 Assists the Chairman in all his/her duties
 
@@ -188,7 +188,7 @@ Manages class monetary matters and keeps financial records
 
  
 
-2.3 WELFARE HEAD
+**2.3 WELFARE HEAD**
 
 Ensures that Homework Board is updated daily
 
@@ -208,7 +208,7 @@ Ensures that health-related articles are put up for display on the health notice
 
  
 
-2.4 GREEN CHAMPION
+**2.4 GREEN CHAMPION**
 
 Oversees activities related to environmental matters
 
@@ -222,7 +222,7 @@ Helps and runs the environmental activities in the school
 
  
 
-2.5 ICT REPRESENTATIVE
+**2.5 ICT REPRESENTATIVE**
 
 Is responsible for collecting and returning all ICT equipment
 
@@ -234,7 +234,7 @@ Attends training sessions and meetings organised by the ICT Department
 
  
 
-2.6 SPORTS & SAFETY REPRESENTATIVE
+**2.6 SPORTS & SAFETY REPRESENTATIVE**
 
 Assists PE teacher during PE lessons
 
@@ -250,7 +250,7 @@ Collects and submits safety & health-promoting suggestions to Form Teacher or PE
 
  
 
-2.7 NATIONAL EDUCATION REPRESENTATIVE
+**2.7 NATIONAL EDUCATION REPRESENTATIVE**
 
 Supports the Form Teacher in all matters related to National Education,
 
@@ -262,7 +262,7 @@ Ensures that the class noticeboard is decorated with National Education material
 
  
 
-2.8 SUBJECT REPRESENTATIVES (4 positions)
+**2.8 SUBJECT REPRESENTATIVES (4 positions)**
 
 At least 4 subject representative positions. Each subject representative is responsible for 2 subjects or more if necessary, e.g. Subject Rep, EL & CL, Subject Rep. History & Geography
 
@@ -271,4 +271,3 @@ Collects assignments/exercise books and hands in to the respective subject teach
 Keeps records of assignments handed in
 
 Informs teachers if classmates fail to hand in assignments
-
