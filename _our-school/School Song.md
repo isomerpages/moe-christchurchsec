@@ -9,7 +9,7 @@ description: ""
 	
 <center>To God be the glory, great things He hath done,<br>So loved He the world that He gave us His Son,<br>Who yielded His life an atonement for sin,<br>And opened the life gate that all may go in.</center>
 
-<center>Chorus</center>
+<center><em>Chorus</em></center>
 
 <center><em>Praise the Lord, praise the Lord, Let the earth hear His voice!<br>Praise the Lord, praise the Lord, Let the people rejoice!<br>Oh, come to the Father, through Jesus the Son,<br>And give Him the glory, great things He hath done.</em></center>
 	
