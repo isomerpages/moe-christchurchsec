@@ -36,3 +36,60 @@ All CHRians are expected to fulfil the 3 Basic Expectations of RAW:
 
 2.2.4 During morning reflection, students are to listen carefully and to record down learning points in the handbook.
 
+
+**2.3 WEEKLY ASSEMBLY**
+
+2.3.1. Classes are to proceed to the School Hall in a quiet and orderly manner and be seated quickly.
+
+2.3.2 A respectful silence and orderliness must be maintained during all assemblies.
+
+2.3.3 Students must not absent themselves and must be punctual.
+
+2.3.4 Class attendance will be taken. Absence without a valid reason will be considered as truancy.
+
+
+
+**2.4 GENERAL CONDUCT**
+
+2.4.1 All students are expected to a caring, persevering and forward-looking person.
+
+2.4.2 All students are to make good use of platforms created for your development.
+
+
+
+**2.5 FACILITIES**
+
+2.5.1 Do leave the areas in school in a better condition and state of cleanliness after use.
+
+2.5.2 Take good care of school properties and premises. Cost of replacement for vandalized items will be borne by student(s) responsible for the damage.
+
+2.5.3 Maintain highest standards of cleanliness at all times on the school premises. Cleanliness includes the maintenance of the immediate surrounding areas.
+
+2.5.4 Food and all sweet drinks are to be ***consumed only in the canteen***. All cutleries and trays must be returned to designated receptacles and litter disposed into the rubbish bins.
+
+2.5.5 Mobile phones can only be switched on in the **canteen** during recess or after school.
+
+
+**2.6 CLASSROOM CONDUCT**
+
+2.6.1 Work with all your classmates and teachers to achieve optimal outcomes.
+
+2.6.2 All students must be punctual for lessons. Attendance will be taken before the start of each lesson.
+
+2.6.3 Students must not to leave the classroom without permission by teachers.
+
+
+**2.7 MAINTAIN A CONDUCIVE ENVIRONMENT FOR TEACHING & LEARNING**
+
+2.7.1 Keep the classroom clean and neat at all times.
+
+2.7.2 Consumption of food and sweet drinks are strictly not allowed in the classroom.
+
+2.7.3 Show consideration to others by keeping the noise level low.
+
+2.7.4 Update the class notice boards regularly.
+
+2.7.5 Use of all forms of electronic gadgets is prohibited unless they are required for lessons, e.g. calculators for Maths and Electronic Dictionaries.
+
+2.7.6 Students are not allowed to go to the lockers during the change of periods. All necessary materials must be taken from the lockers before assembly or during break-times.
+
