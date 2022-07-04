@@ -36,7 +36,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 2.</span></td>
-    <td class="tg-elnk"><a href="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/Sec%201%20Registration/2022/MOE%20FAS%20Application%20Form_for%20Website%2022%20Dec.pdf"><span style="text-decoration:none;color:#FF7E00"> Application for MOE Financial Assistance Scheme</span></a></td>
+    <td class="tg-elnk"><a href="/files/MOE%20FAS%20Application%20Form_for%20Website%2022%20Dec.pdf"><span style="text-decoration:none;color:#FF7E00"> Application for MOE Financial Assistance Scheme</span></a></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">To help needy Singaporean students to meet basic schooling  expenses.</span></td>
   </tr>
   <tr>
