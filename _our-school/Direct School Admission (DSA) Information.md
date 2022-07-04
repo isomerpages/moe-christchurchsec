@@ -74,7 +74,6 @@ Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for di
      style="width:75%">  
 	
 	
-	
 
 **Clarification**
 
