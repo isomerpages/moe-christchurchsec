@@ -68,7 +68,6 @@ Click over the type of membership you want to apply below to download the applic
 
 ![](/images/Almuni%20Committee.png)
 
-<br>
 
 -------
 
