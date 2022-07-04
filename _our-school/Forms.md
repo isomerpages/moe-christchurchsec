@@ -52,8 +52,7 @@ description: ""
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 5.</span></td>
     <td class="tg-ii8k"><img src="/images/loa%20form.png" 
-     style="width:65%">
-<br><a href="https://go.gov.sg/leave-of-absence-chr" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Application Form for Leave of Absence</span></a><br></td>
+     style="width:65%"><br><br><a href="https://go.gov.sg/leave-of-absence-chr" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Application Form for Leave of Absence</span></a></td>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Application Form for Leave of Absence </span></td>
   </tr>
 </tbody>
