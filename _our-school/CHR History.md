@@ -153,4 +153,3 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 </table>
 
 <br>
-
