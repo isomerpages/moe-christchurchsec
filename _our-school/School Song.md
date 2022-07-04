@@ -3,7 +3,6 @@ title: School Song
 permalink: /our-school/school-song
 description: ""
 ---
-
 <center><strong>TO GOD BE THE GLORY</strong></center>
 
 <center>By William H.Doane & Fanny J.Crosby<br>(School Version)</center>
@@ -21,7 +20,4 @@ description: ""
 
 <center><em>Praise the Lord, praise the Lord, Let the earth hear His voice!<br>Praise the Lord, praise the Lord, Let the people rejoice!<br>Oh, come to the Father, through Jesus the Son,<br>And give Him the glory, great things He hath done.</em></center>
 
-Praise the Lord, praise the Lord, Let the earth hear His voice!
-Praise the Lord, praise the Lord, Let the people rejoice!
-Oh, come to the Father, through Jesus the Son,
-And give Him the glory, great things He hath done.
+<center><em>Praise the Lord, praise the Lord, Let the earth hear His voice!<br>Praise the Lord, praise the Lord, Let the people rejoice!<br>Oh, come to the Father, through Jesus the Son,<br>And give Him the glory, great things He hath done.</em></center>
