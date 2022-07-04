@@ -37,7 +37,7 @@ The theme for this year’s Sec 1 Orientation was _CHRytale_. Sec 1s were Write
 
 When I spoke to the Sec 1s during Orientation, I used the stories of Harry Potter, Rey (from Star Wars), and Peter Parker to make a few points, which I would like to share with the Sec 2s to 5s as well. 
 
-![P letter 4.jpg](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/P%20Message/2022/P%20letter%204.jpg)
+![](/images/P%20letter%204.jpeg)
 
 *   Be willing to step out of your comfort zone – that is where we grow the most. Harry stepped out of the Muggle (non-magic) world into the world of Hogwarts; Rey found that she was strong in the Force, and trained to be a Jedi; while Peter Parker discovered he had superpowers after being bitten by a spider, and became an Avenger. Embrace discomfort as an opportunity for growth.
 *   Seek out good mentors to guide you along your journey. Harry had Professor Dumbledore; Rey had Luke Skywalker; and Peter had Tony Stark. Who are your mentors in CHR? He or she could be a teacher, a school leader, or a senior.
