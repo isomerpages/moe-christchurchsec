@@ -64,6 +64,7 @@ Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for di
 	<a href = "https://go.gov.sg/apply-dsa-sec-nms" target = "_self"> 
           <img src="/images/DSA2022_03e.png"> 
 	</a>
+![](/images/DSA2022_03f.png)
 	
 	
 
