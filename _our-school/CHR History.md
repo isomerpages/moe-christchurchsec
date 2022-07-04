@@ -29,7 +29,7 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 <table class="tg" style="undefined;table-layout: fixed; width: 638px">
 <colgroup>
 <col style="width: 174px">
-<col style="width: 464px">
+<col style="width:500px">
 </colgroup>
 <thead>
   <tr>
