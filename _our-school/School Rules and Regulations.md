@@ -25,3 +25,14 @@ All CHRians are expected to fulfil the 3 Basic Expectations of RAW:
 2.1.2 Parents need to apply for leave of absence for their child from the Vice-Principal to leave or absent themselves from school for urgent private matters. Permission to leave school early may be granted for special cases. The Form Teacher must be informed by the student and permission must be obtained from the Principal or Vice-Principal. His/Her parent/ guardian will be contacted and his/her name will be entered in the Early Dismissal book in the General Office. Students may leave for overseas travel only during school-announced or official holidays.
 
 2.1.3 Students must be punctual for school, CCA and all school events. Students who are late for school i.e. after morning assembly are subjected to late-coming procedures which include a report slip before they are allowed back to class.
+
+**2.2 DAILY ASSEMBLY**
+
+2.2.1 Students are expected to be in school by 7.30 a.m. All Form Teachers will then mark attendance.
+
+2.2.2 **All students must stand at attention for the flag-raising ceremony. Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.**
+
+2.2.3 All students must sing the School Song with pride and respect.
+
+2.2.4 During morning reflection, students are to listen carefully and to record down learning points in the handbook.
+
