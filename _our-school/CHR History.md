@@ -14,7 +14,7 @@ A new lease of life was further injected when an entirely new campus in Woodland
 Today, we are proud to develop students equipped with the 21st Century skills to be of service to the nation.
 
 
-
+<center>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -26,10 +26,10 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 .tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 727px">
+<table class="tg" style="undefined;table-layout: fixed; width: 693px">
 <colgroup>
-<col style="width: 156px">
-<col style="width: 571px">
+<col style="width: 152px">
+<col style="width: 541px">
 </colgroup>
 <thead>
   <tr>
@@ -100,6 +100,7 @@ Today, we are proud to develop students equipped with the 21st Century skills t
   </tr>
 </tbody>
 </table>
+	</center>
 
 <br>
 
