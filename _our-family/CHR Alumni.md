@@ -78,3 +78,17 @@ Click over the type of membership you want to apply below to download the applic
 ![](/images/msf2.png)
 ![](/images/msf3.png)
 
+Please click [here](/files/Alumni2015.pdf) to download the Alumni Mustard SEED Bursary Award application form.   
+  
+  
+
+<h3>Contact Us</h3>
+
+**Postal address:**  
+Christ Church Secondary School Alumni (CHR Alumni) 20, Woodlands Drive 17, Singapore 737924  
+
+**Email address:**  
+[chralumni@hotmail.sg](mailto:chralumni@hotmail.sg)  
+  
+**Facebook:**  
+[https://www.facebook.com/chralumni](https://www.facebook.com/chralumni)
