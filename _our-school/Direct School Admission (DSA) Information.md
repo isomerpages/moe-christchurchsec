@@ -58,11 +58,13 @@ Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for di
 	<a href = "https://go.gov.sg/apply-dsa-sec" target = "_self"> 
           <img src="/images/DSA2022_03c.png"> 
 	</a>
+		<a href = "https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school" target = "_self"> 
+          <img src="/images/DSA2022_03d.png"> 
+	</a>
 	
 
 
-
-(https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03c.png)![DSA2022_03d.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03d.png)![DSA2022_03e.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03e.png)![DSA2022_03f.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03f.png)  
+(https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03d.png)![DSA2022_03e.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03e.png)![DSA2022_03f.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03f.png)  
 ![DSA2022_04a.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_04a.png)![DSA2022_05.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_05.png)  
 
 **Clarification**
