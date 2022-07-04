@@ -6,8 +6,9 @@ description: ""
 We are located at  
 20, Woodlands Drive 17  
 Singapore 737924  
-  
-![](/images/CHR%20map%20v4.jpeg)
+
+<img src="/images/CHR%20map%20v4.jpeg" 
+     style="width:55%">
 
 Copyrighted by Street Directory   
 [View Larger Map](https://www.streetdirectory.com/sg/christ-church/20-woodlands-drive-17-737924/1643_123157.html)
