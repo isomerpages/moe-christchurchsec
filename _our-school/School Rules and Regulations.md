@@ -176,13 +176,13 @@ Ensures that lights and fans are switched off when classroom/facilities are not 
 **2.2 VICE-CHAIRMAN**
 
 Assists the Chairman in all his/her duties
-
+<br>
 Prepares the class duty roster and ensures the cleanliness of the classroom
-
+<br>
 Notifies the office if a teacher is absent or relief is not assigned
-
+<br>
 Keeps records of meetings
-
+<br>
 Manages class monetary matters and keeps financial records
 
  
@@ -190,19 +190,19 @@ Manages class monetary matters and keeps financial records
 **2.3 WELFARE HEAD**
 
 Ensures that Homework Board is updated daily
-
+<br>
 Rosters teams to decorate the class notice board
-
+<br>
 Ensures that educational articles are put up for display on the notice board and updated periodically
-
+<br>
 Reports defective equipment to the office, e.g. faulty fans, light, etc
-
+<br>
 Organises activities to cater to the overall wellbeing of the class – e.g. birthday cards, thank you card, etc
-
+<br>
 Assists teachers in carrying out VIA activities
-
+<br>
 Reports any safety issue to the Form Teacher or Operations Manager
-
+<br>
 Ensures that health-related articles are put up for display on the health notice board and updated periodically
 
  
@@ -210,13 +210,13 @@ Ensures that health-related articles are put up for display on the health notice
 **2.4 GREEN CHAMPION**
 
 Oversees activities related to environmental matters
-
+<br>
 Creates green awareness in the class through class or school green activities
-
+<br>
 Encourages classmates in the recycling effort
-
+<br>
 Supports school recycling programme on regular basis
-
+<br>
 Helps and runs the environmental activities in the school
 
  
@@ -224,27 +224,26 @@ Helps and runs the environmental activities in the school
 **2.5 ICT REPRESENTATIVE**
 
 Is responsible for collecting and returning all ICT equipment
-
+<br>
 Assists teacher in setting up class for ICT lesson
-
+<br>
 Reports the breakdown of the ICT equipment to the ICT Department
-
+<br>
 Attends training sessions and meetings organised by the ICT Department
-
  
 
 **2.6 SPORTS & SAFETY REPRESENTATIVE**
 
 Assists PE teacher during PE lessons
-
+<br>
 Is responsible for drawing out and returning equipment for PE lessons
-
+<br>
 Selects and prepares classmates for inter-class competitions
-
+<br>
 Assists teacher during emergency evacuation
-
+<br>
 Champions health and safety in class
-
+<br>
 Collects and submits safety & health-promoting suggestions to Form Teacher or PE teacher
 
  
@@ -252,11 +251,11 @@ Collects and submits safety & health-promoting suggestions to Form Teacher or PE
 **2.7 NATIONAL EDUCATION REPRESENTATIVE**
 
 Supports the Form Teacher in all matters related to National Education,
-
+<br>
 e.g. Commemorative Days, National Day, VIA, etc
-
+<br>
 Initiates actions which will help the class to better understand National Education
-
+<br>
 Ensures that the class noticeboard is decorated with National Education materials
 
  
@@ -264,9 +263,9 @@ Ensures that the class noticeboard is decorated with National Education material
 **2.8 SUBJECT REPRESENTATIVES (4 positions)**
 
 At least 4 subject representative positions. Each subject representative is responsible for 2 subjects or more if necessary, e.g. Subject Rep, EL & CL, Subject Rep. History & Geography
-
+<br>
 Collects assignments/exercise books and hands in to the respective subject teachers during recess time
-
+<br>
 Keeps records of assignments handed in
-
+<br>
 Informs teachers if classmates fail to hand in assignments
