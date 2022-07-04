@@ -2,5 +2,5 @@ collections:
   our-school:
     output: true
     order:
-      - CHR Vision, Mission & Values.md
       - Principal’s Letter to CHRians.md
+      - CHR Vision, Mission & Values.md
