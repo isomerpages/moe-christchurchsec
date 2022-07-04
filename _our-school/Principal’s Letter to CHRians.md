@@ -11,6 +11,7 @@ Thank you for welcoming me so warmly to Christ Church Secondary School! In the f
 
 I’ve also seen many of you in action, in morning assemblies, CHR Speakers (our inter-class storytelling competition), outreach to primary schools, e-Open House, Sec 1 Orientation, Sec 1 Challenge, and Resilience Programmes. These are all platforms to develop CHRians who have the **Drive to Excel**, are **Thoughtful Contributors**, and are **Active Learners**, and we plan to give you many more of such opportunities this year.  
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -21,17 +22,17 @@ I’ve also seen many of you in action, in morning assemblies, CHR Speakers (our
 </style>
 <table class="tg">
 <tbody>
-  <td>
-    <td class="tg-ktyi"><img src="/images/P%20letter%201.jpeg" alt="P letter 1.jpg" width="371" height="274"></th>
-    <td class="tg-ktyi"><img src="/images/P%20letter%202.jpeg" alt="P letter 2.jpg" width="207" height="273"></th>
-  </td>
-</tbody>
-<tbody>
+  <tr>
+    <td class="tg-ktyi"><img src="/images/P%20letter%201.jpeg" alt="P letter 1.jpg" width="371" height="274"></td>
+    <td class="tg-ktyi"><img src="/images/P%20letter%202.jpeg" alt="P letter 2.jpg" width="207" height="273"></td>
+  </tr>
   <tr>
     <td class="tg-ktyi" colspan="2"><img src="/images/P%20letter%203.jpeg" alt="P letter 3.jpg" width="638" height="473"></td>
   </tr>
 </tbody>
 </table>
+
+
 
 The theme for this year’s Sec 1 Orientation was _CHRytale_. Sec 1s were Writers; the Orientation Group Leaders (OGLs) were Editors, Illustrators, Enchanters and Tale Archivists; and teachers were Curators. By the end of Orientation, all Sec 1s were presented with their “Writer’s License” and “Mighty Pen”, and encouraged to _Write On, Write Well_. I thought the theme, which was developed by the OGLs, was a very meaningful one – not just for the Sec 1s, but also for everyone else. As authors of our lives, we all have the power to write our stories, and through our words and actions, make a difference to those around us.
 
