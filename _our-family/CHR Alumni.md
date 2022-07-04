@@ -64,4 +64,4 @@ Membership Qualification and Rights
 </table>
 
 
-Click over the type of membership you want to apply below to download the application form: [Ordinary Member](/files/Ordinary%20Member.pdf) , [Youth Wing Member](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20family/Alumni/Youth-Wing%20Member.pdf) , [Associate Member](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20family/Alumni/Associate%20Member.pdf) , [Life Member](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20family/Alumni/Life%20Member.pdf) .
+Click over the type of membership you want to apply below to download the application form: [Ordinary Member](/files/Ordinary%20Member.pdf) , [Youth Wing Member](/files/Youth-Wing%20Member.pdf) , [Associate Member](/files/Associate%20Member.pdf) , [Life Member](/files/Life%20Member.pdf).
