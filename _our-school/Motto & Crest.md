@@ -5,13 +5,11 @@ description: ""
 ---
 <strong><center><u>Our Motto</u></center></strong>
 
-'PRAY and WORK'
+<center>'PRAY and WORK'
 
-Our motto comes from the Bible verse, 
-
-“And we pray this in order that you may live a life worthy of the Lord and may please him in every way: bearing fruit in every good work, growing in the knowledge of God”,
-
-Colossians 1:10, NIV
+<br>Our motto comes from the Bible verse, 
+<br>“And we pray this in order that you may live a life worthy of the Lord and may please him in every way: bearing fruit in every good work, growing in the knowledge of God”,
+<br>Colossians 1:10, NIV</center>
 
   
 
