@@ -15,7 +15,7 @@ description: ""
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-dv5t"><br><br><br><br>Name of Organisation:<br>Christ Church Secondary School<br><br><br>Address:<br>20 Woodlands Drive 17<br>Singapore 737924</td>
+    <td class="tg-dv5t"><br><br><br><br><br>Name of Organisation:<br>Christ Church Secondary School<br><br><br>Address:<br>20 Woodlands Drive 17<br>Singapore 737924</td>
     <td class="tg-bx9b">Contact Information<br><br>Name of Contact Person:<br>Administration Manager<br><br>Telephone No:<br>68933297<br><br>Fax No:<br>68392789<br><br>Email Address:<br>ccss@moe.edu.sg<br><br>Website Address:<br>https://christchurchsec.moe.edu.sg/</td>
   </tr>
 </tbody>
