@@ -147,125 +147,87 @@ A Class Committee is set up in every class. This is one of the platforms for the
 
 **1. AIMS AND OBJECTIVES**
 
-To provide students the opportunity to develop their leadership potential
-
-To promote a sense of responsibility among students by encouraging them to serve their classmates as well as the school
-
-To foster class spirit by enabling students to deal with the day-to-day affairs of their class
+* To provide students the opportunity to develop their leadership potential
+* To promote a sense of responsibility among students by encouraging them to serve their classmates as well as the school
+* To foster class spirit by enabling students to deal with the day-to-day affairs of their class
 
 
 **2. DUTIES & RESPONSIBILITIES**
 
 **2.1 CHAIRMAN**
 
-Helps maintain discipline of the class at all times
-<br>Is in charge of the Class Discipline File
-<br>
-Monitors class attendance and student movement
-<br>
-Assists in conveying information from school to his/her classmates
-<br>
-Chairs class meetings, which must be held at least once a term with form teachers
-<br>
-Helps organise class activities to promote class spirit
-<br>
-Ensures that lights and fans are switched off when classroom/facilities are not in use
-
+* Helps maintain discipline of the class at all times
+* Is in charge of the Class Discipline File
+* Monitors class attendance and student movement
+* Assists in conveying information from school to his/her classmates
+* Chairs class meetings, which must be held at least once a term with form teachers
+* Helps organise class activities to promote class spirit
+* Ensures that lights and fans are switched off when classroom/facilities are not in use
  
 
 **2.2 VICE-CHAIRMAN**
 
-Assists the Chairman in all his/her duties
-<br>
-Prepares the class duty roster and ensures the cleanliness of the classroom
-<br>
-Notifies the office if a teacher is absent or relief is not assigned
-<br>
-Keeps records of meetings
-<br>
-Manages class monetary matters and keeps financial records
-
+* Assists the Chairman in all his/her duties
+* Prepares the class duty roster and ensures the cleanliness of the classroom
+* Notifies the office if a teacher is absent or relief is not assigned
+* Keeps records of meetings
+* Manages class monetary matters and keeps financial records
  
 
 **2.3 WELFARE HEAD**
 
-Ensures that Homework Board is updated daily
-<br>
-Rosters teams to decorate the class notice board
-<br>
-Ensures that educational articles are put up for display on the notice board and updated periodically
-<br>
-Reports defective equipment to the office, e.g. faulty fans, light, etc
-<br>
-Organises activities to cater to the overall wellbeing of the class – e.g. birthday cards, thank you card, etc
-<br>
-Assists teachers in carrying out VIA activities
-<br>
-Reports any safety issue to the Form Teacher or Operations Manager
-<br>
-Ensures that health-related articles are put up for display on the health notice board and updated periodically
+* Ensures that Homework Board is updated daily
+* Rosters teams to decorate the class notice board
+* Ensures that educational articles are put up for display on the notice board and updated periodically
+* Reports defective equipment to the office, e.g. faulty fans, light, etc
+* Organises activities to cater to the overall wellbeing of the class – e.g. birthday cards, thank you card, etc
+* Assists teachers in carrying out VIA activities
+* Reports any safety issue to the Form Teacher or Operations Manager
+* Ensures that health-related articles are put up for display on the health notice board and updated periodically
 
  
 
 **2.4 GREEN CHAMPION**
 
-Oversees activities related to environmental matters
-<br>
-Creates green awareness in the class through class or school green activities
-<br>
-Encourages classmates in the recycling effort
-<br>
-Supports school recycling programme on regular basis
-<br>
-Helps and runs the environmental activities in the school
+* Oversees activities related to environmental matters
+* Creates green awareness in the class through class or school green activities
+* Encourages classmates in the recycling efforts
+* Supports school recycling programme on regular basis
+* Helps and runs the environmental activities in the school
 
  
 
 **2.5 ICT REPRESENTATIVE**
 
-Is responsible for collecting and returning all ICT equipment
-<br>
-Assists teacher in setting up class for ICT lesson
-<br>
-Reports the breakdown of the ICT equipment to the ICT Department
-<br>
-Attends training sessions and meetings organised by the ICT Department
+* Is responsible for collecting and returning all ICT equipment
+* Assists teacher in setting up class for ICT lessons
+* Reports the breakdown of the ICT equipment to the ICT Department
+* Attends training sessions and meetings organised by the ICT Department
  
 
 **2.6 SPORTS & SAFETY REPRESENTATIVE**
 
-Assists PE teacher during PE lessons
-<br>
-Is responsible for drawing out and returning equipment for PE lessons
-<br>
-Selects and prepares classmates for inter-class competitions
-<br>
-Assists teacher during emergency evacuation
-<br>
-Champions health and safety in class
-<br>
-Collects and submits safety & health-promoting suggestions to Form Teacher or PE teacher
+* Assists PE teacher during PE lessons
+* Is responsible for drawing out and returning equipment for PE lessons
+* Selects and prepares classmates for inter-class competitions
+* Assists teacher during emergency evacuation
+* Champions health and safety in class
+* Collects and submits safety & health-promoting suggestions to Form Teacher or PE teacher
 
  
 
 **2.7 NATIONAL EDUCATION REPRESENTATIVE**
 
-Supports the Form Teacher in all matters related to National Education,
-<br>
-e.g. Commemorative Days, National Day, VIA, etc
-<br>
-Initiates actions which will help the class to better understand National Education
-<br>
-Ensures that the class noticeboard is decorated with National Education materials
+* Supports the Form Teacher in all matters related to National Education,
+* e.g. Commemorative Days, National Day, VIA, etc
+* Initiates actions which will help the class to better understand National Education
+* Ensures that the class noticeboard is decorated with National Education materials
 
  
 
 **2.8 SUBJECT REPRESENTATIVES (4 positions)**
 
-At least 4 subject representative positions. Each subject representative is responsible for 2 subjects or more if necessary, e.g. Subject Rep, EL & CL, Subject Rep. History & Geography
-<br>
-Collects assignments/exercise books and hands in to the respective subject teachers during recess time
-<br>
-Keeps records of assignments handed in
-<br>
-Informs teachers if classmates fail to hand in assignments
+* At least 4 subject representative positions. Each subject representative is responsible for 2 subjects or more if necessary, e.g. Subject Rep, EL & CL, Subject Rep. History & Geography
+* Collects assignments/exercise books and hands in to the respective subject teachers during recess time
+* Keeps records of assignments handed in
+* Informs teachers if classmates fail to hand in assignments
