@@ -159,17 +159,16 @@ To foster class spirit by enabling students to deal with the day-to-day affairs 
 **2.1 CHAIRMAN**
 
 Helps maintain discipline of the class at all times
-
-Is in charge of the Class Discipline File
-
+<br>Is in charge of the Class Discipline File
+<br>
 Monitors class attendance and student movement
-
+<br>
 Assists in conveying information from school to his/her classmates
-
+<br>
 Chairs class meetings, which must be held at least once a term with form teachers
-
+<br>
 Helps organise class activities to promote class spirit
-
+<br>
 Ensures that lights and fans are switched off when classroom/facilities are not in use
 
  
