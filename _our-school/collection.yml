@@ -2,6 +2,8 @@ collections:
   our-school:
     output: true
     order:
+      - Principal’s Letter to CHRians.md
+      - CHR Vision, Mission & Values.md
       - Motto & Crest.md
       - School Song.md
       - CHR History.md
@@ -14,5 +16,3 @@ collections:
       - Parent's Gateway (PG).md
       - Non Financial Information.md
       - Contact Us.md
-      - Principal’s Letter to CHRians.md
-      - CHR Vision, Mission & Values.md
