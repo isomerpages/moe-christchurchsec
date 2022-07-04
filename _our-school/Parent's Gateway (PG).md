@@ -3,6 +3,8 @@ title: Parent's Gateway (PG)
 permalink: /our-school/parents-gateway-pg
 description: ""
 ---
+# Parent's Gateway (PG)
+
 Christ Church Secondary School (CHR) will be using the PG App (one-stop portal) to strengthen school-home partnership to support our children in their education journey.
 
 ***
