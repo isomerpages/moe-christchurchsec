@@ -1,4 +1,5 @@
 collections:
   our-school:
     output: true
-    order: []
+    order:
+      - Principal’s Letter to CHRians.md
