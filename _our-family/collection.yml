@@ -2,4 +2,4 @@ collections:
   our-family:
     output: true
     order:
-      - Our Partners.md
+      - CHR Partners.md
