@@ -37,3 +37,9 @@ or email us at [ccss@moe.edu.sg](mailto:ccss@moe.edu.sg)
 *   Alight and proceed to Woodlands Temporary Bus Interchange.
 *   Take Bus 901,901M and 900A from Woodlands Temporary Bus Interchange and alight at the 4th bus stop. (opposite ACE The Place - CC.)
 *   For 900A alight at Innova Pri Sch.
+
+
+
+----------
+
+
