@@ -23,7 +23,7 @@ description: ""
 
 Calling all ex-students of Christ Church Secondary School to join the CHR Alumni and be part of the ever growing CHR family.  
   
-<u><strong>Application Procedure</u></strong>
+<u><strong>Application Procedure</strong></u>
 
 Please refer to the table for the types of memberships that you are qualified for and their rights.  
   
