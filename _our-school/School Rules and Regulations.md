@@ -106,14 +106,169 @@ All CHRians are expected to fulfil the 3 Basic Expectations of RAW:
 
 2.8.3 If for any reason a student cannot wear shoes (e.g. blisters, in-grown nail, etc.), the Form Teacher must be informed with the support of a doctor’s recommendation or a parent’s letter.
 
-For Boys
+**For Boys**
 
 2.8.4 White shirts and green pants or shorts must be purchased from the authorized tailor.
 
 2.8.5 **Tapering of pants is strictly not allowed. The pants may be altered to the appropriate length only***
 
-For Girls
+**For Girls**
 
-2.8.6 Brassieres must only be white or beige. _No other colours are acceptable._ Sports brassieres may only be worn during sports training or PE lessons.
+2.8.6 Brassieres must only be white or beige. ***No other colours are acceptable.*** Sports brassieres may only be worn during sports training or PE lessons.
 
 2.8.7 Skirts must be purchased from the authorized tailor. They should be at kneelength, i.e. touching the knee caps.
+
+
+**2.9 Hair**
+
+2.9.1 Hair must be kept neat and tidy at all times.
+
+2.9.2 Fancy hair styling, tinting, dyeing, highlighting and bleaching of hair are strictly not allowed for all students.
+
+**For Boys**
+
+2.9.3 Male students must be neat in appearance and clean-shaven at all times. **No facial hair is allowed.**
+
+2.9.4 Hair must not touch the collar and must be sloped at the sides and rear. No sideburns and ducktails are allowed. The fringe must be above the eyebrows and should not be spiky. Hair when combed down should not touch the eyebrows or/and the ears.
+
+2.9.5 Hair must not be permed.
+
+**For Girls**
+
+2.9.6 Female students must be neat in appearance at all times.
+
+2.9.7 Long hair must be neatly tied up with simple black ribbons, hair bands and/or hair clips. Hair touching the shoulders.
+
+2.9.8 Fringes must be above the eyebrows or pinned with black clips must be neatly tied at all times behind the ears.
+
+<h2><u>Class Committee</u></h2>
+
+A Class Committee is set up in every class. This is one of the platforms for the students to exercise leadership in a safe and nurturing environment.
+
+**1. AIMS AND OBJECTIVES**
+
+To provide students the opportunity to develop their leadership potential
+
+To promote a sense of responsibility among students by encouraging them to serve their classmates as well as the school
+
+To foster class spirit by enabling students to deal with the day-to-day affairs of their class
+
+
+**2. DUTIES & RESPONSIBILITIES**
+
+**2.1 CHAIRMAN**
+
+Helps maintain discipline of the class at all times
+
+Is in charge of the Class Discipline File
+
+Monitors class attendance and student movement
+
+Assists in conveying information from school to his/her classmates
+
+Chairs class meetings, which must be held at least once a term with form teachers
+
+Helps organise class activities to promote class spirit
+
+Ensures that lights and fans are switched off when classroom/facilities are not in use
+
+ 
+
+2.2 VICE-CHAIRMAN
+
+Assists the Chairman in all his/her duties
+
+Prepares the class duty roster and ensures the cleanliness of the classroom
+
+Notifies the office if a teacher is absent or relief is not assigned
+
+Keeps records of meetings
+
+Manages class monetary matters and keeps financial records
+
+ 
+
+2.3 WELFARE HEAD
+
+Ensures that Homework Board is updated daily
+
+Rosters teams to decorate the class notice board
+
+Ensures that educational articles are put up for display on the notice board and updated periodically
+
+Reports defective equipment to the office, e.g. faulty fans, light, etc
+
+Organises activities to cater to the overall wellbeing of the class – e.g. birthday cards, thank you card, etc
+
+Assists teachers in carrying out VIA activities
+
+Reports any safety issue to the Form Teacher or Operations Manager
+
+Ensures that health-related articles are put up for display on the health notice board and updated periodically
+
+ 
+
+2.4 GREEN CHAMPION
+
+Oversees activities related to environmental matters
+
+Creates green awareness in the class through class or school green activities
+
+Encourages classmates in the recycling effort
+
+Supports school recycling programme on regular basis
+
+Helps and runs the environmental activities in the school
+
+ 
+
+2.5 ICT REPRESENTATIVE
+
+Is responsible for collecting and returning all ICT equipment
+
+Assists teacher in setting up class for ICT lesson
+
+Reports the breakdown of the ICT equipment to the ICT Department
+
+Attends training sessions and meetings organised by the ICT Department
+
+ 
+
+2.6 SPORTS & SAFETY REPRESENTATIVE
+
+Assists PE teacher during PE lessons
+
+Is responsible for drawing out and returning equipment for PE lessons
+
+Selects and prepares classmates for inter-class competitions
+
+Assists teacher during emergency evacuation
+
+Champions health and safety in class
+
+Collects and submits safety & health-promoting suggestions to Form Teacher or PE teacher
+
+ 
+
+2.7 NATIONAL EDUCATION REPRESENTATIVE
+
+Supports the Form Teacher in all matters related to National Education,
+
+e.g. Commemorative Days, National Day, VIA, etc
+
+Initiates actions which will help the class to better understand National Education
+
+Ensures that the class noticeboard is decorated with National Education materials
+
+ 
+
+2.8 SUBJECT REPRESENTATIVES (4 positions)
+
+At least 4 subject representative positions. Each subject representative is responsible for 2 subjects or more if necessary, e.g. Subject Rep, EL & CL, Subject Rep. History & Geography
+
+Collects assignments/exercise books and hands in to the respective subject teachers during recess time
+
+Keeps records of assignments handed in
+
+Informs teachers if classmates fail to hand in assignments
+
