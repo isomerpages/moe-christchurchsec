@@ -20,3 +20,20 @@ or email us at [ccss@moe.edu.sg](mailto:ccss@moe.edu.sg)
 -----------------------
 
 
+<center><u>How to get to our school</u></center>
+
+**By MRT:**  
+
+*   From Woodlands MRT, proceed down to Thomson-East Coast Line.
+*   take MRT towards Woodlands South.
+*   Alight at **Woodlands South Station.**
+*   Exit station via Exit number 1.  
+      
+    
+
+**By Bus:**
+
+*   Take a train to Woodlands MRT Station.
+*   Alight and proceed to Woodlands Temporary Bus Interchange.
+*   Take Bus 901,901M and 900A from Woodlands Temporary Bus Interchange and alight at the 4th bus stop. (opposite ACE The Place - CC.)
+*   For 900A alight at Innova Pri Sch.
