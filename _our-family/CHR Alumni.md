@@ -73,9 +73,12 @@ Click over the type of membership you want to apply below to download the applic
 
 <h3> Mustard Seed Fund</h3>
 
-![](/images/MSF%201.png)
-![](/images/msf2.png)
-![](/images/msf3.png)
+<img src="/images/MSF%201.png" 
+     style="width:75%">
+		 <img src="/images/msf2.png" 
+     style="width:75%">
+		 <img src="/images/msf3.png" 
+     style="width:75%">
 
 Please click [here](/files/Alumni2015.pdf) to download the Alumni Mustard SEED Bursary Award application form.   
   
