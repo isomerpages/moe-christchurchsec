@@ -50,22 +50,29 @@ Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for di
 # Important Dates
   
 <a href = "https://www.moe.gov.sg/secondary/dsa" target = "_self"> 
-          <img src="/images/important%20dates%20.png"> 
+          <img src="/images/important%20dates%20.png" 
+     style="width:75%">  
       </a>
 <a href = "https://www.moe.gov.sg/secondary/dsa/application/?pt=Mainstream%20primary%20school" target = "_self"> 
-          <img src="/images/DSA2022_03b.png">
+          <img src="/images/DSA2022_03b.png"
+     style="width:75%">  
 	</a>
 	<a href = "https://go.gov.sg/apply-dsa-sec" target = "_self"> 
-          <img src="/images/DSA2022_03c.png"> 
+          <img src="/images/DSA2022_03c.png"
+     style="width:75%">  
 	</a>
 		<a href = "https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school" target = "_self"> 
-          <img src="/images/DSA2022_03d.png"> 
+          <img src="/images/DSA2022_03d.png"
+     style="width:75%">  
 	</a>
 	<a href = "https://go.gov.sg/apply-dsa-sec-nms" target = "_self"> 
-          <img src="/images/DSA2022_03e.png"> 
+          <img src="/images/DSA2022_03e.png"
+     style="width:75%">  
 	</a>
 	
-![](/images/DSA2022_03f.png)
+<img src="/images/DSA2022_03f.png"
+     style="width:75%">  
+	
 	
 	
 
