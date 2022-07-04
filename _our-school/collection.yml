@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - School Rules and Regulations.md
       - School Timetable.md
       - Weighted Assessment and Examinations Schedule.md
       - Calendar of Events.md
