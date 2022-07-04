@@ -93,3 +93,27 @@ All CHRians are expected to fulfil the 3 Basic Expectations of RAW:
 
 2.7.6 Students are not allowed to go to the lockers during the change of periods. All necessary materials must be taken from the lockers before assembly or during break-times.
 
+
+**PERSONAL GROOMING**
+
+**2.8 School Uniform**
+
+**In General**
+
+2.8.1 Students must wear the prescribed school uniform and any **modification is strictly not allowed except to alter the length of the skirt and pants.**
+
+2.8.2 Students are to wear white school shoes or predominantly white (>95%) track shoes. White socks must be worn and visible at all times.
+
+2.8.3 If for any reason a student cannot wear shoes (e.g. blisters, in-grown nail, etc.), the Form Teacher must be informed with the support of a doctor’s recommendation or a parent’s letter.
+
+For Boys
+
+2.8.4 White shirts and green pants or shorts must be purchased from the authorized tailor.
+
+2.8.5 **Tapering of pants is strictly not allowed. The pants may be altered to the appropriate length only***
+
+For Girls
+
+2.8.6 Brassieres must only be white or beige. _No other colours are acceptable._ Sports brassieres may only be worn during sports training or PE lessons.
+
+2.8.7 Skirts must be purchased from the authorized tailor. They should be at kneelength, i.e. touching the knee caps.
