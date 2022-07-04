@@ -33,21 +33,28 @@ Students admitted to a secondary school through DSA-Sec are not allowed to submi
    </body>
 
 
-**  
-Direct School Admission @ CHR  
+# Direct School Admission @ CHR  
   
-**
 
 Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for direct admission into the school for academic year 2023 in three talent areas: 
 
+ ![](/images/DSA%20content.jpeg)
+ ![](/images/DSA2022.png)
+
+
+# Application Criteria  
   
-![DSA content.JPG](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2020/11May/DSA%20content.JPG)![DSA2022.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022.png)  
-**Application Criteria  
+![](/images/DSA2022_01.png)
+
+
+# Important Dates
   
-**![DSA2022_01.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_01.png)**  
-Important Dates**  
-  
-![DSA2022_03a.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03a.png)![DSA2022_03b.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03b.png)![DSA2022_03c.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03c.png)![DSA2022_03d.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03d.png)![DSA2022_03e.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03e.png)![DSA2022_03f.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03f.png)  
+<a href = "https://www.moe.gov.sg/secondary/dsa" target = "_self"> 
+          <img src="/images/important%20dates%20.png"> 
+      </a>
+
+
+(https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03b.png)![DSA2022_03c.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03c.png)![DSA2022_03d.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03d.png)![DSA2022_03e.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03e.png)![DSA2022_03f.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_03f.png)  
 ![DSA2022_04a.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_04a.png)![DSA2022_05.png](https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/DSA/2022/DSA2022_05.png)  
 
 **Clarification**
