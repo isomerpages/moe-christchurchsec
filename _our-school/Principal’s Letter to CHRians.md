@@ -28,7 +28,7 @@ I’ve also seen many of you in action, in morning assemblies, CHR Speakers (our
 </tbody>
 <tbody>
   <tr>
-    <td class="tg-ktyi" colspan="2"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20school/P%20Message/2022/P%20letter%203.jpg" alt="P letter 3.jpg" width="638" height="473"></td>
+    <td class="tg-ktyi" colspan="2"><img src="/images/P%20letter%203.jpeg" alt="P letter 3.jpg" width="638" height="473"></td>
   </tr>
 </tbody>
 </table>
