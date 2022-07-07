@@ -22,3 +22,6 @@ More information on Full SBB is available at MOE’s website: [https://www.moe.g
 
 <center><strong>This is applicable to Secondary 1 students entering our school in 2022.</strong></center>
 
+![](/images/FSBB%20image%202.png)
+
+For more information on how our school would implement Full SBB, you can contact us at [ccss@moe.edu.sg](mailto:ccss@moe.edu.sg).
