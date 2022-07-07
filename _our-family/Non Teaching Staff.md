@@ -86,7 +86,7 @@ description: ""
   <tr>
     <td class="tg-ii8k"><img src="/images/11.jpg" alt="11.jpg" width="94" height="125"><br><span style="color:#F90">Mdm Quek Joo Huang</span><br>Kitchen Helper</td>
     <td class="tg-grxz"><br><br><br>Mr Choo Han Yang<br><br><span style="color:#222;background-color:#EAEAEA">Desktop Engineer (NCS)</span><br></td>
-    <td class="tg-ii8k"><img src="/images/homa.jpg" alt="homa.jpg" width="102" height="122"><br><a href="mailto:ta2-ccss@ncs.com.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Mr Homanathan</span></a><a href="mailto:ta2-ccss@ncs.com.sg" target="_blank" rel="noopener noreferrer"> </a>A/L<br>Ramasoonthain<br>Desktop Engineer (NCS)</td>
+    <td class="tg-ii8k"><img src="/images/homa.jpg" alt="homa.jpg" width="102" height="122"><br><a href="mailto:ta2-ccss@ncs.com.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Mr Homanathan A/L<br>Ramasoonthain</span></a><a href="mailto:ta2-ccss@ncs.com.sg" target="_blank" rel="noopener noreferrer"> </a><br>Desktop Engineer (NCS)</td>
   </tr>
   <tr>
     <td class="tg-ii8k"><img src="/images/miss%20masita%20jumari.jpeg" alt="miss masita jumari.JPG" width="96" height="126"><br><span style="color:#F90">Mdm Masita Jumari</span><br>Library Assistant </td>
