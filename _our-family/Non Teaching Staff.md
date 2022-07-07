@@ -13,7 +13,12 @@ description: ""
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-grxz{background-color:#EAEAEA;color:#F90;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 664px">
+<colgroup>
+<col style="width: 221px">
+<col style="width: 221px">
+<col style="width: 222px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-n4qt" colspan="3">EAS</th>
