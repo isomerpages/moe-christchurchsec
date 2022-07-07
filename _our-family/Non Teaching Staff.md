@@ -27,7 +27,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-ii8k"><img src="/images/miss%20lena%20chung.jpeg" alt="miss lena chung.JPG" width="95" height="126"><br><a href="mailto:Lena_CHUNG@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Miss Chung Puay Hong, Lena </span></a><br><span style="background-color:#EAEAEA">Administration Manager</span></td>
-    <td class="tg-ii8k"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20family/non-teaching%20staff/EAS/2.jpg" alt="2.jpg" width="91" height="117"><br><a href="mailto:lim_kim_chew@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FF7E00">Mr Lim Kim Chew</span></a><br>Operations Manager</td>
+    <td class="tg-ii8k"><img src="/images/eas%20staff%202.jpg" alt="2.jpg" width="91" height="117"><br><a href="mailto:lim_kim_chew@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FF7E00">Mr Lim Kim Chew</span></a><br>Operations Manager</td>
     <td class="tg-ii8k"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20family/non-teaching%20staff/EAS/2019/IMG_0540.jpg" alt="IMG_0540.jpg" width="94" height="125"><br><a href="mailto:Lee_Jit_Choon@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm </a><a href="mailto:Lee_Jit_Choon@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FF7E00">Lee Jit Choon</span></a><br><span style="color:#222">Corporate Support Officer </span></td>
   </tr>
   <tr>
