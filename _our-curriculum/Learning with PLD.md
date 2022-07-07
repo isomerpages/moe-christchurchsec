@@ -3,7 +3,8 @@ title: Learning with PLD
 permalink: /our-curriculum/learning-with-pld
 description: ""
 ---
-![](/images/DMA2.png)
+<img src="/images/DMA2.png" 
+     style="width:65%">
 
 Your child will be using the PLD for both in-class and out-of-class learning. This will prepare them for a technology-driven world.
 
