@@ -121,8 +121,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ii8k"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20family/non-teaching%20staff/School%20Counsellors/98.%20mdm%20lithya%20do%20rajendran.jpg" alt="98. mdm lithya do rajendran.jpg" width="89" height="112"><br>Mdm Lithya d/o<br>Ranjendran<br><span style="color:#222;background-color:#EAEAEA">School Counsellor</span><br><span style="color:#222;background-color:#EAEAEA">(AED)</span></td>
-    <td class="tg-ii8k"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20family/non-teaching%20staff/School%20Counsellors/Mr%20Toh%20Huat%20Peng%20Benjamin.jpg" alt="Mr Toh Huat Peng Benjamin.jpg" width="92" height="111"><span style="color:#222;background-color:#EAEAEA"># </span><br>Mr Toh Huat<br>Peng, Benjamin<br><span style="color:#222;background-color:#EAEAEA">School Counsellor</span><br><span style="color:#222;background-color:#EAEAEA">(AED)</span></td>
+    <td class="tg-ii8k"><img src="/images/mdm%20lithya%20do%20rajendran.jpg" alt="98. mdm lithya do rajendran.jpg" width="89" height="112"><br>Mdm Lithya d/o<br>Ranjendran<br><span style="color:#222;background-color:#EAEAEA">School Counsellor</span><br><span style="color:#222;background-color:#EAEAEA">(AED)</span></td>
+    <td class="tg-ii8k"><img src="/images/Mr%20Toh%20Huat%20Peng%20Benjamin.jpg" alt="Mr Toh Huat Peng Benjamin.jpg" width="92" height="111"><span style="color:#222;background-color:#EAEAEA"># </span><br>Mr Toh Huat<br>Peng, Benjamin<br><span style="color:#222;background-color:#EAEAEA">School Counsellor</span><br><span style="color:#222;background-color:#EAEAEA">(AED)</span></td>
     <td class="tg-2qia"></td>
   </tr>
 </tbody>
