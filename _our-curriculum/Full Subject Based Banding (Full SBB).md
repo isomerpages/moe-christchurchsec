@@ -14,3 +14,10 @@ With Full SBB, we are moving towards one secondary education, with many subject 
 ![](/images/FSBB%20image.jpeg)
 
 More information on Full SBB is available at MOE’s website: [https://www.moe.gov.sg/microsites/psle-fsbb](https://www.moe.gov.sg/microsites/psle-fsbb)
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/qTew7GF4NLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+**Implementing Full SBB in Christ Church Secondary School**
+<br>Christ Church Secondary School is one of the 33 secondary schools which will implement Full SBB from 2022.  
+
+**This is applicable to Secondary 1 students entering our school in 2022.**
