@@ -10,7 +10,7 @@ Your child will be using the PLD for both in-class and out-of-class learning. Th
 
 Watch the video below to hear what the experience was like for other parents.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6oIAtbruVf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/6oIAtbruVf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Device Management Application (DMA)
 ------------------------
