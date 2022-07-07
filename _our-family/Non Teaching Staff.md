@@ -95,3 +95,35 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-2qia{background-color:#eaeaea;color:#b0b0b0;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 709px">
+<colgroup>
+<col style="width: 236px">
+<col style="width: 236px">
+<col style="width: 237px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-n4qt" colspan="3">School Counsellors</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20family/non-teaching%20staff/School%20Counsellors/98.%20mdm%20lithya%20do%20rajendran.jpg" alt="98. mdm lithya do rajendran.jpg" width="89" height="112"><br>Mdm Lithya d/o<br>Ranjendran<br><span style="color:#222;background-color:#EAEAEA">School Counsellor</span><br><span style="color:#222;background-color:#EAEAEA">(AED)</span></td>
+    <td class="tg-ii8k"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20family/non-teaching%20staff/School%20Counsellors/Mr%20Toh%20Huat%20Peng%20Benjamin.jpg" alt="Mr Toh Huat Peng Benjamin.jpg" width="92" height="111"><span style="color:#222;background-color:#EAEAEA"># </span><br>Mr Toh Huat<br>Peng, Benjamin<br><span style="color:#222;background-color:#EAEAEA">School Counsellor</span><br><span style="color:#222;background-color:#EAEAEA">(AED)</span></td>
+    <td class="tg-2qia"></td>
+  </tr>
+</tbody>
+</table>
