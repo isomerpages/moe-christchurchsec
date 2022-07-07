@@ -2,5 +2,6 @@ collections:
   our-family:
     output: true
     order:
+      - Parent Support Group.md
       - CHR Alumni.md
       - CHR Partners.md
