@@ -36,7 +36,7 @@ description: ""
     <td class="tg-ii8k"><img src="/images/mr%20zainol%20abidin%20b%20ariffin.jpeg" alt="mr zainol abidin b ariffin.JPG" width="93" height="122"><br><a href="mailto:zainol_abidin_ariffin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Mr Zainol Abidin Bin Ariffin </span></a><br>Technical Support Officer (DT)</td>
   </tr>
   <tr>
-    <td class="tg-ii8k"><img src="/images/afiq.jpg" alt="afiq.jpg" width="94" height="116"><br><a href="mailto:muhammad_afiq_hamdan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FF7E00">Mr Muhammad Afiq Bin Hamdan</span></a> <br><br>ICT Associate</td>
+    <td class="tg-ii8k"><img src="/images/afiq.jpg" alt="afiq.jpg" width="94" height="116"><br><a href="mailto:muhammad_afiq_hamdan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FF7E00">Mr Muhammad Afiq Bin Hamdan</span></a> <br>ICT Associate</td>
     <td class="tg-ii8k"><img src="/images/ms%20fiona%20lee%20jih%20yin.jpeg" alt="ms fiona lee jih yin.JPG" width="88" height="115"><br><a href="mailto:fiona_lee_jih_yin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Ms Lee Jih Yi</span></a>, Fiona<br>Technical Support Officer (Lab)</td>
     <td class="tg-grxz"><img src="/images/IMG_0061.jpg" alt="IMG_0061.jpg" width="95" height="126"><br><a href="mailto:chua_jie_xin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Ms Chua Jie Xin</span></a><br>Admin Executive (OE)</td>
   </tr>
