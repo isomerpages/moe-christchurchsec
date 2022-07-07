@@ -51,7 +51,7 @@ description: ""
     <td class="tg-ii8k"><img src="/images/Aminah%20Binte%20Mahmood%20(Mdm).jpg" alt="Aminah Binte Mahmood (Mdm).jpg" width="96" height="127"><br>Mdm Aminah Binte Mahmood (Mdm)<br>Operations Support Officer (Admin)<br></td>
   </tr>
   <tr>
-    <td class="tg-grxz"><span style="color:#F90">Mr Eric Tan</span><br><br>Admin Executive<br>(Operations)<br></td>
+    <td class="tg-grxz"><span style="color:#F90"><br><br><br><br><br>Mr Eric Tan</span><br><br>Admin Executive<br>(Operations)<br></td>
     <td class="tg-ii8k"><img src="/images/Crystal%20Hen%20Gek%20Mun.jpeg" alt="Crystal Hen Gek Mun.jpeg" width="94" height="120"><br>Ms Crystal Hen Gek Mun<br>Admin Executive<br>(Finance)</td>
     <td class="tg-ii8k"></td>
   </tr>
