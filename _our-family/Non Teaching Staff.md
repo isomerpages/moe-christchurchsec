@@ -90,7 +90,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ii8k"><img src="/images/miss%20masita%20jumari.jpeg" alt="miss masita jumari.JPG" width="96" height="126"><br><span style="color:#F90">Mdm Masita Jumari</span><br>Library Assistant </td>
-    <td class="tg-ii8k"><img src="/images/vincent.jpg" alt="vincent.jpg" width="89" height="114"><br><a href="mailto:tang_yam_kwang@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Mr Tang</span></a><a href="mailto:tang_yam_kwang@moe.edu.sg" target="_blank" rel="noopener noreferrer"> </a>Yam Kwang, Vincent<br>Teacher Assistant (Discipline) <span style="color:#222;background-color:#EAEAEA">  </span></td>
+    <td class="tg-ii8k"><img src="/images/vincent.jpg" alt="vincent.jpg" width="89" height="114"><br><a href="mailto:tang_yam_kwang@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Mr Tang Yam Kwang, Vincent</span></a><a href="mailto:tang_yam_kwang@moe.edu.sg" target="_blank" rel="noopener noreferrer"> </a><br>Teacher Assistant (Discipline) <span style="color:#222;background-color:#EAEAEA">  </span></td>
     <td class="tg-ii8k"><img src="/images/mr%20richard%20chee%20chye%20huat.jpeg" alt="mr richard chee chye huat.JPG" width="94" height="124"><br><a href="mailto:chee_chye_huat@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Mr Chee Chye Huat, Richard</span></a><a href="mailto:chee_chye_huat@moe.edu.sg" target="_blank" rel="noopener noreferrer"></a><br>OE Coordinator</td>
   </tr>
 </tbody>
