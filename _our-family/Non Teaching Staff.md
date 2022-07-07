@@ -52,7 +52,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-grxz"><span style="color:#F90">Mr Eric Tan</span><br><br>Admin Executive<br>(Operations)<br></td>
-    <td class="tg-ii8k"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20family/non-teaching%20staff/EAS/2022/Crystal%20Hen%20Gek%20Mun.jpeg" alt="Crystal Hen Gek Mun.jpeg" width="94" height="120"><br>Ms Crystal Hen Gek Mun<br>Admin Executive<br>(Finance)</td>
+    <td class="tg-ii8k"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20family/non-teaching%20staff/EAS/2022/Crystal%20Hen%20Gek%20Mun.jpeg" alt="Crystal Hen Gek Mun.jpeg" width="94" height="120"><br><center>Ms Crystal Hen Gek Mun<br>Admin Executive<br>(Finance)</td>
     <td class="tg-ii8k"></td>
   </tr>
 </tbody>
