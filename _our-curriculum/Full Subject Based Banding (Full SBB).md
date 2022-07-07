@@ -13,4 +13,4 @@ With Full SBB, we are moving towards one secondary education, with many subject 
 
 ![](/images/FSBB%20image.jpeg)
 
-More information on Full SBB is available at MOE’s website:  [https://www.moe.gov.sg/microsites/psle-fsbb](https://www.moe.gov.sg/microsites/psle-fsbb)
+More information on Full SBB is available at MOE’s website: [https://www.moe.gov.sg/microsites/psle-fsbb](https://www.moe.gov.sg/microsites/psle-fsbb)
