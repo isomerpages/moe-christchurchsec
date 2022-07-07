@@ -21,7 +21,7 @@ description: ""
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-n4qt" colspan="3">EAS</th>
+		<th class="tg-n4qt" colspan="3"><center>EAS</center></th>
   </tr>
 </thead>
 <tbody>
