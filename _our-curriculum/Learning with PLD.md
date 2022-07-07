@@ -14,7 +14,9 @@ Watch the video below to hear what the experience was like for other parents.
 Device Management Application (DMA)
 ------------------------
 
-![](/images/DMA.png)
+
+<img src="/images/DMA.png" 
+     style="width:65%">
 
 For in-school use of the PLD, the following DMA settings will be in place as a default:
 
