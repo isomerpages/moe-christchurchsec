@@ -44,3 +44,12 @@ There are three DMA options, each providing parents with different levels of res
 More details on the three DMA options can be found under “**Other Resources**”.
 
 Should you wish to change your child’s / ward’s DMA After-School options, you can submit the request via the link previously sent in PG.
+
+Other Resources
+---------------
+
+| Resource | Attachment |
+| --- | --- |
+| 1\. Parent Handbook (I) on Learning with a PLD | [Click Here](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf) |
+| 2\. Parent Handbook (II) on Learning with a PLD | [Click Here](/files/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)|
+| 3\. DMA Settings After School Hours  | [Click Here](/files/Annex%20A%20-%20DMA%20Settings%20After%20School%20Hours.pdf)  |
