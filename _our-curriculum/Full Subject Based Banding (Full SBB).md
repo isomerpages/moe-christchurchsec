@@ -20,4 +20,5 @@ More information on Full SBB is available at MOE’s website: [https://www.moe.g
 **Implementing Full SBB in Christ Church Secondary School**
 <br>Christ Church Secondary School is one of the 33 secondary schools which will implement Full SBB from 2022.  
 
-**This is applicable to Secondary 1 students entering our school in 2022.**
+<center><strong>This is applicable to Secondary 1 students entering our school in 2022.</strong></center>
+
