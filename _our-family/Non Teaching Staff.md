@@ -48,7 +48,7 @@ description: ""
   <tr>
     <td class="tg-ii8k"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u690/Staff/poh.jpg" alt="poh.jpg" width="93" height="124"><br><br><a href="mailto:poh_aik_teck@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Mr Poh Aik Teck</span></a><a href="mailto:poh_aik_teck@moe.edu.sg" target="_blank" rel="noopener noreferrer"> </a> <br><span style="color:#222;background-color:#EAEAEA">Operations Support Officer   </span></td>
     <td class="tg-ii8k"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20family/non-teaching%20staff/EAS/Sim%20Seng%20Lee.jpg" alt="Sim Seng Lee.jpg" width="93" height="123"><br><br><a href="mailto:sim_seng_lee@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Mr Sim Seng Lee</span></a><br>Operations Support Officer </td>
-    <td class="tg-ii8k"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20family/non-teaching%20staff/EAS/2019/Aminah%20Binte%20Mahmood%20(Mdm).jpg" alt="Aminah Binte Mahmood (Mdm).jpg" width="96" height="127"># <br><br>Mdm Aminah Binte Mahmood (Mdm)<br>Operations Support Officer (Admin)<br></td>
+    <td class="tg-ii8k"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u533/our%20family/non-teaching%20staff/EAS/2019/Aminah%20Binte%20Mahmood%20(Mdm).jpg" alt="Aminah Binte Mahmood (Mdm).jpg" width="96" height="127"><br><br>Mdm Aminah Binte Mahmood (Mdm)<br>Operations Support Officer (Admin)<br></td>
   </tr>
   <tr>
     <td class="tg-grxz"><span style="color:#F90">Mr Eric Tan</span><br><br>Admin Executive<br>(Operations)<br></td>
