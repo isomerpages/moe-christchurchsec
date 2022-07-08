@@ -121,3 +121,21 @@ description: ""
      style="width:10%">
 <center><a href="/files/CHR2016-04.pdf" target="_blank" rel="noopener">CHR Highlights 2016 Issue 04</a></center>
 
+
+<center><h3><u>Year 2015</u></h3></center>
+
+<img src="/images/CHR2015-01.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2015-01.pdf" target="_blank" rel="noopener">CHR Highlights 2015 Issue 01</a></center>
+
+<img src="/images/CHR2015-02.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2015-02.pdf" target="_blank" rel="noopener">CHR Highlights 2015 Issue 02</a></center>
+
+<img src="/images/CHR2015-03.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2015-03.pdf" target="_blank" rel="noopener">CHR Highlights 2015 Issue 03</a></center>
+
+<img src="/images/CHR2015-04.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2015-04.pdf" target="_blank" rel="noopener">CHR Highlights 2015 Issue 04</a></center>
