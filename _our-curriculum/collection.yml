@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic/Mother Tongue.md
       - Academic/.keep
       - Academic Outcomes.md
       - Co Curricular Outcomes/.keep
