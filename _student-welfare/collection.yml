@@ -2,6 +2,7 @@ collections:
   student-welfare:
     output: true
     order:
+      - Civics and Character Education.md
       - Values in Action.md
       - Cyberwellness.md
       - Sexuality Education (GYS).md
