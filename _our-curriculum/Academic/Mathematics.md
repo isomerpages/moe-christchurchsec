@@ -100,3 +100,34 @@ The subjects offered are as follows:
   </tr>
 </tbody>
 </table>
+
+
+**Elementary Mathematics**
+
+This is a core subject that aims to enable students to acquire the necessary mathematical concepts and skills for continuous learning in mathematics and related disciplines, and for applications to the real world.
+
+**Additional Mathematics**
+
+Additional Mathematics is offered as an elective at Secondary 3 and prepares students for A-Level H2 Mathematics, where a strong foundation in algebraic manipulation skills and mathematical reasoning skills are required. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strand, the development of process skills, namely, reasoning, communication and connections, thinking skills and heuristics, and applications and modelling are also emphasised.
+
+**Computer Applications (CPA)**
+
+CPA is a skill-based subject for the Normal Technical from Secondary 1 to Secondary 4 students. It enables the students to learn and use computer technology and to build up their knowledge and skills in computer technology that are current, relevant and applicable at work, in the home and community. Through the study of CPA, it gives the students a sense of mastery and satisfaction from their success when tasks are completed.
+
+**Elements of Business Skills (EBS)**
+
+EBS aims to develop in students the knowledge, skills and attitudes to be productive employees and contributing members of society. This subject provides Secondary 3 and 4 students from the Normal Technical stream with opportunities to develop generic employability skills, values and attitudes and foundational knowledge for work in the services sector, namely in the travel and tourism, hospitality and retail industries.
+
+**Principles of Accounts (POA)**
+
+POA is offered as an elective subject in Secondary 3 and is designed to provide students with a meaningful basic introduction to financial accounting and to develop an appreciation of the discipline of accounting. It is grounded in preparing, communicating and using financial information, and appreciating the need for ethical conduct. Students will acquire knowledge and understanding of fundamental accounting concepts and principles and apply them in different business scenarios.
+
+**Department Highlights:** 
+
+*   Pathways to Reasoning
+*   Mind Your Money (Financial Literacy)
+*   **I**mproving **C**onfidence and **A**chievement in **N**umeracy (ICAN)
+*   Talent Management / Stretch Programmes: Australian Math Competition, All Singapore Secondary Math  
+    
+
+Competition (Normal Stream)
