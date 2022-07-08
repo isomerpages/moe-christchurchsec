@@ -91,88 +91,88 @@ third_nav_title: Co Curricular Outcomes
 
 <h3><u>National Cadets Corps (NCC)</u></h3>
 
-2021
-Unit Recognition – Distinction (6th Consecutive Year)
-Outstanding Cadet Award – Orana Alexandra Denise Manalo (4/1) , Muhammad Nawaaz (4/5)
-NCC120 Challenge (Creative Video Campaign) – 3rd Place
-NCC120 Challenge (TikTok Competition) – 3rd Place
+**2021**
+1. **Unit Recognition** – Distinction (6th Consecutive Year)
+2. **Outstanding Cadet Award** – Orana Alexandra Denise Manalo (4/1) , Muhammad Nawaaz (4/5)
+3. **NCC120 Challenge (Creative Video Campaign)** – 3rd Place
+4. **NCC120 Challenge (TikTok Competition)** – 3rd Place
 
 ----
 
-2020
-Unit Recognition – Distinction (6th Consecutive Year)
-Outstanding Cadet Award – Tan Evzzo (4/2)
-
-----
-
-
-2019
-Unit Recognition – Distinction (5th Consecutive Year)
+**2020**
+1. **Unit Recognition** – Distinction (6th Consecutive Year)
+2. **Outstanding Cadet Award** – Tan Evzzo (4/2)
 
 ----
 
 
-2018
-Best Unit Competition – Gold (4th Consecutive Year)
+**2019**
+1. **Unit Recognition** – Distinction (5th Consecutive Year)
 
 ----
 
-2017
-Best Unit Competition – Gold (3rd Consecutive Year)
-Outstanding Cadet Award – Mohamed Hakim (4/6)
+
+**2018**
+1. **Best Unit Competition** – Gold (4th Consecutive Year)
+
+----
+
+**2017**
+1. **Best Unit Competition** – Gold (3rd Consecutive Year)
+2. **Outstanding Cadet Award** – Mohamed Hakim (4/6)
 
 
 
 <h3><u>National Police Cadets Corps (NPCC)</u></h3>
 
-2021
-Unit Overall Proficiency Award (UOPA) – Gold
-SPF-NPCC Badge –Thangaraj Tharun (4/1) , Kam Jin Ying (4/2)
+**2021**
+1. **Unit Overall Proficiency Award (UOPA)** – Gold
+2. **SPF-NPCC Badge** –Thangaraj Tharun (4/1) , Kam Jin Ying (4/2)
 
 ---- 
 
-2020
-Unit Overall Proficiency Award (UOPA) – Gold
-SPF-NPCC Badge – Malig Luiz Miguel Angeles (4/5) , Syahzani Balqis (4/6)
+**2020**
+1. **Unit Overall Proficiency Award (UOPA)** – Gold
+2. **SPF-NPCC Badge** – Malig Luiz Miguel Angeles (4/5) , Syahzani Balqis (4/6)
 
 ----
 
-2019
-Unit Overall Proficiency Award (UOPA) – Silver
-SPF-NPCC Badge – Sekar Rakesh Kapoor (4/1)
+**2019**
+1. **Unit Overall Proficiency Award (UOPA)** – Silver
+2. **SPF-NPCC Badge** – Sekar Rakesh Kapoor (4/1)
 
 -----
 
-2018
-Unit Overall Proficiency Award (UOPA) – Gold
-SPF-NPCC Badge – Dizon Lyam Adriell Clave (4/2)
-Jurong Division Challenge Shield – Merit Award
+**2018**
+1. **Unit Overall Proficiency Award (UOPA)** – Gold
+2. **SPF-NPCC Badge** – Dizon Lyam Adriell Clave (4/2)
+3. **Jurong Division Challenge Shield** – Merit Award
 
 ----
 
-2017
-Unit Overall Proficiency Award (UOPA) – Silver
-NPCC Challenge Shield – Merit Award
-Jurong Division Young Policing Awards – 2nd Place
+**2017**
+1. **Unit Overall Proficiency Award (UOPA)** – Silver
+2. **NPCC Challenge Shield** – Merit Award
+3. **Jurong Division Young Policing Awards** – 2nd Place
 
 ----
 
 <h3><u>National Civil Defence Cadets Corps (NCDCC)</u></h3>
 
-2021
+**2021**
 Unit Overall Proficiency Award (UOPA) – Gold (2nd Consecutive Year)
 SCDF-NCDCC Badge – Amos Naivaqamu (4/3) , Mohammad Shafie (4/7)
 National Day Parade: Virtual Marching Contingent 
 
 ----
 
-2020
+**2020**
 Unit Overall Proficiency Award (UOPA) – Gold (2nd Consecutive Year)
 SCDF-NCDCC Badge – Akmal Hakim (4/5)
 
 ----
 
-2019
+**2019**
 Unit Overall Proficiency Award (UOPA) – Gold
 SCDF-NCDCC Badge – Nur Irnyza (4/7)
 North Drill Foot Drill Competition – 2nd Place
@@ -180,8 +180,8 @@ Urban Adventure Civil Defence Skills Challenge – 6th Place
 
 ----
 
-2018
-Precision Drill Competition – Top 10
+**2018**
+**Precision Drill Competition** – Top 10
 Unit Overall Proficiency Award (UOPA) – Silver
 NCDCC Games Day: 4x100m Relay (Girls) – 1st Place
 NCDCC Games Day: 4x100m Relay (Boys) – 4th Place
@@ -191,6 +191,6 @@ NFEC-NCDCC Inter Unit Quiz – 6th Place
 
 ----
 
-2017
-Unit Overall Proficiency Award (UOPA) – Bronze 
-SCDF-NCDCC Badge – Dylan Ng Kian En (4/7)
+**2017**
+1. **Unit Overall Proficiency Award (UOPA)** – Bronze 
+2. **SCDF-NCDCC Badge** – Dylan Ng Kian En (4/7)
