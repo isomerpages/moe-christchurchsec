@@ -198,10 +198,11 @@ third_nav_title: Co Curricular Outcomes
 
 <center><h3><u>Uniformed Groups</u></h3></center>
 
-Badminton
+<h3><u>Badminton</u></h3>
 
 **2021**
 
 1.  **North Zone ‘B’ Division Badminton Championships** – Boys 2nd Round
 2.  **National School Games** \- Sportsmanship Award – Hannah Qiting (4/4), Joshua Gan Kai-En (5/2)
 
+----
