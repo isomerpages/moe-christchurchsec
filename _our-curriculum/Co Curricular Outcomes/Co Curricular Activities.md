@@ -336,6 +336,23 @@ third_nav_title: Co Curricular Outcomes
 <h3><u>Outdoor Adventure Club (OAC)</u></h3>
 
 
+**2019**
 
+1.  **G.A.R.an.G Adventure Race: Mixed** – 2nd Place & 3rd Place
+2.  **National Orienteering Race:** ‘C’ Boys – 1st Place
+
+----
+
+**2018**
+
+1.  **G.A.R.an.G Adventure Race:** Girls – 2nd Place
+2.  **G.A.R.an.G Adventure Race:** Boys – 3rd Place
+3.  **G.A.R.an.G Adventure Race:** Mixed – 3rd Place
+
+----
+
+**2017**
+
+1.  **National Orienteering Race: ‘B’ Girls**  3rd Place – Nur Shazrina (3/3) & Christiana (3/3)
 
 
