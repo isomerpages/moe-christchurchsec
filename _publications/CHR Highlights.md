@@ -63,3 +63,22 @@ description: ""
 <img src="/images/CHR2019-04.png" 
      style="width:10%">
 <center>CHR Highlights 2019 Issue 04<br>(FILE EXCEEDS 5MB)</center>
+
+
+<center><h3><u>Year 2018</u></h3></center>
+
+<img src="/images/CHR2018-01.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2019-02.pdf" target="_blank" rel="noopener">CHR Highlights 2018 Issue 01</a></center>
+
+<img src="/images/CHR2018-02.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2018-02.pdf" target="_blank" rel="noopener">CHR Highlights 2018 Issue 02</a></center>
+
+<img src="/images/CHR2018-03.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2018-03.pdf" target="_blank" rel="noopener">CHR Highlights 2018 Issue 03</a></center>
+
+<img src="/images/CHR2018-04.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2018-04.pdf" target="_blank" rel="noopener">CHR Highlights 2018 Issue 04</a></center>
