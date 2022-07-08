@@ -94,4 +94,9 @@ c) Cultivate self-directed and active learning of MTL through ICT-infused Teachi
 		 
 **Sec 3: MTL Cultural Appreciation Programme**
 
+<img src="/images/mtl9.png" 
+     style="width:65%">
+		 
+<img src="/images/mtl10.png" 
+     style="width:65%">
 
