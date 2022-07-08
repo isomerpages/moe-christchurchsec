@@ -111,7 +111,19 @@ c) Cultivate self-directed and active learning of MTL through ICT-infused Teachi
 *   PSG Talk
 
 
-
-
-
-
+<img src="/images/MTL12.jpeg" 
+     style="width:65%">
+		 
+<img src="/images/MTL15.jpeg" 
+     style="width:65%">
+		 
+		 
+<img src="/images/MTL16.jpeg" 
+     style="width:65%">
+		 
+<img src="/images/MTL18.jpeg" 
+     style="width:65%">
+		 
+		 
+<img src="/images/MTL14.jpeg" 
+     style="width:65%">
