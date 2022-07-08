@@ -48,4 +48,7 @@ description: ""
 
 <center><h3><u>Year 2019</u></h3></center>
 
+<img src="/images/CHR2019-01.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2019-01.pdf" target="_blank" rel="noopener">CHR Highlights 2019 Issue 01</a></center>
 
