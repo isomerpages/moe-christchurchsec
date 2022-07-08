@@ -2,7 +2,6 @@ collections:
   student-welfare:
     output: true
     order:
-      - Pupil's Wellbeing and Developmental Discipline.md
       - Civics and Character Education.md
       - Values in Action.md
       - Cyberwellness.md
