@@ -27,12 +27,10 @@ The goals of Sexuality Education are to:
 <p class="tab">(iii) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.  </p>
   
 
-3.         The key messages of Sexuality Education are:
+3.
+The key messages of Sexuality Education are:
 
-            (i) Love and respect yourself as you love and respect others;
-
-            (ii) Build positive relationships based on love and respect (which are the foundation for strong families);
-
-            (iii) Make responsible decisions for yourself, your family and society; and
-
-            (iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies.                          Casual sex can harm and hurt you and your loved ones.
+<p class="tab">(i) Love and respect yourself as you love and respect others;</p>
+<p class="tab">(ii) Build positive relationships based on love and respect (which are the foundation for strong families);</p>
+<p class="tab">(iii) Make responsible decisions for yourself, your family and society; and</p>
+<p class="tab">(iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
