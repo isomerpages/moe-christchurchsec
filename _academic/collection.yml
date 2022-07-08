@@ -1,5 +1,0 @@
-collections:
-  academic:
-    output: true
-    order:
-      - Academic.md
