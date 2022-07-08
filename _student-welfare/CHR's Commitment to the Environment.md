@@ -35,7 +35,7 @@ All Secondary 1 students did an inquiry lesson on the growth of kang kongs using
 
 **II Active Community Involvement In Environmental Related Preparation Activities**
 
-    **Reduce@NW Community Outreach**
+**Reduce@NW Community Outreach**
 		
 ![](/images/chr%20commitment%20to%20environment.png)
 
