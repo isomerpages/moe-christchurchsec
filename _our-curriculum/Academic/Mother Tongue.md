@@ -48,3 +48,35 @@ third_nav_title: Academic
   </tr>
 </tbody>
 </table>
+
+
+**Vision:** Nurturing Active Learners and Proficient Users of their Mother Tongue Languages.  
+
+**About the Department:**
+
+The Mother Tongue Languages (MTL) Department offers Chinese Language, Higher Chinese Language, Malay Language and Tamil Language for studies.
+
+In Christ Church Secondary, learning MTL is beyond textbook knowledge and the four walls of a classroom.  We integrate experiential programmes into the MTL curriculum to make MTL a living language.  A structured 4-year plan is drawn up with specific focus on developing students’ language skills through innovative and fun-filled activities.
+
+**Objectives**
+
+a) Develop students effectively in 4 language skills, namely Aural-oral, Reading, Writing and Thinking Skills through structured MTL teaching.
+
+b) Inculcate appreciation of the Languages and Cultures through enjoyable experiential learning.
+
+c) Cultivate self-directed and active learning of MTL through ICT-infused Teaching and Learning.
+
+**Programmes Highlights** 
+
+**Sec 1: Drama in Education Programme and Conversational Chinese/Malay (CCM)**
+
+<img src="/images/MTL1.png" 
+     style="width:45%">
+
+<img src="/images/MTL2.png" 
+     style="width:45%">
+
+<img src="/images/MTL3.png" 
+     style="width:45%">
+
+
