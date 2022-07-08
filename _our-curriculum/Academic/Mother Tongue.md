@@ -71,11 +71,34 @@ c) Cultivate self-directed and active learning of MTL through ICT-infused Teachi
 **Sec 1: Drama in Education Programme and Conversational Chinese/Malay (CCM)**
 
 <img src="/images/MTL1.png" 
-     style="width:45%">
+     style="width:65%">
 
 <img src="/images/MTL2.jpeg" 
-     style="width:45%">
+     style="width:65%">
 
 <img src="/images/MTL3.jpeg" 
-     style="width:45%">
+     style="width:65%">
+		 
+		 
+**Sec 2: Experiential Learning through Music**
+
+<img src="/images/MTL7.jpeg" 
+     style="width:65%">
+
+<img src="/images/MTL8.jpeg" 
+     style="width:65%">
+		 
+<img src="/images/MTL6.jpeg" 
+     style="width:65%">
+
+
+
+
+
+
+
+
+
+
+
 
