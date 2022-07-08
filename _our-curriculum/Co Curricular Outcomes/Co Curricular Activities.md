@@ -12,12 +12,17 @@ third_nav_title: Co Curricular Outcomes
 <br>**J M Fraser Award** – Gold (14th Consecutive Year) 
 <br>**BB Best Boy Award** – Gabriel Neo Jiawei (4/4)
 <br>**Character Quest** – Gold Honour Roll
-______________________________________________________________________________________
+
+
+----
+
+
 
 **2020**
-J M Fraser Award – Gold (14th Consecutive Year) 
-Founder’s Award – Glen Wong (4/3) , Enoch Cheong Zhi Yi (4/4) , Josiah Ang Boon Kiat (4/4)
-______________________________________________________________________________________
+<br>**J M Fraser Award** – Gold (14th Consecutive Year) 
+<br>**Founder’s Award** – Glen Wong (4/3) , Enoch Cheong Zhi Yi (4/4) , Josiah Ang Boon Kiat (4/4)
+
+-----
 
 2019
 BB Blaze – Silver Honour Roll 
