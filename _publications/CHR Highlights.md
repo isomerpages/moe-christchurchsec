@@ -54,12 +54,12 @@ description: ""
 
 <img src="/images/CHR2019-02-min.jpeg" 
      style="width:10%">
-<center><a href="/files/CHR2019-01.pdf" target="_blank" rel="noopener">CHR Highlights 2019 Issue 01</a></center>
-
-<img src="/images/CHR2019-01.jpeg" 
-     style="width:10%">
 <center><a href="/files/CHR2019-02.pdf" target="_blank" rel="noopener">CHR Highlights 2019 Issue 02</a></center>
 
-<img src="/images/CHR2019-01.jpeg" 
+<img src="/images/CHR2019-03.png" 
      style="width:10%">
-<center><a href="/files/CHR2019-01.pdf" target="_blank" rel="noopener">CHR Highlights 2019 Issue 01</a></center>
+<center>CHR Highlights 2019 Issue 03<br>(FILE EXCEEDS 5MB)</center>
+
+<img src="/images/CHR2019-04.png" 
+     style="width:10%">
+<center>CHR Highlights 2019 Issue 04<br>(FILE EXCEEDS 5MB)</center>
