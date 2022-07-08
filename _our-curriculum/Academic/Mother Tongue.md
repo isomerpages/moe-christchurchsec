@@ -122,7 +122,7 @@ c) Cultivate self-directed and active learning of MTL through ICT-infused Teachi
      style="width:65%">
 		 
 <img src="/images/MTL18.jpeg" 
-     style="width:65%">
+     style="width:45%">
 		 
 		 
 <img src="/images/MTL14.jpeg" 
