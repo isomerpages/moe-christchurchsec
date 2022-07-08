@@ -136,8 +136,11 @@ Areas of Music covered in Secondary 2:
 
 <center><em>Keyboard Course - Students at work</em></center>
 
-![](/images/picture1.png)
+<img src="/images/picture1.png" 
+     style="width:65%">
+
 
 <center><em>Guitar Course - Students at work</em></center>
 
-![](/images/picture2.png)
+<img src="/images/picture2.png" 
+     style="width:65%">
