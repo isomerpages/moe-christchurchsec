@@ -5,10 +5,10 @@ links:
   - title: Our Family
     collection: our-family
   - title: Our Curriculum
-    url: /our-curriculum
-    sublinks: []
-  - title: Our Curriculum
-    collection: our-curriculum
+    url: /our-curriculum/academic
+    sublinks:
+      - title: Academic
+        url: /our-curriculum/academic
   - title: Publications
     url: /publications
   - title: Useful Links
