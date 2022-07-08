@@ -465,3 +465,46 @@ third_nav_title: Co Curricular Outcomes
 1.  **SYF Arts Presentation** – Accomplishment
 
 
+
+<center><h3><u>Clubs and Socieities</u></h3></center>
+
+
+<h3><u>InfoComm Club (ICC)</u></h3>
+
+**2019**
+
+1.  **SAFRA Youth Photographer Youth Challenge** – 2nd Place & 3rd Place
+
+----
+
+**2018**
+
+1.  **Mini Wildlife Photography Competition** – 3rd Place , Merit Award
+2.  **Jurong Division Youth Video Competition** – Top 8
+
+
+----
+
+**2017**
+
+1.  **TwentyFour Motion Picture Competition** – 2nd Place , Most Creative Award
+
+
+----
+
+<h3><u>Community Service Club (CSC)</u></h3>
+
+
+**2019**
+
+1.  **My Mini Eden Terrarium Competition:** **Schools Category** – Top 6
+2.  **SEC Recycling Bin Design Contest** – Top 5
+
+----
+
+**2017**
+
+1.  **Ngee Ann Poly Marigold Competition** – 3rd Place , Merit Award
+
+
+
