@@ -12,7 +12,7 @@ description: ""
 
 <center><h3><u>Year 2021</u></h3></center>
 
-<center>(image for 2021 issue 1 missing)<br>(File exceeds 5 MB)</center>
+<center>(image for 2021 issue 1 missing)<br><br>CHR Highlights 2019 Issue 04<br>(FILE EXCEEDS 5MB)</center>
 
 <img src="/images/CHR%20Highlights%20Issue%202%202021%20FINAL_Page_1.jpeg" 
      style="width:10%">
