@@ -128,3 +128,15 @@ POA is offered as an elective subject in Secondary 3 and is designed to provide 
 *   Mind Your Money (Financial Literacy)
 *   **I**mproving **C**onfidence and **A**chievement in **N**umeracy (ICAN)
 *   Talent Management / Stretch Programmes: Australian Math Competition, All Singapore Secondary Math Competition (Normal Stream)
+
+
+<img src="/images/mym.png" 
+     style="width:65%">
+
+
+<center>Mind Your Money: Students learning financial literacy through a board game</center>
+
+<img src="/images/m3.png" 
+     style="width:65%">
+
+<center>ICAN lesson: Students using mini-whiteboards during a quiz</center>
