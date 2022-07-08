@@ -132,3 +132,12 @@ Areas of Music covered in Secondary 2:
 *   5 basic chords (C, G, F, Am, Em)
 *   Simple playing styles
 *   Sing and play simple pop songs
+
+
+<center><em>Keyboard Course - Students at work</em></center>
+
+![](/images/picture1.png)
+
+<center><em>Guitar Course - Students at work</em></center>
+
+![](/images/picture2.png)
