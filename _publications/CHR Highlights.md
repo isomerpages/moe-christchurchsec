@@ -120,3 +120,4 @@ description: ""
 <img src="/images/CHR2016-04.jpeg" 
      style="width:10%">
 <center><a href="/files/CHR2016-04.pdf" target="_blank" rel="noopener">CHR Highlights 2016 Issue 04</a></center>
+
