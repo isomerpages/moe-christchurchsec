@@ -4,7 +4,6 @@ permalink: /our-curriculum/Co-Curricular-Outcomes/co-curricular-activities
 description: ""
 third_nav_title: Co Curricular Outcomes
 ---
-
 <center><h3><u>Uniformed Groups</u></h3></center>
 
 <h3><u>Boys’ Brigade (BB)</u></h3>
@@ -491,7 +490,7 @@ third_nav_title: Co Curricular Outcomes
 1.  **TwentyFour Motion Picture Competition** – 2nd Place , Most Creative Award
 
 
-----
+
 
 <h3><u>Community Service Club (CSC)</u></h3>
 
