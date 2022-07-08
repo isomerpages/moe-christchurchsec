@@ -24,13 +24,13 @@ third_nav_title: Co Curricular Outcomes
 
 -----
 
-2019
-BB Blaze – Silver Honour Roll 
-J M Fraser Award – Gold (13th Consecutive Year)
-Character Quest – Gold Honour Roll
-Founder’s Award – Bacay Vohn Gabriel Bulotano (4/2) , Lionel Lim Jin Rong (4/2) ,
-                                 Poh Shao Zhe Ean (4/4), Xavier Ang Yan Jun (4/4) , Yee Chee Kiat (4/4)
-______________________________________________________________________________________
+**2019**
+<br>**BB Blaze** – Silver Honour Roll 
+<br>**J M Fraser Award** – Gold (13th Consecutive Year)
+<br>**Character Quest** – Gold Honour Roll
+<br>**Founder’s Award** – Bacay Vohn Gabriel Bulotano (4/2) , Lionel Lim Jin Rong (4/2) , Poh Shao Zhe Ean (4/4), Xavier Ang Yan Jun (4/4) , Yee Chee Kiat (4/4)
+
+----
 
 2018
 BB Blaze – Gold Honour Roll
