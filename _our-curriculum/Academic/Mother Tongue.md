@@ -73,10 +73,9 @@ c) Cultivate self-directed and active learning of MTL through ICT-infused Teachi
 <img src="/images/MTL1.png" 
      style="width:45%">
 
-<img src="/images/MTL2.png" 
+<img src="/images/MTL2.jpeg" 
      style="width:45%">
 
-<img src="/images/MTL3.png" 
+<img src="/images/MTL3.jpeg" 
      style="width:45%">
-
 
