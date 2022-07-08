@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Outcomes
 ---
 <center><u><h3>Uniformed Groups</h3></u></center>
 
-<h3>Boys’ Brigade (BB)</h3>
+<h3><u>Boys’ Brigade (BB)</u></h3>
 
 **2021**
 1. **J M Fraser Award** – Gold (14th Consecutive Year) 
@@ -56,7 +56,7 @@ third_nav_title: Co Curricular Outcomes
 
 ----
 
-<h3>Girls’ Brigade (GB)</h3>
+<h3><u>Girls’ Brigade (GB)</u></h3>
 
 2021
 Company Award – Gold (9th Consecutive Year)
