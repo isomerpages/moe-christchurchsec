@@ -196,7 +196,8 @@ third_nav_title: Co Curricular Outcomes
 2. **SCDF-NCDCC Badge** – Dylan Ng Kian En (4/7)
 
 
-<center><h3><u>Uniformed Groups</u></h3></center>
+
+<center><h3><u>Sports</u></h3></center>
 
 <h3><u>Badminton</u></h3>
 
@@ -206,3 +207,17 @@ third_nav_title: Co Curricular Outcomes
 2.  **National School Games** \- Sportsmanship Award – Hannah Qiting (4/4), Joshua Gan Kai-En (5/2)
 
 ----
+
+**2019**
+
+1.  **North Zone ‘B’ Division Badminton Championships** – Girls 2nd Round
+2.  **North Zone ‘B’ Division Badminton Championships** – Boys 2nd Round
+
+
+----
+
+<h3><u>Basketball</u></h3>
+
+**2020**
+ 
+1. **Represented Singapore in FIBA U17 Skills Challenge (Asian Qualifiers)** – Ang Wenyi (4/6) , Mah Jun Hao (4/7)
