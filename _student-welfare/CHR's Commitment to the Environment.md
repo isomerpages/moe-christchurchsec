@@ -15,9 +15,12 @@ All Secondary 2 students went to Lower Seletar Reservoir to learn about Singapor
 
 
 ![](/images/Collecting%20Water.jpeg)
-<centeR>Secondary 2 students collecting water</center>
+
+<center>Secondary 2 students collecting water</center>
+
 
 ![](/images/Water%20Filter.jpeg)
+
 <center>A Water Filter Made by a Secondary 2 student</center>
 
 
@@ -33,3 +36,5 @@ All Secondary 1 students did an inquiry lesson on the growth of kang kongs using
 **II Active Community Involvement In Environmental Related Preparation Activities**
 
     **Reduce@NW Community Outreach**
+		
+![](/images/chr%20commitment%20to%20environment.png)
