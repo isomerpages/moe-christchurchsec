@@ -38,3 +38,5 @@ All Secondary 1 students did an inquiry lesson on the growth of kang kongs using
     **Reduce@NW Community Outreach**
 		
 ![](/images/chr%20commitment%20to%20environment.png)
+
+<center>Members of the Green Club and OAC promoting Green Living during Door Visits with Residents of Admiralty.</center>
