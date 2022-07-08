@@ -87,7 +87,7 @@ third_nav_title: Co Curricular Outcomes
 1. **Company Award** – Gold (6th Consecutive Year)
 2. **Dr Low Guat Tin Challenge** – 2x Gold Award, 3x Silver Award
 
------
+
 
 <h3><u>National Cadets Corps (NCC)</u></h3>
 
@@ -155,7 +155,7 @@ third_nav_title: Co Curricular Outcomes
 2. **NPCC Challenge Shield** – Merit Award
 3. **Jurong Division Young Policing Awards** – 2nd Place
 
-----
+
 
 <h3><u>National Civil Defence Cadets Corps (NCDCC)</u></h3>
 
