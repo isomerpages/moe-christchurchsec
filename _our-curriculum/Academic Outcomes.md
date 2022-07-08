@@ -3,7 +3,7 @@ title: Academic Outcomes
 permalink: /our-curriculum/academic-outcomes
 description: ""
 ---
-**July 2020**
+<strong><u>July 2020</strong></u>
 
 **Congratulations to our Ex-CHRians for doing well in the Ngee Ann Polytechnic. CHR is proud of you :)**
 
@@ -44,3 +44,43 @@ They have graduated from Ngee Ann Polytechnic (NP) this year with the following 
   </tr>
 </tbody>
 </table>
+
+
+
+<strong><u>May 2020</u></strong>  
+  
+**Congratulations to our Ex-CHRians for doing well in the Republic Polytechnic. CHR is proud of you :)**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Name:</th>
+    <th class="tg-a4yv">Diploma name and Award(s)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">SIEW TING FUNG</td>
+    <td class="tg-7yig">Diploma in Sports and Leisure Management with Merit and Diploma Plus Certificate in International Business<br>Fishlike Gold Medal Award<br>Module Prizes</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">DARIN KRIS LOBO</td>
+    <td class="tg-7yig">Diploma in Biomedical Sciences with Merit</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">NIEW HONG CHENG AARON</td>
+    <td class="tg-7yig">Diploma in Hotel and Hospitality Management with Merit</td>
+  </tr>
+</tbody>
+</table>
+
+
