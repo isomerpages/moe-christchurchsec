@@ -22,3 +22,26 @@ The school’s approach towards discipline is for every pupil to acquire self-di
 All CHRians are expected to fulfil the 3 Basic Expectations:  
 
 <table class="ives_tab_kosong ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed; color: rgb(0, 0, 0); font-family: Arial; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 300px;">Respect People and Property</td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">Pupils are to be respectful in attitude and manner to people and property.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">Attend School Regularly</td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">Pupils are to attend all academic programmes, co-curricular activities, school functions and other school-related programmes.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">Do and Submit Work</td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">Pupils are to work diligently not only on assigned daily class work, homework, projects and others but also have regular self-revision.</td></tr></tbody></table>
+
+
+![](/images/cce.png)
+
+
+**AT A GLANCE**  
+  
+**PUPIL WELL-BEING & DEVELOPMENTAL DISCIPLINE (PWDD)**  
+
+*   Character & Citizen Development (CCD)
+*   School Family Education (SFE)
+*   Parent Support Group (PSG)
+*   Time-Out Programme (TOP)
+*   Lifeskills/ Education Career Guidance (ECG)
+*   Care Management Programme (CMP)
+
+**COMPETENCIES FOR THE 21st CENTURY SKILLS**  
+
+*   I am a **Confident** person.
+*   I am an **Active Contributor** .
+*   I am a **Concerned Citizen** .
+*   I am a **Self-Directed Learner.**
+
