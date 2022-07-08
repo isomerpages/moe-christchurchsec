@@ -90,3 +90,8 @@ third_nav_title: Academic
      style="width:75%">
 <img src="/images/science 2.jpeg" 
      style="width:75%">
+
+
+<strong><u>Stretch Programme for Students</u></strong> 
+* North Zone Elementz Science Research & Singapore Youth Science Festival  
+* **ignITE Science** \- Inter-school competition for Normal Academic and Normal Technical Students
