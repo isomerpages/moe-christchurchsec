@@ -82,3 +82,22 @@ description: ""
 <img src="/images/CHR2018-04.jpeg" 
      style="width:10%">
 <center><a href="/files/CHR2018-04.pdf" target="_blank" rel="noopener">CHR Highlights 2018 Issue 04</a></center>
+
+
+<center><h3><u>Year 2017</u></h3></center>
+
+<img src="/images/CHR2017-01.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2017-01.pdf" target="_blank" rel="noopener">CHR Highlights 2017 Issue 01</a></center>
+
+<img src="/images/CHR2017-02.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2017-02.pdf" target="_blank" rel="noopener">CHR Highlights 2017 Issue 02</a></center>
+
+<img src="/images/CHR2017-03.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2017-03.pdf" target="_blank" rel="noopener">CHR Highlights 2017 Issue 03</a></center>
+
+<img src="/images/CHR2017-04.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2017-04.pdf" target="_blank" rel="noopener">CHR Highlights 2017 Issue 04</a></center>
