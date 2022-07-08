@@ -2,6 +2,7 @@ collections:
   student-welfare:
     output: true
     order:
+      - Cyberwellness.md
       - Sexuality Education (GYS).md
       - CHR's Commitment to the Environment.md
       - Pupil's Wellbeing and Developmental Discipline.md
