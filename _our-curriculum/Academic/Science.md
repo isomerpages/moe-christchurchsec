@@ -81,3 +81,6 @@ third_nav_title: Academic
 **Highlight of Science Department Programmes** 
 
 * <strong><u>Inquiry-Based Learning to curiosity and awareness</u></strong>
+
+![](/images/sc1.jpeg)
+![](/images/sc2.jpeg)
