@@ -310,20 +310,15 @@ third_nav_title: Co Curricular Outcomes
 2.  **National School Games**: SSSC Colours Award – Chia Kai Ming
 
 
+----
 
+**2020**  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1.  **Wushu Stars Championships (Online): Chia Kai Ming (2/1)**
+<br>Champion (3rd International/Freestyle Gunshu)  
+    1st Runner-up (3rd International/Freestyle Changquan)  
+    2nd Runner-up (3rd International/Freestyle Daoshu)
+		
+		
+		
+		
