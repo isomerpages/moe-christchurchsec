@@ -62,3 +62,22 @@ third_nav_title: Academic
   </tr>
 </tbody>
 </table>
+
+
+**Science Department Vision** 
+
+ A community of confident and self-directed learners with a strong passion in Science.
+
+**Science Department Mission**
+
+ To develop students’ interest in learning Science in a conducive learner-centred environment. 
+
+ **Department Objectives**
+
+* To provide an authentic environment for inquiry-based and self-directed learning.
+* To instill curiosity, awareness for Science and collaboration amongst the learners.
+* To equip the learner with skills and knowledge to meet the challenges of the 21st century. 
+
+**Highlight of Science Department Programmes** 
+
+* <strong>Inquiry-Based Learning to curiosity and awareness</strong>
