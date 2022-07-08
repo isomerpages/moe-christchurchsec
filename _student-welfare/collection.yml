@@ -1,5 +1,4 @@
 collections:
   student-welfare:
     output: true
-    order:
-      - CHR's Commitment to the Environment.md
+    order: []
