@@ -131,7 +131,7 @@ POA is offered as an elective subject in Secondary 3 and is designed to provide 
 
 
 <img src="/images/mym.png" 
-     style="width:65%">
+     style="width:85%">
 
 
 <center>Mind Your Money: Students learning financial literacy through a board game</center>
