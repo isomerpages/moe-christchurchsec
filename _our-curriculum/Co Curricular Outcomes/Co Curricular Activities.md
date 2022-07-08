@@ -160,34 +160,34 @@ third_nav_title: Co Curricular Outcomes
 <h3><u>National Civil Defence Cadets Corps (NCDCC)</u></h3>
 
 **2021**
-Unit Overall Proficiency Award (UOPA) – Gold (2nd Consecutive Year)
-SCDF-NCDCC Badge – Amos Naivaqamu (4/3) , Mohammad Shafie (4/7)
-National Day Parade: Virtual Marching Contingent 
+1. **Unit Overall Proficiency Award (UOPA)** – Gold (2nd Consecutive Year)
+2. **SCDF-NCDCC Badge** – Amos Naivaqamu (4/3) , Mohammad Shafie (4/7)
+3. **National Day Parade: Virtual Marching Contingent** 
 
 ----
 
 **2020**
-Unit Overall Proficiency Award (UOPA) – Gold (2nd Consecutive Year)
-SCDF-NCDCC Badge – Akmal Hakim (4/5)
+1. **Unit Overall Proficiency Award (UOPA)** – Gold (2nd Consecutive Year)
+2. **SCDF-NCDCC Badge** – Akmal Hakim (4/5)
 
 ----
 
 **2019**
-Unit Overall Proficiency Award (UOPA) – Gold
-SCDF-NCDCC Badge – Nur Irnyza (4/7)
-North Drill Foot Drill Competition – 2nd Place
-Urban Adventure Civil Defence Skills Challenge – 6th Place
+1. **Unit Overall Proficiency Award (UOPA)** – Gold
+2. **SCDF-NCDCC Badge** – Nur Irnyza (4/7)
+3. **North Drill Foot Drill Competition** – 2nd Place
+4. **Urban Adventure Civil Defence Skills Challenge** – 6th Place
 
 ----
 
 **2018**
-**Precision Drill Competition** – Top 10
-Unit Overall Proficiency Award (UOPA) – Silver
-NCDCC Games Day: 4x100m Relay (Girls) – 1st Place
-NCDCC Games Day: 4x100m Relay (Boys) – 4th Place
-NCDCC Games Day: 4x20m Cunny Sack Relay – 3rd Place
-SCDF-NCDCC Badge – Fareiz Azzeil (4/7)
-NFEC-NCDCC Inter Unit Quiz – 6th Place
+1. **Precision Drill Competition** – Top 10
+2. **Unit Overall Proficiency Award (UOPA)** – Silver
+3. **NCDCC Games Day: 4x100m Relay (Girls)** – 1st Place
+4. **NCDCC Games Day: 4x100m Relay (Boys)** – 4th Place
+5. **NCDCC Games Day: 4x20m Cunny Sack Relay** – 3rd Place
+6. **SCDF-NCDCC Badge** – Fareiz Azzeil (4/7)
+7. **NFEC-NCDCC Inter Unit Quiz** – 6th Place
 
 ----
 
