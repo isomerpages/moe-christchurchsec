@@ -139,3 +139,21 @@ description: ""
 <img src="/images/CHR2015-04.jpeg" 
      style="width:10%">
 <center><a href="/files/CHR2015-04.pdf" target="_blank" rel="noopener">CHR Highlights 2015 Issue 04</a></center>
+
+
+<center><h3><u>Year 2015</u></h3></center>
+
+<img src="/images/CHR2014-01.jpeg" 
+     style="width:10%">
+<center>CHR Highlights 2014 Issue 01<br>(LINK BROKEN)</center>
+
+<img src="/images/CHR2014-02.jpeg" 
+     style="width:10%">
+<center>CHR Highlights 2014 Issue 02<br>(LINK BROKEN)</center>
+
+<img src="/images/CHR2014-03.jpeg" 
+     style="width:10%">
+<center>CHR Highlights 2014 Issue 03<br>(LINK BROKEN)</center>
+
+
+
