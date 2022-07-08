@@ -5,16 +5,7 @@ links:
   - title: Our Family
     collection: our-family
   - title: Our Curriculum
-    url: /academic/academic
-    sublinks:
-      - title: Academic
-        url: /academic/academic
-      - title: Student Welfare
-        url: /our-curriculum/Student-Welfare/pupils-wellbeing-and-developmental-discipline
-      - title: Full Subject-Based Banding
-        url: /our-curriculum/full-subject-based-banding
-      - title: Learning with PLD
-        url: /our-curriculum/learning-with-pld
+    collection: our-curriculum
   - title: Publications
     url: /publications
   - title: Useful Links
