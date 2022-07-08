@@ -2,7 +2,6 @@ collections:
   student-welfare:
     output: true
     order:
-      - Values in Action.md
       - Cyberwellness.md
       - Sexuality Education (GYS).md
       - CHR's Commitment to the Environment.md
