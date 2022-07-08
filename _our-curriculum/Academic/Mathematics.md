@@ -127,7 +127,4 @@ POA is offered as an elective subject in Secondary 3 and is designed to provide 
 *   Pathways to Reasoning
 *   Mind Your Money (Financial Literacy)
 *   **I**mproving **C**onfidence and **A**chievement in **N**umeracy (ICAN)
-*   Talent Management / Stretch Programmes: Australian Math Competition, All Singapore Secondary Math  
-    
-
-Competition (Normal Stream)
+*   Talent Management / Stretch Programmes: Australian Math Competition, All Singapore Secondary Math Competition (Normal Stream)
