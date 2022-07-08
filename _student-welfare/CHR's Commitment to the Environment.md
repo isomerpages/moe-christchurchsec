@@ -21,6 +21,15 @@ All Secondary 2 students went to Lower Seletar Reservoir to learn about Singapor
 <center>A Water Filter Made by a Secondary 2 student</center>
 
 
+
  **B Kang Kong Project**
 
 All Secondary 1 students did an inquiry lesson on the growth of kang kongs using recycled PET bottles.
+
+![](/images/1-KangKong%20in%20PET%20Bottles.jpeg)
+
+<center>The recycled PET bottles the Secondary 1 students used to grow kang kongs</center>
+
+**II Active Community Involvement In Environmental Related Preparation Activities**
+
+    **Reduce@NW Community Outreach**
