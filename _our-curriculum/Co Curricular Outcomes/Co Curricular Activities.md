@@ -319,6 +319,23 @@ third_nav_title: Co Curricular Outcomes
     1st Runner-up (3rd International/Freestyle Changquan)  
     2nd Runner-up (3rd International/Freestyle Daoshu)
 		
-		
-		
-		
+
+----
+
+**2019**
+
+1.  **National Wushu Championships: ‘B’ Girls 1st International Nan Gun** – Eunice Tan (4/5) –1st Place
+
+----
+
+**2017**
+
+1.  **Wushu National C Division: ‘C’ Girls Nanquan** – Eunice Tan (2/5) – 4th Place
+
+
+<h3><u>Outdoor Adventure Club (OAC)</u></h3>
+
+
+
+
+
