@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - TEST Student Welfare/Sexuality Education (GYS).md
       - TEST Student Welfare/CHR's Commitment to the Environment.md
       - TEST Student Welfare/Cyberwellness.md
       - TEST Student Welfare/Values in Action.md
