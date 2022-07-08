@@ -5,6 +5,9 @@ links:
   - title: Our Family
     collection: our-family
   - title: Our Curriculum
+    url: /our-curriculum
+    sublinks: []
+  - title: Our Curriculum
     collection: our-curriculum
   - title: Publications
     url: /publications
