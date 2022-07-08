@@ -82,8 +82,8 @@ Aesthetics, Craft & Technology Department (ACT) consists of 4 subjects – Art, 
 2.  Skill-based training
 3.  Design Experience
 
-**Food & Nutritions****  
-Lower Secondary**
+**Food & Nutritions**   
+**Lower Secondary**
 
 1.  To develop students' knowledge in the area of healthy eating and importance of maintaining a balanced diet.
 2.  How to plan balanced and healthy meals for people of different age groups through the use of nutritional tools and healthy cooking methods.
