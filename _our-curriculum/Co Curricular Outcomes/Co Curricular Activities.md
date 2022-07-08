@@ -41,19 +41,22 @@ third_nav_title: Co Curricular Outcomes
 6. **Character Quest** – 6th Place , Gold Honour Roll
 7. **15th Pipes & Drums Festival**: BagPipes Senior – Alvin Vishanth (4/1) – 2nd & 3rd Place
 8. **15th Pipes & Drums Festival**: Tenor Drums Junior – Gabriel Neo (1/2) – 3rd Place
-______________________________________________________________________________________
 
-2017
-J M Fraser Award – Gold (11th Consecutive Year)
-BB Blaze – Gold Honour Roll
-BB Best Boy Award – Yung Caleb (4/4)
-Founder’s Award – Justin Kong (4/2) , Yung Caleb (4/4) , Yung Gerald (4/4) , Yogeeswaran (4/4)
-Character Quest – 5th Place , Gold Honour Roll
-14th Pipes & Drums Festival: Pipes Junior – Bacay Vohn Gabriel (2/4) – 5th Place
-14th Pipes & Drums Festival: Pipes Senior – Alvin Vishanth (3/1) – 2nd Place
-14th Pipes & Drums Festival: Snare Junior – Janan Rajash (1/5) – 3rd Place
-______________________________________________________________________________________
-Girls’ Brigade (GB)
+----
+
+**2017**
+1. **J M Fraser Award** – Gold (11th Consecutive Year)
+2. **BB Blaze** – Gold Honour Roll
+3. **BB Best Boy Award** – Yung Caleb (4/4)
+4. **Founder’s Award** – Justin Kong (4/2) , Yung Caleb (4/4) , Yung Gerald (4/4) , Yogeeswaran (4/4)
+5. **Character Quest** – 5th Place , Gold Honour Roll
+6. **14th Pipes & Drums Festival**: Pipes Junior – Bacay Vohn Gabriel (2/4) – 5th Place
+7. **14th Pipes & Drums Festival**: Pipes Senior – Alvin Vishanth (3/1) – 2nd Place
+8. **14th Pipes & Drums Festival**: Snare Junior – Janan Rajash (1/5) – 3rd Place
+
+----
+
+<h3>Girls’ Brigade (GB)</h3>
 
 2021
 Company Award – Gold (9th Consecutive Year)
