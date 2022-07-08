@@ -356,3 +356,102 @@ third_nav_title: Co Curricular Outcomes
 1.  **National Orienteering Race: ‘B’ Girls**  3rd Place – Nur Shazrina (3/3) & Christiana (3/3)
 
 
+
+<center><h3><u>Performing Arts</u></h3></center>
+
+
+<h3><u>Choir</u></h3>
+
+**2021**  
+
+1.  **SYF Arts Presentation**
+
+
+---
+
+**2019**  
+
+1.  **SYF Arts Presentation** – Distinction
+
+
+----
+
+**2017**  
+
+1.  **SYF Arts Presentation** – Accomplishment
+
+
+
+<h3><u>Dance - Modern</u></h3>
+
+**2021**  
+
+1.  **SYF Arts Presentation** – Accomplishment
+
+-----
+
+**2019**  
+
+1.  **SYF Arts Presentation** – Accomplishment
+
+
+----
+
+**2017**  
+
+1.  **SYF Arts Presentation** – Accomplishment
+
+
+<h3><u>Drama English</u></h3>
+
+**2021**  
+
+1.  **SYF Arts Presentation** – Distinction
+
+----
+
+**2019**  
+
+1.  **SYF Arts Presentation** – Accomplishment
+
+
+----
+
+**2017**  
+
+1.  **SYF Arts Presentation** – Accomplishment
+
+
+<h3><u>Chinese Orchestra</u></h3>
+
+**2021**  
+
+1.  **SYF Arts Presentation** – Accomplishment
+
+----
+
+**2019**  
+
+1.  **SYF Arts Presentation** – Accomplishment
+
+
+----
+
+**2017**  
+
+1.  **SYF Arts Presentation** – Accomplishment
+
+
+
+<h3><u>Concert Band</u></h3>
+
+
+
+
+
+
+
+
+
+
+
