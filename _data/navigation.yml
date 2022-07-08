@@ -5,10 +5,10 @@ links:
   - title: Our Family
     collection: our-family
   - title: Our Curriculum
-    url: /our-curriculum/academic
+    url: /academic/academic
     sublinks:
       - title: Academic
-        url: /our-curriculum/academic
+        url: /academic/academic
       - title: Learning with PLD
         url: /our-curriculum/learning-with-pld
       - title: Student Welfare
