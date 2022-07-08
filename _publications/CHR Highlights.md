@@ -25,3 +25,13 @@ description: ""
 <img src="/images/CHR%20Highlights%20Issue%204%20FINAL%20Cover.jpeg" 
      style="width:10%">
 <center><a href="/files/CHR%20Highlights%20Issue%204%20FINAL.pdf" target="_blank" rel="noopener">CHR Highlights 2021 Issue 04</a></center>
+
+
+<center><strong><u>Year 2022</u></strong></center>
+
+<img src="/images/chr20201.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR%20Highlights%20Issue%201%202020.pdf" target="_blank" rel="noopener">CHR Highlights 2021 Issue 01</a></center>
+
+
+
