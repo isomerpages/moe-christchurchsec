@@ -82,5 +82,11 @@ third_nav_title: Academic
 
 * <strong><u>Inquiry-Based Learning to curiosity and awareness</u></strong>
 
-![](/images/sc1.jpeg)
-![](/images/sc2.jpeg)
+<img src="/images/sc1.jpeg" 
+     style="width:75%">
+<img src="/images/sc2.jpeg" 
+     style="width:75%">
+<img src="/images/science 1.jpeg" 
+     style="width:75%">
+<img src="/images/science 2.jpeg" 
+     style="width:75%">
