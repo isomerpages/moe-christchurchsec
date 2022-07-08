@@ -204,9 +204,3 @@ description: ""
 <img src="/images/CHR2013-07.jpeg" 
      style="width:10%">
 <center>CHR Highlights 2013 Issue 07<br>(LINK BROKEN)</center>
-
-
-
-
-
-
