@@ -99,4 +99,14 @@ c) Cultivate self-directed and active learning of MTL through ICT-infused Teachi
 		 
 <img src="/images/mtl10.png" 
      style="width:65%">
+		 
+		 
+**Sec 4&5: Structured Intensive Learning Programme**  
+  
+**Others:**  
+
+*   Festival Celebration
+*   Reading Programme
+*   Stretch Programme
+*   PSG Talk
 
