@@ -22,7 +22,7 @@ All Secondary 2 students went to Lower Seletar Reservoir to learn about Singapor
 
 
 <img src="/images/Water%20Filter.jpeg" 
-     style="width:65%">
+     style="width:45%">
 
 <center>A Water Filter Made by a Secondary 2 student</center>
 
@@ -34,7 +34,7 @@ All Secondary 1 students did an inquiry lesson on the growth of kang kongs using
 
 
 <img src="/images/1-KangKong%20in%20PET%20Bottles.jpeg" 
-     style="width:65%">
+     style="width:45%">
 
 <center>The recycled PET bottles the Secondary 1 students used to grow kang kongs</center>
 
