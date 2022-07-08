@@ -155,5 +155,17 @@ description: ""
      style="width:10%">
 <center>CHR Highlights 2014 Issue 03<br>(LINK BROKEN)</center>
 
+<img src="/images/CHR2014-04.jpg" 
+     style="width:10%">
+<center><a href="/files/CHR2014-04.pdf" target="_blank" rel="noopener">CHR Highlights 2014 Issue 04</a></center>
+
+<img src="/images/CHR2014-05.jpg" 
+     style="width:10%">
+<center>CHR Highlights 2014 Issue 05<br>(FILE EXCEEDS 5MB)</center>
+
+<img src="/images/CHR2014-06.jpg" 
+     style="width:10%">
+<center><a href="/files/CHR2014-06.pdf" target="_blank" rel="noopener">CHR Highlights 2014 Issue 06</a></center>
+
 
 
