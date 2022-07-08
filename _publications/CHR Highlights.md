@@ -18,7 +18,7 @@ description: ""
      style="width:10%">
 <center><a href="/files/CHR%20Highlights%20Issue%202%202021%20FINAL.pdf" target="_blank" rel="noopener">CHR Highlights 2021 Issue 02</a></center>
 
-
-
-
+<img src="/images/CHR%20Highlights%203_FINAL%20VERSION_Page_1.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR%20Highlights%203_FINAL%20VERSION.pdf" target="_blank" rel="noopener">CHR Highlights 2021 Issue 02</a></center>
 
