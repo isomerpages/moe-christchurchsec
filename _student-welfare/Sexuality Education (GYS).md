@@ -34,3 +34,16 @@ The key messages of Sexuality Education are:
 <p class="tab">(ii) Build positive relationships based on love and respect (which are the foundation for strong families);</p>
 <p class="tab">(iii) Make responsible decisions for yourself, your family and society; and</p>
 <p class="tab">(iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. <br>Casual sex can harm and hurt you and your loved ones.</p>
+
+You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information on MOE Sexuality Education.
+
+**Overview of CHRIST CHURCH SECONDARY SCHOOL’s Sexuality Education Programme for 2022**
+
+4.
+Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
+
+5.
+The subjects that incorporate topics on sexuality include:
+
+            a.    Science  
+            b.    Character and Citizenship Education (CCE)
