@@ -12,3 +12,6 @@ It aims to develop 21st Century Competencies through an Inquiry Approach in Hea
 The STEM ALP @ CHR, supported  by STEM Inc, Science Centre, seeks to provide broad- based exposure for the lower secondary students to equip them with the awareness of the application of academic knowledge learnt. The upper secondary students would apply knowledge learnt across subject disciplines to authentic scenarios.
 
 ![](/images/ALP1.jpeg)
+
+<img src="/images/ALP1.jpeg" 
+     style="width:25%">
