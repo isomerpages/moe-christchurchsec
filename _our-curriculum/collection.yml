@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - TEST Student Welfare/.keep
       - Full Subject Based Banding (Full SBB).md
       - Learning with PLD.md
