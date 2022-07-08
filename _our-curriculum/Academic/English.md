@@ -104,3 +104,22 @@ The EL Dept is involved in the following activities:
 *   Commonwealth Essay Competition
 *   Play / Musical Appreciation for Upper Sec Literature Students
 *   Book A Writer Programme
+
+
+<img src="/images/Capture1.png" 
+     style="width:45%">
+<center>LoudSpeakers – A member of the audience invited to give an impromptu speech</center>
+
+<img src="/images/Capture2.png" 
+     style="width:45%">
+<center>Part of EL Curriculum - Students presenting their ideas in the form of a news broadcast</center>
+
+
+<img src="/images/Capture3.png" 
+     style="width:45%">
+<center>National Scrabble Competition – Our students eagerly looking forward to the game!</center>
+
+<img src="/images/Capture4.png" 
+     style="width:45%">
+<center>Our Upper Secondary students engaged in a debate on contemporary / real-world issues</center>
+
