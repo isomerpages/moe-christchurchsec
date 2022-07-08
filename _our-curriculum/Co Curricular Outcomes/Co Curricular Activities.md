@@ -9,9 +9,9 @@ third_nav_title: Co Curricular Outcomes
 <h3>Boys’ Brigade (BB)</h3>
 
 **2021**
-<br>**J M Fraser Award** – Gold (14th Consecutive Year) 
-<br>**BB Best Boy Award** – Gabriel Neo Jiawei (4/4)
-<br>**Character Quest** – Gold Honour Roll
+1. **J M Fraser Award** – Gold (14th Consecutive Year) 
+2. **BB Best Boy Award** – Gabriel Neo Jiawei (4/4)
+3. **Character Quest** – Gold Honour Roll
 
 
 ----
@@ -19,28 +19,28 @@ third_nav_title: Co Curricular Outcomes
 
 
 **2020**
-<br>**J M Fraser Award** – Gold (14th Consecutive Year) 
-<br>**Founder’s Award** – Glen Wong (4/3) , Enoch Cheong Zhi Yi (4/4) , Josiah Ang Boon Kiat (4/4)
+1. **J M Fraser Award** – Gold (14th Consecutive Year) 
+2. **Founder’s Award** – Glen Wong (4/3) , Enoch Cheong Zhi Yi (4/4) , Josiah Ang Boon Kiat (4/4)
 
 -----
 
 **2019**
-<br>**BB Blaze** – Silver Honour Roll 
-<br>**J M Fraser Award** – Gold (13th Consecutive Year)
-<br>**Character Quest** – Gold Honour Roll
-<br>**Founder’s Award** – Bacay Vohn Gabriel Bulotano (4/2) , Lionel Lim Jin Rong (4/2) , Poh Shao Zhe Ean (4/4), Xavier Ang Yan Jun (4/4) , Yee Chee Kiat (4/4)
+1. **BB Blaze** – Silver Honour Roll 
+2. **J M Fraser Award** – Gold (13th Consecutive Year)
+3. **Character Quest** – Gold Honour Roll
+4. **Founder’s Award** – Bacay Vohn Gabriel Bulotano (4/2) , Lionel Lim Jin Rong (4/2) , Poh Shao Zhe Ean (4/4), Xavier Ang Yan Jun (4/4) , Yee Chee Kiat (4/4)
 
 ----
 
-2018
-BB Blaze – Gold Honour Roll
-J M Fraser Award – Gold (12th Consecutive Year)
-BB Week – Silver Honour Roll
-President’s Award – Nathan Ang (Primer)
-Founder’s Award – Christian Chan (4/1) , Douglas Teo (4/3) , Goh Jun Peng (4/3) , Koh Yih Song (4/3) ,                                       Shaun Goh (4/4) , Timothy Kwan (4/4) , Emmanuel Cheong (4/4)
-Character Quest – 6th Place , Gold Honour Roll
-15th Pipes & Drums Festival: BagPipes Senior – Alvin Vishanth (4/1) – 2nd & 3rd Place
-15th Pipes & Drums Festival: Tenor Drums Junior – Gabriel Neo (1/2) – 3rd Place
+**2018**
+1. **BB Blaze** – Gold Honour Roll
+2. **J M Fraser Award** – Gold (12th Consecutive Year)
+3. **BB Week** – Silver Honour Roll
+4. **President’s Award** – Nathan Ang (Primer)
+5. **Founder’s Award** – Christian Chan (4/1) , Douglas Teo (4/3) , Goh Jun Peng (4/3) , Koh Yih Song (4/3) ,                                       Shaun Goh (4/4) , Timothy Kwan (4/4) , Emmanuel Cheong (4/4)
+6. **Character Quest** – 6th Place , Gold Honour Roll
+7. **15th Pipes & Drums Festival**: BagPipes Senior – Alvin Vishanth (4/1) – 2nd & 3rd Place
+8. **15th Pipes & Drums Festival**: Tenor Drums Junior – Gabriel Neo (1/2) – 3rd Place
 ______________________________________________________________________________________
 
 2017
