@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Pupil's Wellbeing and Developmental Discipline.md
       - Full Subject Based Banding (Full SBB).md
       - Learning with PLD.md
