@@ -101,3 +101,8 @@ description: ""
 <img src="/images/CHR2017-04.jpeg" 
      style="width:10%">
 <center><a href="/files/CHR2017-04.pdf" target="_blank" rel="noopener">CHR Highlights 2017 Issue 04</a></center>
+
+
+<center><h3><u>Year 2016</u></h3></center>
+
+
