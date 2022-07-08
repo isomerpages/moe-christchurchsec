@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Learning for Life Programme.md
       - Applied Learning Programme.md
       - Student Welfare/.keep
       - Student Welfare/Pupil's Wellbeing and Developmental Discipline.md
