@@ -31,15 +31,15 @@ description: ""
 
 <img src="/images/chr20201.jpeg" 
      style="width:10%">
-<center><a href="/files/CHR%20Highlights%20Issue%201%202020.pdf" target="_blank" rel="noopener">CHR Highlights 2021 Issue 01</a></center>
+<center><a href="/files/CHR%20Highlights%20Issue%201%202020%20FINAL.pdf" target="_blank" rel="noopener">CHR Highlights 2021 Issue 01</a></center>
 
 <img src="/images/chr20202.jpeg" 
      style="width:10%">
-<center><a href="/files/CHR%20Highlights%20Issue%202%202020.pdf" target="_blank" rel="noopener">CHR Highlights 2021 Issue 02</a></center>
+<center><a href="/files/CHR%20Highlights%20Issue%202%202020%20FINAL.pdf" target="_blank" rel="noopener">CHR Highlights 2021 Issue 02</a></center>
 
 <img src="/images/chr20203.jpeg" 
      style="width:10%">
-<center><a href="/files/CHR%20Highlights%20Issue%203%202020.pdf" target="_blank" rel="noopener">CHR Highlights 2021 Issue 03</a></center>
+<center><a href="/files/CHR%20Highlights%20Issue%203%202020%20FINAL.pdf" target="_blank" rel="noopener">CHR Highlights 2021 Issue 03</a></center>
 
 <img src="/images/chr20204.jpeg" 
      style="width:10%">
