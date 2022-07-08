@@ -105,4 +105,18 @@ description: ""
 
 <center><h3><u>Year 2016</u></h3></center>
 
+<img src="/images/CHR2016-01.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2016-01.pdf" target="_blank" rel="noopener">CHR Highlights 2016 Issue 01</a></center>
 
+<img src="/images/CHR2016-02.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2016-02.pdf" target="_blank" rel="noopener">CHR Highlights 2016 Issue 02</a></center>
+
+<img src="/images/CHR2016-03.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2016-03.pdf" target="_blank" rel="noopener">CHR Highlights 2016 Issue 03</a></center>
+
+<img src="/images/CHR2016-04.jpeg" 
+     style="width:10%">
+<center><a href="/files/CHR2016-04.pdf" target="_blank" rel="noopener">CHR Highlights 2016 Issue 04</a></center>
