@@ -2,10 +2,10 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Co Curricular Outcomes/School Awards.md
-      - Co Curricular Outcomes/Others.md
-      - Co Curricular Outcomes/Co Curricular Activities (CCA).md
       - Co Curricular Outcomes/.keep
+      - Co Curricular Outcomes/Co Curricular Activities (CCA).md
+      - Co Curricular Outcomes/Others.md
+      - Co Curricular Outcomes/School Awards.md
       - Outdoor Education.md
       - CHR AOP Education.md
       - Learning for Life Programme.md
