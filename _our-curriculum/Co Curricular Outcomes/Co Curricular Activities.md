@@ -8,13 +8,13 @@ third_nav_title: Co Curricular Outcomes
 
 <h3>Boys’ Brigade (BB)</h3>
 
-2021
-J M Fraser Award – Gold (14th Consecutive Year) 
-BB Best Boy Award – Gabriel Neo Jiawei (4/4)
-Character Quest – Gold Honour Roll
+**2021**
+<br>**J M Fraser Award** – Gold (14th Consecutive Year) 
+<br>**BB Best Boy Award** – Gabriel Neo Jiawei (4/4)
+<br>**Character Quest** – Gold Honour Roll
 ______________________________________________________________________________________
 
-2020
+**2020**
 J M Fraser Award – Gold (14th Consecutive Year) 
 Founder’s Award – Glen Wong (4/3) , Enoch Cheong Zhi Yi (4/4) , Josiah Ang Boon Kiat (4/4)
 ______________________________________________________________________________________
