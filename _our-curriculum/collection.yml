@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic/Mathematics.md
       - Academic/Science.md
       - Academic/Humanities.md
       - Academic/Aesthetic, Craft & Technology.md
