@@ -12,7 +12,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Life @ CHR
-          description: ""
+          description: Our Publications
           url: /publications/chr-highlights
         - title: Highlight B
           description: Important highlight B is equally important
