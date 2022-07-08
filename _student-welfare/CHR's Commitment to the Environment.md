@@ -21,7 +21,8 @@ All Secondary 2 students went to Lower Seletar Reservoir to learn about Singapor
 <center>Secondary 2 students collecting water</center>
 
 
-![](/images/Water%20Filter.jpeg)
+<img src="/images/Water%20Filter.jpeg" 
+     style="width:65%">
 
 <center>A Water Filter Made by a Secondary 2 student</center>
 
@@ -31,7 +32,9 @@ All Secondary 2 students went to Lower Seletar Reservoir to learn about Singapor
 
 All Secondary 1 students did an inquiry lesson on the growth of kang kongs using recycled PET bottles.
 
-![](/images/1-KangKong%20in%20PET%20Bottles.jpeg)
+
+<img src="/images/1-KangKong%20in%20PET%20Bottles.jpeg" 
+     style="width:65%">
 
 <center>The recycled PET bottles the Secondary 1 students used to grow kang kongs</center>
 
@@ -39,6 +42,8 @@ All Secondary 1 students did an inquiry lesson on the growth of kang kongs using
 
 **Reduce@NW Community Outreach**
 		
-![](/images/chr%20commitment%20to%20environment.png)
+
+<img src="/images/chr%20commitment%20to%20environment.png" 
+     style="width:65%">
 
 <center>Members of the Green Club and OAC promoting Green Living during Door Visits with Residents of Admiralty.</center>
