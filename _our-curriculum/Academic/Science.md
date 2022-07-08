@@ -110,24 +110,7 @@ third_nav_title: Academic
      style="width:65%">
 		 
 <img src="/images/3.jpeg" 
-     style="width:65%">
+     style="width:45%">
 		 
 <img src="/images/1.jpeg" 
      style="width:65%">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
