@@ -55,3 +55,49 @@ third_nav_title: Academic
   </tr>
 </tbody>
 </table>
+
+
+
+**Vision:**  
+
+_A Community of Confident and Self-Directed Problem Solvers_ 
+
+**_Confident:_** _Students possess Mathematical proficiency to pursue higher education or career prospects_
+
+**_Self-Directed:_** _Students develop passion for the subject when they see relevance in daily applications_
+
+**Mission:**
+
+_To nurture students’ capacity to deal with ambiguity so as to apply Mathematical skills in practical tasks and real life problems_
+
+The Mathematics department consists of 4 units – Mathematics, Principles of Accounts, Computer Applications and Elements of Business Skills.   
+
+  
+
+The subjects offered are as follows:
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Express</th>
+    <th class="tg-a4yv">Normal Academic</th>
+    <th class="tg-a4yv">Normal Technical</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">Mathematics<br>Additional Mathematics<br>Principal of Accounts (POA)</td>
+    <td class="tg-7yig">Mathematics<br>Additional Mathematics<br>Principal of Accounts (POA)</td>
+    <td class="tg-7yig">Mathematics<br>Computer Applications (CPA)<br>Elements of Business Skills (EBS)</td>
+  </tr>
+</tbody>
+</table>
+
