@@ -3,14 +3,14 @@ title: CHR Highlights
 permalink: /publications/chr-highlights
 description: ""
 ---
-<center><strong><u>Year 2022</u></strong></center>
+<center><h3><u>Year 2022</u></h3></center>
 
 <img src="/images/CHR_Highlights_1_Page_1_86x121.jpeg" 
      style="width:10%">
 <center><a href="/files/CHR%20Highlights%201%20FINAL.pdf" target="_blank" rel="noopener">CHR Highlights 2022 Issue 01</a></center>
 
 
-<center><strong><u>Year 2021</u></strong></center>
+<center><h3><u>Year 2021</u></h3></center>
 
 <center>(image for 2021 issue 1 missing)<br>(File exceeds 5 MB)</center>
 
@@ -27,7 +27,7 @@ description: ""
 <center><a href="/files/CHR%20Highlights%20Issue%204%20FINAL.pdf" target="_blank" rel="noopener">CHR Highlights 2021 Issue 04</a></center>
 
 
-<center><strong><u>Year 2022</u></strong></center>
+<center><h3><u>Year 2020</u></h3></center>
 
 <img src="/images/chr20201.jpeg" 
      style="width:10%">
