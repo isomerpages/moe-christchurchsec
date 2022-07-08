@@ -175,5 +175,38 @@ description: ""
      style="width:10%">
 <center>CHR Highlights 2014 Issue 08<br>(FILE EXCEEDS 5MB)</center>
 
+<center><h3><u>Year 2013</u></h3></center>
+
+<img src="/images/CHR2013-01.jpeg" 
+     style="width:10%">
+<center>CHR Highlights 2013 Issue 01<br>(LINK BROKEN)</center>
+
+<img src="/images/CHR2013-02.jpeg" 
+     style="width:10%">
+<center>CHR Highlights 2013 Issue 02<br>(LINK BROKEN)</center>
+
+<img src="/images/CHR2013-03.jpeg" 
+     style="width:10%">
+<center>CHR Highlights 2013 Issue 03<br>(LINK BROKEN)</center>
+
+<img src="/images/CHR2013-04.jpeg" 
+     style="width:10%">
+<center>CHR Highlights 2013 Issue 04<br>(LINK BROKEN)</center>
+
+<img src="/images/CHR2013-05.jpeg" 
+     style="width:10%">
+<center>CHR Highlights 2013 Issue 05<br>(LINK BROKEN)</center>
+
+<img src="/images/CHR2013-06.jpeg" 
+     style="width:10%">
+<center>CHR Highlights 2013 Issue 06<br>(LINK BROKEN)</center>
+
+<img src="/images/CHR2013-07.jpeg" 
+     style="width:10%">
+<center>CHR Highlights 2013 Issue 07<br>(LINK BROKEN)</center>
+
+
+
+
 
 
