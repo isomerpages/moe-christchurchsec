@@ -69,7 +69,7 @@ description: ""
 
 <img src="/images/CHR2018-01.jpeg" 
      style="width:10%">
-<center><a href="/files/CHR2019-02.pdf" target="_blank" rel="noopener">CHR Highlights 2018 Issue 01</a></center>
+<center>CHR Highlights 2018 Issue 01<br>(FILE EXCEEDS 5MB)</center>
 
 <img src="/images/CHR2018-02.jpeg" 
      style="width:10%">
