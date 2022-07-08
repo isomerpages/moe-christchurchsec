@@ -58,34 +58,34 @@ third_nav_title: Co Curricular Outcomes
 
 <h3><u>Girls’ Brigade (GB)</u></h3>
 
-2021
-Company Award – Gold (9th Consecutive Year)
-Pioneer Brigader Brooch – Valerie Png En Qi (4/3)
-Dr Low Guat Tin Challenge – 26x Silver Award, 16x Bronze Award
+**2021**
+1. **Company Award** – Gold (9th Consecutive Year)
+2. **Pioneer Brigader Brooch** – Valerie Png En Qi (4/3)
+3. **Dr Low Guat Tin Challenge** – 26x Silver Award, 16x Bronze Award
 
 ----
 
-2020
-Company Award – Gold (9th Consecutive Year)
-Pioneer Brigader Brooch – Anna Dulaki Naivaqamu (4/2) , Poh Min En Evette (4/2)
+**2020**
+1. **Company Award** – Gold (9th Consecutive Year)
+2. **Pioneer Brigader Brooch** – Anna Dulaki Naivaqamu (4/2) , Poh Min En Evette (4/2)
 
 ----
 
-2019
-Company Award – Gold (8th Consecutive Year)
-Dr Low Guat Tin Challenge – 1x Gold Award, 1x Bronze Award & Challenge Shield
+**2019**
+1. **Company Award** – Gold (8th Consecutive Year)
+2. **Dr Low Guat Tin Challenge** – 1x Gold Award, 1x Bronze Award & Challenge Shield
 
 ----
 
 
-2018
-Company Award – Gold (7th Consecutive Year)
+**2018**
+1. **Company Award** – Gold (7th Consecutive Year)
 
 ----
 
-2017
-Company Award – Gold (6th Consecutive Year)
-Dr Low Guat Tin Challenge – 2x Gold Award, 3x Silver Award
+**2017**
+1. **Company Award** – Gold (6th Consecutive Year)
+2. **Dr Low Guat Tin Challenge** – 2x Gold Award, 3x Silver Award
 
 -----
 
