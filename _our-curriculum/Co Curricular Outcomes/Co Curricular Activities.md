@@ -505,6 +505,3 @@ third_nav_title: Co Curricular Outcomes
 **2017**
 
 1.  **Ngee Ann Poly Marigold Competition** – 3rd Place , Merit Award
-
-
-
