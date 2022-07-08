@@ -100,4 +100,3 @@ The subjects offered are as follows:
   </tr>
 </tbody>
 </table>
-
