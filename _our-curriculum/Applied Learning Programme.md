@@ -14,3 +14,15 @@ The STEM ALP @ CHR, supported  by STEM Inc, Science Centre, seeks to provide br
 
 <img src="/images/ALP1.jpeg" 
      style="width:65%">
+
+<img src="/images/ALP2.jpeg" 
+     style="width:65%">
+
+<img src="/images/ALP4.jpeg" 
+     style="width:65%">
+
+<img src="/images/ALP5.jpeg" 
+     style="width:65%">
+
+<img src="/images/ALP6.jpeg" 
+     style="width:65%">
