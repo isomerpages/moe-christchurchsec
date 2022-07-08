@@ -14,7 +14,9 @@ Christ Church Secondary School is committed to and values the **protection o
 All Secondary 2 students went to Lower Seletar Reservoir to learn about Singapore’s Water History. The visit included collecting water samples to test for pH, dissolved oxygen content and turbidity and building a workable water filter.
 
 
-![](/images/Collecting%20Water.jpeg)
+<img src="/images/Collecting%20Water.jpeg" 
+     style="width:65%">
+
 
 <center>Secondary 2 students collecting water</center>
 
