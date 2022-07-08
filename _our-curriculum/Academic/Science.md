@@ -83,15 +83,51 @@ third_nav_title: Academic
 * <strong><u>Inquiry-Based Learning to curiosity and awareness</u></strong>
 
 <img src="/images/sc1.jpeg" 
-     style="width:75%">
+     style="width:65%">
 <img src="/images/sc2.jpeg" 
-     style="width:75%">
+     style="width:65%">
 <img src="/images/science 1.jpeg" 
-     style="width:75%">
+     style="width:65%">
 <img src="/images/science 2.jpeg" 
-     style="width:75%">
+     style="width:65%">
 
 
 <strong><u>Stretch Programme for Students</u></strong> 
 * North Zone Elementz Science Research & Singapore Youth Science Festival  
 * **ignITE Science** \- Inter-school competition for Normal Academic and Normal Technical Students
+
+
+<img src="/images/8.jpeg" 
+     style="width:65%">
+		 
+<img src="/images/7.jpeg" 
+     style="width:65%">
+		 
+<img src="/images/6.jpeg" 
+     style="width:65%">
+		 
+<img src="/images/5.jpeg" 
+     style="width:65%">
+		 
+<img src="/images/3.jpeg" 
+     style="width:65%">
+		 
+<img src="/images/1.jpeg" 
+     style="width:65%">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
