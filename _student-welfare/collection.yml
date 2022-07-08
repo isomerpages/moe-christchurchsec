@@ -1,4 +1,5 @@
 collections:
   student-welfare:
     output: true
-    order: []
+    order:
+      - Pupil's Wellbeing and Developmental Discipline.md
