@@ -29,14 +29,13 @@ Below are the sample projects done by our students:
 
 
 
-
 <img src="images/7.jpeg" 
      style="width:65%">
 		 
 <img src="/images/WHC3.jpeg" 
      style="width:65%">
 		 
-<img src="/images/WHC4.jpeg" 
+<img src="/images/WHC4.jpg" 
      style="width:65%">
 		 
 <img src="/images/WHC5.jpeg" 
