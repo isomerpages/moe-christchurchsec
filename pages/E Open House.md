@@ -41,7 +41,7 @@ description: ""
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax"><iframe width="560" height="315" src="https://www.youtube.com/embed/JkOZx0OqvO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td class="tg-0lax"><iframe width="224" height="126" src="https://www.youtube.com/embed/JkOZx0OqvO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
     <td class="tg-0lax"><img src="/images/open%20house%20peek.png"></td>
   </tr>
 </tbody>
