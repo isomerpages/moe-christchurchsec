@@ -300,9 +300,6 @@ Well Done girls!
 <img src="/images/OA10.jpeg" 
      style="width:65%">
 		 
-<img src="/images/OA1.jpeg" 
-     style="width:65%">
-		 
 <img src="/images/OA11.jpeg" 
      style="width:65%">
 		 
@@ -338,4 +335,3 @@ Well Done girls!
 		 
 <img src="/images/OA22.jpeg" 
      style="width:65%">
-
