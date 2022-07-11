@@ -3,8 +3,6 @@ title: CHR Pride
 permalink: /others/chr-pride
 description: ""
 ---
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -20,8 +18,8 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-		<td class="tg-6d9r"><center><a href="https://christchurchsec.moe.edu.sg/others/alp-llp" target="">ALP/LLP</a></center></td>
-		<td class="tg-6d9r"><center><a href="https://christchurchsec.moe.edu.sg/others/students-achievements" target="">STUDENTS ACHIEVEMENTS</a></center></td>
+		<td class="tg-6d9r"><center><a href="/others/chr-pride" target="">ALP/LLP</a></center></td>
+		<td class="tg-6d9r"><center><a href="/others/students-achievements" target="">STUDENTS ACHIEVEMENTS</a></center></td>
   </tr>
 </tbody>
 </table>
