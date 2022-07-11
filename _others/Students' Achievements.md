@@ -96,3 +96,167 @@ Quest 2018. Well done, boys. We are proud of you.
 
 <img src="/images/SA8.jpeg" 
      style="width:65%">
+
+
+-----
+
+
+**21 Aug 2018: All Singapore Secondary Mathematics Competition for Normal           Course Students 2018**                                                                                               
+
+We would like to congratulate Lee Yen Ping, Fiona from class 2N5 for achieving the 12th position in the Lower Secondary Normal (Academic) individual category. Well done, Fiona.
+
+**Capture.JPG (MISSING IMAGE)**
+
+_____________________________________________________________________
+**17 Aug 2018: NCDCC Inter-Unit Quiz Award**
+
+Congratulations to our 4 NCDCC cadets for winning the 6th place in the NFEC-NCDCC Inter Unit Quiz Competition 2018 held @ HTA.  
+
+
+**NCDCC.jpg (MISSING IMAGE)**
+	
+
+_____________________________________________________________________
+
+**24 Apr 2018: Upper Secondary Elementz Science Competition**
+
+Congratulations to the following students for achieving the awards for different categories:
+
+
+
+**LED Slippers - Silver**
+
+Loh Kai Zhe 3E4
+
+Lam Ann Duong 3E3
+
+Darrius Yu Di Quan 3E4
+
+Sim Cheng Yi 3E4
+
+Lionel Lim Jin Rong 3E2
+
+
+**Smart Walking Stick - Silver**
+
+Oh En'Xu Zachary 3E3
+
+Goh Jun Wei Shannon 3E4
+
+Jolene Lai Boh Yan 3E4
+
+Tenh Wei En Bryan 3E4
+
+
+**Happy Cooker - Bronze**
+
+Rebecca Chong Gah Kay  3E1
+
+Cheng Ting 3E2
+
+Sheila Soh Li En 3E3
+
+Manivannan Udhaya Chanthiran 3E3
+
+Tan Kai Kiat, Javier 3E3 
+
+
+**Spidator- Smart Body Massager - Certificate Of Commendation**
+
+Josna Sony 3E1
+
+Vigneshwari Selva 3E1
+
+Jorina Low Chin-Ye 3E2
+
+Evita Lee Ann Hwee 3E3
+
+
+**Heartrate E-Monitor  - Certificate Of Commendation**
+
+Lim Qian Hui, Reis 3E1
+
+Rachel Wong Jiaxuan 3E4
+
+Thong Jin Khang 3E3
+
+Javier Heng 3E3
+
+Teo Hong Zhe 3E3 
+
+
+_____________________________________________________________________
+
+**17 Apr 2018: SPF-NPCC Pinnacle Badge**
+
+
+<img src="/images/NPCC%20award.jpeg" 
+     style="width:65%">
+
+
+The NPCC team is  delighted to share that Lyam Adriell Clave Dizon from 4E2 has been awarded  the SPF-NPCC badge. This is a pinnacle badge and the objective of awarding SPF-NPCC Badge to cadets is to identify and recognise outstanding cadets with good leadership qualities.
+
+_____________________________________________________________________
+**14 Apr 2018: G.A.R.an.G Adventure Race 2018**
+
+**Garang.jpg (MISSING IMAGE)**
+
+Congratulations to our OAC for achieving the following: 
+* 2nd (Girls category)
+* 3rd (Boys category) & (Mixed category)
+
+
+_____________________________________________________________________
+
+**14 Apr 2018: Girls' Brigade Company Award**
+
+<img src="/images/SA11.jpeg" 
+     style="width:65%">
+
+
+Congratulations to our 18th GB Company for achieving the Company Gold Award!
+_____________________________________________________________________
+
+**28 Feb 2018: Basketball North Zone Inter-School Competition**
+
+<img src="/images/SA12.jpeg" 
+     style="width:65%">
+
+
+Congratulations to our Basketball B boys for achieving 3rd in the North Zone Inter-School Competition
+
+_____________________________________________________________________
+
+**10 Feb 2018: Precision Drill Competition**
+
+Congratulations to our NCDCC for achieving Top 10 in the Precision Drill Competition.
+
+**RIUI8492.JPG (MISSING IMAGE)**
+
+
+_____________________________________________________________________
+
+**Dec 2017: Basketball**
+
+Congratulations to our Basketball "B" Boys for achieving the followings, 
+1. Champion, T-Net Club Basketball Tournament
+2. Champion, Jurong Cup
+
+Well Done Boys
+Jurong Cup.JPG
+T-Net champion.jpg
+_____________________________________________________________________
+
+20 Nov 2017: Netball
+
+Congratulations to our netball team for achieving the followings,
+
+
+1. 2nd Runner-up in SAC Netball Carnival (C division)
+2. Champions in Regent Netblazers Carnival (C division)
+
+Well Done girls! 
+
+Netball Team (SAC Carnival 2017 3rd).jpg
+
+Regent Netblazers (1st C division).jpeg
