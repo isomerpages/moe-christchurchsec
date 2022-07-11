@@ -19,7 +19,7 @@ description: ""
 <tbody>
   <tr>
 		<td class="tg-6d9r"><center><a href="https://christchurchsec.moe.edu.sg/others/alp-llp" target="">ALP/LLP</a></center></td>
-		<td class="tg-6d9r"><center>STUDENT ACHIEVEMENTS</center></td>
+		<td class="tg-6d9r"><center><a href="https://christchurchsec.moe.edu.sg/others/students-achievements" target="">STUDENTS ACHIEVEMENTS</a></center></td>
   </tr>
 </tbody>
 </table>
