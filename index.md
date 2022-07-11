@@ -14,9 +14,9 @@ sections:
         - title: Life @ CHR
           description: Our Publications
           url: /publications/chr-highlights
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: CHR PRIDE
+          description: Our Achievements
+          url: /chr-pride
         - title: Page A
           description: Page A is important too
           url: /privacy/
