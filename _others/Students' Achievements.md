@@ -88,7 +88,9 @@ Congratulations to our students for emerging 3rd in the Upper Secondary Category
      style="width:65%">
 
 _____________________________________________________________________
-08 Sep 2018: BB Character Quest 2018
+**08 Sep 2018: BB Character Quest 2018**
+
+
 Congratulations to our BB Boys for emerging 6th out of 157 teams in the BB Character
 Quest 2018. Well done, boys. We are proud of you.
 
