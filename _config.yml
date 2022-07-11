@@ -52,3 +52,4 @@ plugins:
 staging: https://moe-christchurchsec-staging.netlify.app
 prod: https://moe-christchurchsec-prod.netlify.app
 shareicon: /images/chr_logo_small.jpeg
+resources_name: resources
