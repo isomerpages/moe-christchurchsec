@@ -12,4 +12,5 @@ secondary school education during the collection of his/her ‘O’ Level result
 Your child/ward is expected to report to the school hall by 1.50pm in full school uniform, school shoes and appropriate hairstyle. 
 
 Please do note that coloured or dyed hair are not allowed.  
+
 We wish your child/ward all the best in his/her ‘O’ level results. Thank you!
