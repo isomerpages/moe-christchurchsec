@@ -23,7 +23,7 @@ description: ""
     <td class="tg-uj1d">CHIT CHAT CHR</td>
   </tr>
   <tr>
-    <td class="tg-12lz">Join us via YouTube Live @ <a href="http://chr.sg/EOH" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">chr.sg/EOH</span></a><br><br>Session 1:<br>Date: 20 Nov 2021 (Sat)<br>Time: 10am - 11am<br><br>Session 2:<br>Date: 25 Nov 2021 (Thu)<br>Time: 4pm - 5pm</td>
+    <td class="tg-12lz">Join us via YouTube Live @ <a rel="noopener noreferrer" target="_blank" href="http://chr.sg/EOH"><span style="text-decoration:none;color:#FF7E00">chr.sg/EOH</span></a><br><br>Session 1:<br>Date: 20 Nov 2021 (Sat)<br>Time: 10am - 11am<br><br>Session 2:<br>Date: 25 Nov 2021 (Thu)<br>Time: 4pm - 5pm</td>
   </tr>
 </tbody>
 </table>
@@ -41,7 +41,7 @@ description: ""
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax"><iframe width="336" height="189" src="https://www.youtube.com/embed/JkOZx0OqvO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JkOZx0OqvO8" height="189" width="336"></iframe></td>
     <td class="tg-0lax"><img src="/images/open%20house%20peek%202.png"></td>
   </tr>
 </tbody>
@@ -60,7 +60,7 @@ description: ""
 <tbody>
   <tr>
 		<td class="tg-0lax"><img src="/images/principal%201.png"></td>
-    <td class="tg-0lax"><iframe width="336" height="189" src="https://www.youtube.com/embed/blGXmMf3j_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/blGXmMf3j_s" height="189" width="336"></iframe></td>
   </tr>
 </tbody>
 </table>
@@ -69,3 +69,6 @@ description: ""
 
 #  School Prospect
 
+<h3> Come find out where the CHR journey will take you! </h3>
+
+<iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv39cDC5Litkdpytp7RA73rkTpa5TUDcRK9ZeNveLb0eQ8N0O3xPQtkMirUPnYFz6JVNYVOzhqGoY6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
