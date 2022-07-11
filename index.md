@@ -22,6 +22,6 @@ sections:
           url: /woodlands-health-campus
   - resources:
       title: What's New
-      subtitle: News and Announcements
+      subtitle: Our News and Events
       button: View More
 ---
