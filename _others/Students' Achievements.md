@@ -34,9 +34,11 @@ description: ""
   
 Congratulation to Eng Yi Xuan from class 3E4 for having achieved the North West Outstanding All Rounder Student (OARS) Award 2019.
 
-![](/images/2019%20NW%20CDC%20OARS.jpeg)
+<img src="/images/2019%20NW%20CDC%20OARS.jpeg" 
+     style="width:65%">
 
-![](/images/2019%20NW%20CDC%20OARS%20group.jpeg)
+<img src="/images/2019%20NW%20CDC%20OARS%20group.jpeg" 
+     style="width:65%">
 
 -----
 
