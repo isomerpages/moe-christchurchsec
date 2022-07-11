@@ -67,71 +67,29 @@ Congratulations to
 
 1) Merit Award: Muhammad Haiqel B Shahri of 3N6
 
-ICC1.png
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="/images/SA5.png" 
+     style="width:65%">
 
 
 
 2) Third Prize - Yoko Woo Mun Yang (2E3)
  
-ICC2.png
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="/images/SA6.png" 
+     style="width:65%">
 
 
 _____________________________________________________________________
 15 Sep 2018: Create Your Own Newspaper Competition 
 Congratulations to our students for emerging 3rd in the Upper Secondary Category. 
 
-1.jpg
+<img src="/images/SA7.jpeg" 
+     style="width:65%">
 
 _____________________________________________________________________
 08 Sep 2018: BB Character Quest 2018
 Congratulations to our BB Boys for emerging 6th out of 157 teams in the BB Character
 Quest 2018. Well done, boys. We are proud of you.
 
-BB Quest.jpg
-
-
-
-
-
-
-
-
+<img src="/images/SA8.jpeg" 
+     style="width:65%">
