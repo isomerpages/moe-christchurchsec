@@ -243,20 +243,24 @@ Congratulations to our Basketball "B" Boys for achieving the followings,
 2. Champion, Jurong Cup
 
 Well Done Boys
-Jurong Cup.JPG
-T-Net champion.jpg
+
+**Jurong Cup.JPG (missing image)**
+
+**T-Net champion.jpg (missing image)**
+
 _____________________________________________________________________
 
-20 Nov 2017: Netball
+**20 Nov 2017: Netball**
 
 Congratulations to our netball team for achieving the followings,
-
 
 1. 2nd Runner-up in SAC Netball Carnival (C division)
 2. Champions in Regent Netblazers Carnival (C division)
 
 Well Done girls! 
 
-Netball Team (SAC Carnival 2017 3rd).jpg
-
-Regent Netblazers (1st C division).jpeg
+<img src="/images/SA13.jpeg" 
+     style="width:65%">
+		 
+<img src="/images/SA14.jpeg" 
+     style="width:65%">
