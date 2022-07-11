@@ -41,7 +41,7 @@ Congratulation to Eng Yi Xuan from class 3E4 for having achieved the North West 
 -----
 
 
-15 Mar 2019: A memorable day (POP Day) for the Sec 4 UG cadets
+**15 Mar 2019: A memorable day (POP Day) for the Sec 4 UG cadets**
 
 <img src="/images/SA3.jpeg" 
      style="width:65%">
@@ -50,7 +50,7 @@ Congratulation to Eng Yi Xuan from class 3E4 for having achieved the North West 
 _____________________________________________________________________
 
 
-27 Feb 2019: Basketball North Zone Inter-School Competition
+**27 Feb 2019: Basketball North Zone Inter-School Competition**
 
 <img src="/images/SA4.jpeg" 
      style="width:65%">
@@ -59,7 +59,7 @@ Congratulations to our Basketball B Girls for achieving 4th in the North Zone In
 
 _____________________________________________________________________
 
-20 Oct 2018: Youth Development Programme (Wildlife Photography)
+**20 Oct 2018: Youth Development Programme (Wildlife Photography)**
 
 SAFRA Photographic Club has organised the event on 20 Oct with 70 participants from 7 schools. We are proud to announce that Christ Church Secondary School have clinched 2 awards. 
 
@@ -80,7 +80,8 @@ Congratulations to
 
 
 _____________________________________________________________________
-15 Sep 2018: Create Your Own Newspaper Competition 
+
+**15 Sep 2018: Create Your Own Newspaper Competition**    
 Congratulations to our students for emerging 3rd in the Upper Secondary Category. 
 
 <img src="/images/SA7.jpeg" 
