@@ -18,7 +18,7 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-		<td class="tg-6d9r"><center>ALP/LLP</center></td>
+		<td class="tg-6d9r"><center><a href="https://christchurchsec.moe.edu.sg/others/alp-llp" target="">ALP/LLP</a></center></td>
 		<td class="tg-6d9r"><center>STUDENT ACHIEVEMENTS</center></td>
   </tr>
 </tbody>
