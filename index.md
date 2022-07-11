@@ -4,7 +4,7 @@ title: Christ Church Secondary School
 description: Brief site description here
 image: /images/chr_logo_small.jpeg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/christ church home.gif
@@ -22,6 +22,6 @@ sections:
           url: /woodlands-health-campus
   - resources:
       title: What's New
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      subtitle: News and Announcements
+      button: View More
 ---
