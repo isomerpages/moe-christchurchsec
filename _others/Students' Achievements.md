@@ -43,7 +43,7 @@ Congratulation to Eng Yi Xuan from class 3E4 for having achieved the North West 
 
 **15 Mar 2019: A memorable day (POP Day) for the Sec 4 UG cadets**
 
-<img src="/images/SA3.jpeg" 
+<img src="/images/SA3.png" 
      style="width:65%">
 
 
