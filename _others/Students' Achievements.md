@@ -18,8 +18,8 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-		<td class="tg-6d9r"><center><a href="https://christchurchsec.moe.edu.sg/others/alp-llp" target="">ALP/LLP</a></center></td>
-		<td class="tg-6d9r"><center><a href="https://christchurchsec.moe.edu.sg/others/students-achievements" target="">STUDENTS ACHIEVEMENTS</a></center></td>
+		<td class="tg-6d9r"><center><a href="/others/chr-pride" target="">ALP/LLP</a></center></td>
+		<td class="tg-6d9r"><center><a href="/others/students-achievements" target="">STUDENTS ACHIEVEMENTS</a></center></td>
   </tr>
 </tbody>
 </table>
