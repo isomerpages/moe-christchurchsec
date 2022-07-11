@@ -16,7 +16,7 @@ sections:
           url: /publications/chr-highlights
         - title: CHR PRIDE
           description: Our Achievements
-          url: /chr-pride
+          url: /others/chr-pride
         - title: Page A
           description: Page A is important too
           url: /privacy/
