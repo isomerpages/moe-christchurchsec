@@ -361,3 +361,76 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
 </tbody>
 </table>
+
+<h3>Mathematics Department</h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 825px">
+<colgroup>
+<col style="width: 115px">
+<col style="width: 160px">
+<col style="width: 115px">
+<col style="width: 160px">
+<col style="width: 115px">
+<col style="width: 160px">
+</colgroup>
+<tbody>
+  <tr>
+		<td class="tg-0lax"><center><img src="/images/math1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/math2.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/math3.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><center><img src="/images/math4.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/math5.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/math6.jpg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><center><img src="/images/math7.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/math8.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/math9.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><center><img src="/images/math10.jpeg"></center></td>
+    <td class="tg-0lax"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/math11.jpeg"></center></td>
+    <td class="tg-0lax"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/math12.jpeg"></center></td>
+    <td class="tg-0lax"><center></center></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><center><img src="/images/math13.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/math14.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center>(NO IMAGE)</center></td>
+    <td class="tg-baqh"><center></center></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><center>(INSERT IMAGE)</center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+</tbody>
+</table>
+
