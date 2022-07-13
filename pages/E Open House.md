@@ -114,6 +114,39 @@ description: ""
           <img src="/images/btbvoy.png" 
      style="width:45%">
 	</a>
+	
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 615px">
+<colgroup>
+<col style="width: 205px">
+<col style="width: 205px">
+<col style="width: 205px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><a href = "/e-open-house/become-the-best-version-of-yourself" target = "_self"> 
+          <img src="/images/btbvoy.png" 
+     style="width:75%">
+	</a></td>
+    <td class="tg-0lax"><a href = "/e-open-house/pay-it-forward-make-a-difference" target = "_self"> 
+          <img src="/images/pif.png" 
+							 style="width:75%">
+	</a></td>
+    <td class="tg-0lax"><a href = "/e-open-house/become-the-best-version-of-yourself" target = "_self"> 
+          <img src="/images/btbvoy.png" 
+     style="width:75%"></td>
+  </tr>
+</tbody>
+</table>
 
 
 
