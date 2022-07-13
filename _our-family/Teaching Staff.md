@@ -220,11 +220,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/ED7.jpeg"></td>
-		<td class="tg-baqh"><center></center></td>
+		<td class="tg-baqh"><center><a href="mailto:oh_yen_ping_sarah@schools.gov.sg" target="">Ms Oh Yen Ping, Sarah</a><br />English Language &amp; Geography</center></td>
     <td class="tg-0lax"><img src="/images/ED8.jpeg"></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:verona_rhamanan@schools.gov.sg" target="">Ms Verona d/o Rhamanan</a><br />English Language &amp;&nbsp;EBS</center></td>
     <td class="tg-0lax"><img src="/images/ED9.jpeg"></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:verona_rhamanan@schools.gov.sg" target="">Ms Verona d/o Rhamanan</a><br />English Language &amp;&nbsp;EBS</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/ED10.jpeg"></td>
