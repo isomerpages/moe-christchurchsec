@@ -297,3 +297,5 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
 </tbody>
 </table>
+
+<h3><center>Malay Language<center></h3>
