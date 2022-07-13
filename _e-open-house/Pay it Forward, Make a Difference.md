@@ -25,3 +25,25 @@ In Christ Church Secondary School, you will learn to understand the needs and pe
 
 <center><strong><em>Staying connected to the COMMUNITY</em></strong></center>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
+</colgroup>
+<tbody>
+  <tr>
+   <td class="tg-0lax"><img src="/images/forward1.png"></td>
+   <td class="tg-0lax"><img src="/images/forward2.png"></td>
+   <td class="tg-0lax"><img src="/images/forward3.png"></td>
+  </tr>
+</tbody>
+</table>
