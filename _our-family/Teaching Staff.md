@@ -214,7 +214,7 @@ description: ""
     <td class="tg-0lax"><img src="/images/ED4.jpg"></td>
     <td class="tg-baqh"><center><a href="mailto:TAN_Chai_Hok@schools.gov.sg" target="">Mr Tan Chai Hok</a><br />LT / English Language</center></td>
     <td class="tg-0lax"><img src="/images/ED5.jpeg"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><center><a href="mailto:vernice_palai_velvizhi@schools.gov.sg" target="">Mdm Vernice Palai Velvizhi</a><br>English Language & Literature</center></td>
     <td class="tg-0lax"><img src="/images/ED6.jpeg"></td>
     <td class="tg-baqh"></td>
   </tr>
