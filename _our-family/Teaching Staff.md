@@ -413,13 +413,13 @@ Flexi Adjunct (English Language)</center></td>
     <td class="tg-0lax"><center><img src="/images/math11.jpeg"></center></td>
     <td class="tg-0lax"><center><a href="mailto:chye_yan_ping_jacqueline@schools.gov.sg" target="">Ms Chye Yan Ping Jacqueline</a><br />Mathematics &amp; Chemistry</center></td>
     <td class="tg-0lax"><center><img src="/images/math12.jpeg"></center></td>
-    <td class="tg-0lax"><center></center></td>
+    <td class="tg-0lax"><center><a href="mailto:ng_hwee_bin@schools.gov.sg" target="">Mdm Ng Hwee Bin</a><br />Mathematics&nbsp;&amp; EBS</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><img src="/images/math13.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:nur_fareesha_mazlan@moe.edu.sg" target="">Ms</a>&nbsp;<a href="mailto:chew_pei_pei_wendy@schools.gov.sg" target="">Chew Pei Pei Wendy</a><br>Principles of Accounts</center></td>
     <td class="tg-0lax"><center><img src="/images/math14.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:tan_zhi_lie@schools.gov.sg" target="">Mr Tan Zhi Lie</a><br />Mathematics &amp; Physics</center></td>
     <td class="tg-0lax"><center>(NO IMAGE)</center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
