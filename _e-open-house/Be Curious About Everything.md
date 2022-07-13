@@ -51,9 +51,9 @@ In Christ Church Secondary School, you will be a confident learner who is able t
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src=/images/curious1.jpeg></td>
-    <td class="tg-0lax"><img src=/images/curious2.jpeg></td>
-    <td class="tg-0lax"><img src=/images/curious3.jpeg></td>
+    <td class="tg-0lax"><img src="/images/curious1.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/curious2.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/curious3.jpeg"></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center>Students applying what they have learnt during a Science Trail at Lower Seletar Reservoir</center></td>
@@ -63,6 +63,29 @@ In Christ Church Secondary School, you will be a confident learner who is able t
 </tbody>
 </table>
 
-<img src=/images/curious1.jpeg>
-
 <center><strong><em>YOU are a SKILLED LEARNER</em></strong></center>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 615px">
+<colgroup>
+<col style="width: 205px">
+<col style="width: 205px">
+<col style="width: 205px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="/images/curious4.png"></td>
+    <td class="tg-0lax"><img src="/images/curious5.png"></td>
+    <td class="tg-0lax"><img src="/images/curious6.png"></td>
+  </tr>
+</tbody>
+</table>
+			
+			
