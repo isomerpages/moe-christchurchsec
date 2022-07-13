@@ -362,7 +362,7 @@ Flexi Adjunct (English Language)</center></td>
 </tbody>
 </table>
 
-<h3>Mathematics Department</h3>
+<h3><center>Mathematics Department</center></h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -433,3 +433,4 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
 </tbody>
 </table>
+
