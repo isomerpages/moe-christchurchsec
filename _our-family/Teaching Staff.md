@@ -192,14 +192,14 @@ description: ""
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 705px">
+<table class="tg" style="undefined;table-layout: fixed; width: 795px">
 <colgroup>
-<col style="width: 100px">
-<col style="width: 135px">
-<col style="width: 100px">
-<col style="width: 135px">
-<col style="width: 100px">
-<col style="width: 135px">
+<col style="width: 115px">
+<col style="width: 150px">
+<col style="width: 115px">
+<col style="width: 150px">
+<col style="width: 115px">
+<col style="width: 150px">
 </colgroup>
 <tbody>
   <tr>
