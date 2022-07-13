@@ -411,7 +411,7 @@ Flexi Adjunct (English Language)</center></td>
     <td class="tg-0lax"><center><img src="/images/math10.jpeg"></center></td>
     <td class="tg-0lax"><center><a href="mailto:chng_li_yao_leonard@schools.gov.sg" target="">Mr Chng&nbsp;Li Yao,&nbsp;Leonard</a><br>Principles of Accounts &amp; Mathematics</center></td>
     <td class="tg-0lax"><center><img src="/images/math11.jpeg"></center></td>
-    <td class="tg-0lax"><center></center></td>
+    <td class="tg-0lax"><center><a href="mailto:chye_yan_ping_jacqueline@schools.gov.sg" target="">Ms Chye Yan Ping Jacqueline</a><br />Mathematics &amp; Chemistry</center></td>
     <td class="tg-0lax"><center><img src="/images/math12.jpeg"></center></td>
     <td class="tg-0lax"><center></center></td>
   </tr>
