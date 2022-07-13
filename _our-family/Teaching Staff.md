@@ -421,7 +421,7 @@ Flexi Adjunct (English Language)</center></td>
     <td class="tg-0lax"><center><img src="/images/math14.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:tan_zhi_lie@schools.gov.sg" target="">Mr Tan Zhi Lie</a><br />Mathematics &amp; Physics</center></td>
     <td class="tg-0lax"><center>(NO IMAGE)</center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:tan_li_ping_a@schools.gov.sg" target="">Mdm Tan Li Ping</a><br>Flexi Adjunct<br>(Principles of Accounts)</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center>(INSERT IMAGE)</center></td>
