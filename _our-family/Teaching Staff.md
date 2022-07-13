@@ -195,12 +195,12 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 918px">
 <colgroup>
+<col style="width: 100px">
+<col style="width: 135px">
+<col style="width: 100px">
+<col style="width: 135px">
 <col style="width: 110px">
-<col style="width: 150px">
-<col style="width: 110px">
-<col style="width: 150px">
-<col style="width: 110px">
-<col style="width: 150px">
+<col style="width: 100px">
 </colgroup>
 <tbody>
   <tr>
