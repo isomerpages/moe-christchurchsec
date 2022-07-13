@@ -196,11 +196,11 @@ description: ""
 <table class="tg" style="undefined;table-layout: fixed; width: 918px">
 <colgroup>
 <col style="width: 110px">
-<col style="width: 160px">
+<col style="width: 150px">
 <col style="width: 110px">
-<col style="width: 160px">
+<col style="width: 150px">
 <col style="width: 110px">
-<col style="width: 160px">
+<col style="width: 150px">
 </colgroup>
 <tbody>
   <tr>
