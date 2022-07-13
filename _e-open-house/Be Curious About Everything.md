@@ -54,9 +54,9 @@ In Christ Church Secondary School, you will be a confident learner who is able t
     <td class="tg-0lax"><img src=/images/curious3.jpeg></td>
   </tr>
   <tr>
-    <td class="tg-0lax">text</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><center>Students applying what they have learnt during a Science Trail at Lower Seletar Reservoir</center></td>
+		<td class="tg-0lax"><center>Students learning Mathematical concepts through games!</center></td>
+    <td class="tg-0lax"><center>Students learning to appreciate Chinese culture through a tea appreciation activity</center></td>
   </tr>
 </tbody>
 </table>
