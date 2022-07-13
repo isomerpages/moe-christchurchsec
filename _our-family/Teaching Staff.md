@@ -214,6 +214,7 @@ description: ""
 </table>
 
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -223,10 +224,18 @@ description: ""
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 918px">
+<colgroup>
+<col style="width: 120px">
+<col style="width: 186px">
+<col style="width: 120px">
+<col style="width: 186px">
+<col style="width: 120px">
+<col style="width: 186px">
+</colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax">img</td>
+    <td class="tg-0lax"><img src="/images/ED1.jpeg"></td>
     <td class="tg-baqh">title</td>
     <td class="tg-0lax">test</td>
     <td class="tg-baqh">test</td>
@@ -267,3 +276,5 @@ description: ""
   </tr>
 </tbody>
 </table>
+		
+		
