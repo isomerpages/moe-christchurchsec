@@ -120,8 +120,8 @@ Do check out the recording of the session we have on 20th November 2021.
     <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MqLoZevRe-g" height="215" width="300"></iframe></td>
   </tr>
   <tr>
-    <td class="tg-0lax">   E - Open House Live Talk Show Session 1</td>
-    <td class="tg-0lax">   E - Open House Live Talk Show Session 2</td>
+    <td class="tg-0lax">        E - Open House Live Talk Show Session 1</td>
+    <td class="tg-0lax">        E - Open House Live Talk Show Session 2</td>
   </tr>
 </tbody>
 </table>
