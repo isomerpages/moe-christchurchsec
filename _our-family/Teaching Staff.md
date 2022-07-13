@@ -220,25 +220,50 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 840px">
-<colgroup>
-<col style="width: 110px">
-<col style="width: 170px">
-<col style="width: 110px">
-<col style="width: 170px">
-<col style="width: 110px">
-<col style="width: 170px">
-</colgroup>
+<table class="tg">
 <tbody>
   <tr>
+    <td class="tg-0lax">img</td>
+    <td class="tg-baqh">title</td>
     <td class="tg-0lax">test</td>
+    <td class="tg-baqh">test</td>
     <td class="tg-0lax">test</td>
-    <td class="tg-0lax">test</td>
-    <td class="tg-0lax">test</td>
-    <td class="tg-0lax">test</td>
-    <td class="tg-0lax">test</td>
+    <td class="tg-baqh">test</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
   </tr>
 </tbody>
 </table>
