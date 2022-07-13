@@ -273,7 +273,7 @@ Flexi Adjunct (English Language)</center></td>
 <tbody>
   <tr>
 		<td class="tg-0lax"><center><img src="/images/MTC1.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:lai_meei_ju@schools.gov.sg" target="">Mdm Lai Meei Ju</a><br />HOD / Mother Tongue Language</center></td>
     <td class="tg-0lax"><center></center><img src="/images/MTC2.jpg"></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center></center><img src="/images/MTC3.jpeg"></td>
@@ -297,10 +297,3 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
 </tbody>
 </table>
-
-
-
-
-
-
-
