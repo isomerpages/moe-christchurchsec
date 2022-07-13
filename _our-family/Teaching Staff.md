@@ -393,7 +393,7 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><img src="/images/math4.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:lim_yang_cherng@schools.gov.sg" target="">Mr Lim Yang Cherng</a><br>HOD / ICT</center></td>
     <td class="tg-0lax"><center><img src="/images/math5.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/math6.jpg"></center></td>
