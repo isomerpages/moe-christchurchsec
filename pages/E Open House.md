@@ -23,7 +23,7 @@ description: ""
     <td class="tg-uj1d">CHIT CHAT CHR</td>
   </tr>
   <tr>
-    <td class="tg-12lz">Join us via YouTube Live @ <a href="http://chr.sg/EOH" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">chr.sg/EOH</span></a><br><br>Session 1:<br>Date: 20 Nov 2021 (Sat)<br>Time: 10am - 11am<br><br>Session 2:<br>Date: 25 Nov 2021 (Thu)<br>Time: 4pm - 5pm</td>
+    <td class="tg-12lz">Join us via YouTube Live @ <a rel="noopener noreferrer" target="_blank" href="http://chr.sg/EOH"><span style="text-decoration:none;color:#FF7E00">chr.sg/EOH</span></a><br><br>Session 1:<br>Date: 20 Nov 2021 (Sat)<br>Time: 10am - 11am<br><br>Session 2:<br>Date: 25 Nov 2021 (Thu)<br>Time: 4pm - 5pm</td>
   </tr>
 </tbody>
 </table>
@@ -41,7 +41,7 @@ description: ""
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax"><iframe width="336" height="189" src="https://www.youtube.com/embed/JkOZx0OqvO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JkOZx0OqvO8" height="189" width="336"></iframe></td>
     <td class="tg-0lax"><img src="/images/open%20house%20peek%202.png"></td>
   </tr>
 </tbody>
@@ -60,7 +60,7 @@ description: ""
 <tbody>
   <tr>
 		<td class="tg-0lax"><img src="/images/principal%201.png"></td>
-    <td class="tg-0lax"><iframe width="336" height="189" src="https://www.youtube.com/embed/blGXmMf3j_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/blGXmMf3j_s" height="189" width="336"></iframe></td>
   </tr>
 </tbody>
 </table>
@@ -70,12 +70,12 @@ description: ""
 #  School Prospect
 <h3> Come find out where the CHR journey will take you! </h3>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv39cDC5Litkdpytp7RA73rkTpa5TUDcRK9ZeNveLb0eQ8N0O3xPQtkMirUPnYFz6JVNYVOzhqGoY6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="504" width="845" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv39cDC5Litkdpytp7RA73rkTpa5TUDcRK9ZeNveLb0eQ8N0O3xPQtkMirUPnYFz6JVNYVOzhqGoY6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
 # Our Students
 
-<iframe width="850" height="415" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><style type="text/css">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" height="415" width="850"></iframe><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -86,9 +86,9 @@ description: ""
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax"><iframe width="260" height="270" src="https://www.youtube.com/embed/4dEZ4SwzhPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-0lax"><iframe width="260" height="270" src="https://www.youtube.com/embed/HhwuW_58H7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-0lax"><iframe width="260" height="270" src="https://www.youtube.com/embed/0ptxRl4yT3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4dEZ4SwzhPw" height="270" width="260"></iframe></td>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/HhwuW_58H7E" height="270" width="260"></iframe></td>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0ptxRl4yT3Q" height="270" width="260"></iframe></td>
   </tr>
 </tbody>
 </table>
@@ -116,8 +116,8 @@ Do check out the recording of the session we have on 20th November 2021.
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax"><iframe width="300" height="215" src="https://www.youtube.com/embed/MqLoZevRe-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-0lax"><iframe width="300" height="215" src="https://www.youtube.com/embed/MqLoZevRe-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MqLoZevRe-g" height="215" width="300"></iframe></td>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MqLoZevRe-g" height="215" width="300"></iframe></td>
   </tr>
   <tr>
     <td class="tg-0lax">E - Open House Live Talk Show Session 1</td>
