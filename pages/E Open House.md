@@ -147,8 +147,8 @@ We hope you have gained valuable insights into our school programme. Do check ou
     <td class="tg-0lax"><iframe width="300" height="215" src="https://www.youtube.com/embed/gNrkr264FRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe></td>
   </tr>
   <tr>
-    <td class="tg-0lax">   E - Open House Live Talk Show Session 1</td>
-    <td class="tg-0lax">   E - Open House Live Talk Show Session 2</td>
+	<td class="tg-0lax"><center>E - Open House Live Talk Show Session 1</center></td>
+	<td class="tg-0lax"><center>E - Open House Live Talk Show Session 2</center></td>
   </tr>
 </tbody>
 </table>
