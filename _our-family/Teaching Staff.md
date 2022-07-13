@@ -397,7 +397,7 @@ Flexi Adjunct (English Language)</center></td>
     <td class="tg-0lax"><center><img src="/images/math5.jpeg"></center></td>
     <td class="tg-baqh"><center></center><a href="mailto:seah_chin_kiong@schools.gov.sg" target="">Mr Francis Seah Chin Kiong&nbsp;</a><br>HOD / Disclipine</td>
     <td class="tg-0lax"><center><img src="/images/math6.jpg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:lee_ngean_khim@schools.gov.sg" target="">Mr Lee Ngean Khim, Andy</a><br>Year Head<br>(Upper Sec)</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><img src="/images/math7.jpeg"></center></td>
