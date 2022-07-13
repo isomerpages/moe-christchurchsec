@@ -385,9 +385,9 @@ Flexi Adjunct (English Language)</center></td>
 <tbody>
   <tr>
 		<td class="tg-0lax"><center><img src="/images/math1.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:wong_sandy@schools.gov.sg" target="">Ms Sandy Wong</a>&nbsp;</span><br />HOD / Mathematics</center></td>
     <td class="tg-0lax"><center><img src="/images/math2.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:low_qiucen_shaun@schools.gov.sg" target="">Mdm Low Qiucen, Shaun</a>&nbsp;</span><br />SH / Student Leadership</center></td>
     <td class="tg-0lax"><center><img src="/images/math3.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
@@ -433,4 +433,3 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
 </tbody>
 </table>
-
