@@ -125,3 +125,30 @@ Do check out the recording of the session we have on 20th November 2021.
   </tr>
 </tbody>
 </table>
+
+# E-Open House 2020
+
+Thank you for making our first ever E-Open House a SUCCESS!  
+  
+We hope you have gained valuable insights into our school programme. Do check out the recordings of our E-Open House if you have missed it on 21st November 2020:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0lax"><iframe width="300" height="215" src="https://www.youtube.com/embed/lKYIK8QST4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe></td>
+    <td class="tg-0lax"><iframe width="300" height="215" src="https://www.youtube.com/embed/gNrkr264FRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">   E - Open House Live Talk Show Session 1</td>
+    <td class="tg-0lax">   E - Open House Live Talk Show Session 2</td>
+  </tr>
+</tbody>
+</table>
