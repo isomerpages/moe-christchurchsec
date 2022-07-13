@@ -33,11 +33,11 @@ In Christ Church Secondary School, you will learn to understand the needs and pe
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<table class="tg" style="undefined;table-layout: fixed; width: 795px">
 <colgroup>
-<col style="width: 250px">
-<col style="width: 250px">
-<col style="width: 250px">
+<col style="width: 265px">
+<col style="width: 265px">
+<col style="width: 265px">
 </colgroup>
 <tbody>
   <tr>
