@@ -275,9 +275,9 @@ Flexi Adjunct (English Language)</center></td>
 		<td class="tg-0lax"><center><img src="/images/MTC1.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:lai_meei_ju@schools.gov.sg" target="">Mdm Lai Meei Ju</a><br />HOD / Mother Tongue Language</center></td>
     <td class="tg-0lax"><center></center><img src="/images/MTC2.jpg"></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:choo_soo_yang@schools.gov.sg" target="">Mdm Choo Soo Yang, Mandy</a><br />SH / Discipline</center></td>
     <td class="tg-0lax"><center></center><img src="/images/MTC3.jpeg"></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center></center><a href="mailto:guangyi_gavin_chong@schools.gov.sg" target="">Mr Chong Guangyi, Gavin </a><br />SH / Chinese Language &amp;&nbsp;Literature</td>
   </tr>
   <tr>
     <td class="tg-0lax"><center></center><img src="/images/MTC4.jpeg"></td>
