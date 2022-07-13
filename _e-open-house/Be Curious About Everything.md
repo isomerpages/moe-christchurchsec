@@ -51,11 +51,14 @@ In Christ Church Secondary School, you will be a confident learner who is able t
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/curious1(1).png"></td>
-    <td class="tg-0lax"><img src="/images/curious2(1).png"></td>
-    <td class="tg-0lax"><img src="/images/curious3(1).png"></td>
+   <td class="tg-0lax"><img src="/images/curious1(1).png"></td>
+   <td class="tg-0lax"><img src="/images/curious2(1).png"></td>
+   <td class="tg-0lax"><img src="/images/curious3(1).png"></td>
   </tr>
+</tbody>
 </table>
+
+
 
 <center><strong><em>YOU are a SKILLED LEARNER</em></strong></center>
 
