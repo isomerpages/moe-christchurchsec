@@ -353,9 +353,9 @@ Flexi Adjunct (English Language)</center></td>
 <tbody>
   <tr>
     <td class="tg-0lax"><center><img src="/images/MTT1.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:thilagavathy_kathiresan@schools.gov.sg" target="">Mdm Thilagavathy Kathiresan</a><br>SH / Tamil Language</center></td>
     <td class="tg-0lax"><center><img src="/images/MTT2.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center>Ms Ravathi D/O Gunasegaran<br>Tamil Language &<br>Tamil Literature</center></td>
     <td class="tg-0lax"><center><img src="/images/MTT3.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
