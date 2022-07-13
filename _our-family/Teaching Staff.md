@@ -425,7 +425,7 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center>(INSERT IMAGE)</center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:ter_mei_lan_elizabeth@schools.gov.sg" target="">Mdm Ter Mei Lan, Elizabeth</a><br>AED / T&amp;L</center></td>
     <td class="tg-0lax"></td>
     <td class="tg-baqh"></td>
     <td class="tg-0lax"></td>
