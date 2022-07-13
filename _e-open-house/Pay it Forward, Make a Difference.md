@@ -3,6 +3,8 @@ title: Pay it Forward, Make a Difference
 permalink: /e-open-house/pay-it-forward-make-a-difference
 description: ""
 ---
+![](/images/yawwah%20banner.png)
+
 In Christ Church Secondary School, you will learn to understand the needs and perspectives of others around you. Through your journey to become a purposeful leader, you will initiate and seize opportunities to positively impact the lives of others.
 
 ***“The highlight was seeing the locals beam with happiness and gratitude. Some of them told me it was their first pair of spectacles, so it meant a lot to them. Seeing how our contributions have impacted someone’s life filled me with a sense of humility.”***    
@@ -77,4 +79,3 @@ In Christ Church Secondary School, you will learn to understand the needs and pe
 # Come and witness your generosity change lives!
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/5J4m_xekLMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
