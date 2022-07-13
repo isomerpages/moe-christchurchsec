@@ -2,5 +2,6 @@ collections:
   e-open-house:
     output: true
     order:
+      - Become the Best Version of Yourself.md
       - Pay it Forward, Make a Difference.md
       - Be Curious About Everything.md
