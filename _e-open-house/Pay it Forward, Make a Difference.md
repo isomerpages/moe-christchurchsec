@@ -21,3 +21,7 @@ In Christ Church Secondary School, you will learn to understand the needs and pe
 </div>
 </div>
 
+<br>
+
+<center><strong><em>Staying connected to the COMMUNITY</em></strong></center>
+
