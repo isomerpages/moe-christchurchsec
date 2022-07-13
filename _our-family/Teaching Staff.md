@@ -206,9 +206,9 @@ description: ""
     <td class="tg-0lax"><img src="/images/ED1.jpeg"></td>
     <td class="tg-baqh"><center><a href="mailto:seah_jiemin@schools.gov.sg">Ms Seah Jiemin</a><br>HOD/English Language</center></td>
     <td class="tg-0lax"><img src="/images/ED2.jpeg"></td>
-    <td class="tg-baqh"><center><a href="mailto:ng_qin_lin_angeline@moe.edu.sg" target="">Mdm Ng Qin Lin Angeline</a><br />Year Head<br />(Lower Sec)</center></td>
+    <td class="tg-baqh"><center><a href="mailto:ng_qin_lin_angeline@moe.edu.sg" target="">Mdm Ng Qin Lin, Angeline</a><br />Year Head<br />(Lower Sec)</center></td>
     <td class="tg-0lax"><img src="/images/ED3.jpeg"></td>
-    <td class="tg-baqh">test</td>
+    <td class="tg-baqh"><center><a href="mailto:nurul_jannah_ishak@schools.gov.sg" target="">Ms NurulJannah Binte Ishak&nbsp;</a><br />SH / English Language</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/ED4.jpg"></td>
