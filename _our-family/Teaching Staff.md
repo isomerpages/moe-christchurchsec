@@ -183,38 +183,6 @@ description: ""
 
 <br>
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 720px">
-<colgroup>
-<col style="width: 90px">
-<col style="width: 150px">
-<col style="width: 90px">
-<col style="width: 150px">
-<col style="width: 90px">
-<col style="width: 150px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-0lax">test</td>
-    <td class="tg-0lax">test</td>
-    <td class="tg-0lax">test</td>
-    <td class="tg-0lax">test</td>
-    <td class="tg-0lax">test</td>
-    <td class="tg-0lax">test</td>
-  </tr>
-</tbody>
-</table>
-
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -237,9 +205,9 @@ description: ""
   <tr>
     <td class="tg-0lax"><img src="/images/ED1.jpeg"></td>
     <td class="tg-baqh"><center><a href="mailto:seah_jiemin@schools.gov.sg">Ms Seah Jiemin</a><br>HOD/English Language</center></td>
-    <td class="tg-0lax">test</td>
+    <td class="tg-0lax"><img src="/images/ED2.jpeg"></td>
     <td class="tg-baqh">test</td>
-    <td class="tg-0lax">test</td>
+    <td class="tg-0lax"><img src="/images/ED3.jpeg"></td>
     <td class="tg-baqh">test</td>
   </tr>
   <tr>
