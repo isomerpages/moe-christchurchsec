@@ -281,7 +281,7 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><img src="/images/MTC4.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:ang_sze_yi@schools.gov.sg" target="">Mdm Ang Sze Yi</a><br />Chinese Language</center></td>
+    <td class="tg-baqh"><center><a href="mailto:ang_sze_yi@schools.gov.sg" target="">Mdm Ang<br>Sze Yi</a><br />Chinese Language</center></td>
     <td class="tg-0lax"><center><img src="/images/MTC5.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:nur_fareesha_mazlan@moe.edu.sg" target="">Ms Teoh Shao Cing</a><br />Chinese Language</center></td>
     <td class="tg-0lax"><center><img src="/images/MTC6.jpeg"></center></td>
