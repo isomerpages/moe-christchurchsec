@@ -214,7 +214,7 @@ description: ""
   <tr>
 		<center>
     <td class="tg-0lax"><img src="/images/ED4.jpg"></td>
-    <td class="tg-baqh">nost</td>
+    <td class="tg-baqh">test</td>
     <td class="tg-0lax"><img src="/images/ED5.jpeg"></td>
     <td class="tg-baqh"></td>
     <td class="tg-0lax"><img src="/images/ED6.jpeg"></td>
