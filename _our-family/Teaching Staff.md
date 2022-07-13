@@ -321,11 +321,11 @@ Flexi Adjunct (English Language)</center></td>
 <tbody>
   <tr>
 		<td class="tg-0lax"><center><img src="/images/MTM1.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:roslina_mahmood@schools.gov.sg" target="">Mdm Roslina Bte Mahmood</a><br />Malay Language</center></td>
     <td class="tg-0lax"><center><img src="/images/MTM2.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:rahimah_selamat@schools.gov.sg" target="">Mdm Rahimah Bte Selamat</a><br />Malay Language</center></td>
     <td class="tg-0lax"><center><img src="/images/MTM3.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:siti_nursyahidah_ideris@schools.gov.sg" target="">Mdm Siti Nursyahidah Binti Ideris</a><br />Malay Language</center></td>
   </tr>
 </tbody>
 </table>
