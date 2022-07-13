@@ -98,21 +98,21 @@ description: ""
 
 <a href = "/e-open-house/be-curious-about-everything" target = "_self"> 
           <img src="/images/bcae.png" 
-     style="width:45%">
+     style="width:35%">
 	</a>
 	
 <br>
 	
 <a href = "/e-open-house/pay-it-forward-make-a-difference" target = "_self"> 
           <img src="/images/pif.png" 
-							 style="width:45%">
+							 style="width:35%">
 	</a>
 	
 <br>				 
 							 
 <a href = "/e-open-house/become-the-best-version-of-yourself" target = "_self"> 
           <img src="/images/btbvoy.png" 
-     style="width:45%">
+     style="width:35%">
 	</a>
 
 
