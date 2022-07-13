@@ -216,27 +216,27 @@ description: ""
     <td class="tg-0lax"><img src="/images/ED5.jpeg"></td>
     <td class="tg-baqh"><center><a href="mailto:vernice_palai_velvizhi@schools.gov.sg" target="">Mdm Vernice Palai Velvizhi</a><br>English Language & Literature</center></td>
     <td class="tg-0lax"><img src="/images/ED6.jpeg"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><center><a href="mailto:maryam_mohammad_sesth@schools.gov.sg" target="">Ms Maryam Binte Mohammad Sesth</a><br />English Language&nbsp;&amp; Literature</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/ED7.jpeg"></td>
-    <td class="tg-baqh"></td>
+		<td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><img src="/images/ED8.jpeg"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><img src="/images/ED9.jpeg"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><center></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/ED10.jpeg"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><img src="/images/ED11.jpeg"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><img src="/images/ED12.jpeg"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><center></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/ED13.jpeg"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"></td>
     <td class="tg-baqh"></td>
     <td class="tg-0lax"></td>
