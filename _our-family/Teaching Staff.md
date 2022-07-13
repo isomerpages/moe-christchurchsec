@@ -289,11 +289,11 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><img src="/images/MTC7.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:nur_fareesha_mazlan@moe.edu.sg" target="">Ms Tan Soh Leng</a><br>Chinese Language</center></td>
     <td class="tg-0lax"><center><img src="/images/MTC8.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center>Ms Tong WenXu<br>Chinese Language</center></td>
     <td class="tg-0lax"><center><img src="/images/MTC9.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:yuan_xuelian@schools.gov.sg" target="">Ms Yuan Xuelian</a><br />Chinese Language</center></td>
   </tr>
 </tbody>
 </table>
