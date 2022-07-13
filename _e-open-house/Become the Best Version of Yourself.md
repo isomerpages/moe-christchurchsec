@@ -27,7 +27,7 @@ In Christ Church Secondary School, you will experience a strong school culture o
 
 <br>
 
-***“I discovered an interesting fact from the talk that I attended! The word 'hospitality' originated from a French word 'hospice', which means ‘rest house for travellers’. I had some insights into hotel management, and how it involves a lot of people taking on various roles behind the scenes.” ***
+***“I discovered an interesting fact from the talk that I attended! The word 'hospitality' originated from a French word 'hospice', which means ‘rest house for travellers’. I had some insights into hotel management, and how it involves a lot of people taking on various roles behind the scenes.”***
 
 <div>
 <div style="float: right">
