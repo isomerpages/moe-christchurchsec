@@ -27,7 +27,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ku5w"><br><br><br><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:tan_suan_swee_ashley@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00"><br><br><br><br>Mr Tan Suan Swee, Ashley</span></a><br><span style="color:#222;background-color:#EAEAEA">ST / History</span><br></td>
+    <td class="tg-ku5w"><br><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:tan_suan_swee_ashley@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00"><br><br><br><br>Mr Tan Suan Swee, Ashley</span></a><br><span style="color:#222;background-color:#EAEAEA">ST / History</span><br></td>
     <td class="tg-ii8k"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u690/Department/English/betty.jpg" alt="betty.jpg" width="86" height="115"><br><a href="mailto:koh_piah_teah@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Mdm Koh Piah Teah, Betty </span></a><br>ST /  Mathematics</td>
     <td class="tg-ii8k"><img src="https://christchurchsec.moe.edu.sg/qql/slot/u690/Staff/leow.jpg" alt="leow.jpg" width="86" height="115"><br><a href="mailto:leow_swee_khim@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FF7E00">Ms Leow Swee Khim</span></a><br>ST /  Mathematics  <span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
