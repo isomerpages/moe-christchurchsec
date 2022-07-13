@@ -199,8 +199,8 @@ description: ""
 <col style="width: 135px">
 <col style="width: 100px">
 <col style="width: 135px">
-<col style="width: 110px">
 <col style="width: 100px">
+<col style="width: 135px">
 </colgroup>
 <tbody>
   <tr>
