@@ -96,17 +96,19 @@ description: ""
 
 ![](/images/yawwah.png)
 
-<a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg" 
+<a href = "/e-open-house/be-curious-about-everything" target = "_self"> 
+          <img src="/images/bcae.png" 
      style="width:45%">
 	</a>
+	
+	<br>
 	
 <a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
           <img src="/images/OLevel2019.jpeg" 
 							 style="width:45%">
 	</a>
 	
-							 
+					 
 							 
 <a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
           <img src="/images/OLevel2019.jpeg" 
@@ -168,4 +170,3 @@ We hope you have gained valuable insights into our school programme. Do check ou
   </tr>
 </tbody>
 </table>
-
