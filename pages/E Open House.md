@@ -68,9 +68,11 @@ description: ""
 
 
 #  School Prospect
-
 <h3> Come find out where the CHR journey will take you! </h3>
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv39cDC5Litkdpytp7RA73rkTpa5TUDcRK9ZeNveLb0eQ8N0O3xPQtkMirUPnYFz6JVNYVOzhqGoY6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
+# Our Students
+
+<iframe width="1150" height="415" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
