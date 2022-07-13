@@ -97,3 +97,31 @@ description: ""
 ![](/images/yawwah.png)
 
 (three button links)
+
+
+# E-Open House 2021
+
+We were delighted to share and answer your questions during our Chit Chat session.
+
+Do check out the recording of the session we have on 20th November 2021.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0lax"><iframe width="300" height="215" src="https://www.youtube.com/embed/MqLoZevRe-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td class="tg-0lax"><iframe width="300" height="215" src="https://www.youtube.com/embed/MqLoZevRe-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">E - Open House Live Talk Show Session 1</td>
+    <td class="tg-0lax">E - Open House Live Talk Show Session 2</td>
+  </tr>
+</tbody>
+</table>
