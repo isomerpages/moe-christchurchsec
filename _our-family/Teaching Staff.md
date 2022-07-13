@@ -222,14 +222,14 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 780px">
+<table class="tg" style="undefined;table-layout: fixed; width: 840px">
 <colgroup>
-<col style="width: 100px">
-<col style="width: 160px">
-<col style="width: 100px">
-<col style="width: 160px">
-<col style="width: 100px">
-<col style="width: 160px">
+<col style="width: 110px">
+<col style="width: 170px">
+<col style="width: 110px">
+<col style="width: 170px">
+<col style="width: 110px">
+<col style="width: 170px">
 </colgroup>
 <tbody>
   <tr>
