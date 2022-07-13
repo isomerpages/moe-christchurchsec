@@ -228,9 +228,9 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><center><img src="/images/ED10.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:rusydiah_abdul_razak@schools.gov.sg" target="">Ms Rusydiah Binte Abdul Razak</a><br />English Language &amp;&nbsp;Social Studies</center></td>
     <td class="tg-0lax"><center><img src="/images/ED11.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:boon_wen_sin@schools.gov.sg" target="">Ms Boon Wen Xi, Regina </a><br>English Language&nbsp;&amp; Literature</center></td>
     <td class="tg-0lax"><center><img src="/images/ED12.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
