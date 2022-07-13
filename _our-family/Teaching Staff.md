@@ -420,11 +420,11 @@ Flexi Adjunct (English Language)</center></td>
     <td class="tg-baqh"><center><a href="mailto:nur_fareesha_mazlan@moe.edu.sg" target="">Ms</a>&nbsp;<a href="mailto:chew_pei_pei_wendy@schools.gov.sg" target="">Chew Pei Pei Wendy</a><br>Principles of Accounts</center></td>
     <td class="tg-0lax"><center><img src="/images/math14.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:tan_zhi_lie@schools.gov.sg" target="">Mr Tan Zhi Lie</a><br />Mathematics &amp; Physics</center></td>
-    <td class="tg-0lax"><center>(NO IMAGE)</center></td>
+    <td class="tg-0lax"><center>(insert image)</center></td>
     <td class="tg-baqh"><center><a href="mailto:tan_li_ping_a@schools.gov.sg" target="">Mdm Tan Li Ping</a><br>Flexi Adjunct<br>(Principles of Accounts)</center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center>(INSERT IMAGE)</center></td>
+    <td class="tg-0lax"><center>(insert image)</center></td>
     <td class="tg-baqh"><center><a href="mailto:ter_mei_lan_elizabeth@schools.gov.sg" target="">Mdm Ter Mei Lan, Elizabeth</a><br>AED / T&amp;L</center></td>
     <td class="tg-0lax"></td>
     <td class="tg-baqh"></td>
