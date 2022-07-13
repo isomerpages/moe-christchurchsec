@@ -96,7 +96,23 @@ description: ""
 
 ![](/images/yawwah.png)
 
-(three button links)
+<a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg" 
+     style="width:45%">
+	</a>
+	
+<a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg" 
+							 style="width:45%">
+	</a>
+	
+							 
+							 
+<a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg" 
+     style="width:45%">
+	</a>
+
 
 
 # E-Open House 2021
@@ -152,3 +168,4 @@ We hope you have gained valuable insights into our school programme. Do check ou
   </tr>
 </tbody>
 </table>
+
