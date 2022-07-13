@@ -51,9 +51,9 @@ In Christ Church Secondary School, you will be a confident learner who is able t
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src=images/curious1.jpeg></td>
-    <td class="tg-0lax"><img src=images/curious2.jpeg></td>
-    <td class="tg-0lax"><img src=images/curious3.jpeg></td>
+    <td class="tg-0lax"><img src=/images/curious1.jpeg></td>
+    <td class="tg-0lax"><img src=/images/curious2.jpeg></td>
+    <td class="tg-0lax"><img src=/images/curious3.jpeg></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center>Students applying what they have learnt during a Science Trail at Lower Seletar Reservoir</center></td>
@@ -62,5 +62,7 @@ In Christ Church Secondary School, you will be a confident learner who is able t
   </tr>
 </tbody>
 </table>
+
+<img src=/images/curious1.jpeg>
 
 <center><strong><em>YOU are a SKILLED LEARNER</em></strong></center>
