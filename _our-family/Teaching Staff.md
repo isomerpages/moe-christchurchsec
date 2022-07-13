@@ -401,9 +401,9 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><img src="/images/math7.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:koh_piah_teah@schools.gov.sg" target="">Mdm Koh Piah Teah, Betty</a><br />ST / Mathematics</center></td>
     <td class="tg-0lax"><center><img src="/images/math8.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:leow_swee_khim@schools.gov.sg" target="">Ms Leow Swee Khim&nbsp;</a><br />ST / Mathematics</center></td>
     <td class="tg-0lax"><center><img src="/images/math9.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
