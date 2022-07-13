@@ -103,15 +103,15 @@ description: ""
 	
 <br>
 	
-<a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg" 
+<a href = "/e-open-house/pay-it-forward-make-a-difference" target = "_self"> 
+          <img src="/images/pif.png" 
 							 style="width:45%">
 	</a>
 	
 <br>				 
 							 
-<a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg" 
+<a href = "/e-open-house/become-the-best-version-of-yourself" target = "_self"> 
+          <img src="/images/btbvoy.png" 
      style="width:45%">
 	</a>
 
