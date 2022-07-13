@@ -51,16 +51,10 @@ In Christ Church Secondary School, you will be a confident learner who is able t
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/curious1.jpeg"></td>
-    <td class="tg-0lax"><img src="/images/curious2.jpeg"></td>
-    <td class="tg-0lax"><img src="/images/curious3.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/curious1(1).png"></td>
+    <td class="tg-0lax"><img src="/images/curious2(1).png"></td>
+    <td class="tg-0lax"><img src="/images/curious3(1).png"></td>
   </tr>
-  <tr>
-    <td class="tg-0lax"><center>Students applying what they have learnt during a Science Trail at Lower Seletar Reservoir</center></td>
-		<td class="tg-0lax"><center>Students learning Mathematical concepts through games!</center></td>
-    <td class="tg-0lax"><center>Students learning to appreciate Chinese culture through a tea appreciation activity</center></td>
-  </tr>
-</tbody>
 </table>
 
 <center><strong><em>YOU are a SKILLED LEARNER</em></strong></center>
@@ -73,11 +67,11 @@ In Christ Church Secondary School, you will be a confident learner who is able t
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 615px">
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
 <colgroup>
-<col style="width: 205px">
-<col style="width: 205px">
-<col style="width: 205px">
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
 </colgroup>
 <tbody>
   <tr>
