@@ -64,4 +64,3 @@ In Christ Church Secondary School, you will be a confident learner who is able t
 </table>
 
 <center><strong><em>YOU are a SKILLED LEARNER</em></strong></center>
-
