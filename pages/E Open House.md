@@ -101,14 +101,14 @@ description: ""
      style="width:45%">
 	</a>
 	
-	<br>
+<br>
 	
 <a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
           <img src="/images/OLevel2019.jpeg" 
 							 style="width:45%">
 	</a>
 	
-					 
+<br>				 
 							 
 <a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
           <img src="/images/OLevel2019.jpeg" 
