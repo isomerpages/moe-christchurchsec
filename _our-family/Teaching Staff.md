@@ -236,7 +236,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/images/ED1.jpeg"></td>
-    <td class="tg-baqh"><a href="mailto:seah_jiemin@schools.gov.sg">Ms Seah Jiemin</a><br>HOD/English Language</td>
+    <td class="tg-baqh"><center><a href="mailto:seah_jiemin@schools.gov.sg">Ms Seah Jiemin</a><br>HOD/English Language</center></td>
     <td class="tg-0lax">test</td>
     <td class="tg-baqh">test</td>
     <td class="tg-0lax">test</td>
