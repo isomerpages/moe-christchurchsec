@@ -232,7 +232,8 @@ description: ""
     <td class="tg-0lax"><center><img src="/images/ED11.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:boon_wen_sin@schools.gov.sg" target="">Ms Boon Wen Xi, Regina </a><br>English Language&nbsp;&amp; Literature</center></td>
     <td class="tg-0lax"><center><img src="/images/ED12.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:goh_seok_yee@schools.gov.sg" target="">Mdm Goh Seok Yee, Agnes</a><a href="mailto:goh_seok_yee@schools.gov.sg" target=""></a><br>
+Flexi Adjunct (English Language)</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><img src="/images/ED13.jpeg"></center></td>
