@@ -203,39 +203,39 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/ED1.jpeg"></td>
+		<td class="tg-0lax"><center><img src="/images/ED1.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:seah_jiemin@schools.gov.sg">Ms Seah Jiemin</a><br>HOD/English Language</center></td>
-    <td class="tg-0lax"><img src="/images/ED2.jpeg"></td>
+    <td class="tg-0lax"><center><img src="/images/ED2.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:ng_qin_lin_angeline@moe.edu.sg" target="">Mdm Ng Qin Lin, Angeline</a><br />Year Head<br />(Lower Sec)</center></td>
-    <td class="tg-0lax"><img src="/images/ED3.jpeg"></td>
+    <td class="tg-0lax"><center><img src="/images/ED3.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:nurul_jannah_ishak@schools.gov.sg" target="">Ms Nurul Jannah Binte Ishak&nbsp;</a><br />SH / English Language</center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/ED4.jpg"></td>
+    <td class="tg-0lax"><center><img src="/images/ED4.jpg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:TAN_Chai_Hok@schools.gov.sg" target="">Mr Tan Chai Hok</a><br />LT / English Language</center></td>
-    <td class="tg-0lax"><img src="/images/ED5.jpeg"></td>
+    <td class="tg-0lax"><center><img src="/images/ED5.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:vernice_palai_velvizhi@schools.gov.sg" target="">Mdm Vernice Palai Velvizhi</a><br>English Language & Literature</center></td>
-    <td class="tg-0lax"><img src="/images/ED6.jpeg"></td>
+    <td class="tg-0lax"><center><img src="/images/ED6.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:maryam_mohammad_sesth@schools.gov.sg" target="">Ms Maryam Binte Mohammad Sesth</a><br />English Language&nbsp;&amp; Literature</center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/ED7.jpeg"></td>
+    <td class="tg-0lax"><center><img src="/images/ED7.jpeg"></center></td>
 		<td class="tg-baqh"><center><a href="mailto:oh_yen_ping_sarah@schools.gov.sg" target="">Ms Oh Yen Ping, Sarah</a><br />English Language &amp; Geography</center></td>
-    <td class="tg-0lax"><img src="/images/ED8.jpeg"></td>
+    <td class="tg-0lax"><center><img src="/images/ED8.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:verona_rhamanan@schools.gov.sg" target="">Ms Verona d/o Rhamanan</a><br />English Language &amp;&nbsp;EBS</center></td>
-    <td class="tg-0lax"><img src="/images/ED9.jpeg"></td>
+    <td class="tg-0lax"><center><img src="/images/ED9.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:verona_rhamanan@schools.gov.sg" target="">Ms Verona d/o Rhamanan</a><br />English Language &amp;&nbsp;EBS</center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/ED10.jpeg"></td>
+    <td class="tg-0lax"><center><img src="/images/ED10.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><img src="/images/ED11.jpeg"></td>
+    <td class="tg-0lax"><center><img src="/images/ED11.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><img src="/images/ED12.jpeg"></td>
+    <td class="tg-0lax"><center><img src="/images/ED12.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/ED13.jpeg"></td>
+    <td class="tg-0lax"><center><img src="/images/ED13.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"></td>
     <td class="tg-baqh"></td>
