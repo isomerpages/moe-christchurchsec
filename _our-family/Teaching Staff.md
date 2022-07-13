@@ -183,6 +183,7 @@ description: ""
 
 <br>
 
+<center>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -211,12 +212,14 @@ description: ""
     <td class="tg-baqh"><center><a href="mailto:nurul_jannah_ishak@schools.gov.sg" target="">Ms NurulJannah Binte Ishak&nbsp;</a><br />SH / English Language</center></td>
   </tr>
   <tr>
+		<center>
     <td class="tg-0lax"><img src="/images/ED4.jpg"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">nost</td>
     <td class="tg-0lax"><img src="/images/ED5.jpeg"></td>
     <td class="tg-baqh"></td>
     <td class="tg-0lax"><img src="/images/ED6.jpeg"></td>
     <td class="tg-baqh"></td>
+		</center>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/ED7.jpeg"></td>
@@ -244,3 +247,4 @@ description: ""
   </tr>
 </tbody>
 </table>
+</center>
