@@ -34,3 +34,17 @@ In Christ Church Secondary School, you will experience a strong school culture o
 - Charis Seow, on the Sec 3 Education and Career Guidance (ECG) Programme 
 </div>
 </div>
+
+<br>
+
+<center><strong><em>Appreciating who YOU are</center></strong></em>
+
+![](/images/appreciate.png)
+
+<center><strong><em>Chart YOUR own FUTURE</center></strong></em>
+
+![](/images/cyof.png)
+
+#  Come see how you can be the Architect of Your Life
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/J2eHP0WGFK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
