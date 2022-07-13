@@ -212,14 +212,12 @@ description: ""
     <td class="tg-baqh"><center><a href="mailto:nurul_jannah_ishak@schools.gov.sg" target="">Ms Nurul Jannah Binte Ishak&nbsp;</a><br />SH / English Language</center></td>
   </tr>
   <tr>
-		<center>
     <td class="tg-0lax"><img src="/images/ED4.jpg"></td>
-    <td class="tg-baqh">test</td>
+    <td class="tg-baqh"><center><a href="mailto:TAN_Chai_Hok@schools.gov.sg" target="">Mr Tan Chai Hok</a><br />LT /&nbsp;English Language</center.</td>
     <td class="tg-0lax"><img src="/images/ED5.jpeg"></td>
     <td class="tg-baqh"></td>
     <td class="tg-0lax"><img src="/images/ED6.jpeg"></td>
     <td class="tg-baqh"></td>
-		</center>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/ED7.jpeg"></td>
