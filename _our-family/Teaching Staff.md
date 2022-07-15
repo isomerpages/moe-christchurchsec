@@ -474,7 +474,7 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><img src="/images/sci7.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:muhammad_khairulnizam@schools.gov.sg" target="">Mr Muhammad<br />Khairulnizam B A R&nbsp;</a><br />Chemistry &amp;&nbsp;Biology</center></td>
     <td class="tg-0lax"><center><img src="/images/sci8.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/sci9.jpeg"></center></td>
