@@ -597,8 +597,9 @@ Food & Consumer
 Education</center></td>
   </tr>
   <tr>
-		<td class="tg-0lax"><center>act 13</center></td>
-    <td class="tg-baqh"></td>
+		<td class="tg-0lax"><center>(no image)</center></td>
+    <td class="tg-baqh"><center>Ms Cindy Wong  
+			Music & Mathematics</center></td>
     <td class="tg-0lax"></td>
     <td class="tg-baqh"></td>
     <td class="tg-0lax"></td>
