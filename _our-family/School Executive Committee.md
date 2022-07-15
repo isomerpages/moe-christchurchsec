@@ -3,9 +3,6 @@ title: School Executive Committee
 permalink: /our-family/school-executive-committee
 description: ""
 ---
-
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -28,55 +25,55 @@ description: ""
   <tr>
 		<td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
 		<td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+    <td class="tg-0lax"><center><img src="/images/sec2.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+    <td class="tg-0lax"><center><img src="/images/sec3.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
  <tr>
-		<td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+		<td class="tg-0lax"><center><img src="/images/sec4.jpeg"></center></td>
 		<td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+    <td class="tg-0lax"><center><img src="/images/sec5.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+    <td class="tg-0lax"><center><img src="/images/sec6.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
   <tr>
-		<td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+		<td class="tg-0lax"><center><img src="/images/sec7.jpeg"></center></td>
 		<td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+    <td class="tg-0lax"><center><img src="/images/sec8.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+    <td class="tg-0lax"><center><img src="/images/sec9.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
   <tr>
-		<td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+		<td class="tg-0lax"><center><img src="/images/sec10.jpeg"></center></td>
 		<td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+    <td class="tg-0lax"><center><img src="/images/sec11.jpg"></center></td>
     <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+    <td class="tg-0lax"><center><img src="/images/sec12.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
 <tr>
-		<td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+		<td class="tg-0lax"><center><img src="/images/sec13.jpeg"></center></td>
 		<td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+    <td class="tg-0lax"><center><img src="/images/sec14.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+    <td class="tg-0lax"><center><img src="/images/sec15.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
  <tr>
-		<td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+		<td class="tg-0lax"><center><img src="/images/sec16.jpg"></center></td>
 		<td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+    <td class="tg-0lax"><center><img src="/images/sec17.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+    <td class="tg-0lax"><center><img src="/images/sec18.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
 	<tr>
-		<td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+		<td class="tg-0lax"><center><img src="/images/sec19.jpeg"></center></td>
 		<td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+    <td class="tg-0lax"><center><img src="/images/sec20.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
