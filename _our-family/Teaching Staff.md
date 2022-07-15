@@ -526,15 +526,15 @@ Flexi Adjunct (English Language)</center></td>
 		<td class="tg-0lax"><center><img src="/images/PE4.jpeg"></center></td>
 		<td class="tg-baqh"><center><a href="mailto:sheereen_loke_kit_ying@schools.gov.sg" target="">Ms Loke Kit <br />Ying, Sheereen</a><br />Physical Education<br />&amp; English Language</center></td>
 		<td class="tg-0lax"><center><img src="/images/PE5.jpeg"></center></td>
-		<td class="tg-baqh"><center></center></td>
+		<td class="tg-baqh"><center><a href="mailto:hu_chang_chuan@schools.gov.sg" target="">Mr Hu Chang Chuan</a><br />Physical Education</center></td>
 		<td class="tg-0lax"><center><img src="/images/PE6.jpeg"></center></td>
-		<td class="tg-baqh"><center></center></td>
+		<td class="tg-baqh"><center><a href="mailto:yap_choon_bock@schools.gov.sg" target="">Mr Yap Choon Bock&nbsp;</a><br />Physical Education &amp; CPA</center></td>
   </tr>
     <tr>
 		<td class="tg-0lax"><center><img src="/images/PE7.jpeg"></center></td>
-		<td class="tg-baqh"><center></center></td>
+		<td class="tg-baqh"><center><a href="mailto:kok_huoo_shing@schools.gov.sg" target="">Mr David Kok Huoo Shing</a><br />Relief Teacher<br />(OE)&nbsp;</center></td>
 		<td class="tg-0lax"><center><img src="/images/PE8.jpeg"></center></td>
-		<td class="tg-baqh"><center></center></td>
+		<td class="tg-baqh"><center><a href="mailto:wan_siew_hua@schools.gov.sg" target="">Mdm Wan Siew Hua </a>Flexi Adjunct (OE)</center></td>
 		<td class="tg-0lax"></td>
 		<td class="tg-baqh"></td>
   </tr>
