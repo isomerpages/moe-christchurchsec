@@ -22,8 +22,10 @@ description: ""
 																								 style="width:35%"><br><a href="mailto:Adrian_TAY@schools.gov.sg" target="">Mr Adrian Tay Juncheng</a><br />Principal</center></td>
   </tr>
   <tr>
-    <td class="tg-0lax">test</td>
-    <td class="tg-0lax"></td>
+		<td class="tg-0lax"><center><img src="/images/vp1.jpeg" 
+																								 style="width:55%"><br>Mdm Heng Eu Lin<br>Vice-Principal</center></td>
+		<td class="tg-0lax"><center><img src="/images/vp2.jpeg" 
+																								 style="width:55%"><br><a href="mailto:Adrian_TAY@schools.gov.sg" target="">Mr Adrian Tay Juncheng</a><br />Principal</center></td>
   </tr>
 </tbody>
 </table>
