@@ -642,7 +642,7 @@ Education</center></td>
 
 ST / History</center></td>
     <td class="tg-0lax"><center><img src="/images/hum5.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:tan_mui-in_amanda@schools.gov.sg" target="">Ms Tan Mui-In, Amanda</a><br />History &amp;<br />Social Studies</center></td>
     <td class="tg-0lax"><center><img src="/images/hum6.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
