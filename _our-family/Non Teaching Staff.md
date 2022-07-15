@@ -112,7 +112,7 @@ description: ""
     <td class="tg-0lax"><center><img src="/images/ES5.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:tang_yam_kwang@moe.edu.sg" target="">Mr Tang Yam Kwang, Vincent</a><br />Teacher Assistant (Discipline)</center></td>
     <td class="tg-0lax"><center><img src="/images/ES6.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:chee_chye_huat@moe.edu.sg" target="">Mr Chee Chye Huat, Richard</a><br />OE Coordinator</center></td>
   </tr>
 </tbody>
 </table>
