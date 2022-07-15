@@ -44,11 +44,11 @@ description: ""
     <td class="tg-0lax"><center><img src="/images/EAS8.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:fiona_lee_jih_yin@moe.edu.sg" target="">Ms Lee Jih Yi, Fiona</a><br />Technical Support Officer&nbsp;(Lab)</center></td>
     <td class="tg-0lax"><center><img src="/images/EAS9.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:chua_jie_xin@schools.gov.sg" target="">Ms Chua Jie Xin</a><br>Admin Executive (OE)</center></td>
   </tr>
   <tr>
 		<td class="tg-0lax"><center><img src="/images/EAS10.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:n_jayathi@moe.edu.sg" target="">Mdm N Jayathi</a><br>Operations Support Officer</center></td>
     <td class="tg-0lax"><center><img src="/images/EAS11.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/EAS12.jpeg"></center></td>
