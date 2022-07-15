@@ -534,7 +534,7 @@ Flexi Adjunct (English Language)</center></td>
 		<td class="tg-0lax"><center><img src="/images/PE7.jpeg"></center></td>
 		<td class="tg-baqh"><center><a href="mailto:kok_huoo_shing@schools.gov.sg" target="">Mr David Kok Huoo Shing</a><br />Relief Teacher<br />(OE)&nbsp;</center></td>
 		<td class="tg-0lax"><center><img src="/images/PE8.jpeg"></center></td>
-		<td class="tg-baqh"><center><a href="mailto:wan_siew_hua@schools.gov.sg" target="">Mdm Wan Siew Hua </a>Flexi Adjunct (OE)</center></td>
+		<td class="tg-baqh"><center><a href="mailto:wan_siew_hua@schools.gov.sg" target="">Mdm Wan Siew Hua </a><br>Flexi Adjunct (OE)</center></td>
 		<td class="tg-0lax"></td>
 		<td class="tg-baqh"></td>
   </tr>
