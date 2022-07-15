@@ -580,7 +580,7 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
   <tr>
 		<td class="tg-0lax"><center><img src="/images/ACT7.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center>Mr Zulkhairi Bin Zulkiflee<br />Art &amp; Crafts</center></td>
     <td class="tg-0lax"><center><img src="/images/ACT8.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/ACT9.jpeg"></center></td>
