@@ -58,9 +58,9 @@ description: ""
 		<td class="tg-0lax"><center><img src="/images/EAS13.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:poh_aik_teck@moe.edu.sg" target="">Mr Poh Aik Teck&nbsp;</a><br>Operations Support Officer</center></td>
     <td class="tg-0lax"><center><img src="/images/EAS14.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:sim_seng_lee@moe.edu.sg" target="">Mr Sim Seng Lee</a><br />Operations Support Officer</center></td>
     <td class="tg-0lax"><center><img src="/images/EAS15.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center>Mdm Aminah Binte Mahmood (Mdm)<br />Operations Support Officer (Admin)</center></td>
   </tr>
   <tr>
 		<td class="tg-0lax"><center><img src="/images/EAS16.jpeg"></center></td>
