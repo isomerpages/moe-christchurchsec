@@ -32,9 +32,9 @@ description: ""
   </tr>
  <tr>
 		<td class="tg-0lax"><center>(no image)</center></td>
-		<td class="tg-baqh"><center></center></td>
+		<td class="tg-baqh"><center><a href="mailto:tan_suan_swee_ashley@schools.gov.sg" target="">Mr Tan Suan Swee, Ashley</a><br />ST / History</center></td>
     <td class="tg-0lax"><center><img src="/images/tl5.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:koh_piah_teah@schools.gov.sg" target="">Mdm Koh Piah Teah, Betty&nbsp;</a><br />ST / &nbsp;Mathematics</center></td>
     <td class="tg-0lax"><center><img src="/images/tl6.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
