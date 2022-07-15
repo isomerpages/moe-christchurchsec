@@ -470,7 +470,7 @@ Flexi Adjunct (English Language)</center></td>
     <td class="tg-0lax"><center><img src="/images/sci5.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:uma_devi_nadesvaran@schools.gov.sg" target="">Ms Uma Devi d/o Nadesvaran</a><br />ST / Physics</center></td>
     <td class="tg-0lax"><center><img src="/images/sci6.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:yun_yan_lynn_tang@schools.gov.sg" target="">Ms Tang Yun Yan, Lynn</a><br />Chemistry &amp; Biology</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><img src="/images/sci7.jpeg"></center></td>
