@@ -524,7 +524,7 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
     <tr>
 		<td class="tg-0lax"><center><img src="/images/PE4.jpeg"></center></td>
-		<td class="tg-baqh"><center></center></td>
+		<td class="tg-baqh"><center><a href="mailto:sheereen_loke_kit_ying@schools.gov.sg" target="">Ms Loke Kit <br />Ying, Sheereen</a><br />Physical Education<br />&amp; English Language</center></td>
 		<td class="tg-0lax"><center><img src="/images/PE5.jpeg"></center></td>
 		<td class="tg-baqh"><center></center></td>
 		<td class="tg-0lax"><center><img src="/images/PE6.jpeg"></center></td>
