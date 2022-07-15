@@ -40,7 +40,7 @@ description: ""
   </tr>
   <tr>
 		<td class="tg-0lax"><center><img src="/images/sec7.jpeg"></center></td>
-		<td class="tg-baqh"><center></center></td>
+		<td class="tg-baqh"><center><a href="mailto:wong_sandy@schools.gov.sg" target="">Ms Sandy Wong</a><br>HOD / Mathematics</center></td>
     <td class="tg-0lax"><center><img src="/images/sec8.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/sec9.jpeg"></center></td>
