@@ -478,7 +478,7 @@ Flexi Adjunct (English Language)</center></td>
     <td class="tg-0lax"><center><img src="/images/sci8.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:chong_mea_fun@schools.gov.sg" target="">Ms Chong Mea Fun&nbsp;</a><br />Science &amp; Chemistry</center></td>
     <td class="tg-0lax"><center><img src="/images/sci9.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:yeo_hanni@schools.gov.sg" target="">Mrs Goh &ndash; Yeo Hanni</a><br />Physics&nbsp;&amp; Mathematics</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><img src="/images/sci10.jpeg"></center></td>
