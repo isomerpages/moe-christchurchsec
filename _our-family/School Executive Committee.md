@@ -58,7 +58,7 @@ description: ""
 		<td class="tg-0lax"><center><img src="/images/sec13.jpeg"></center></td>
 		<td class="tg-baqh"><center><a href="mailto:huang_bojun_benjamin@schools.gov.sg" target="">Mr Huang Bojun, Benjamin</a><br />Asst. Year Head<br />(Lower Secondary)</center></td>
     <td class="tg-0lax"><center><img src="/images/sec14.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:nurul_aqidah_bte_shabudin@schools.gov.sg" target="">Ms Nurul Aqidah Binte Shabudin</a><br />SH / CCE</center></td>
     <td class="tg-0lax"><center><img src="/images/sec15.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
