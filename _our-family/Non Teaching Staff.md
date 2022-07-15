@@ -32,7 +32,7 @@ description: ""
   </tr>
   <tr>
 		<td class="tg-0lax"><center><img src="/images/EAS4.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:ismail_abu_bakar@schools.gov.sg" target="">Mr Ismail Abu Bakar</a><br>Corporate Support Officer</center></td>
     <td class="tg-0lax"><center><img src="/images/EAS5.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/EAS6.jpeg"></center></td>
