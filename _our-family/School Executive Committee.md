@@ -44,7 +44,7 @@ description: ""
     <td class="tg-0lax"><center><img src="/images/sec8.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:ho_chee_hoong@schools.gov.sg" target="">Mr Ho Chee Hoong</a><br />HOD / Physical Education &amp; CCA</center></td>
     <td class="tg-0lax"><center><img src="/images/sec9.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:yong_yock_kim@schools.gov.sg" target="">Mrs Amy Yap-Yong Yock Kim&nbsp;</a><br />School Staff Developer</center></td>
   </tr>
   <tr>
 		<td class="tg-0lax"><center><img src="/images/sec10.jpeg"></center></td>
