@@ -460,7 +460,7 @@ Flexi Adjunct (English Language)</center></td>
 		<td class="tg-0lax"><center><img src="/images/sci1.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:muhamad_firdaus_mohamed_yasin@schools.gov.sg" target="">Mr Muhamad<br>Firdaus Bin<br>Mohamed Yasin</a><br>Asst. Year Head (Upper Secondary)</center></td>
     <td class="tg-0lax"><center><img src="/images/sci2.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:huang_bojun_benjamin@schools.gov.sg" target="">Mr Benjamin <br>Huang Bojun</a><br />Biology &amp;<br />Mathematics</center></td>
     <td class="tg-0lax"><center><img src="/images/sci3.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
