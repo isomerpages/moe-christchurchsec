@@ -100,8 +100,8 @@ description: ""
 <tbody>
   <tr>
 		<td class="tg-0lax"><center><img src="/images/ES1.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/ES2.jpg"></center></td>
+    <td class="tg-baqh"><center>Mdm Quek Joo Huang<br>Kitchen Helper</center></td>
+    <td class="tg-0lax"><center>(no image)</center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/ES3.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
@@ -158,5 +158,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-
