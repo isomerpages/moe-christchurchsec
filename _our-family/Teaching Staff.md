@@ -492,7 +492,7 @@ Flexi Adjunct (English Language)</center></td>
 </table>
 
 
-<h3><center>Physical Education</center></h3>
+<h3><center>Physical Education Department</center></h3>
 
 
 <style type="text/css">
