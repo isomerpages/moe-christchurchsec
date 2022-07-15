@@ -42,7 +42,7 @@ description: ""
 		<td class="tg-0lax"><center><img src="/images/EAS7.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:muhammad_afiq_hamdan@schools.gov.sg" target="">Mr Muhammad Afiq Bin Hamdan</a><br>ICT Associate</center></td>
     <td class="tg-0lax"><center><img src="/images/EAS8.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:fiona_lee_jih_yin@moe.edu.sg" target="">Ms Lee Jih Yi, Fiona</a><br />Technical Support Officer&nbsp;(Lab)</center></td>
     <td class="tg-0lax"><center><img src="/images/EAS9.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
