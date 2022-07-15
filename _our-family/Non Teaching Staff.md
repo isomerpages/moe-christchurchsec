@@ -141,19 +141,11 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-		<td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+		<td class="tg-0lax"><center><img src="/images/counseller%201.jpg"></center></td>
     <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/EAS2.jpeg"></center></td>
+    <td class="tg-0lax"><center><img src="/images/counsellor%202.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/EAS3.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
-  </tr>
-  <tr>
-		<td class="tg-0lax"><center><img src="/images/EAS4.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/EAS5.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/EAS6.jpeg"></center></td>
+    <td class="tg-0lax"><center></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
 </tbody>
