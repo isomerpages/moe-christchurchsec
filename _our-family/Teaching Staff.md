@@ -584,7 +584,7 @@ Flexi Adjunct (English Language)</center></td>
     <td class="tg-0lax"><center><img src="/images/ACT8.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:nur_fareesha_mazlan@moe.edu.sg" target="">Ms Jenifer Stephanie A/P Paskaran</a><br />Food &amp; Consumer Education</center></td>
     <td class="tg-0lax"><center><img src="/images/ACT9.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:lai_liming@schools.gov.sg" target="">Ms Lai Liming</a><br />Arts &amp; Crafts</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><img src="/images/ACT10.jpeg"></center></td>
