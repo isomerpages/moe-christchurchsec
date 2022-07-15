@@ -637,8 +637,10 @@ Education</center></td>
     <td class="tg-baqh"><center><a href="mailto:nurul_aqidah_bte_shabudin@schools.gov.sg" target="">Ms Nurul Aqidah Bte Shabudin</a><br />History &amp; Social Studies</center></td>
   </tr>
   <tr>
-   <td class="tg-0lax"><center><img src="/images/hum4.jpeg"></center></td>
-		<td class="tg-baqh"><center></center></td>
+   <td class="tg-0lax"><center>no image</center></td>
+		<td class="tg-baqh"><center>Mr Tan Suan Swee, Ashley  
+
+ST / History</center></td>
     <td class="tg-0lax"><center><img src="/images/hum5.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/hum6.jpeg"></center></td>
