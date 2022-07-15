@@ -482,9 +482,9 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><img src="/images/sci10.jpeg"></center></td>
-    <td class="tg-0lax"><center></center></td>
+    <td class="tg-0lax"><center><a href="mailto:nur_fareesha_mazlan@moe.edu.sg" target="">Ms Ramiah Kamala Devi</a><br />Flexi Adjunct (Science)</center></td>
     <td class="tg-0lax"><center><img src="/images/sci11.jpeg"></center></td>
-    <td class="tg-0lax"><center></center></td>
+    <td class="tg-0lax"><center><a href="mailto:nurizzati_f_ayub@schools.gov.sg" target="">Mdm Nurizzati F Ayub&nbsp;</a><br />AED / T&amp;L&nbsp;</center></td>
     <td class="tg-0lax"><center></center></td>
     <td class="tg-0lax"><center></center></td>
   </tr>
