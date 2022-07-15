@@ -11,6 +11,7 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
+<center>
 <table class="tg" style="undefined;table-layout: fixed; width: 410px">
 <colgroup>
 <col style="width: 205px">
@@ -29,6 +30,7 @@ description: ""
   </tr>
 </tbody>
 </table>
+</center>
 
 
 <style type="text/css">
