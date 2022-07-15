@@ -458,7 +458,7 @@ Flexi Adjunct (English Language)</center></td>
 <tbody>
   <tr>
 		<td class="tg-0lax"><center><img src="/images/sci1.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:muhamad_firdaus_mohamed_yasin@schools.gov.sg" target="">Mr Muhamad<br>Firdaus Bin<br>Mohamed Yasin</a><br>Asst. Year Head (Upper Secondary)</center></td>
     <td class="tg-0lax"><center><img src="/images/sci2.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/sci3.jpeg"></center></td>
