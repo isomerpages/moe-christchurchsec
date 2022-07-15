@@ -540,3 +540,6 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
 </tbody>
 </table>
+
+<h3><center>Aesthetics, Craft & Technology Department</center></h3>
+
