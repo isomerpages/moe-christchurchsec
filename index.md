@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/christ church home.gif
-      button: Contact Us
-      url: /contact-us/
+      button: contact us
+      url: /our-school/contact-us/
       key_highlights:
         - title: Life @ CHR
           description: Our Publications
