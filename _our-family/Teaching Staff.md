@@ -468,7 +468,7 @@ Flexi Adjunct (English Language)</center></td>
     <td class="tg-0lax"><center><img src="/images/sci4.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:bek_jun_hao@schools.gov.sg" target="">Mr Bek Jun Hao&nbsp;&nbsp;</a><br>Physics&nbsp;<br>&amp; Mathematics</center></td>
     <td class="tg-0lax"><center><img src="/images/sci5.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:uma_devi_nadesvaran@schools.gov.sg" target="">Ms Uma Devi d/o Nadesvaran</a><br />ST / Physics</center></td>
     <td class="tg-0lax"><center><img src="/images/sci6.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
