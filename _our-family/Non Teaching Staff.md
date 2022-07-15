@@ -50,13 +50,13 @@ description: ""
 		<td class="tg-0lax"><center><img src="/images/EAS10.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:n_jayathi@moe.edu.sg" target="">Mdm N Jayathi</a><br>Operations Support Officer</center></td>
     <td class="tg-0lax"><center><img src="/images/EAS11.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:melorina_ahmad@moe.edu.sg" target="">Mdm Melorina Binte Ahmad</a><br />Operations Support Officer</center></td>
     <td class="tg-0lax"><center><img src="/images/EAS12.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:sng_siang_noi@moe.edu.sg" target="">Mdm Sng Siang Noii</a><br>Operations Support Officer</center></td>
   </tr>
   <tr>
 		<td class="tg-0lax"><center><img src="/images/EAS13.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:poh_aik_teck@moe.edu.sg" target="">Mr Poh Aik Teck&nbsp;</a><br>Operations Support Officer</center></td>
     <td class="tg-0lax"><center><img src="/images/EAS14.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/EAS15.jpeg"></center></td>
