@@ -36,11 +36,11 @@ description: ""
     <td class="tg-0lax"><center><img src="/images/EAS5.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:soh_guan_thong@moe.edu.sg" target="">Mr Soh Guan Thong&nbsp;</a><br />Technical Support Officer (DT)</center></td>
     <td class="tg-0lax"><center><img src="/images/EAS6.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:zainol_abidin_ariffin@moe.edu.sg" target="">Mr Zainol Abidin Bin Ariffin&nbsp;</a><br />Technical Support Officer (DT)</center></td>
   </tr>
  <tr>
 		<td class="tg-0lax"><center><img src="/images/EAS7.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:muhammad_afiq_hamdan@schools.gov.sg" target="">Mr Muhammad Afiq Bin Hamdan</a><br>ICT Associate</center></td>
     <td class="tg-0lax"><center><img src="/images/EAS8.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/EAS9.jpeg"></center></td>
