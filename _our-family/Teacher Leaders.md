@@ -28,7 +28,7 @@ description: ""
     <td class="tg-0lax"><center><img src="/images/tl2.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:juliza_zulkifli@schools.gov.sg" target="">Mdm&nbsp;Juliza Binte Zulkifli</a><br>ST / Biology</center></td>
     <td class="tg-0lax"><center><img src="/images/tl3.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:foon_lai_kuen@schools.gov.sg" target="">Mdm Chong-Foon Lai Kuen, Christabel</a><br />ST / Design and Technology</center></td>
   </tr>
  <tr>
 		<td class="tg-0lax"><center>(no image)</center></td>
@@ -48,6 +48,3 @@ description: ""
 	</tr>
 </tbody>
 </table>
-
-
-
