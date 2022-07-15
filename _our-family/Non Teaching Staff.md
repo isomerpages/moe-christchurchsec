@@ -144,7 +144,7 @@ description: ""
 		<td class="tg-0lax"><center><img src="/images/counseller%201.jpg"></center></td>
     <td class="tg-baqh"><center>Mdm Lithya d/o<br>Ranjendran<br>School Counsellor<br>(AED)</center></td>
     <td class="tg-0lax"><center><img src="/images/counsellor%202.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center>Mr Toh Huat<br>Peng, Benjamin<br>School Counsellor<br>(AED)</center></td>
     <td class="tg-0lax"><center></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
