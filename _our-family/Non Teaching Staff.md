@@ -31,104 +31,49 @@ description: ""
     <td class="tg-baqh"><center></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><img src="/images/math4.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:lim_yang_cherng@schools.gov.sg" target="">Mr Lim Yang Cherng</a><br>HOD / ICT</center></td>
-    <td class="tg-0lax"><center><img src="/images/math5.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:seah_chin_kiong@schools.gov.sg" target="">Mr Francis Seah Chin Kiong</a><br>HOD / Disclipine</center></td>
-    <td class="tg-0lax"><center><img src="/images/math6.jpg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:lee_ngean_khim@schools.gov.sg" target="">Mr Lee Ngean Khim, Andy</a><br>Year Head<br>(Upper Sec)</center></td>
+		<td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+  </tr>
+ <tr>
+		<td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><img src="/images/math7.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:koh_piah_teah@schools.gov.sg" target="">Mdm Koh Piah Teah, Betty</a><br />ST / Mathematics</center></td>
-    <td class="tg-0lax"><center><img src="/images/math8.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:leow_swee_khim@schools.gov.sg" target="">Ms Leow Swee Khim&nbsp;</a><br />ST / Mathematics</center></td>
-    <td class="tg-0lax"><center><img src="/images/math9.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:chan_sau_choy@schools.gov.sg" target="">Mr Chan Sau Choy Desmond </a><br />Mathematics &amp; CPA</center></td>
+		<td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><img src="/images/math10.jpeg"></center></td>
-    <td class="tg-0lax"><center><a href="mailto:chng_li_yao_leonard@schools.gov.sg" target="">Mr Chng&nbsp;Li Yao,&nbsp;Leonard</a><br>Principles of Accounts &amp; Mathematics</center></td>
-    <td class="tg-0lax"><center><img src="/images/math11.jpeg"></center></td>
-    <td class="tg-0lax"><center><a href="mailto:chye_yan_ping_jacqueline@schools.gov.sg" target="">Ms Chye Yan Ping Jacqueline</a><br />Mathematics &amp; Chemistry</center></td>
-    <td class="tg-0lax"><center><img src="/images/math12.jpeg"></center></td>
-    <td class="tg-0lax"><center><a href="mailto:ng_hwee_bin@schools.gov.sg" target="">Mdm Ng Hwee Bin</a><br />Mathematics&nbsp;&amp; EBS</center></td>
+		<td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><img src="/images/math13.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:nur_fareesha_mazlan@moe.edu.sg" target="">Ms</a>&nbsp;<a href="mailto:chew_pei_pei_wendy@schools.gov.sg" target="">Chew Pei Pei Wendy</a><br>Principles of Accounts</center></td>
-    <td class="tg-0lax"><center><img src="/images/math14.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:tan_zhi_lie@schools.gov.sg" target="">Mr Tan Zhi Lie</a><br />Mathematics &amp; Physics</center></td>
-    <td class="tg-0lax"><center>(insert image)</center></td>
-    <td class="tg-baqh"><center><a href="mailto:tan_li_ping_a@schools.gov.sg" target="">Mdm Tan Li Ping</a><br>Flexi Adjunct<br>(Principles of Accounts)</center></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><center>(insert image)</center></td>
-    <td class="tg-baqh"><center><a href="mailto:ter_mei_lan_elizabeth@schools.gov.sg" target="">Mdm Ter Mei Lan, Elizabeth</a><br>AED / T&amp;L</center></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-baqh"></td>
+		<td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
   </tr>
 </tbody>
 </table>
 
 
-<h3><center>Science Department</center></h3>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 825px">
-<colgroup>
-<col style="width: 115px">
-<col style="width: 160px">
-<col style="width: 115px">
-<col style="width: 160px">
-<col style="width: 115px">
-<col style="width: 160px">
-</colgroup>
-<tbody>
-  <tr>
-		<td class="tg-0lax"><center><img src="/images/sci1.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:muhamad_firdaus_mohamed_yasin@schools.gov.sg" target="">Mr Muhamad<br>Firdaus Bin<br>Mohamed Yasin</a><br>Asst. Year Head (Upper Secondary)</center></td>
-    <td class="tg-0lax"><center><img src="/images/sci2.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:huang_bojun_benjamin@schools.gov.sg" target="">Mr Benjamin <br>Huang Bojun</a><br />Biology &amp;<br />Mathematics</center></td>
-    <td class="tg-0lax"><center><img src="/images/sci3.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:juliza_zulkifli@schools.gov.sg" target="">Mdm Juliza Binte Zulkifli&nbsp;</a><br>ST / Biology</center></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><center><img src="/images/sci4.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:bek_jun_hao@schools.gov.sg" target="">Mr Bek Jun Hao&nbsp;&nbsp;</a><br>Physics&nbsp;<br>&amp; Mathematics</center></td>
-    <td class="tg-0lax"><center><img src="/images/sci5.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:uma_devi_nadesvaran@schools.gov.sg" target="">Ms Uma Devi d/o Nadesvaran</a><br />ST / Physics</center></td>
-    <td class="tg-0lax"><center><img src="/images/sci6.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:yun_yan_lynn_tang@schools.gov.sg" target="">Ms Tang Yun Yan, Lynn</a><br />Chemistry &amp; Biology</center></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><center><img src="/images/sci7.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:muhammad_khairulnizam@schools.gov.sg" target="">Mr Muhammad<br />Khairulnizam B A R&nbsp;</a><br />Chemistry &amp;&nbsp;Biology</center></td>
-    <td class="tg-0lax"><center><img src="/images/sci8.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:chong_mea_fun@schools.gov.sg" target="">Ms Chong Mea Fun&nbsp;</a><br />Science &amp; Chemistry</center></td>
-    <td class="tg-0lax"><center><img src="/images/sci9.jpeg"></center></td>
-    <td class="tg-baqh"><center><a href="mailto:yeo_hanni@schools.gov.sg" target="">Mrs Goh &ndash; Yeo Hanni</a><br />Physics&nbsp;&amp; Mathematics</center></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><center><img src="/images/sci10.jpeg"></center></td>
-    <td class="tg-0lax"><center><a href="mailto:nur_fareesha_mazlan@moe.edu.sg" target="">Ms Ramiah Kamala Devi</a><br />Flexi Adjunct (Science)</center></td>
-    <td class="tg-0lax"><center><img src="/images/sci11.jpeg"></center></td>
-    <td class="tg-0lax"><center><a href="mailto:nurizzati_f_ayub@schools.gov.sg" target="">Mdm Nurizzati F Ayub&nbsp;</a><br />AED / T&amp;L&nbsp;</center></td>
-    <td class="tg-0lax"><center></center></td>
-    <td class="tg-0lax"><center></center></td>
-  </tr>
-</tbody>
-</table>
 
 
 <style type="text/css">
