@@ -19,7 +19,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax" colspan="2"><center><img src="/images/principal.jpeg" 
-																								 style="width:35%"></center></td>
+																								 style="width:35%"><br><a href="mailto:Adrian_TAY@schools.gov.sg" target="">Mr Adrian Tay Juncheng</a><br />Principal</center></td>
   </tr>
   <tr>
     <td class="tg-0lax">test</td>
