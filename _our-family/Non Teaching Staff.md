@@ -28,7 +28,7 @@ description: ""
     <td class="tg-0lax"><center><img src="/images/EAS2.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:lim_kim_chew@moe.edu.sg" target="">Mr Lim Kim Chew</a><br />Operations Manager</center></td>
     <td class="tg-0lax"><center><img src="/images/EAS3.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:Lee_Jit_Choon@moe.edu.sg" target="">Mdm&nbsp;Lee Jit Choon</a><br />Corporate Support Officer&nbsp;</center></td>
   </tr>
   <tr>
 		<td class="tg-0lax"><center><img src="/images/EAS4.jpeg"></center></td>
