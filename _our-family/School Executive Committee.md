@@ -26,7 +26,7 @@ description: ""
 		<td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
 		<td class="tg-baqh"><center><a href="mailto:toh_hong_seng@schools.gov.sg" target="">Mr Toh Hong Seng</a><br />HOD / ACT</center></td>
     <td class="tg-0lax"><center><img src="/images/sec2.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:Nicholas_tsao@schools.gov.sg" target="">Mr Nicholas Tsao Wen Jie</a><br />HOD / CCE</center></center></td>
     <td class="tg-0lax"><center><img src="/images/sec3.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
