@@ -50,7 +50,7 @@ description: ""
 		<td class="tg-0lax"><center><img src="/images/sec10.jpeg"></center></td>
 		<td class="tg-baqh"><center><a href="mailto:ng_qin_lin_angeline@schools.gov.sg" target="">Ms Ng Qin Lin, Angeline</a><br />Year Head<br />(Lower Sec)&nbsp;</center></td>
     <td class="tg-0lax"><center><img src="/images/sec11.jpg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:lee_ngean_khim@schools.gov.sg" target="">Mr Lee Ngean Khim, Andy&nbsp;</a><br />Year Head<br />(Upper Sec)</center></td>
     <td class="tg-0lax"><center><img src="/images/sec12.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
