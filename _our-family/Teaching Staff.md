@@ -588,7 +588,7 @@ Flexi Adjunct (English Language)</center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><img src="/images/ACT10.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:adrian_cordeiro@schools.gov.sg" target="">Mr Adrian Cordeiro</a><br />Flexi Adjunct&nbsp;<br />(Art &amp; Crafts)</center></td>
     <td class="tg-0lax"><center><img src="/images/ACT11.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/ACT12.jpeg"></center></td>
