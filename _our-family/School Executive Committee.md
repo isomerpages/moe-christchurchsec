@@ -60,7 +60,7 @@ description: ""
     <td class="tg-0lax"><center><img src="/images/sec14.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:nurul_aqidah_bte_shabudin@schools.gov.sg" target="">Ms Nurul Aqidah Binte Shabudin</a><br />SH / CCE</center></td>
     <td class="tg-0lax"><center><img src="/images/sec15.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:guangyi_gavin_chong@schools.gov.sg" target="">Mr Chong Guangyi, Gavin</a><br />SH / Chinese Language</center></td>
   </tr>
  <tr>
 		<td class="tg-0lax"><center><img src="/images/sec16.jpg"></center></td>
