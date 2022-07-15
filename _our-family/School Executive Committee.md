@@ -32,7 +32,7 @@ description: ""
   </tr>
  <tr>
 		<td class="tg-0lax"><center><img src="/images/sec4.jpeg"></center></td>
-		<td class="tg-baqh"><center></center></td>
+		<td class="tg-baqh"><center><a href="mailto:seah_jiemin@schools.gov.sg">Ms Seah Jiemin</a><br>HOD/English Language</center></center></td>
     <td class="tg-0lax"><center><img src="/images/sec5.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/sec6.jpeg"></center></td>
