@@ -634,7 +634,7 @@ Education</center></td>
     <td class="tg-0lax"><center><img src="/images/hum2.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:Nicholas_tsao@schools.gov.sg" target="">Mr Nicholas Tsao Wen Jie</a><br />HOD / CCE</center></td>
     <td class="tg-0lax"><center><img src="/images/hum3.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:nurul_aqidah_bte_shabudin@schools.gov.sg" target="">Ms Nurul Aqidah Bte Shabudin</a><br />History &amp; Social Studies</center></td>
   </tr>
   <tr>
    <td class="tg-0lax"><center><img src="/images/hum4.jpeg"></center></td>
