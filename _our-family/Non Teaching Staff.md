@@ -63,11 +63,14 @@ description: ""
     <td class="tg-baqh"><center>Mdm Aminah Binte Mahmood (Mdm)<br />Operations Support Officer (Admin)</center></td>
   </tr>
   <tr>
-		<td class="tg-0lax"><center><img src="/images/EAS16.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/EAS1.jpeg"></center></td>
+		<td class="tg-0lax"><center>(no image)</center></td>
+    <td class="tg-baqh"><center>Mr Eric Tan<br>Admin Executive<br>(Operations)</center></td>
+    <td class="tg-0lax"><center><img src="/images/EAS16.jpeg"></center></td>
+    <td class="tg-baqh"><center>Ms Crystal Hen Gek Mun
+
+Admin Executive  
+(Finance)</center></td>
+    <td class="tg-0lax"><center></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
 </tbody>
