@@ -64,18 +64,18 @@ description: ""
   </tr>
  <tr>
 		<td class="tg-0lax"><center><img src="/images/sec16.jpg"></center></td>
-		<td class="tg-baqh"><center></center></td>
+		<td class="tg-baqh"><center><a href="mailto:choo_soo_yang@schools.gov.sg" target="">Mdm Choo Soo Yang, Mandy</a><br />SH / Discipline</center></td>
     <td class="tg-0lax"><center><img src="/images/sec17.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:nurul_jannah_ishak@schools.gov.sg" target="">Ms NurulJannah Binte Ishak&nbsp;</a><br />SH / English Language</center></td>
     <td class="tg-0lax"><center><img src="/images/sec18.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:thilagavathy_kathiresan@schools.gov.sg" target="">Mdm Thilagavathy Kathiresan&nbsp;</a><br />SH / Tamil Language</center></td>
   </tr>
 	<tr>
 		<td class="tg-0lax"><center><img src="/images/sec19.jpeg"></center></td>
 		<td class="tg-baqh"><center></center></td>
     <td class="tg-0lax"><center><img src="/images/sec20.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
-    <td class="tg-0lax"><center><img src="/images/sec1.jpeg"></center></td>
+    <td class="tg-0lax"><center></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
 </tbody>
