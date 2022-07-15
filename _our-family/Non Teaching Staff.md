@@ -102,7 +102,7 @@ description: ""
 		<td class="tg-0lax"><center><img src="/images/ES1.jpeg"></center></td>
     <td class="tg-baqh"><center>Mdm Quek Joo Huang<br>Kitchen Helper</center></td>
     <td class="tg-0lax"><center>(no image)</center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center>Mr Choo Han Yang<br>Desktop Engineer (NCS)</center></td>
     <td class="tg-0lax"><center><img src="/images/ES3.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
