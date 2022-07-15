@@ -644,13 +644,13 @@ ST / History</center></td>
     <td class="tg-0lax"><center><img src="/images/hum5.jpeg"></center></td>
     <td class="tg-baqh"><center><a href="mailto:tan_mui-in_amanda@schools.gov.sg" target="">Ms Tan Mui-In, Amanda</a><br />History &amp;<br />Social Studies</center></td>
     <td class="tg-0lax"><center><img src="/images/hum6.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:yeo_xue_ying@moe.edu.sg" target="">Ms Yeo Xue Ying</a><br>Geography&nbsp;&amp; English Language</center></td>
   </tr>
   <tr>
    <td class="tg-0lax"><center><img src="/images/hum7.jpeg"></center></td>
-		<td class="tg-baqh"><center></center></td>
+		<td class="tg-baqh"><center><a href="mailto:loke_zhen_yi@schools.gov.sg" target="">Ms Loke Zhen Yi</a><br />Social Studies &amp;<br />Geography</center></td>
     <td class="tg-0lax"><center><img src="/images/hum8.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center>Mr Ong Kian Jie<br>Geography & English Language</center></td>
     <td class="tg-0lax"><center><img src="/images/hum9.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
