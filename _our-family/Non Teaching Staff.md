@@ -108,9 +108,9 @@ description: ""
   </tr>
   <tr>
 		<td class="tg-0lax"><center><img src="/images/ES4.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center>Mdm Masita Jumari<br>Library Assistant</center></td>
     <td class="tg-0lax"><center><img src="/images/ES5.jpeg"></center></td>
-    <td class="tg-baqh"><center></center></td>
+    <td class="tg-baqh"><center><a href="mailto:tang_yam_kwang@moe.edu.sg" target="">Mr Tang Yam Kwang, Vincent</a><br />Teacher Assistant (Discipline)</center></td>
     <td class="tg-0lax"><center><img src="/images/ES6.jpeg"></center></td>
     <td class="tg-baqh"><center></center></td>
   </tr>
