@@ -543,3 +543,64 @@ Flexi Adjunct (English Language)</center></td>
 
 <h3><center>Aesthetics, Craft & Technology Department</center></h3>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 825px">
+<colgroup>
+<col style="width: 115px">
+<col style="width: 160px">
+<col style="width: 115px">
+<col style="width: 160px">
+<col style="width: 115px">
+<col style="width: 160px">
+</colgroup>
+<tbody>
+  <tr>
+		<td class="tg-0lax"><center><img src="/images/ACT1.jpeg"></center></td>
+    <td class="tg-baqh"><center><a href="mailto:toh_hong_seng@schools.gov.sg" target="">Mr Toh Hong Seng</a><br />HOD / ACT</center></td>
+    <td class="tg-0lax"><center><img src="/images/ACT2.jpeg"></center></td>
+    <td class="tg-baqh"><center><a href="mailto:ng_hui_ling_b@schools.gov.sg" target="">Mdm Ng Hui Ling&nbsp;</a><br />Design &amp; Technology</center></td>
+    <td class="tg-0lax"><center><img src="/images/ACT3.jpeg"></center></td>
+    <td class="tg-baqh"><center><a href="mailto:foon_lai_kuen@schools.gov.sg" target="">Mdm Foon Lai Kuen, Christabel</a><br />ST / Design &amp; Technology</center></td>
+  </tr>
+  <tr>
+	<td class="tg-0lax"><center><img src="/images/ACT4.jpeg"></center></td>
+    <td class="tg-baqh"><center>Mr Ng Qi Qin, Gary<br />Food &amp; Consumer Education<br />&nbsp;History</center></td>
+    <td class="tg-0lax"><center><img src="/images/ACT5.jpeg"></center></td>
+    <td class="tg-baqh"><center><a href="mailto:ho_chin_kun@schools.gov.sg" target="">Mr Ho Chin Kun</a><br />Design &amp; Technology</center></td>
+    <td class="tg-0lax"><center><img src="/images/ACT6.jpeg"></center></td>
+    <td class="tg-baqh"><center><a href="mailto:goh_joo_leng@schools.gov.sg" target="">Mr Goh Joo Leng</a><br />Design &amp; Technology<br />&amp; CPA</center></td>
+  </tr>
+  <tr>
+		<td class="tg-0lax"><center><img src="/images/ACT7.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/ACT8.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/ACT9.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><center><img src="/images/ACT10.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/ACT11.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+    <td class="tg-0lax"><center><img src="/images/ACT12.jpeg"></center></td>
+    <td class="tg-baqh"><center></center></td>
+  </tr>
+  <tr>
+		<td class="tg-0lax"><center>act 13</center></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+</tbody>
+</table>
