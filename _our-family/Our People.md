@@ -47,6 +47,11 @@ description: ""
 | **SH PE**    | Ms Low Yilun   |
 | **SH Leadership**    | Mdm Shaun Low   |
 
+| | |
+| -------- | -------- |
+| **Administration Manager**    | Ms Lena Chung    |
+| **Operations Manager**    | Mr Lim Kim Chew   |
+
 ### Teacher Leaders
 
 | | |
@@ -94,29 +99,3 @@ Ms Amanda Tan|
 |**S4-6**|Ms Teoh Shao Cing|Mr Benjamin Huang|
 |**S4-7**|Mr Yap Choon Bock|Mdm Elizabeth Ter|
 |**S5-1**|Mr Sean Tan|Mdm Ang Sze Yi|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
