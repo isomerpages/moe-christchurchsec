@@ -44,6 +44,8 @@ description: ""
 |  |  |
 | -------- | -------- |
 | **Ordinary Membership**     |1. Open to any former students of the school <br> 2. Completed at least 12 months in the school as a student <br>3. At least 21 years old at the point of registration <br> 4. Annual fee of $20  |
+| **Youth Wing Membership**     |1. Open to any former students of the school<br>2. Between 17 and 20 years old<br>3. Ineligible to vote, hold office or participate in the management of the Alumni<br>4. Annual fee of $5
+  |
 
 
 
