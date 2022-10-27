@@ -49,6 +49,7 @@ description: ""
 
 ### Teacher Leaders
 | | |
+
 | -------- | -------- |
 | **LT English Language**| Mr Tan Chai Hok   |
 | **ST Biology**| Mdm Juliza Binte Zulkifli | 
