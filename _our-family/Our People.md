@@ -4,9 +4,10 @@ permalink: /our-family/our-people/
 description: ""
 ---
 ### School Leaders
+
 | **Principal** |
 | -------- | 
-| Mr Adrian Tay Juncheng     |
+| Mr Adrian Tay Juncheng|
 
 | **Vice-Principal** |**Vice-Principal** |
 | -------- | -------- | 
