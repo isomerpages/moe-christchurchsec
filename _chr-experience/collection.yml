@@ -1,5 +1,5 @@
 collections:
-  our-curriculum:
+  chr-experience:
     output: true
     order:
       - School Rules and Regulations.md
