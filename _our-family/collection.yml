@@ -2,8 +2,8 @@ collections:
   our-family:
     output: true
     order:
-      - Our People.md
       - School Management Committee.md
+      - Our People.md
       - School Executive Committee.md
       - Teacher Leaders.md
       - Teaching Staff.md
