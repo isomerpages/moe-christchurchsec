@@ -50,13 +50,6 @@ description: ""
  |
 
 
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Ordinary Membership
-Application Form   | |
-
-
-
 Click over the type of membership you want to apply below to download the application form: [Ordinary Member]
 
 -------
