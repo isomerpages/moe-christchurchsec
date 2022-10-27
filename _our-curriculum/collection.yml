@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - School Rules and Regulations.md
       - Academic/English.md
       - Academic/Mathematics.md
       - Academic/Science.md
