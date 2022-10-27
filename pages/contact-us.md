@@ -12,7 +12,7 @@ locations:
       - days: Mon - Fri
         time: 8.00am - 5.00pm
         description: Closed on Public Holidays
-    maps_link: ""
+    maps_link: https://goo.gl/maps/xG8xpsJejgR9M8Mt5
     title: Location
 contacts:
   - content:
