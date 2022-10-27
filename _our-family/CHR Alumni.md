@@ -22,7 +22,8 @@ description: ""
     
 
 ## Committee
-
+|||
+|---|---|
 
 Calling all ex-students of Christ Church Secondary School to join the CHR Alumni and be part of the ever growing CHR family.  
   
