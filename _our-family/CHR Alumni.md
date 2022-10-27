@@ -24,7 +24,7 @@ description: ""
 ## Committee
 
 | Position | Name |
-| --- | --- |
+| ----- | ----- |
 | **President** | Mr Mohammad Mydeen |
 | **Vice President** | Mr Thomas Ting|
 | **Hon. Secretary** | Ms Lynn Tay |
