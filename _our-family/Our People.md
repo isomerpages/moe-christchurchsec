@@ -60,3 +60,29 @@ description: ""
 | **ST Physics**| Ms Uma Devi d/o Nadesvran|
 
 ### Form Teachers
+
+|Class | FT1 | FT2|
+| -------- | -------- |-------- |
+|**S1-1**|Ms Ravathi d/o Gunasegaran|Ms Lai Liming|
+|**S1-2**| Mdm Rahimah Bte Selamat |Mr Vincent Yap|
+|**S1-3**| Ms Sheereen Loke | Mr Gary Ng|
+|**S1-4**|Mdm Roslina Bte Mahmood|Ms Cindy Wong|
+|**S1-5**|Ms Yuan Xuelian|Mdm Christabel Foon|
+|**S1-6**|Mr Hu Chang Chuan|Ms Charis Lim|
+|**S1-7**|Mr Ong Kian Jie|Mdm Lai Meei Ju|
+|**S1-8**|Ms Jacquline Chye|Mr Zulkhairi Bin Zulkiflee|
+|**S2-1**|Mr Ashley Tan|Ms Tan Soh Leng|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
