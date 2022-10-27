@@ -51,12 +51,12 @@ description: ""
 
 | | |
 | -------- | -------- |
-| **LT English Language**| Mr Tan Chai Hok   |
-| **ST Biology**| Mdm Juliza Binte Zulkifli | 
-| **ST Design & Technology**| Mdm Christabel Chong   |
-| **ST History**| Mr Ashley Tan   |
-| **ST Mathematics**| Mdm Betty Koh   |
-| **ST Mathematics**| Ms Leow Swee Khim   |
-| **ST Physics**| Ms Uma Devi d/o Nadesvran  |
+| **LT English Language**| Mr Tan Chai Hok|
+| **ST Biology**| Mdm Juliza Binte Zulkifli| 
+| **ST Design & Technology**| Mdm Christabel Chong|
+| **ST History**| Mr Ashley Tan|
+| **ST Mathematics**| Mdm Betty Koh|
+| **ST Mathematics**| Ms Leow Swee Khim|
+| **ST Physics**| Ms Uma Devi d/o Nadesvran|
 
 ### Form Teachers
