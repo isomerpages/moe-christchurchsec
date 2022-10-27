@@ -49,9 +49,6 @@ description: ""
 | **Life Membership**     |Open to any Ordinary or Associate members who pays a one-time fee of $200
  |
 
-
-Click over the type of membership you want to apply below to download the application form: [Ordinary Member]
-
 -------
 
 **Application Procedure**
