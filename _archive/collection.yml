@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Parent Support Group.md
       - CHR Partners.md
       - Staff Recognition.md
       - Non Teaching Staff.md
