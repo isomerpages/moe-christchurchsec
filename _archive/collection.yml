@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Calendar of Events.md
       - School Timetable.md
       - terms-of-use.md
       - Woodlands Health Campus.md
