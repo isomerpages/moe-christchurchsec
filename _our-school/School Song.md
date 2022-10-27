@@ -1,6 +1,6 @@
 ---
 title: School Song
-permalink: /our-school/school-song
+permalink: /our-school/school-song/
 description: ""
 ---
 <center><strong>TO GOD BE THE GLORY</strong></center>
