@@ -40,6 +40,13 @@ description: ""
 **Membership Qualification and Rights**
 
 
+
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Ordinary Membership     | Text     |
+
+
+
 | Column 1 | Column 2 |
 | -------- | -------- |
 | Ordinary Membership
