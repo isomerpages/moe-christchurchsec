@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Non Teaching Staff.md
       - Teaching Staff.md
       - Teacher Leaders.md
       - School Executive Committee.md
