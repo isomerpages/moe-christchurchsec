@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Others.md
       - Co Curricular Activities (CCA).md
       - Academic Outcomes.md
       - Useful Links.md
