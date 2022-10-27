@@ -14,9 +14,6 @@ sections:
         - title: Life @ CHR
           description: Our Publications
           url: /publications/chr-highlights
-        - title: CHR PRIDE
-          description: Our Achievements
-          url: /others/chr-pride
   - resources:
       title: What's New
       subtitle: Our News and Events
