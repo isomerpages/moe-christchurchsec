@@ -5,18 +5,15 @@ permalink: /contact-us/
 agency_name: Christ Church Secondary School
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - "20, Woodlands Drive 17   "
+      - "Singapore 737924  "
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 8.00am - 5.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
     maps_link: ""
-    title: Main Office
+    title: Location
   - address:
       - 109 North Bridge Road
       - Singapore 179097
