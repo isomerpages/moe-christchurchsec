@@ -1,5 +1,5 @@
 collections:
-  e-open-house:
+  admissions:
     output: true
     order:
       - Be Curious About Everything.md
