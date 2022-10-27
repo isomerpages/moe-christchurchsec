@@ -3,7 +3,7 @@ url: https://christchurchsec.moe.edu.sg
 favicon: /images/chr_logo_small.jpeg
 colors:
   primary-color: "#148f24"
-  secondary-color: "#fed90f"
+  secondary-color: "#148f24"
   media-colors:
     - title: media-color-one
       color: "#148f24"
