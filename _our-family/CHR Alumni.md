@@ -22,12 +22,20 @@ description: ""
     
 
 ## Committee
-|||
-|---|---|
-
-Calling all ex-students of Christ Church Secondary School to join the CHR Alumni and be part of the ever growing CHR family.  
+| Position | Name |
+| --- | --- |
+| **President** | Mr Mohammad Mydeen |
+| **Vice President** | Mr Thomas Ting|
+| **Hon. Secretary** | Ms Lynn Tay |
+| **Asst. Hon. Secretary** | Ms Rebecca Quek |
+| **Hon. Treasurer** | Ms Stefanie Chua |
+| **Asst. Hon. Treasurer** | Ms Madeline Goh |
+| **Members** | Mr Justin Kon |
+| **Members** | Ms Pauline Kui |
+| **Hon. Internal Auditor**| Siti Mariam Bte Ahmad|
+| **Hon. Internal Auditor**| Ophelia Lim|
   
-<u><strong>Application Procedure</strong></u>
+## Join Us
 
 Please refer to the table for the types of memberships that you are qualified for and their rights.  
   
