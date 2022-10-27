@@ -72,8 +72,12 @@ description: ""
 |**S1-7**|Mr Ong Kian Jie|Mdm Lai Meei Ju|
 |**S1-8**|Ms Jacquline Chye|Mr Zulkhairi Bin Zulkiflee|
 |**S2-1**|Mr Ashley Tan|Ms Tan Soh Leng|
-
-
+|**S2-2**|Mdm Yeo Hanni|Ms Azman Abu Bakar|
+|**S2-3**|Ms Chong Mea Fun| Ms Lam Cheng Wan|
+|**S2-4**|Ms Leow Swee Khim|Mr Goh Joo Leng|
+|**S2-5**|Mr Leonard Chng||
+|**S2-6**|Mdm Vernice Palai Velvizhi||
+|**S2-7**|Mr Alan Ho|Ms Narny Binte Ab Rahman|
 
 
 
