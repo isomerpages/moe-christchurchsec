@@ -23,6 +23,14 @@ description: ""
 
 ## Committee
 
+
+
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Text     | Text     |
+
+
+
 | Position | Name |
 | ----- | ----- |
 | **President** | Mr Mohammad Mydeen |
