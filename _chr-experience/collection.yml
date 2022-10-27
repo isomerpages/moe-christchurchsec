@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - CHR AOP Education.md
-      - Academic/.keep
-      - Academic/English.md
-      - Academic/Mathematics.md
-      - Academic/Science.md
-      - Academic/Humanities.md
-      - Academic/Aesthetic, Craft & Technology.md
-      - Academic/Mother Tongue.md
+      - Academic Education/.keep
+      - Academic Education/English.md
+      - Academic Education/Mathematics.md
+      - Academic Education/Science.md
+      - Academic Education/Humanities.md
+      - Academic Education/Aesthetic, Craft & Technology.md
+      - Academic Education/Mother Tongue.md
       - Outdoor Education.md
       - School Rules and Regulations.md
       - Co Curricular Outcomes/.keep
