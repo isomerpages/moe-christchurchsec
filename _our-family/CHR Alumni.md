@@ -1,24 +1,27 @@
 ---
 title: CHR Alumni
-permalink: /our-family/chr-alumni
+permalink: /our-family/chr-alumni/
 description: ""
 ---
+## Vision & Mission
+
+
 **CHR Alumni** was registered with the Registry of Society on 21 August 2012 and officially launched by Mr Khaw Boon Wan, Minister for National Development on 23 November 2012 at CHR 60th Anniversary Gala Celebration.  
 
-**Mission and Vision**
-  
-**Vision**: To foster unity and empower ties with the Alma Mater as well as nurturing positive relationships among the other alumni. 
+**Vision**: To foster unity and empower ties with the Alma Mater as well as nurturing positive relationships among the other alumni.
 
 **Mission** : Nurturing true spirit of loyalty and love for the Alma Mater.  
   
 **Objectives**
 
-<img src="/images/objectives.png" 
-     style="width:55%">
+* To foster friendship and mutual co-operation among members
+    
+* To develop a true spirit of loyalty and love for the Alma Mater
+    
+* To promote the co-operation and active support of CHR Alumni in carrying out the aims and objectives of the School
+    
 
-
-  
-<h3>Join Us</h3>
+## Committee
 
 
 Calling all ex-students of Christ Church Secondary School to join the CHR Alumni and be part of the ever growing CHR family.  
