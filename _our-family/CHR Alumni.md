@@ -49,18 +49,13 @@ Annual fee of $20|
 
 
 
-
-Please refer to the table for the types of memberships that you are qualified for and their rights.  
-  
-Download the application form and mail it together with a cheque payable to CHR Alumni to Christ Church Secondary School, 20, Woodlands Drive 17, Singapore 737924.  
-  
-
 Click over the type of membership you want to apply below to download the application form: [Ordinary Member]
 
 -------
 
+**Application Procedure**
 
-  
+Download the application form and mail it together with a cheque payable to **CHR Alumni** to Christ Church Secondary School, 20, Woodlands Drive 17, Singapore 737924.
 
 ## Contact Information
 
