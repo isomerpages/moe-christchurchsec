@@ -36,12 +36,25 @@ description: ""
 | **Hon. Internal Auditor**| Ophelia Lim|
   
 ## Join Us
+**Membership Qualification and Rights**
+
+|||
+| --- | --- |
+| Ordinary Membership
+(Application Form) |
+* Open to any former students of the school
+* Completed at least 12 months in the school as a student
+* At least 21 years old at the point of registration
+* Annual fee of $20|
+
+
+
 
 Please refer to the table for the types of memberships that you are qualified for and their rights.  
   
 Download the application form and mail it together with a cheque payable to CHR Alumni to Christ Church Secondary School, 20, Woodlands Drive 17, Singapore 737924.  
   
-Membership Qualification and Rights
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
