@@ -2,8 +2,8 @@ collections:
   our-family:
     output: true
     order:
-      - Our Key Personnel.md
       - Principal's Message.md
+      - Our Key Personnel.md
       - Our People.md
       - School Management Committee.md
       - CHR Alumni.md
