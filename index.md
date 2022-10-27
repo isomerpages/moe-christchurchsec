@@ -17,9 +17,6 @@ sections:
         - title: CHR PRIDE
           description: Our Achievements
           url: /others/chr-pride
-        - title: Coming Our Way!
-          description: Woodlands Health Campus
-          url: /woodlands-health-campus
   - resources:
       title: What's New
       subtitle: Our News and Events
