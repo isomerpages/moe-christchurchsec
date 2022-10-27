@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - terms-of-use.md
       - Woodlands Health Campus.md
       - Parent's Gateway (PG).md
       - Parent Support Group.md
