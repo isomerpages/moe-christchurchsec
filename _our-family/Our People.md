@@ -3,7 +3,6 @@ title: Our People
 permalink: /our-family/our-people/
 description: ""
 ---
-
 | **Principal** |
 | -------- | 
 | Mr Adrian Tay Juncheng     |
@@ -25,4 +24,4 @@ description: ""
 | **HOD Humanities**    | Mr Sng Thiam Eng   |
 | **HOD ICT**    | Mr Lim Yang Cherng   |
 | **HOD Mathematics**    | Mdm Sandy Wong   |
-| **HOD Mother Tongue**    | Mdm Sandy Wong   |
+| **HOD Mother Tongue**    | Mr Gavin Chong   |
