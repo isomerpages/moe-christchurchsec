@@ -38,14 +38,14 @@ description: ""
 ## Join Us
 **Membership Qualification and Rights**
 
-| | |
+| ||
 | --- | --- |
 | Ordinary Membership
-(Application Form) |
-* Open to any former students of the school
-* Completed at least 12 months in the school as a student
-* At least 21 years old at the point of registration
-* Annual fee of $20|
+Application Form|
+Open to any former students of the school
+Completed at least 12 months in the school as a student
+At least 21 years old at the point of registration
+Annual fee of $20|
 
 
 
