@@ -55,10 +55,7 @@ Please refer to the table for the types of memberships that you are qualified fo
 Download the application form and mail it together with a cheque payable to CHR Alumni to Christ Church Secondary School, 20, Woodlands Drive 17, Singapore 737924.  
   
 
-Click over the type of membership you want to apply below to download the application form: [Ordinary Member](/files/Ordinary%20Member.pdf) , [Youth Wing Member](/files/Youth-Wing%20Member.pdf) , [Associate Member](/files/Associate%20Member.pdf) , [Life Member](/files/Life%20Member.pdf).
-
-![](/images/Almuni%20Committee.png)
-
+Click over the type of membership you want to apply below to download the application form: [Ordinary Member]
 
 -------
 
