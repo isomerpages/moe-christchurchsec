@@ -48,6 +48,7 @@ description: ""
 | **SH Leadership**    | Mdm Shaun Low   |
 
 ### Teacher Leaders
+
 | | |
 | -------- | -------- |
 | **LT English Language**| Mr Tan Chai Hok   |
