@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Co Curricular Activities (CCA).md
       - Academic Outcomes.md
       - Useful Links.md
       - Principal’s Letter to CHRians.md
