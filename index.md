@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/christ church home.gif
-      button: contact us
+      button: Open House 2022
       url: /our-school/contact-us/
       key_highlights:
         - title: Life @ CHR
