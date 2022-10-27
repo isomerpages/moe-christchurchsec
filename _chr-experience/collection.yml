@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CHR AOP Education.md
-      - School Rules and Regulations.md
       - Academic/.keep
       - Academic/English.md
       - Academic/Mathematics.md
@@ -11,11 +10,12 @@ collections:
       - Academic/Humanities.md
       - Academic/Aesthetic, Craft & Technology.md
       - Academic/Mother Tongue.md
+      - Outdoor Education.md
+      - School Rules and Regulations.md
       - Co Curricular Outcomes/.keep
       - Co Curricular Outcomes/Co Curricular Activities (CCA).md
       - Co Curricular Outcomes/Others.md
       - Co Curricular Outcomes/School Awards.md
-      - Outdoor Education.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
       - Student Welfare/.keep
