@@ -43,7 +43,7 @@ description: ""
 
 | Column 1 | Column 2 |
 | -------- | -------- |
-| Ordinary Membership     | Text     |
+| Ordinary Membership     | ABC     |
 
 
 
