@@ -43,16 +43,11 @@ description: ""
 
 | Column 1 | Column 2 |
 | -------- | -------- |
-| Text     | Text     |
-
-
-| --- | --- |
-| Ordinary Membership
-Application Form|
-Open to any former students of the school
+|  Ordinary Membership
+Application Form    | Open to any former students of the school
 Completed at least 12 months in the school as a student
 At least 21 years old at the point of registration
-Annual fee of $20|
+Annual fee of $20     |
 
 
 
