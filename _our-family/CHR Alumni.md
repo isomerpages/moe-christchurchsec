@@ -23,14 +23,6 @@ description: ""
 
 ## Committee
 
-
-
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Text     | Text     |
-
-
-
 | Position | Name |
 | ----- | ----- |
 | **President** | Mr Mohammad Mydeen |
@@ -41,8 +33,8 @@ description: ""
 | **Asst. Hon. Treasurer** | Ms Madeline Goh |
 | **Members** | Mr Justin Kon |
 | **Members** | Ms Pauline Kui |
-| **Hon. Internal Auditor**| Siti Mariam Bte Ahmad|
-| **Hon. Internal Auditor**| Ophelia Lim|
+| **Hon. Internal Auditor**| Ms Siti Mariam Bte Ahmad|
+| **Hon. Internal Auditor**| Ms Ophelia Lim|
   
 ## Join Us
 **Membership Qualification and Rights**
