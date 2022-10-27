@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - CHR Partners.md
       - Staff Recognition.md
       - Non Teaching Staff.md
       - Teaching Staff.md
