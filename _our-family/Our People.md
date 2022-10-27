@@ -78,6 +78,36 @@ description: ""
 |**S2-5**|Mr Leonard Chng||
 |**S2-6**|Mdm Vernice Palai Velvizhi||
 |**S2-7**|Mr Alan Ho|Ms Narny Binte Ab Rahman|
+|**S3-1**|Ms Uma Devi d/o Nadesvaran|Ms Regina Boon|
+|**S3-2**|Mr Bek Jun Hao|Ms Althea Yeo|
+|**S3-3**|Ms Rusydiah Binte Abdul Razak|Mr Tok Yin Pin|
+|**S3-4**|Mdm Betty Koh|Ms Loke Zhen Yi|
+|**S3-5**|Mdm Siti Nursyahidah Binte Ideris| |
+|**S3-6**|Muhammad Khairulnizam B A R|Mdm Maryam Binte Mohammad Sesth|
+|**S3-7**|Mr Desmond Chan|Ms Tong Wenxu|
+|**S4-1**|Ms Zhou Yuxi|Ms Wendy Chew|
+|**S4-2**|Mdm Ng Hwee Bin|Mr Shen Ching Jen|
+|**S4-3**|Ms Lynn Tang|Ms Ng Hui Ling|
+|**S4-4**|Ms Verona d/o Rhamanan|Ms Nurul Aqidah Bte Shabudin|
+|**S4-5**|Mdm Juliza Bte Zulkifli
+Ms Amanda Tan|
+|**S4-6**|Ms Teoh Shao Cing|Mr Benjamin Huang|
+|**S4-7**|Mr Yap Choon Bock|Mdm Elizabeth Ter|
+|**S5-1**|Mr Sean Tan|Mdm Ang Sze Yi|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
