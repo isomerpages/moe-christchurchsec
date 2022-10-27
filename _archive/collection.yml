@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Weighted Assessment and Examinations Schedule.md
       - Calendar of Events.md
       - School Timetable.md
       - terms-of-use.md
