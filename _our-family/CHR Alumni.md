@@ -39,7 +39,6 @@ description: ""
 ## Join Us
 **Membership Qualification and Rights**
 
-| ||
 
 | Column 1 | Column 2 |
 | -------- | -------- |
