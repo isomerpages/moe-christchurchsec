@@ -17,7 +17,7 @@ description: ""
 
 ### Key Personnel
 
-| |  |
+| | |
 | -------- | -------- |
 | **School Staff Developer**    | Mrs Amy Yap    |
 | **HOD ACT**    | Mr Toh Hong Seng   |
@@ -33,7 +33,7 @@ description: ""
 | **Year Head (Upper Sec)**    | Mr Andy Lee  |
 
 
-| |  |
+| | |
 | -------- | -------- |
 | **Asst. Year Head (Lower Sec)**    | Ms Lynn Tang    |
 | **Asst. Year Head (Upper Sec)**    | Mr Benjamin Huang    |
