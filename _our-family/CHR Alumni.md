@@ -40,6 +40,12 @@ description: ""
 **Membership Qualification and Rights**
 
 | ||
+
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Text     | Text     |
+
+
 | --- | --- |
 | Ordinary Membership
 Application Form|
