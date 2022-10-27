@@ -20,4 +20,19 @@ contacts:
       - email: ccss@moe.edu.sg
       - other: "Fax: +65 6893 2789 "
     title: General Enquiries & Feedback
+  - content:
+      - phone: +65 6748 3101
+      - email: ""
+      - other: "53 Ubi Ave 1, #05-54 Paya Ubi Industrial Park, S408934"
+    title: Casco Educational Supply
+  - content:
+      - phone: +65 6466 5697
+      - email: ""
+      - other: "144 Upper Bukit Timah Road Beauty World Centre, #B1-03"
+    title: Finest Fashion Centre
+  - content:
+      - phone: +65 9781 1531
+      - email: ""
+      - other: ""
+    title: Yeoong Charter Bus
 ---
