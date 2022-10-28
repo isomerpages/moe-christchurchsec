@@ -73,7 +73,7 @@ Come find out where the CHR journey will take you!
           <img style="height:350" src="/images/bcae.png">
 	</a>
 			</td><td>
-			<a target="_self" href="/admissions/pay-it-forward-make-a-difference"> 
+			<a target="_self" href="/pay-it-forward-make-a-difference"> 
           <img style="height:350" src="/images/pif.png">
 	</a>
 			</td><td>
