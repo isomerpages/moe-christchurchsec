@@ -3,8 +3,6 @@ title: Open House
 permalink: /open-house/
 description: ""
 ---
-(embed video)
-
 # Open House 2022
 ![](/images/Eopen%20House%20Banner.jpeg)
 
