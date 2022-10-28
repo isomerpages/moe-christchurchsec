@@ -53,82 +53,18 @@ description: ""
 </table>
 
 ## Virtual School Tour
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JkOZx0OqvO8" height="415" width="850"></iframe></td>
-</table>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JkOZx0OqvO8" height="415" width="850"></iframe>
+
 
 ## Our Students
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" height="415" width="850"></iframe></td>
-</table>
 
-#  School Prospect
-<h3> Come find out where the CHR journey will take you! </h3>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" height="415" width="850"></iframe>
+
+
+##  School Prospect
+Come find out where the CHR journey will take you! 
 
 <iframe allowfullscreen="true" height="504" width="845" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv39cDC5Litkdpytp7RA73rkTpa5TUDcRK9ZeNveLb0eQ8N0O3xPQtkMirUPnYFz6JVNYVOzhqGoY6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-
-# Our Students
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" height="415" width="850"></iframe><style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4dEZ4SwzhPw" height="270" width="260"></iframe></td>
-    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/HhwuW_58H7E" height="270" width="260"></iframe></td>
-    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0ptxRl4yT3Q" height="270" width="260"></iframe></td>
-  </tr>
-</tbody>
-</table>
-
-
-![](/images/yawwah.png)
-
-<a href = "/e-open-house/be-curious-about-everything" target = "_self"> 
-          <img src="/images/bcae.png" 
-     style="width:35%">
-	</a>
-	
-<br>
-	
-<a href = "/e-open-house/pay-it-forward-make-a-difference" target = "_self"> 
-          <img src="/images/pif.png" 
-							 style="width:35%">
-	</a>
-	
-<br>				 
-							 
-<a href = "/e-open-house/become-the-best-version-of-yourself" target = "_self"> 
-          <img src="/images/btbvoy.png" 
-     style="width:35%">
-	</a>
 
 
 # E-Open House 2021
