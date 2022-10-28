@@ -70,15 +70,15 @@ Come find out where the CHR journey will take you!
 
 <table><tbody><tr><td>		
 			<a target="_self" href="/e-open-house/be-curious-about-everything"> 
-          <img style="width:200" src="/images/bcae.png">
+          <img style="height:350" src="/images/bcae.png">
 	</a>
 			</td><td>
 			<a target="_self" href="/e-open-house/pay-it-forward-make-a-difference"> 
-          <img style="width:200" src="/images/pif.png">
+          <img style="height:350" src="/images/pif.png">
 	</a>
 			</td><td>
 			<a target="_self" href="/e-open-house/become-the-best-version-of-yourself"> 
-          <img style="width:200" src="/images/btbvoy.png">
+          <img style="height:350" src="/images/btbvoy.png">
 	</a>
 			</td>
 </tr></tbody></table>
