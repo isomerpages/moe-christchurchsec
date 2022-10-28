@@ -2,5 +2,6 @@ collections:
   others:
     output: true
     order:
+      - Pay it Forward, Make a Difference.md
       - Be Curious About Everything.md
       - CHR Pride.md
