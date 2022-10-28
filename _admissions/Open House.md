@@ -3,11 +3,9 @@ title: Open House
 permalink: /open-house/
 description: ""
 ---
-
-
 (embed video)
 
-# E-Open House 2021
+# Open House 2022
 ![](/images/Eopen%20House%20Banner.jpeg)
 
 <style type="text/css">
@@ -16,16 +14,37 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-uj1d{background-color:#036667;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-12lz{background-color:#DBF1D8;text-align:center;vertical-align:top}
+.tg .tg-uj1d{background-color:#036667;color:#FFF;font-weight:bold;text-align:center;vertical-align:top;font-size:18px}
+.tg .tg-12lz{background-color:#DBF1D8;text-align:center;vertical-align:top;font-size:18px}
 </style>
+
+
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-uj1d">CHIT CHAT CHR</td>
+    <td class="tg-uj1d">ONSITE OPEN HOUSE</td>
   </tr>
   <tr>
-    <td class="tg-12lz">Join us via YouTube Live @ <a rel="noopener noreferrer" target="_blank" href="http://chr.sg/EOH"><span style="text-decoration:none;color:#FF7E00">chr.sg/EOH</span></a><br><br>Session 1:<br>Date: 20 Nov 2021 (Sat)<br>Time: 10am - 11am<br><br>Session 2:<br>Date: 25 Nov 2021 (Thu)<br>Time: 4pm - 5pm</td>
+		<td class="tg-12lz"> <strong>Visit us on one of these days: </strong>
+  <br> <br> 19 Nov 2022 (Sat), 8.30am - 12.00pm
+<br>23 Nov 2022 (Wed), 2.00pm - 4.00pm
+<br>24 Nov 2022 (Thu), 8.30am - 4.00pm
+<br>25 Nov 2022 (Fri), 8.30am - 4.00pm
+<br>26 Nov 2022 (Sat), 8.30am - 4.00pm 
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-uj1d">ONLINE OPEN HOUSE</td>
+  </tr>
+  <tr>
+    <td class="tg-12lz">Join us via YouTube Live @ <a rel="noopener noreferrer" target="_blank" href="http://chr.sg/EOH"><span style="text-decoration:none;color:#FF7E00">chr.sg/EOH</span></a><br><br>Date: 24 Nov 2022 (Thu)<br>Time: 4.00pm - 5.00pm</td>
   </tr>
 </tbody>
 </table>
