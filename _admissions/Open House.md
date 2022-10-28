@@ -67,11 +67,6 @@ Come find out where the CHR journey will take you!
 <iframe allowfullscreen="true" height="504" width="845" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv39cDC5Litkdpytp7RA73rkTpa5TUDcRK9ZeNveLb0eQ8N0O3xPQtkMirUPnYFz6JVNYVOzhqGoY6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
-# Our Students
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" height="350" width="700"></iframe>
-
-
 ![](/images/yawwah.png)
 
 <a href = "/e-open-house/be-curious-about-everything" target = "_self"> 
