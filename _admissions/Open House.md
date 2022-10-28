@@ -44,7 +44,10 @@ description: ""
     <td class="tg-uj1d">ONLINE OPEN HOUSE</td>
   </tr>
   <tr>
-    <td class="tg-12lz">Join us via YouTube Live @ <a rel="noopener noreferrer" target="_blank" href="http://chr.sg/EOH"><span style="text-decoration:none;color:#FF7E00">chr.sg/EOH</span></a><br><br>Date: 24 Nov 2022 (Thu)<br>Time: 4.00pm - 5.00pm</td>
+    <td class="tg-12lz">Join us via YouTube Live @ <a rel="noopener noreferrer" target="_blank" href="http://chr.sg/EOH"><span style="text-decoration:none;color:#FF7E00">chr.sg/EOH</span></a><br><br>Date: 24 Nov 2022 (Thu)<br>Time: 4.00pm - 5.00pm
+	<br><br>	Sign up for Open House at the following link:<br> 
+<a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/chropenhouse"><span style="text-decoration:none;color:#FF7E00">https://go.gov.sg/chropenhouse</span></a>
+	</td>
   </tr>
 </tbody>
 </table>
