@@ -2,7 +2,7 @@ collections:
   admissions:
     output: true
     order:
-      - E Open House.md
+      - Open House.md
       - Direct School Admission (DSA) Information.md
       - Be Curious About Everything.md
       - Pay it Forward, Make a Difference.md
