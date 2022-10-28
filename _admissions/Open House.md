@@ -70,24 +70,17 @@ Come find out where the CHR journey will take you!
 ![](/images/yawwah.png)
 ### You are Why We are here
 
-
-
-
-	&nbsp;&nbsp;  
-&nbsp; &nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;<table><tbody><tr><td>		
+<table><tbody><tr><td>		
 			<a target="_self" href="/e-open-house/be-curious-about-everything"> 
-          <img style="width:35%" src="/images/bcae.png">
+          <img style="width:200" src="/images/bcae.png">
 	</a>
 			</td><td>
 			<a target="_self" href="/e-open-house/pay-it-forward-make-a-difference"> 
-          <img style="width:35%" src="/images/pif.png">
+          <img style="width:200" src="/images/pif.png">
 	</a>
 			</td><td>
 			<a target="_self" href="/e-open-house/become-the-best-version-of-yourself"> 
-          <img style="width:35%" src="/images/btbvoy.png">
+          <img style="width:200" src="/images/btbvoy.png">
 	</a>
 			</td>
 
