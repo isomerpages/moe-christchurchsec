@@ -52,7 +52,7 @@ description: ""
 </tbody>
 </table>
 
-# Virtual School Tour
+## Virtual School Tour
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -64,10 +64,23 @@ description: ""
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JkOZx0OqvO8" height="189" width="336"></iframe></td>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JkOZx0OqvO8" height="415" width="850"></iframe></td>
 </table>
 
-
+## Our Students
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" height="415" width="850"></iframe></td>
+</table>
 
 #  School Prospect
 <h3> Come find out where the CHR journey will take you! </h3>
