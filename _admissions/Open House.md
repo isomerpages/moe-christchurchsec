@@ -83,25 +83,10 @@ Come find out where the CHR journey will take you!
           <img style="width:200" src="/images/btbvoy.png">
 	</a>
 			</td>
-
-
-	
-	
-	
 </tr></tbody></table>
 
-
-	
-<br>
-	
-
-	
-<br>				 
-							 
-
-
-
-# E-Open House 2021
+		 
+## Previous Open Houses
 
 We were delighted to share and answer your questions during our Chit Chat session.
 
