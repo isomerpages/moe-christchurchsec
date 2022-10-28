@@ -62,7 +62,7 @@ description: ""
 ##  School Prospect
 Come find out where the CHR journey will take you! 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRv39cDC5Litkdpytp7RA73rkTpa5TUDcRK9ZeNveLb0eQ8N0O3xPQtkMirUPnYFz6JVNYVOzhqGoY6/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="845" height="504" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRv39cDC5Litkdpytp7RA73rkTpa5TUDcRK9ZeNveLb0eQ8N0O3xPQtkMirUPnYFz6JVNYVOzhqGoY6/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="700" height="450" allowfullscreen="true"></iframe>
 
 
 ![](/images/yawwah.png)
