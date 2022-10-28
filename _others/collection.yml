@@ -2,4 +2,5 @@ collections:
   others:
     output: true
     order:
+      - Be Curious About Everything.md
       - CHR Pride.md
