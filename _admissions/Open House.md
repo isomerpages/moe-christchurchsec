@@ -77,7 +77,7 @@ Come find out where the CHR journey will take you!
           <img style="height:350" src="/images/pif.png">
 	</a>
 			</td><td>
-			<a target="_self" href="/others/become-the-best-version-of-yourself"> 
+			<a target="_self" href="/others/become-the-best-version-of-yourself">
           <img style="height:350" src="/images/btbvoy.png">
 	</a>
 			</td>
