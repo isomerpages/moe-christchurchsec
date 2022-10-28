@@ -26,7 +26,7 @@ description: ""
   </tr>
   <tr>
 		<td class="tg-12lz"> <strong>Visit us on one of these days: </strong>
-  <br> <br> 19 Nov 2022 (Sat), 8.30am - 12.00pm
+&nbsp;&nbsp;<br> <br> 19 Nov 2022 (Sat), 8.30am - 12.00pm
 <br>23 Nov 2022 (Wed), 2.00pm - 4.00pm
 <br>24 Nov 2022 (Thu), 8.30am - 4.00pm
 <br>25 Nov 2022 (Fri), 8.30am - 4.00pm
@@ -44,49 +44,68 @@ description: ""
     <td class="tg-uj1d">ONLINE OPEN HOUSE</td>
   </tr>
   <tr>
-    <td class="tg-12lz">Join us via YouTube Live @ <a rel="noopener noreferrer" target="_blank" href="http://chr.sg/EOH"><span style="text-decoration:none;color:#FF7E00">chr.sg/EOH</span></a><br><br>Date: 24 Nov 2022 (Thu)<br>Time: 4.00pm - 5.00pm
+    <td class="tg-12lz">Join us via YouTube Live @ <a href="http://chr.sg/EOH" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">chr.sg/EOH</span></a><br><br>Date: 24 Nov 2022 (Thu)<br>Time: 4.00pm - 5.00pm
 	<br><br>	Sign up for Open House at the following link:<br> 
-<a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/chropenhouse"><span style="text-decoration:none;color:#FF7E00">https://go.gov.sg/chropenhouse</span></a>
+<a href="https://go.gov.sg/chropenhouse" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">https://go.gov.sg/chropenhouse</span></a>
 	</td>
   </tr>
 </tbody>
 </table>
 
 ## Virtual School Tour
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JkOZx0OqvO8" height="415" width="700"></iframe>
+<iframe width="700" height="415" src="https://www.youtube.com/embed/JkOZx0OqvO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 ## Our Students
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" height="415" width="700"></iframe>
+<iframe width="700" height="415" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 ##  School Prospect
 Come find out where the CHR journey will take you! 
 
-<iframe allowfullscreen="true" height="504" width="845" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv39cDC5Litkdpytp7RA73rkTpa5TUDcRK9ZeNveLb0eQ8N0O3xPQtkMirUPnYFz6JVNYVOzhqGoY6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRv39cDC5Litkdpytp7RA73rkTpa5TUDcRK9ZeNveLb0eQ8N0O3xPQtkMirUPnYFz6JVNYVOzhqGoY6/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="845" height="504" allowfullscreen="true"></iframe>
 
 
 ![](/images/yawwah.png)
+### You are Why We are here
 
-<a href = "/e-open-house/be-curious-about-everything" target = "_self"> 
-          <img src="/images/bcae.png" 
-     style="width:35%">
+
+
+
+	&nbsp;&nbsp;  
+&nbsp; &nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;<table><tbody><tr><td>		
+			<a target="_self" href="/e-open-house/be-curious-about-everything"> 
+          <img style="width:35%" src="/images/bcae.png">
 	</a>
+			</td><td>
+			<a target="_self" href="/e-open-house/pay-it-forward-make-a-difference"> 
+          <img style="width:35%" src="/images/pif.png">
+	</a>
+			</td><td>
+			<a target="_self" href="/e-open-house/become-the-best-version-of-yourself"> 
+          <img style="width:35%" src="/images/btbvoy.png">
+	</a>
+			</td>
+
+
+	
+	
+	
+</tr></tbody></table>
+
+
 	
 <br>
 	
-<a href = "/e-open-house/pay-it-forward-make-a-difference" target = "_self"> 
-          <img src="/images/pif.png" 
-							 style="width:35%">
-	</a>
+
 	
 <br>				 
 							 
-<a href = "/e-open-house/become-the-best-version-of-yourself" target = "_self"> 
-          <img src="/images/btbvoy.png" 
-     style="width:35%">
-	</a>
+
 
 
 # E-Open House 2021
@@ -106,8 +125,8 @@ Do check out the recording of the session we have on 20th November 2021.
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax"><center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MqLoZevRe-g" height="215" width="300"></iframe><br>E - Open House Live Talk Show Session 1</center></td>
-    <td class="tg-0lax"><center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MqLoZevRe-g" height="215" width="300"></iframe><br>E - Open House Live Talk Show Session 2</center></td>
+    <td class="tg-0lax"><center><iframe width="300" height="215" src="https://www.youtube.com/embed/MqLoZevRe-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>E - Open House Live Talk Show Session 1</center></td>
+    <td class="tg-0lax"><center><iframe width="300" height="215" src="https://www.youtube.com/embed/MqLoZevRe-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>E - Open House Live Talk Show Session 2</center></td>
   </tr>
 </tbody>
 </table>
@@ -129,8 +148,8 @@ We hope you have gained valuable insights into our school programme. Do check ou
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax"><center><iframe width="300" height="215" src="https://www.youtube.com/embed/lKYIK8QST4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>E - Open House Live Talk Show Session 1</center></td>
-    <td class="tg-0lax"><center><iframe width="300" height="215" src="https://www.youtube.com/embed/gNrkr264FRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>E - Open House Live Talk Show Session 2</center></td>
+    <td class="tg-0lax"><center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lKYIK8QST4U" height="215" width="300"></iframe><br>E - Open House Live Talk Show Session 1</center></td>
+    <td class="tg-0lax"><center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gNrkr264FRY" height="215" width="300"></iframe><br>E - Open House Live Talk Show Session 2</center></td>
   </tr>
 </tbody>
-</table>
+</table></p>
