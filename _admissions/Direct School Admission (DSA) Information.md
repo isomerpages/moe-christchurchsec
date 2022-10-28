@@ -3,8 +3,8 @@ title: Direct School Admission (DSA) Information
 permalink: /our-school/direct-school-admissions-dsa-information/
 description: ""
 ---
+#### DSA application is now closed.
 
-<strong><center>DSA application is now closed.</center></strong>
   
 ***
 
@@ -12,7 +12,7 @@ description: ""
      style="width:65%">
 
 
-# What is Direct School Admission (DSA)?
+## What is Direct School Admission (DSA)?
 
 Direct School Admission for secondary schools (DSA-Sec) allows students to apply to some schools before taking the PSLE.
 
@@ -22,7 +22,7 @@ Students admitted to a secondary school through DSA-Sec are not allowed to submi
 
 **Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.** 
 
-# Why Christ Church Secondary School (CHR)?  
+## Why Christ Church Secondary School (CHR)?  
 
 <img src="/images/DSA2022_02.png" 
      style="width:65%">
