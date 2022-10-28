@@ -69,15 +69,15 @@ Come find out where the CHR journey will take you!
 ### You are Why We are here
 
 <table><tbody><tr><td>		
-			<a target="_self" href="/admissions/be-curious-about-everything"> 
+			<a target="_self" href="/others/be-curious-about-everything"> 
           <img style="height:350" src="/images/bcae.png">
 	</a>
 			</td><td>
-			<a target="_self" href="/pay-it-forward-make-a-difference"> 
+			<a target="_self" href="/others/pay-it-forward-make-a-difference"> 
           <img style="height:350" src="/images/pif.png">
 	</a>
 			</td><td>
-			<a target="_self" href="/admissions/become-the-best-version-of-yourself"> 
+			<a target="_self" href="/others/become-the-best-version-of-yourself"> 
           <img style="height:350" src="/images/btbvoy.png">
 	</a>
 			</td>
