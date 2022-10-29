@@ -10,10 +10,6 @@ sections:
       background: /images/christ church home.gif
       button: Open House 2022
       url: /our-school/contact-us/
-      key_highlights:
-        - title: Life @ CHR
-          description: Our Publications
-          url: /publications/chr-highlights
   - resources:
       title: What's New
       subtitle: Our News and Events
