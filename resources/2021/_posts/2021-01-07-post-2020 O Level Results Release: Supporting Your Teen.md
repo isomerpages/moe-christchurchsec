@@ -1,10 +1,11 @@
 ---
 title: "2020 O Level Results Release: Supporting Your Teen"
-permalink: /resources/2021/2020-o-level-results-release-supporting-your-team
+permalink: /resources/2021/2020-o-level-results-release-supporting-your-team/
 date: 2021-01-07
 layout: post
 description: ""
 ---
+
 Dear parents,
 
 1. The 2020 O-level results will be released on Monday, 11 Jan 2021 at 2pm.
@@ -23,10 +24,10 @@ We wish your child all the best in his/her O-level Results!
 
 Web Links  
 SEL RESOURCES FOR PARENTS  
-[https://go.gov.sg/selresforparents](https://go.gov.sg/selresforparents)  
-  
+[https://go.gov.sg/selresforparents](https://go.gov.sg/selresforparents)
+
 MySkillsFuture  
-[https://go.gov.sg/MySFSec](https://go.gov.sg/MySFSec)  
-  
+[https://go.gov.sg/MySFSec](https://go.gov.sg/MySFSec)
+
 User Guide: Online Results Release  
 [https://go.gov.sg/seabresultsguidegce](https://go.gov.sg/seabresultsguidegce)

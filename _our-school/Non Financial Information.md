@@ -1,8 +1,9 @@
 ---
 title: Non Financial Information
-permalink: /our-school/non-financial-information
+permalink: /our-school/non-financial-information/
 description: ""
 ---
+
 ![](/images/NFI%201.png)
 
 ![](/images/NFI%202.png)

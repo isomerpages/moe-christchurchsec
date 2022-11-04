@@ -1,10 +1,11 @@
 ---
 title: "2020 N Level Results Release: Supporting Your Teen"
-permalink: /resources/2020/n-level-results-release-supporting-your-team
+permalink: /resources/2020/n-level-results-release-supporting-your-team/
 date: 2020-12-11
 layout: post
 description: ""
 ---
+
 Dear parents,
 
 1. The 2020 N-level results will be released on Thursday, 17 December 2020, 2.00pm.
@@ -20,7 +21,6 @@ Dear parents,
 6. For ECG counselling services, your child may contact ECG Centre @ MOE (Grange Road) for online or phone counselling appointments between 10 to 23 December 2020 via email: [moe_ecg@moe.gov.sg](mailto:moe_ecg@moe.gov.sg), the appointment booking form: [https://go.gov.sg/moe-ecg-centre](https://go.gov.sg/moe-ecg-centre) or phone: 68311420. Alternatively, your child may reach out to the ECG Teacher I/C, Ms Wendy Chew, or their Form Teachers for advice.
 
 We wish your child all the best in his/her N-level Results!
-
 
 **Web Links**
 

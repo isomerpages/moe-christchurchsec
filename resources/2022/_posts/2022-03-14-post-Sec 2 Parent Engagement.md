@@ -1,13 +1,15 @@
 ---
 title: Sec 2 Parent Engagement
-permalink: /resources/2022/sec-2-parent-engagement
+permalink: /resources/2022/sec-2-parent-engagement/
 date: 2022-03-14
 layout: post
 description: ""
 ---
-  Dear Parents/Guardians,  
-  
-Here are the slides from the Sec 2 Parent Engagement held on Friday 4 March 2022.  
+
+Dear Parents/Guardians,
+
+Here are the slides from the Sec 2 Parent Engagement held on Friday 4 March 2022.
+
   <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
