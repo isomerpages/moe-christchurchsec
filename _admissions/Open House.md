@@ -5,7 +5,15 @@ description: ""
 ---
 # Open House 2022
 ![](/images/2022_16_9%20size_edit.jpg)
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-uj1d{background-color:#036667;color:#FFF;font-weight:bold;text-align:center;vertical-align:top;font-size:18px}
+.tg .tg-12lz{background-color:#DBF1D8;text-align:center;vertical-align:top;font-size:18px}
+</style>
 
 
 <table class="tg">
@@ -41,7 +49,7 @@ description: ""
 </tbody>
 </table>
 
-## Virtual School Tour
+<H2>Virtual School Tour</H2>
 
 <iframe width="700" height="415" src="https://www.youtube.com/embed/JkOZx0OqvO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
