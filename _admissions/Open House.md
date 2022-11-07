@@ -4,8 +4,7 @@ permalink: /open-house/
 description: ""
 ---
 # Open House 2022
-![](/images/Eopen%20House%20Banner.jpeg)
-
+![](/images/2022_16_9%20size_edit.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -50,12 +49,12 @@ description: ""
 </tbody>
 </table>
 
-## Virtual School Tour
+# Virtual School Tour
 
 <iframe width="700" height="415" src="https://www.youtube.com/embed/JkOZx0OqvO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
-## Our Students
+# Our Students
 
 <iframe width="700" height="415" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
