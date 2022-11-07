@@ -49,15 +49,15 @@ description: ""
 </tbody>
 </table>
 
-# Virtual School Tour
+## Virtual School Tour
 
 <iframe width="700" height="415" src="https://www.youtube.com/embed/JkOZx0OqvO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+<br>
 
-# Our Students
-
+## Our Students
 <iframe width="700" height="415" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
+<br>
 
 ##  School Prospect
 Come find out where the CHR journey will take you! 
