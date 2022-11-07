@@ -49,24 +49,27 @@ description: ""
 </tbody>
 </table>
 
-<H2>Virtual School Tour</H2>
+<h2>Virtual School Tour</h2>
 
 <iframe width="700" height="415" src="https://www.youtube.com/embed/JkOZx0OqvO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <br>
+<br>
 
-## Our Students
+<h2> Our Students</h2>
+<br>
 <iframe width="700" height="415" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 
-##  School Prospect
+<h2>School Prospect</h2>
+<br>
 Come find out where the CHR journey will take you! 
-
+<br>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRv39cDC5Litkdpytp7RA73rkTpa5TUDcRK9ZeNveLb0eQ8N0O3xPQtkMirUPnYFz6JVNYVOzhqGoY6/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="700" height="450" allowfullscreen="true"></iframe>
+<br>
 
-
-![](/images/yawwah.png)
-### You are Why We are here
+<h2>You are Why We are here</h2
+	<br>
 
 <table><tbody><tr><td>		
 			<a target="_self" href="/others/be-curious-about-everything"> 
