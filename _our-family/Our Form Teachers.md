@@ -3,8 +3,6 @@ title: Our Form Teachers
 permalink: /our-family/our-fts/
 description: ""
 ---
-
-
 ### Form Teachers
 
 |Class | FT1 | FT2|
@@ -35,8 +33,7 @@ description: ""
 |**S4-2**|Mdm Ng Hwee Bin|Mr Shen Ching Jen|
 |**S4-3**|Ms Lynn Tang|Ms Ng Hui Ling|
 |**S4-4**|Ms Verona d/o Rhamanan|Ms Nurul Aqidah Bte Shabudin|
-|**S4-5**|Mdm Juliza Bte Zulkifli
-Ms Amanda Tan|
+|**S4-5**|Mdm Juliza Bte Zulkifli|Ms Amanda Tan|
 |**S4-6**|Ms Teoh Shao Cing|Mr Benjamin Huang|
 |**S4-7**|Mr Yap Choon Bock|Mdm Elizabeth Ter|
 |**S5-1**|Mr Sean Tan|Mdm Ang Sze Yi|
