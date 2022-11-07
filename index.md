@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/christ church home.gif
       button: Open House 2022
-      url: /our-school/contact-us/
+      url: Admissions
   - resources:
       title: What's New
       subtitle: Our News and Events
