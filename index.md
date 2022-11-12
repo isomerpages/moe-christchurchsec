@@ -30,6 +30,6 @@ sections:
         others around you, initiate and seize opportunities to positively impact
         the lives of others.
       button: Find out more!
-      url: /others/be-curious-about-everything/
+      url: /others/pay-it-forward-make-a-difference/
       alt: Image alt text
 ---
