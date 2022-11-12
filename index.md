@@ -23,4 +23,13 @@ sections:
       image: /images/bcae-2.png
       description: "In CHR, you will be an active learner who is able to inquire and
         articulate your thinking confidently to others. "
+  - infopic:
+      title: Thoughtful Contributors
+      subtitle: Make a Difference
+      description: In CHR, you will learn to understand the needs and perspectives of
+        others around you, initiate and seize opportunities to positively impact
+        the lives of others.
+      button: Find out more!
+      url: /others/be-curious-about-everything/
+      alt: Image alt text
 ---
