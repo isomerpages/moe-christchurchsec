@@ -18,6 +18,9 @@ sections:
       title: Active Learners
       subtitle: Be Curious About Everything
       button: Find out more!
-      url: others/
+      url: /others/be-curious-about-everything/
       alt: Image alt text
+      image: /images/bcae-2.png
+      description: "In CHR, you will be an active learner who is able to inquire and
+        articulate your thinking confidently to others. "
 ---
