@@ -32,4 +32,13 @@ sections:
       button: Find out more!
       url: /others/pay-it-forward-make-a-difference/
       alt: Image alt text
+  - infopic:
+      title: Drive to Excel
+      subtitle: Become the best of yourself
+      description: "In CHR, you will experience a strong school culture of gratitude.
+        You will learn to give thanks and appreciate your strengths and
+        potential limiters. "
+      button: Find out more
+      url: /others/become-the-best-version-of-yourself/
+      alt: Image alt text
 ---
