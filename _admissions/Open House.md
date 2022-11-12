@@ -85,48 +85,11 @@ Come find out where the CHR journey will take you!
 </tr></tbody></table>
 
 		 
-## Previous Open Houses
+<h2>Previous Open Houses</h2>
+We were delighted to share our previous Open House panel sessions. 
 
-We were delighted to share and answer your questions during our Chit Chat session.
+<h3> 2021</h3>
+<iframe width="500" height="350" src="https://www.youtube.com/embed/MqLoZevRe-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-Do check out the recording of the session we have on 20th November 2021.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-0lax"><center><iframe width="300" height="215" src="https://www.youtube.com/embed/MqLoZevRe-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>E - Open House Live Talk Show Session 1</center></td>
-    <td class="tg-0lax"><center><iframe width="300" height="215" src="https://www.youtube.com/embed/MqLoZevRe-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>E - Open House Live Talk Show Session 2</center></td>
-  </tr>
-</tbody>
-</table>
-
-# E-Open House 2020
-
-Thank you for making our first ever E-Open House a SUCCESS!  
-  
-We hope you have gained valuable insights into our school programme. Do check out the recordings of our E-Open House if you have missed it on 21st November 2020:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-0lax"><center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lKYIK8QST4U" height="215" width="300"></iframe><br>E - Open House Live Talk Show Session 1</center></td>
-    <td class="tg-0lax"><center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gNrkr264FRY" height="215" width="300"></iframe><br>E - Open House Live Talk Show Session 2</center></td>
-  </tr>
-</tbody>
-</table></p>
+<h3> 2020</h3>
+<iframe width="500" height="350" src="https://www.youtube.com/embed/gNrkr264FRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
