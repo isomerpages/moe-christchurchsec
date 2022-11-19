@@ -21,8 +21,8 @@ sections:
       url: /others/be-curious-about-everything/
       alt: Image alt text
       image: /images/bcae-2.png
-      description: "In CHR, you will be an active learner who is able to inquire and
-        articulate your thinking confidently to others. "
+      description: "Students are active learners who are able to inquire and
+        articulate their thinking confidently to others. "
   - infopic:
       title: Thoughtful Contributors
       subtitle: Make a Difference
