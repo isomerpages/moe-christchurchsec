@@ -26,9 +26,9 @@ sections:
   - infopic:
       title: Thoughtful Contributors
       subtitle: Make a Difference
-      description: In CHR, you will learn to understand the needs and perspectives of
-        others around you, initiate and seize opportunities to positively impact
-        the lives of others.
+      description: Students understand the needs and perspectives of others around
+        them, initiate and seize opportunities to positively impact the lives of
+        others.
       button: Find out more!
       url: /others/pay-it-forward-make-a-difference/
       alt: Image alt text
