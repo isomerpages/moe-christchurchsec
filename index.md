@@ -35,9 +35,9 @@ sections:
   - infopic:
       title: Drive to Excel
       subtitle: Become the best of yourself
-      description: "In CHR, you will experience a strong school culture of gratitude.
-        You will learn to give thanks and appreciate your strengths and
-        potential limiters. "
+      description: "Students will experience a strong school culture of gratitude.
+        They will give thanks and appreciate their strengths and potential
+        limiters. "
       button: Find out more
       url: /others/become-the-best-version-of-yourself/
       alt: Image alt text
