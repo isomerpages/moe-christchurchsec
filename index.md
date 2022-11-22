@@ -41,4 +41,5 @@ sections:
       button: Find out more
       url: /others/become-the-best-version-of-yourself/
       alt: Image alt text
+      image: /images/Homepage/Drive to Excel.jpg
 ---
