@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/christ church home.gif
+      background: /images/Homepage/Home-Banner.gif
       button: Open House 2022
       url: open-house
   - resources:
