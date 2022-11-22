@@ -42,7 +42,6 @@ description: ""
 | **SH Discipline**    | Mdm Mandy Choo   |
 | **SH English Language**    | Ms NurulJannah Binte Ishak   |
 | **SH Humanities**    | Ms Althea Yeo   |
-| **HOD ICT**    | Mr Lim Yang Cherng   |
 | **SH Tamil Language**    | Mdm Thilagavathy Kathiresan   |
 | **SH PE**    | Ms Low Yilun   |
 | **SH Leadership**    | Mdm Shaun Low   |
