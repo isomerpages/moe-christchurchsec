@@ -20,7 +20,7 @@ sections:
       button: Find out more!
       url: /others/be-curious-about-everything/
       alt: Image alt text
-      image: /images/Homepage/Active Learners.jpg
+      image: /images/Homepage/Active Learners1.jpg
       description: "Students are active learners who are able to inquire and
         articulate their thinking confidently to others. "
   - infopic:
