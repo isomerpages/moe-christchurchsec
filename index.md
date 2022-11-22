@@ -32,6 +32,7 @@ sections:
       button: Find out more!
       url: /others/pay-it-forward-make-a-difference/
       alt: Image alt text
+      image: /images/Homepage/Thoughtful Contributor.jpg
   - infopic:
       title: Drive to Excel
       subtitle: Become the best of yourself
