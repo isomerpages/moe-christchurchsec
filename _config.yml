@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-christchurchsec-staging.netlify.app
-prod: https://moe-christchurchsec-prod.netlify.app
+staging: https://staging.d2m4fa61itmok4.amplifyapp.com
+prod: https://master.d2m4fa61itmok4.amplifyapp.com
 shareicon: /images/chr_logo_small.jpeg
 resources_name: resources
 is_government: false
