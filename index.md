@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Home-Banner.gif
+      background: /images/Homepage/homepage-banner.gif
       button: Open House 2022
       url: open-house
   - resources:
