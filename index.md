@@ -9,10 +9,6 @@ sections:
   - hero:
       background: /images/Homepage/homepage-banner.gif
       url: open-house
-  - resources:
-      title: What's New
-      subtitle: Our News and Events
-      button: View More
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
