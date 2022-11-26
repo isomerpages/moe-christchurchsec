@@ -88,6 +88,9 @@ Come find out where the CHR journey will take you!
 <h2>Previous Open Houses</h2>
 We were delighted to share our previous Open House panel sessions. 
 
+<h3> 2022</h3>
+<iframe width="500" height="350" src="https://www.youtube.com/embed/l60a4OTfHJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 <h3> 2021</h3>
 <iframe width="500" height="350" src="https://www.youtube.com/embed/MqLoZevRe-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
