@@ -3,8 +3,8 @@ title: Open House
 permalink: /open-house/
 description: ""
 ---
-# Open House 2022
-![](/images/2022_16_9%20size_edit.jpg)
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -15,7 +15,9 @@ description: ""
 .tg .tg-12lz{background-color:#DBF1D8;text-align:center;vertical-align:top;font-size:18px}
 </style>
 
-
+<!--
+# Open House 2022
+![](/images/2022_16_9%20size_edit.jpg)
 <table class="tg">
 <tbody>
   <tr>
@@ -48,7 +50,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+-->
 <h2>Virtual School Tour</h2>
 
 <iframe width="700" height="415" src="https://www.youtube.com/embed/JkOZx0OqvO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
