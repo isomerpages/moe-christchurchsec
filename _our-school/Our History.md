@@ -3,12 +3,11 @@ title: Our History
 permalink: /our-school/our-history/
 description: ""
 ---
-
 <img src="/images/historygraphic.jpeg" 
      style="width:75%">
 
 
-The history of Christ Church School dates back to 1953 when it was registered as a private school, run by the Anglican Diocese, at Dorset Road. However, due to declining enrolment in 1972, Christ Church and the Anglican Diocese decided to convert the school into a Government-Grant-in- Aid school. In 1973, Christ Church School became a fully government-aided school and was renamed Christ Church Secondary School (CHR). The school started functioning with eight Secondary One classes. In 1985, CHR Secondary School moved to the Tyrwhitt location, taking over the old premises of Victoria School on 15 June. Through sheer hard work and determination, the school pushed ahead to provide value-added education to her students, achieving commendable academic awards as well as improving standing as a school that believes in holistic education driven by students’ needs, talents and abilities.
+The history of Christ Church School dates back to 1952 when it was registered as a private school, run by the Anglican Diocese, at Dorset Road. However, due to declining enrolment in 1972, Christ Church and the Anglican Diocese decided to convert the school into a Government-Grant-in- Aid school. In 1973, Christ Church School became a fully government-aided school and was renamed Christ Church Secondary School (CHR). The school started functioning with eight Secondary One classes. In 1985, CHR Secondary School moved to the Tyrwhitt location, taking over the old premises of Victoria School on 15 June. Through sheer hard work and determination, the school pushed ahead to provide value-added education to her students, achieving commendable academic awards as well as improving standing as a school that believes in holistic education driven by students’ needs, talents and abilities.
 
 A new lease of life was further injected when an entirely new campus in Woodlands, equipped with the latest technology for teaching and learning was designated for the relocation of the school in December 2001. Holding fast to her belief that every person has worth and that his/her development can be nurtured to the optimum, CHR Secondary School continues to refine her curriculum to develop the well-rounded student who is confident to face the challenges of the ever-changing society.
 
@@ -40,7 +39,7 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 1953</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 1952</span></td>
     <td class="tg-ii8k">Founded as Christ Church School, a private educational institute at Dorset Road within the Christ Church Parish. The Principal was Revd Canon Samuel Baboo.</td>
   </tr>
   <tr>
