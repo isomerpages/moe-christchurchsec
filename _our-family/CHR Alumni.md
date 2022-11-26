@@ -43,11 +43,10 @@ description: ""
 
 |  |  |
 | -------- | -------- |
-| **Ordinary Membership**     |1. Open to any former students of the school <br> 2. Completed at least 12 months in the school as a student <br>3. At least 21 years old at the point of registration <br> 4. Annual fee of $20  |
-| **Youth Wing Membership**     |1. Open to any former students of the school<br>2. Between 17 and 20 years old<br>3. Ineligible to vote, hold office or participate in the management of the Alumni<br>4. Annual fee of $5|
-| **Associate Membership**     |1. Open to past and present principals and staff of the school<br>2. Ineligible to vote and hold office but will partner in the management of the Alumni<br>3. Annual fee of $10  |
-| **Life Membership**     |Open to any Ordinary or Associate members who pays a one-time fee of $200
- |
+| **Ordinary Membership**     |1. Open to any former students of the school <br> 2. Completed at least 12 months in the school as a student <br>3. At least 21 years old at the point of registration <br> 4. Annual fee of $20 <br>[Ordinary Member Application Form](/files/CHR%20Alumni/Ordinary%20Member.pdf)  |
+| **Youth Wing Membership**     |1. Open to any former students of the school<br>2. Between 17 and 20 years old<br>3. Ineligible to vote, hold office or participate in the management of the Alumni<br>4. Annual fee of $5<br>[Youth Wing Application Form](/files/CHR%20Alumni/Youth-Wing%20Member.pdf)|
+| **Associate Membership**     |1. Open to past and present principals and staff of the school<br>2. Ineligible to vote and hold office but will partner in the management of the Alumni<br>3. Annual fee of $10<br>[Associate Member Application Form](/files/CHR%20Alumni/Associate%20Member.pdf)  |
+| **Life Membership**     |Open to any Ordinary or Associate members who pays a one-time fee of $200<br>[Life Member Application Form](/files/CHR%20Alumni/Life%20Member.pdf)|
 
 -------
 
