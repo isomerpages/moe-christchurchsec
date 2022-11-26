@@ -4,7 +4,7 @@ title: Christ Church Secondary School
 description: Brief site description here
 image: /images/chr_logo_small.jpeg
 permalink: /
-notification: Hello
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/homepage-banner.gif
