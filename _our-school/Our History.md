@@ -26,10 +26,10 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 .tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 693px">
+<table class="tg" style="undefined;table-layout: fixed">
 <colgroup>
-<col style="width: 152px">
-<col style="width: 541px">
+<col style="width: 120px">
+<col>
 </colgroup>
 <thead>
   <tr>
