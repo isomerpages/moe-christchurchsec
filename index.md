@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/homepage-banner.gif
-      button: Open House 2022
       url: open-house
   - resources:
       title: What's New
