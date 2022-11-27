@@ -1,0 +1,6 @@
+collections:
+  admissions:
+    output: true
+    order:
+      - Open House.md
+      - Direct School Admission (DSA) Information.md

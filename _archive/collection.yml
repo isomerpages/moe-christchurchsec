@@ -1,0 +1,26 @@
+collections:
+  archive:
+    output: true
+    order:
+      - CHR Pride.md
+      - School Awards.md
+      - Others.md
+      - Co Curricular Activities (CCA).md
+      - Academic Outcomes.md
+      - Useful Links.md
+      - Principal’s Letter to CHRians.md
+      - Contact Us.md
+      - Students' Achievements.md
+      - Weighted Assessment and Examinations Schedule.md
+      - Calendar of Events.md
+      - School Timetable.md
+      - terms-of-use.md
+      - Woodlands Health Campus.md
+      - Parent's Gateway (PG).md
+      - Parent Support Group.md
+      - CHR Partners.md
+      - Staff Recognition.md
+      - Non Teaching Staff.md
+      - Teaching Staff.md
+      - Teacher Leaders.md
+      - School Executive Committee.md

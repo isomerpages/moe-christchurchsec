@@ -1,0 +1,5 @@
+collections:
+  publications:
+    output: true
+    order:
+      - CHR Highlights.md

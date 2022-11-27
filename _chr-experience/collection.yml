@@ -1,0 +1,25 @@
+collections:
+  chr-experience:
+    output: true
+    order:
+      - CHR AOP Education.md
+      - Academic Education/.keep
+      - Academic Education/English.md
+      - Academic Education/Mathematics.md
+      - Academic Education/Science.md
+      - Academic Education/Humanities.md
+      - Academic Education/Aesthetic, Craft & Technology.md
+      - Academic Education/Mother Tongue.md
+      - Outdoor Education.md
+      - Pupil Wellbeing/.keep
+      - Pupil Wellbeing/Pupil's Wellbeing and Developmental Discipline.md
+      - Pupil Wellbeing/Civics and Character Education.md
+      - Pupil Wellbeing/Values in Action.md
+      - Pupil Wellbeing/Cyberwellness.md
+      - Pupil Wellbeing/Sexuality Education (GYS).md
+      - Pupil Wellbeing/CHR's Commitment to the Environment.md
+      - Pupil Wellbeing/School Rules and Regulations.md
+      - Learning for Life Programme.md
+      - Applied Learning Programme.md
+      - FSBB @ CHR.md
+      - Learning with PLD.md

@@ -1,0 +1,9 @@
+collections:
+  our-family:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Key Personnel.md
+      - Our Form Teachers.md
+      - School Management Committee.md
+      - CHR Alumni.md
