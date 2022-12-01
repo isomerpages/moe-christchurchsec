@@ -31,7 +31,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1.</span></td>
-    <td class="tg-elnk"><a href="/files/F0-09-5%20Agreement%20&%20Booking%20Form%20for%20External%20Organization.pdf"><span style="text-decoration:none;color:#FF7E00">Agreement &amp; Booking Form (Adventure Elements)</span></a></td>
+    <td class="tg-elnk"><a href="/files/Forms/F0-09-5%20Agreement%20&%20Booking%20Form%20for%20External%20Organization.pdf"><span style="text-decoration:none;color:#FF7E00">Agreement &amp; Booking Form (Adventure Elements)</span></a></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For external organisations' booking of CHR adventure elements.</span></td>
   </tr>
   <tr>
@@ -50,3 +50,5 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+[](/files/Forms/F0-09-5%20Agreement%20&%20Booking%20Form%20for%20External%20Organization.pdf)
