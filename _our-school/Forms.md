@@ -3,19 +3,7 @@ title: Forms
 permalink: /our-school/forms/
 description: ""
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-dwlh{background-col[](/files/Forms/F0-09-5%20Agreement%20&%20Booking%20Form%20for%20External%20Organization.pdf)or:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-elnk{background-color:#EAEAEA;color:#FF7E00;text-align:center;vertical-align:top}
-.tg .tg-pip2{background-color:#EAEAEA;color:#FF7E00;text-align:center;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 819px">
+<table style="undefined;table-layout: fixed; width: 819px" class="tg">
 <colgroup>
 <col style="width: 71px">
 <col style="width: 354px">
@@ -31,7 +19,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1.</span></td>
-    <td class="tg-elnk"><a href="/files/Forms/F0-09-5%20Agreement%20&%20Booking%20Form%20for%20External%20Organization.pdf"><span style="text-decoration:none;color:#FF7E00">Agreement &amp; Booking Form (Adventure Elements)</span></a></td>
+    <td class="tg-elnk"><a href="/files/Forms/F0-09-5%20Agreement%20&amp;%20Booking%20Form%20for%20External%20Organization.pdf"><span style="text-decoration:none;color:#FF7E00">Agreement &amp; Booking Form (Adventure Elements)</span></a></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For external organisations' booking of CHR adventure elements.</span></td>
   </tr>
   <tr>
@@ -44,7 +32,7 @@ description: ""
   </tr>
   <tr>
 		<td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 3.</span></td>
-    <td class="tg-elnk"><a href="www.chr.sg/DMAoption"><span style="text-decoration:none;color:#FF7E00"> Application to change DMA Option </span></a></td>
+    <td class="tg-elnk"><a href="https://www.chr.sg/DMAoption/"><span style="text-decoration:none;color:#FF7E00"> Application to change DMA Option </span></a></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">To help needy Singaporean students to meet basic schooling  expenses.</span></td>
   </tr>
   <tr>
@@ -52,8 +40,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 4.</span></td>
-    <td class="tg-ii8k"><img src="/images/loa%20form.png" 
-     style="width:35%"><br><a href="https://go.gov.sg/leave-of-absence-chr" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FF7E00">Application Form for Leave of Absence</span></a></td>
+    <td class="tg-ii8k"><img style="width:35%" src="/images/loa%20form.png"><br><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/leave-of-absence-chr"><span style="text-decoration:none;color:#FF7E00">Application Form for Leave of Absence</span></a></td>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Application Form for Leave of Absence </span></td>
   </tr>
 </tbody>
