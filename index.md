@@ -10,9 +10,7 @@ sections:
       background: /images/Homepage/homepage-banner.gif
       url: open-house
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Announcement
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
