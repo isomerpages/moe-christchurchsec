@@ -32,7 +32,7 @@ description: ""
   </tr>
   <tr>
 		<td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 3.</span></td>
-    <td class="tg-elnk"><a href="https://www.chr.sg/DMAoption/"><span style="text-decoration:none;color:#FF7E00"> Application to change DMA Option </span></a></td>
+    <td class="tg-elnk"><a href="https://www.chr.sg/DMAoption/" target="_blank"><span style="text-decoration:none;color:#FF7E00"> Application to change DMA Option </span></a></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">To help needy Singaporean students to meet basic schooling  expenses.</span></td>
   </tr>
   <tr>
