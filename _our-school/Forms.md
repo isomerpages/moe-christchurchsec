@@ -33,7 +33,7 @@ description: ""
   <tr>
 		<td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 3.</span></td>
     <td class="tg-elnk"><a href="https://www.chr.sg/DMAoption/" target="_blank"><span style="text-decoration:none;color:#FF7E00"> Application to change DMA Option </span></a></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">To help needy Singaporean students to meet basic schooling  expenses.</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For parents to change the DMA options. More information can be found <a href="/files/Annex%20A%20-%20DMA%20Settings%20After%20School%20Hours.pdf">here</a>.</span></td>
   </tr>
   <tr>
 
