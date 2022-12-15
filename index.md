@@ -38,4 +38,8 @@ sections:
       url: /others/become-the-best-version-of-yourself/
       alt: Image alt text
       image: /images/Homepage/Drive to Excel.jpg
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
