@@ -68,7 +68,7 @@ If you are unable to make it during your allocated time slot, you may purchase y
 
 **1. SALE OF BOOKS**<br>
 You may refer to the booklists for the Secondary One cohort here:<br>
-Express / Normal (Academic) / Normal (Technical) – insert individual links <br>
+[Express]() <br>  [Normal (Academic)]() <br> [Normal (Technical)](/files/2023%20Sec%201NT%20Booklist.pdf)  <br>
 All purchase of books for 2023 must be done in person at the bookshop. Please refer to your PG notification for the details. 
 
 **2. SALE OF UNIFORMS**<br>
