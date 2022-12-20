@@ -3,7 +3,7 @@ title: Forms
 permalink: /our-school/forms/
 description: ""
 ---
-<table style="undefined;table-layout: fixed; width: 819px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 819px">
 <colgroup>
 <col style="width: 71px">
 <col style="width: 354px">
@@ -28,20 +28,28 @@ description: ""
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">To help needy Singaporean students to meet basic schooling  expenses.</span></td>
   </tr>
   <tr>
-
   </tr>
   <tr>
 		<td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 3.</span></td>
-    <td class="tg-elnk"><a href="https://www.chr.sg/DMAoption/" target="_blank"><span style="text-decoration:none;color:#FF7E00"> Application to change DMA Option </span></a></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For parents to change the DMA options. More information can be found <a href="/files/Annex%20A%20-%20DMA%20Settings%20After%20School%20Hours.pdf" target="_blank">here</a>.</span></td>
+    <td class="tg-elnk"><a target="_blank" href="https://www.chr.sg/DMAoption/"><span style="text-decoration:none;color:#FF7E00"> Application to change DMA Option </span></a></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For parents to change the DMA options. More information can be found <a target="_blank" href="/files/Annex%20A%20-%20DMA%20Settings%20After%20School%20Hours.pdf">here</a>.</span></td>
   </tr>
+  <tr>
+</tr>
+  <tr>
+		<td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 4.</span></td>
+    <td class="tg-elnk"><a target="_blank" href="https://go.gov.sg/2023-sec1appeal4transfer"><span style="text-decoration:none;color:#FF7E00">Appeal for Transfer (Sec1/2023)<img src="/images/sec1appeal4transfer.png" style="width:35%"><br> </span></a></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><br>Form for Appeal for Transfer (Sec 1/2023)<br>Deadline: 29 Dec 2022 (12pm)
+  </span></td></tr>
   <tr>
 
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 4.</span></td>
-    <td class="tg-ii8k"><img style="width:35%" src="/images/loa%20form.png"><br><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/leave-of-absence-chr"><span style="text-decoration:none;color:#FF7E00">Application Form for Leave of Absence</span></a></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 5.</span></td>
+    <td class="tg-ii8k"><a target="_blank" href="https://go.gov.sg/leave-of-absence-chr"><span style="text-decoration:none;color:#FF7E00">Application Form for Leave of Absence<img src="/images/loa%20form.png" style="width:35%"><br>
+			</span></a></td>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Application Form for Leave of Absence </span></td>
   </tr>
+	
 </tbody>
 </table>
