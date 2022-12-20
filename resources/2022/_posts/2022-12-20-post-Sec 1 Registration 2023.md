@@ -52,23 +52,21 @@ Further details and instructions for all incoming Secondary 1 students will be p
 
 For those who are not on board PG, an email will be sent to your registered email address from the **afternoon of 22 December 2022.**
 
-<u>**Online Registration**</u> <br>
-Instructions for online registration to CHR have been sent out to you via Parents’ Gateway (PG) or email. To complete your child’s e-Registration, please access the https://go.gov.sg/chr2023ereg link that you have received. 
+<u>Online Registration</u> <br>
+Instructions for online registration to CHR will be sent out to you via Parents’ Gateway (PG) or email. To complete your child’s e-Registration, please access the link [https://go.gov.sg/chr2023ereg](https://go.gov.sg/chr2023ereg) that you have received. 
 
-Do complete the form by <u>**27 December 2022, 5pm.**</u>
+Do complete the form by <u>27 December 2022, 5pm.</u>
 
-<u> **Purchase of Books and Uniform** </u><br>
+<u> Purchase of Books and Uniform</u><br>
 
 To facilitate the purchase of your school books and uniform, as well as to meet your form teachers, Christ Church Secondary School will be making arrangements for in-person purchase of the books and uniforms on **Wednesday 28 December 2022.**<br>
 
 Students will be allocated a specific time slot to purchase their books and uniforms. 
-We seek the understanding of students and parents to only come to the school <u>**after being assigned a time slot**</u> via Parents Gateway (PG), and to report on time. 
+We seek the understanding of students and parents to only come to the school <u>after being assigned a time slot</u> via Parents Gateway (PG), and to report on time. 
 
 If you are unable to make it during your allocated time slot, you may purchase your school books and uniforms after 28 December. Please refer to the School Booklist and Uniform List for the opening hours.
 
 **1. SALE OF BOOKS**<br>
-You may refer to the booklists for the Secondary One cohort here:<br>
-[Express]() <br>  [Normal (Academic)]() <br> [Normal (Technical)](/files/2023%20Sec%201NT%20Booklist.pdf)  <br>
 All purchase of books for 2023 must be done in person at the bookshop. Please refer to your PG notification for the details. 
 
 **2. SALE OF UNIFORMS**<br>
@@ -88,7 +86,7 @@ b) PHYSICAL EDUCATION (PE) ATTIRE
 For the PE t-shirt, students can purchase their usual t-shirt size.<br>
 We encourage students to take the measurements needed and decide on their sizes at home before coming to school.
 
-<u>**Subject-Based Banding (SBB) Briefing**</u><br>
+<u>Subject-Based Banding (SBB) Briefing</u><br>
 N(A) and N(T) students who are eligible for Subject-Based Banding (SBB) will receive a Letter of Offer through Parents Gateway (PG) on 22 December (pm). 
 
 Students and parents are invited to attend a Zoom briefing on SBB. However if you are unable to make it for the session, you can view the recorded zoom briefing uploaded on our school website by 27 December (pm).
@@ -140,14 +138,16 @@ Students and parents are invited to attend a Zoom briefing on SBB. However if yo
   margin-bottom:0in;margin-left:4.0pt;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:black">22 December (PM)</span></p></td></tr></tbody></table>
 	
-<u>**Information for Financial Assistance Scheme (FAS) Application**</u><br>
-If you wish to apply for Financial Assistance Scheme, please download a copy of the application form [here]().  <br>
-Upon completion, please submit the application form and the required supporting documents to the General Office. If your documents are in order, we will be able to process your application between 7 to 10 working days and we will notify you of the status accordingly. If not, we will process your application when the documents are completed.<br>
-Do only proceed to come to school to purchase the school books and uniforms after your FAS application has been approved and you have been issued the CHR FAS letter of approval. Please do not purchase the books and uniforms before receiving the approval as you will not be reimbursed for any amount spent. 
+<u>Information for Financial Assistance Scheme (FAS) Application</u><br>
+If you wish to apply for Financial Assistance Scheme, you can submit your application online via [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) and provide the relevant supporting documents.
 
-<u>**Medical Appeal Exercise (MAE)**</u><br>
-Students who would like to request for a school transfer due to **serious medical conditions or physical impairments** will need to submit their appeal through the posted secondary school **in person** on <u>**22 December 2022 from 8.30am to 12pm.**</u>
+Alternatively, you can download the application form from our school website and submit the completed form and relevant documents to the School’s General Office. You will be notified when your application has been approved. **You are strongly advised not to purchase any textbooks and/or uniform before knowing the outcome of your application as the School/Bookshop will not refund you should your application for MOE FAS be approved. **
 
-<u>**First Day of School &amp; Secondary 1 Orientation**</u><br>
-Details for reporting on the first day of school and the Secondary 1 Orientation will be made available through Parents Gateway by 22 December 2022.<br>
-If students are unable to report to CHR on the first day of school in January 2023 due to valid reasons, please contact our General Office (No: 6893 3297) directly to confirm that you are taking up the place, and we will be able to reserve the place for you.
+
+<u>Medical Appeal Exercise (MAE)</u><br>
+Students who would like to request for a school transfer due to **serious medical conditions or physical impairments** will need to submit their appeal through the posted secondary school **in person** on <u>22 December 2022 from 8.30am to 12pm.</u>
+
+<u>First Day of School &amp; Secondary 1 Orientation</u><br>
+Details for reporting on the first day of school and the Secondary 1 Orientation will be made available through Parents Gateway by 22 December 2022 (pm).
+
+If students are unable to report to CHR on the first day of school in January 2023 due to valid reasons, please email to the school ccss@moe.edu.sg  or reply to the PG notification to confirm that you are taking up the place, and we will be able to reserve the place for you.
