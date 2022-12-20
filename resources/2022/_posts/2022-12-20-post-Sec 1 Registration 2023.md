@@ -76,13 +76,14 @@ The sizes for the uniforms are indicated below. Please refer to your PG notifica
 
 (a) SCHOOL UNIFORM<br>
 <u>Measurements for the unisex shirt/ blouse top</u><br>
-![](/images/Sec%201%20Registration%202023%20measurement.jpg)
+
+<img src="/images/Sec%201%20Registration%202023%20measurement.jpg" style="width:50%">
 
 For the pants and skirt waist measurements, measure the area where you usually wear your pants or skirt. For example, if you wear it on your upper hip area, do measure that part. If the measure part is 31”, you can round up and choose size 32”. <br>The length of the pants and skirt is standard, and alteration of the length is at your own discretion. However, once altered, no exchange is allowed.
 
 b) PHYSICAL EDUCATION (PE) ATTIRE
 <br><u>Measurements for the unisex PE Shorts</u>
-![](/images/Sec%201%20Registration%202023%20PE%20attire.jpg)
+<img src="/images/Sec%201%20Registration%202023%20PE%20attire.jpg" style="width:40%">
 
 For the PE t-shirt, students can purchase their usual t-shirt size.<br>
 We encourage students to take the measurements needed and decide on their sizes at home before coming to school.
