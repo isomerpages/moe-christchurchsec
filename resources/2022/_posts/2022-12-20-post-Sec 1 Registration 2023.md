@@ -142,7 +142,7 @@ Students and parents are invited to attend a Zoom briefing on SBB. However if yo
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
 	
 <u>**Information for Financial Assistance Scheme (FAS) Application**</u><br>
-If you wish to apply for Financial Assistance Scheme, please download a copy of the application form here (link: - insert document link) <br>
+If you wish to apply for Financial Assistance Scheme, please download a copy of the application form [here]().  <br>
 Upon completion, please submit the application form and the required supporting documents to the General Office. If your documents are in order, we will be able to process your application between 7 to 10 working days and we will notify you of the status accordingly. If not, we will process your application when the documents are completed.<br>
 Do only proceed to come to school to purchase the school books and uniforms after your FAS application has been approved and you have been issued the CHR FAS letter of approval. Please do not purchase the books and uniforms before receiving the approval as you will not be reimbursed for any amount spent. 
 
