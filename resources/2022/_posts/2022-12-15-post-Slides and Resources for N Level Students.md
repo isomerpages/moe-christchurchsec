@@ -34,5 +34,4 @@ There are always pathways available for our CHRians, no matter what their result
 8\. Appointment with ECG Counsellor<br>
 [https://forms.moe.edu.sg/forms/v37l8v](https://forms.moe.edu.sg/forms/v37l8v)
 
-9\. N Level Briefing for Students (Slides)<br>
-[Click Here](/files/2022%20N%20Levels%20Release_Briefing%20for%20Students.pdf)
+9\. [N Level Briefing for Students (Slides)](/files/2022%20N%20Levels%20Release_Briefing%20for%20Students.pdf)<br>
