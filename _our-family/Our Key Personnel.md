@@ -24,9 +24,9 @@ description: ""
 | **HOD CCE**    | Mr Nicholas Tsao   |
 | **HOD Discipline**    | Mr Francis Seah   |
 | **HOD English Language**    | Ms Seah Jiemin   |
+| **HOD Science**    | Mr Muhamad Firdaus Bin Mohamed Yasin   |
 | **HOD Humanities**    | Mr Sng Thiam Eng   |
 | **HOD ICT**    | Mr Lim Yang Cherng   |
-| **HOD Science**    | Mr Muhamad Firdaus Bin Mohamed Yasin   |
 | **HOD Mathematics**    | Mdm Sandy Wong   |
 | **HOD Mother Tongue**    | Mr Gavin Chong   |
 | **HOD PE & CCA**    | Mr Ho Chee Hoong   |
