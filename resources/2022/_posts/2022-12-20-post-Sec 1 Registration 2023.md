@@ -57,7 +57,7 @@ Instructions for online registration to CHR have been sent out to you via Parent
 
 Do complete the form by <u>**27 December 2022, 5pm.**</u>
 
-<u>**Purchase of Books and Uniform **</u><br>
+<u> **Purchase of Books and Uniform** </u><br>
 
 To facilitate the purchase of your school books and uniform, as well as to meet your form teachers, Christ Church Secondary School will be making arrangements for in-person purchase of the books and uniforms on **Wednesday 28 December 2022.**<br>
 
@@ -82,4 +82,9 @@ For the pants and skirt waist measurements, measure the area where you usually w
 
 b) PHYSICAL EDUCATION (PE) ATTIRE
 <br><u>Measurements for the unisex PE Shorts</u>
+![](/images/Sec%201%20Registration%202023%20PE%20attire.jpg)
 
+For the PE t-shirt, students can purchase their usual t-shirt size.<br>
+We encourage students to take the measurements needed and decide on their sizes at home before coming to school.
+
+<u>**Subject-Based Banding (SBB) Briefing**</u>
