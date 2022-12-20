@@ -87,4 +87,7 @@ b) PHYSICAL EDUCATION (PE) ATTIRE
 For the PE t-shirt, students can purchase their usual t-shirt size.<br>
 We encourage students to take the measurements needed and decide on their sizes at home before coming to school.
 
-<u>**Subject-Based Banding (SBB) Briefing**</u>
+<u>**Subject-Based Banding (SBB) Briefing**</u><br>
+N(A) and N(T) students who are eligible for Subject-Based Banding (SBB) will receive a Letter of Offer through Parents Gateway (PG) on 22 December (pm). 
+
+Students and parents are invited to attend a Zoom briefing on SBB. However if you are unable to make it for the session, you can view the recorded zoom briefing uploaded on our school website by 27 December (pm).
