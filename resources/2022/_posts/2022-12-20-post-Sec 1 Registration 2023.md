@@ -26,27 +26,27 @@ Please access the information below for more details. <br>
 
 **Our School’s Cut-Off Points for 2022**
 
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Express</span></b></p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="208" valign="top" style="width:155.8pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Express</span></b></p></td><td width="208" valign="top" style="width:155.85pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Normal (Academic)</span></b></p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Normal (Academic)</span></b></p></td><td width="208" valign="top" style="width:155.85pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Normal (Technical)</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Normal (Technical)</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td width="208" valign="top" style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">18</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">18</span></b></p></td><td width="208" valign="top" style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">24</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">24</span></b></p></td><td width="208" valign="top" style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">30</span></b></p></td></tr></tbody></table>
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">30</span></b></p></td></tr></tbody></table>
 	
 Further details and instructions for all incoming Secondary 1 students will be provided via Parents Gateway (PG) from the **afternoon of 22 December 2022.**
 
@@ -94,8 +94,6 @@ Students and parents are invited to attend a Zoom briefing on SBB. However if yo
 
 <!-- /\* Font Definitions \*/ @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-alt:Latha; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
 
-<!-- /\* Font Definitions \*/ @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-alt:Latha; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
-
 <table style="width:485.5pt;border-collapse:collapse;mso-yfti-tbllook:1184" width="647" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:39.25pt"><td style="width:143.5pt;border:solid black 1.0pt;
   background:#385623;mso-background-themecolor:accent6;mso-background-themeshade:
   128;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:39.25pt" valign="top" width="191"><p style="margin-top:12.0pt;margin-right:0in;
@@ -135,14 +133,11 @@ Students and parents are invited to attend a Zoom briefing on SBB. However if yo
   &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:175.5pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:39.25pt" valign="top" width="234"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">&nbsp;</span></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Will be provided via PG on</span></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">22 December (pm).</span><span style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:39.25pt" valign="top" width="234"><p style="margin-top:12.0pt;margin-right:0in;
+  margin-bottom:0in;margin-left:4.0pt;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black">Will be provided via PG on</span></p><p style="margin-top:12.0pt;margin-right:0in;
+  margin-bottom:0in;margin-left:4.0pt;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black">22 December (PM)</span></p></td></tr></tbody></table>
 	
 <u>**Information for Financial Assistance Scheme (FAS) Application**</u><br>
 If you wish to apply for Financial Assistance Scheme, please download a copy of the application form [here]().  <br>
