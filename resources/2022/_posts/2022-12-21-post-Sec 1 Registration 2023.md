@@ -46,7 +46,7 @@ Please access the information below for more details. <br>
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">29</span></b></p></td></tr></tbody></table>
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">30</span></b></p></td></tr></tbody></table>
 	
 Further details and instructions for all incoming Secondary 1 students will be provided via Parents Gateway (PG) from the **afternoon of 22 December 2022.**
 
