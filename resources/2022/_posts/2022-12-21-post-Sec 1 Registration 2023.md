@@ -46,7 +46,7 @@ Please access the information below for more details. <br>
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">30</span></b></p></td></tr></tbody></table>
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">29</span></b></p></td></tr></tbody></table>
 	
 Further details and instructions for all incoming Secondary 1 students will be provided via Parents Gateway (PG) from the **afternoon of 22 December 2022.**
 
@@ -141,7 +141,7 @@ Students and parents are invited to attend a Zoom briefing on SBB. However if yo
 <u>Information for Financial Assistance Scheme (FAS) Application</u><br>
 If you wish to apply for Financial Assistance Scheme, you can submit your application online via [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) and provide the relevant supporting documents.
 
-Alternatively, you can download the application form from our school website and submit the completed form and relevant documents to the School’s General Office. You will be notified when your application has been approved. **You are strongly advised not to purchase any textbooks and/or uniform before knowing the outcome of your application as the School/Bookshop will not refund you should your application for MOE FAS be approved. **
+Alternatively, you can download the application form from our school website and submit the completed form and relevant documents to the School’s General Office. You will be notified when your application has been approved. **You are strongly advised not to purchase any textbooks and/or uniform before knowing the outcome of your application as the School/Bookshop will not refund you should your application for MOE FAS be approved.**
 
 
 <u>Medical Appeal Exercise (MAE)</u><br>
