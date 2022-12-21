@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 #### **Useful Links for N-Level Students**
 
 There are always pathways available for our CHRians, no matter what their results are. The N-Level Examination is just the tip of the iceberg and does not define our CHRians as a person. As a support provided by the school, the links below are meant to serve as a one-stop place for parents and students to have clarity on the multiple options available to our N-Level students. 
@@ -36,4 +35,4 @@ There are always pathways available for our CHRians, no matter what their result
 [https://forms.moe.edu.sg/forms/v37l8v](https://forms.moe.edu.sg/forms/v37l8v)
 
 9\. N Level Briefing for Students (Slides)<br>
-[2022 N Level Release Briefing Slides](/files/2022%20N%20Levels%20Release_Briefing%20for%20Students.pdf)
+[2022 N Level Release Briefing](/files/2022%20N%20Levels%20Release_Briefing%20for%20Students.pdf) 
