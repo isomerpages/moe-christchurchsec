@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 Christ Church Secondary School welcomes all Secondary One 2023 students and parents! 
 
 ![](/images/Sec%201%20Registration%202023.jpg)
