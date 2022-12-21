@@ -141,7 +141,7 @@ Students and parents are invited to attend a Zoom briefing on SBB. However if yo
 <u>Information for Financial Assistance Scheme (FAS) Application</u><br>
 If you wish to apply for Financial Assistance Scheme, you can submit your application online via [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) and provide the relevant supporting documents.
 
-Alternatively, you can download the application form from our school website and submit the completed form and relevant documents to the School’s General Office. You will be notified when your application has been approved. **You are strongly advised not to purchase any textbooks and/or uniform before knowing the outcome of your application as the School/Bookshop will not refund you should your application for MOE FAS be approved. **
+Alternatively, you can download the application form from our school website and submit the completed form and relevant documents to the School’s General Office. You will be notified when your application has been approved. **You are strongly advised not to purchase any textbooks and/or uniform before knowing the outcome of your application as the School/Bookshop will not refund you should your application for MOE FAS be approved.**
 
 
 <u>Medical Appeal Exercise (MAE)</u><br>
