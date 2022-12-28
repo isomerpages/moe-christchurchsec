@@ -169,11 +169,7 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 .tg .tg-ano2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-xvg2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1119px">
-<colgroup>
-<col style="width: 468px">
-<col style="width: 651px">
-</colgroup>
+<table class="tg" style="undefined;table-layout: fixed">
 <thead>
   <tr>
     <th class="tg-ano2"><span style="color:#222;background-color:#B0B0B0">Our Principals</span></th>
