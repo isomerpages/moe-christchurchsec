@@ -147,8 +147,12 @@ Today, we are proud to develop students equipped with the 21st Century skills t
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Lau Wan Keong</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2012 to date</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2012 to 2021</span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Andrew Tay Shao Peng</span></td>
+  </tr>
+	  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2022 to date</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Valleteau De Moulliac Francois Marie Joseph Dominique</span></td>
   </tr>
 </tbody>
 </table>
