@@ -246,7 +246,12 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
+	<colgroup>
+<col style="width: 140px">
+<col>
+</colgroup>
 <thead>
+	<thead>
   <tr>
     <th class="tg-dwlh"></th>
     <th class="tg-pll1"><span style="color:#222;background-color:#B0B0B0">Our Chaplains</span></th>
