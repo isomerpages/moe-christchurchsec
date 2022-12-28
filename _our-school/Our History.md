@@ -33,8 +33,8 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Milestones In History</span></th>
-    <th class="tg-pll1"></th>
+    <th class="tg-dwlh"></th>
+    <th class="tg-pll1"><span style="color:#222;background-color:#B0B0B0">Milestones In History</span></th>
   </tr>
 </thead>
 <tbody>
@@ -117,8 +117,8 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">School Management Committee Chairman</span></th>
-    <th class="tg-pll1"></th>
+    <th class="tg-dwlh"></th>
+    <th class="tg-pll1"><span style="color:#222;background-color:#B0B0B0">School Management Committee Chairman</span></th>
   </tr>
 </thead>
 <tbody>
@@ -170,10 +170,14 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 .tg .tg-xvg2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed">
+	<colgroup>
+<col style="width: 140px">
+<col>
+</colgroup>
 <thead>
   <tr>
-    <th class="tg-ano2"><span style="color:#222;background-color:#B0B0B0">Our Principals</span></th>
-    <th class="tg-xvg2"></th>
+    <th class="tg-ano2"></th>
+    <th class="tg-xvg2"><span style="color:#222;background-color:#B0B0B0">Our Principals</span></th>
   </tr>
 </thead>
 <tbody>
@@ -244,8 +248,8 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Our Chaplains</span></th>
-    <th class="tg-pll1"></th>
+    <th class="tg-dwlh"></th>
+    <th class="tg-pll1"><span style="color:#222;background-color:#B0B0B0">Our Chaplains</span></th>
   </tr>
 </thead>
 <tbody>
