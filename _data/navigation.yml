@@ -8,3 +8,5 @@ links:
     collection: chr-experience
   - title: Admissions
     collection: admissions
+  - title: Contact Us
+    url: /permalink
