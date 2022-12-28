@@ -21,8 +21,7 @@ description: ""
 | -------- | -------- |
 | **School Staff Developer**    | Mrs Amy Yap    |
 | **HOD ACT**    | Mr Toh Hong Seng   |
-| **HOD CCE**    | Mr Nicholas Tsao   |
-| **HOD Discipline**    | Mr Francis Seah   |
+| **HOD CCE**    | Ms Belle Lim   |
 | **HOD English Language**    | Ms Seah Jiemin   |
 | **HOD Science**    | Mr Muhamad Firdaus Bin Mohamed Yasin   |
 | **HOD Humanities**    | Mr Sng Thiam Eng   |
@@ -37,11 +36,12 @@ description: ""
 | | |
 | -------- | -------- |
 | **Asst. Year Head (Lower Sec)**    | Ms Lynn Tang    |
-| **Asst. Year Head (Upper Sec)**    | Mr Benjamin Huang    |
+| **Asst. Year Head (Upper Sec)**    | Ms Siti Farisa    |
 | **SH ACT**    | Ms Ng Hui Ling   |
 | **SH CCE**    | Ms Nurul Aqidah Binte Shabudin  |
 | **SH Discipline**    | Mdm Mandy Choo   |
 | **SH English Language**    | Ms NurulJannah Binte Ishak   |
+| **SH Science**    | Mr Chong Zi Yi   |
 | **SH Humanities**    | Ms Althea Yeo   |
 | **SH Tamil Language**    | Mdm Thilagavathy Kathiresan   |
 | **SH PE**    | Ms Low Yilun   |

@@ -33,8 +33,8 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Milestones In History</span></th>
-    <th class="tg-pll1"></th>
+    <th class="tg-dwlh"></th>
+    <th class="tg-pll1"><span style="color:#222;background-color:#B0B0B0">Milestones In History</span></th>
   </tr>
 </thead>
 <tbody>
@@ -117,8 +117,8 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">School Management Committee Chairman</span></th>
-    <th class="tg-pll1"></th>
+    <th class="tg-dwlh"></th>
+    <th class="tg-pll1"><span style="color:#222;background-color:#B0B0B0">School Management Committee Chairman</span></th>
   </tr>
 </thead>
 <tbody>
@@ -147,8 +147,12 @@ Today, we are proud to develop students equipped with the 21st Century skills t
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Lau Wan Keong</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2012 to date</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2012 to 2021</span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Andrew Tay Shao Peng</span></td>
+  </tr>
+	  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2022 to date</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Valleteau De Moulliac Francois Marie Joseph Dominique</span></td>
   </tr>
 </tbody>
 </table>
@@ -165,15 +169,15 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 .tg .tg-ano2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-xvg2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1119px">
-<colgroup>
-<col style="width: 468px">
-<col style="width: 651px">
+<table class="tg" style="undefined;table-layout: fixed">
+	<colgroup>
+<col style="width: 140px">
+<col>
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-ano2"><span style="color:#222;background-color:#B0B0B0">Our Principals</span></th>
-    <th class="tg-xvg2"></th>
+    <th class="tg-ano2"></th>
+    <th class="tg-xvg2"><span style="color:#222;background-color:#B0B0B0">Our Principals</span></th>
   </tr>
 </thead>
 <tbody>
@@ -242,10 +246,15 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
+	<colgroup>
+<col style="width: 140px">
+<col>
+</colgroup>
 <thead>
+	<thead>
   <tr>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Our Chaplains</span></th>
-    <th class="tg-pll1"></th>
+    <th class="tg-dwlh"></th>
+    <th class="tg-pll1"><span style="color:#222;background-color:#B0B0B0">Our Chaplains</span></th>
   </tr>
 </thead>
 <tbody>

@@ -1,4 +1,4 @@
-logo: /images/sch-title2.png
+logo: /images/school title v3.png
 links:
   - title: Our School
     collection: our-school
@@ -8,3 +8,5 @@ links:
     collection: chr-experience
   - title: Admissions
     collection: admissions
+  - title: Contact Us
+    url: /contact-us
