@@ -4,8 +4,6 @@ permalink: /our-curriculum/Academic/Aesthetic-Craft-n-Technology/
 description: ""
 third_nav_title: Academic Education
 ---
-
-
 ![](/images/artheader.jpeg)
 
 <style type="text/css">
@@ -19,33 +17,6 @@ third_nav_title: Academic Education
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt" colspan="4">Aesthetic, Craft &amp; Technology Department Teachers</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Toh Hong Seng</span><br><span style="color:#222;background-color:#EAEAEA">(HOD / ACT)</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Ng Sei Heng</span><br><span style="color:#222;background-color:#EAEAEA">(SH / D&amp;T)</span></td>
-    <td class="tg-y7qa">Mdm Christabel Foon Lai Kuen<br>(ST / D&amp;T)</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Alan Ho Chin Kun </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Ng Hui Ling</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Adrian Cordeiro</span><br></td>
-    <td class="tg-ii8k">Ms Jenifer Stephanie</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Siti Aisyah</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Lai Liming</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Zulkhairi</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Ng Qi Qin, Gary</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-  </tr>
-</tbody>
-</table>
 
 Aesthetics, Craft & Technology Department (ACT) consists of 4 subjects – Art, Design & Technology, Food & Nutrition and Music. The department was formed in 2002 when we shifted to Woodlands. We called the members in the department as ACTors and ACTresses. The department has a team of young in the service and energetic teachers. We have attained value-added result for D&T and Art in GCE ‘O’ level examinations.  
   
