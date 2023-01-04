@@ -5,7 +5,7 @@ description: ""
 ---
 ### School Chaplaincy Team
 
-|Name |
+|**Name** |
 | -------- | 
 |Revd. William Tham|
 |Pastor Benny Tan|
