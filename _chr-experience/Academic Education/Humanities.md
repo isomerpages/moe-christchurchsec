@@ -4,7 +4,6 @@ permalink: /our-curriculum/Academic/humanities/
 description: ""
 third_nav_title: Academic Education
 ---
-
 ![](/images/humanitiesheader.jpeg)
 
 <style type="text/css">
@@ -17,34 +16,6 @@ third_nav_title: Academic Education
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt" colspan="4">Humanities Department Teachers</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ii8k">Mr Sng Thiam Eng<br>(HOD / Hum)</td>
-    <td class="tg-ii8k">Mr Benjamin Yuan<br>(SH / Geo)</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Nicholas Tsao Wen Jie </span><br>(HOD / CCE)</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Tan Chai Hock </span><br>(LT / EL)</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Ms Yeo Xue Ying<br></td>
-    <td class="tg-ii8k">Ms Sarah Oh<br></td>
-    <td class="tg-ii8k">Ms Rusydiah Bte Abdul Razak<br></td>
-    <td class="tg-ii8k">Ms Nurul Aqidah Binte Shabudin <br></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Ms Zhou Yuxi </td>
-    <td class="tg-ii8k">Mr Gary Ng Qi Qin <br></td>
-    <td class="tg-ii8k">Ms Annie Quek Char Leng<br></td>
-    <td class="tg-ii8k"></td>
-  </tr>
-</tbody>
-</table>
-
 
 **Vision:**  
 To develop pupils from Christ Church Secondary into persons imbued with the necessary skills, knowledge and values that may be acquired from the study of Humanities.  

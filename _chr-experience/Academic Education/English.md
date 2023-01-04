@@ -4,7 +4,6 @@ permalink: /our-curriculum/Academic/english/
 description: ""
 third_nav_title: Academic Education
 ---
-
 ![](/images/englishhead.jpeg)
 
 <style type="text/css">
@@ -17,45 +16,6 @@ third_nav_title: Academic Education
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt" colspan="5">English Department Teachers</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ii8k">Ms Seah Jiemin<br>(HOD / EL)</td>
-    <td class="tg-ii8k">Mdm Ng Qin Lin, Angeline<br>(Year Head - Lower Sec)<br></td>
-    <td class="tg-ii8k">Ms Nurul Jannah<br>(SH / EL)</td>
-    <td class="tg-ii8k">Mr Tan Chai Hok<br>(LT / EL)</td>
-    <td class="tg-ii8k">Ms Rusydiah Binte Abdul Razak<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Mdm Vernice Palai<br>Velvizhi<br></td>
-    <td class="tg-ii8k">Ms Maryam</td>
-    <td class="tg-ii8k">Ms Agnes Goh<br></td>
-    <td class="tg-ii8k">Ms Verona<br></td>
-    <td class="tg-ii8k">Ms Sarah Oh</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Ms Angel Chng (AED)<br></td>
-    <td class="tg-ii8k"> Ms Dorothy Ang<br></td>
-    <td class="tg-ii8k">Ms Lesley Leong</td>
-    <td class="tg-ii8k">Ms Regina Boon</td>
-    <td class="tg-ii8k">Ms Ashreena Begun</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k"> Mr Joshua Choo</td>
-    <td class="tg-ii8k"> </td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-  </tr>
-</tbody>
-</table>
-
-
 **English Language Department Vision**
 
 Confident and effective users of the English Language
