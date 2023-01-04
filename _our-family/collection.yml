@@ -2,9 +2,9 @@ collections:
   our-family:
     output: true
     order:
-      - Chaplaincy Team.md
       - Principal's Message.md
       - Our Key Personnel.md
       - Our Form Teachers.md
       - School Management Committee.md
+      - Chaplaincy Team.md
       - CHR Alumni.md
