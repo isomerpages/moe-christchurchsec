@@ -60,28 +60,31 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 <center><strong>Secondary 1</strong></center>
 
-![](/images/SEC%201%20-%201.png)
-![](/images/GYS%20S1-2%20v2.png)
-![](/images/GYS%20S1-3%20v2.png)
+![](/images/GYS%202023/GYS11.png)
+![](/images/GYS%202023/GYS12.png)
+![](/images/GYS%202023/GYS13.png)
 
 <center><strong>Secondary 2</strong></center>
 
-![](/images/GYS%20S2-1.png)
-![](/images/GYS%20S2-2%20v2.png)
-![](/images/GYS%20S2-3%20v2.png)
+![](/images/GYS%202023/GYS21.png)
+![](/images/GYS%202023/GYS22.png)
+![](/images/GYS%202023/GYS23.png)
 
 <center><strong>Secondary 3</strong></center>
 
-![](/images/GYS%20S3-1.png)
-![](/images/GYS%20S3-2%20v2.png)
+![](/images/GYS%202023/GYS31.png)
+![](/images/GYS%202023/GYS32.png)
+
+
 <center><strong>Secondary 4</strong></center>
 
-![](/images/GYS%20S4-1.png)
-![](/images/GYS%20S4-2%20v2.png)
-![](/images/GYS%20S4-3%20v2.png)
+![](/images/GYS%202023/GYS41.png)
+![](/images/GYS%202023/GYS42.png)
+![](/images/GYS%202023/GYS43.png)
+
 <center><strong>Secondary 5</strong></center>
 
-![](/images/GYS%20S5-1.png)
+![](/images/GYS%202023/GYS51.png)
 
 <strong><u><em>eTeens</em> Programme:</u></strong>
 
