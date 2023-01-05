@@ -37,7 +37,7 @@ The **Key Messages** of Sexuality Education are:
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-**Overview of CHRIST CHURCH SECONDARY SCHOOL’s Sexuality Education Programme for 2022**
+**Overview of CHRIST CHURCH SECONDARY SCHOOL’s Sexuality Education Programme for 2023**
 
 4.
 Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
@@ -61,24 +61,24 @@ Through the Sexuality Education lessons, secondary students will have the opport
 <center><strong>Secondary 1</strong></center>
 
 ![](/images/SEC%201%20-%201.png)
-![](/images/GYS%20S1-2.png)
-![](/images/GYS%20S1-3.png)
+![](/images/GYS%20S1-2%20v2.png)
+![](/images/GYS%20S1-3%20v2.png)
 
 <center><strong>Secondary 2</strong></center>
 
 ![](/images/GYS%20S2-1.png)
-![](/images/GYS%20S2-2.png)
-![](/images/GYS%20S2-3.png)
+![](/images/GYS%20S2-2%20v2.png)
+![](/images/GYS%20S2-3%20v2.png)
 
 <center><strong>Secondary 3</strong></center>
 
 ![](/images/GYS%20S3-1.png)
-![](/images/GYS%20S3-2.png)
+![](/images/GYS%20S3-2%20v2.png)
 <center><strong>Secondary 4</strong></center>
 
 ![](/images/GYS%20S4-1.png)
-![](/images/GYS%20S4-2.png)
-![](/images/GYS%20S4-3.png)
+![](/images/GYS%20S4-2%20v2.png)
+![](/images/GYS%20S4-3%20v2.png)
 <center><strong>Secondary 5</strong></center>
 
 ![](/images/GYS%20S5-1.png)
