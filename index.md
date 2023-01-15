@@ -9,8 +9,6 @@ sections:
   - hero:
       background: /images/Homepage/homepage-banner.gif
       url: open-house
-  - resources:
-      title: Announcement
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
