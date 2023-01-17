@@ -60,9 +60,9 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 <center><strong>Secondary 1</strong></center>
 
-![](/images/GYS%202023/GYS11.png)
-![](/images/GYS%202023/GYS12.png)
-![](/images/GYS%202023/GYS13.png)
+![](/images/GYS%202023/GYS%20s11%20v2.png)
+![](/images/GYS%202023/GYS%20s12%20v2.png)
+![](/images/GYS%202023/GYS%20s13%20v2.png)
 
 <center><strong>Secondary 2</strong></center>
 
