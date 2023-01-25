@@ -4,8 +4,7 @@ permalink: /chr-experience/Co-Curricular-Activities/Badminton/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-
+![](/images/CCA/BADMINTON.jpg)
 
 | Teacher-In-Charge |
 | -------- | 
