@@ -2,7 +2,9 @@
 title: School Awards
 permalink: /our-curriculum/Co-Curricular-Outcomes/school-awards/
 description: ""
+third_nav_title: Achievements
 ---
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

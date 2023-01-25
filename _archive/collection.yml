@@ -2,10 +2,9 @@ collections:
   archive:
     output: true
     order:
+      - Outdoor Education.md
       - CHR Pride.md
-      - School Awards.md
       - Others.md
-      - Co Curricular Activities (CCA).md
       - Academic Outcomes.md
       - Useful Links.md
       - Principal’s Letter to CHRians.md
