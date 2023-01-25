@@ -2,6 +2,7 @@ collections:
   chr-experience:
     output: true
     order:
+      - Outdoor Education/The Boys' Brigade.md
       - Outdoor Education/Outdoor Education.md
       - Outdoor Education/.keep
       - CHR AOP Education.md
