@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Co Curricular Activities
 ---
 
-
-
 | Teacher-In-Charge | 
 | -------- | 
 | Foon Lai Kuen Christabel (Mdm) (i/c)
@@ -15,7 +13,6 @@ Chye Yan Ping Jacqueline (Ms)
 Tan Zhi Lie Sean (Mr)
 Tan Mui-In Amanda (Ms)
 | 
-
 
 <b> 11th Singapore Boys’ Brigade Company </b><br>
 11th Coy was formed in April 1974, by the joint efforts of Mr Edgar Ramalingam (Brigade Organizer), Mr Jacob Ghanamuthu (Ex-Captain) Mr. Daniel Kovipillai (Former Principal) and the late Rev. Abraham Caldwell (Vicar of Christ Church cum Chaplain of Company).The 11th Coy started with 60 Boys and was the first uniformed group formed in Christ Church Secondary School.
