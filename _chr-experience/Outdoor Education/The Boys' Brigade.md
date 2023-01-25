@@ -4,12 +4,10 @@ permalink: /chr-experience/Outdoor-Education/permalink/
 description: ""
 third_nav_title: Outdoor Education
 ---
-
-
 | Teacher-In-Charge | 
 | -------- | 
-| Foon Lai Kuen Christabel (Mdm)
-Shen Ching Jen (Mr)
+| Foon Lai Kuen Christabel (Mdm) (i/c)
+Shen Ching Jen (Mr) (2i/c)
 Chye Yan Ping Jacqueline (Ms) 
 Tan Zhi Lie Sean (Mr)
 Tan Mui-In Amanda (Ms)
@@ -23,4 +21,3 @@ The table below shows the latest awards which the 11th Coy has achieved.
 The Object of The Boys’ Brigade shall be the advancement of Christ’s Kingdom among Boys and the promotion of habits of Obedience, Reverence, Discipline, Self-respect and all that tend towards a true Christian Manliness.
 
 The Boys’ Brigade in Christ Church Secondary School envisions our Boys growing into maturity, and eventually into great leaders in their places of influence and nurturing fathers in their households.
-
