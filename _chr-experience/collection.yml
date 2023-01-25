@@ -2,6 +2,14 @@ collections:
   chr-experience:
     output: true
     order:
+      - CHR AOP Education.md
+      - Academic Education/.keep
+      - Academic Education/English.md
+      - Academic Education/Mathematics.md
+      - Academic Education/Science.md
+      - Academic Education/Humanities.md
+      - Academic Education/Aesthetics, Craft & Technology.md
+      - Academic Education/Mother Tongue.md
       - Outdoor Education/.keep
       - Outdoor Education/The Boys' Brigade.md
       - Outdoor Education/Girls' Brigade.md
@@ -22,14 +30,6 @@ collections:
       - Outdoor Education/Infocomm Club.md
       - Outdoor Education/Christian Fellowship.md
       - Outdoor Education/Outdoor Education.md
-      - CHR AOP Education.md
-      - Academic Education/.keep
-      - Academic Education/English.md
-      - Academic Education/Mathematics.md
-      - Academic Education/Science.md
-      - Academic Education/Humanities.md
-      - Academic Education/Aesthetics, Craft & Technology.md
-      - Academic Education/Mother Tongue.md
       - Pupil Wellbeing/.keep
       - Pupil Wellbeing/Pupil's Wellbeing and Developmental Discipline.md
       - Pupil Wellbeing/Civics and Character Education.md
