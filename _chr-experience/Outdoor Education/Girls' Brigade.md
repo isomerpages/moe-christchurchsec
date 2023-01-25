@@ -32,6 +32,7 @@ The programme of The Girls' Brigade is concerned with the SPIRITUAL, PHYSICAL, E
 <b> Sponsoring Church </b> <br>
 Light of Christ Church Woodlands
 
-<b> Training Schedule </b> <br>
-Friday (CCA Day), 8am - 11.25am <br>
-Saturday, 9am - 12.30pm
+| Training Schedule | | |
+| -------- | | |
+| Friday (CCA Day) | 8.00am - 11.30am | Parade Square & Classrooms |
+| Saturday | 9.00am - 12.30pm | Parade Square |
