@@ -2,6 +2,7 @@ collections:
   chr-experience:
     output: true
     order:
+      - Outdoor Education/Concert Band.md
       - Outdoor Education/English Drama.md
       - Outdoor Education/Choir.md
       - Outdoor Education/Chinese Orchestra.md
