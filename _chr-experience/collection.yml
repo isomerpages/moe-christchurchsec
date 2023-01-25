@@ -2,6 +2,7 @@ collections:
   chr-experience:
     output: true
     order:
+      - Outdoor Education/Outdoor Adventure Club.md
       - Outdoor Education/Modern Dance.md
       - Outdoor Education/Concert Band.md
       - Outdoor Education/English Drama.md
