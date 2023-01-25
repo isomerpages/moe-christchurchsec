@@ -2,6 +2,7 @@ collections:
   chr-experience:
     output: true
     order:
+      - Outdoor Education/National Cadet Corps.md
       - Outdoor Education/.keep
       - Outdoor Education/The Boys' Brigade.md
       - Outdoor Education/Girls' Brigade.md
