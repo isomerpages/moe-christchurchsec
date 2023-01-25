@@ -17,4 +17,9 @@ Since its humble beginnings as a military brass band in 2003, the CHR Band has u
 **Band Vision** <br>
 United by the motto ‘One Band, One Sound’, the CHR Concert Band is where music and learning and joy are intertwined. Our vision is to nurture our students into young musicians who share a passion for music-making. Band provides an avenue for our aspiring musicians to learn through musical exploration and gain a deeper appreciation of music.
 
-Under the baton of our passionate Band Conductor, the main band is given an effective boost of confidence as they are equipped with the musical techniques and skills to put up a stellar performance. Our junior band instructor provides our budding musicians with a solid foundation in music. Through these collaborative efforts, our CHR Concert Band has brought their performance standards to a whole new level. 
+Under the baton of our passionate Band Conductor, the main band is given an effective boost of confidence as they are equipped with the musical techniques and skills to put up a stellar performance. Our junior band instructor provides our budding musicians with a solid foundation in music. Through these collaborative efforts, our CHR Concert Band has brought their performance standards to a whole new level.
+
+| Training Schedule |  |  |
+| -- | -- | -- |
+| Wednesday | 3.30pm - 6.30pm | AVA Room & Math Room |
+| Friday (CCA Day) | 8.00am - 11.30am | AVA Room & Math Room |
