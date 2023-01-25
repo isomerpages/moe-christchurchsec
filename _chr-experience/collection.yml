@@ -2,7 +2,6 @@ collections:
   chr-experience:
     output: true
     order:
-      - Achievements/.keep
       - CHR AOP Education.md
       - Academic Education/.keep
       - Academic Education/English.md
@@ -11,8 +10,8 @@ collections:
       - Academic Education/Humanities.md
       - Academic Education/Aesthetics, Craft & Technology.md
       - Academic Education/Mother Tongue.md
-      - Co Curricular Activities/Achievements.md
       - Co Curricular Activities/.keep
+      - Co Curricular Activities/Achievements.md
       - Co Curricular Activities/The Boys' Brigade.md
       - Co Curricular Activities/Girls' Brigade.md
       - Co Curricular Activities/National Cadet Corps.md
@@ -31,6 +30,7 @@ collections:
       - Co Curricular Activities/Outdoor Adventure Club.md
       - Co Curricular Activities/Infocomm Club.md
       - Co Curricular Activities/Christian Fellowship.md
+      - Achievements/.keep
       - Pupil Wellbeing/.keep
       - Pupil Wellbeing/Pupil's Wellbeing and Developmental Discipline.md
       - Pupil Wellbeing/Civics and Character Education.md
