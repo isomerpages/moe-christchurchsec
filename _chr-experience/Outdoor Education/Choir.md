@@ -26,3 +26,9 @@ We hope that the CHR Choir will continue to sing from the heart and enjoy music-
 * Provide the basis to develop an informed and life-long involvement in music.
 
 To achieve these aims, the CHR Choir organises valuable cultural immersion and exchange visits with fellow choristers from Australia and Hong Kong. Also regular opportunities to attend unique concert performances by visiting choirs from around the world such as: the New Zealand Youth Choir, and the Hamburg Girls' Choir.
+
+
+| Training Schedule |  |  |
+| -- | -- | -- |
+| Thursday | 3.35pm - 6.30pm | Music Room |
+| Friday (CCA Day) | 8.00am - 11.30am | Drop-In-Centre |
