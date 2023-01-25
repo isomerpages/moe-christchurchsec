@@ -4,23 +4,16 @@ permalink: /our-curriculum/Co-Curricular-Outcomes/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+<center><h4><u>Uniformed Groups</u></h4></center>
 
-
-
-
-<center><h3><u>Uniformed Groups</u></h3></center>
-
-<h3><u>Boys’ Brigade (BB)</u></h3>
+<h6><u>Boys’ Brigade (BB)</u></h6>
 
 **2021**
 1. **J M Fraser Award** – Gold (14th Consecutive Year) 
 2. **BB Best Boy Award** – Gabriel Neo Jiawei (4/4)
 3. **Character Quest** – Gold Honour Roll
 
-
 ----
-
-
 
 **2020**
 1. **J M Fraser Award** – Gold (14th Consecutive Year) 
@@ -41,7 +34,7 @@ third_nav_title: Co Curricular Activities
 2. **J M Fraser Award** – Gold (12th Consecutive Year)
 3. **BB Week** – Silver Honour Roll
 4. **President’s Award** – Nathan Ang (Primer)
-5. **Founder’s Award** – Christian Chan (4/1) , Douglas Teo (4/3) , Goh Jun Peng (4/3) , Koh Yih Song (4/3) ,                                       Shaun Goh (4/4) , Timothy Kwan (4/4) , Emmanuel Cheong (4/4)
+5. **Founder’s Award** – Christian Chan (4/1) , Douglas Teo (4/3) , Goh Jun Peng (4/3) , Koh Yih Song (4/3) , Shaun Goh (4/4) , Timothy Kwan (4/4) , Emmanuel Cheong (4/4)
 6. **Character Quest** – 6th Place , Gold Honour Roll
 7. **15th Pipes & Drums Festival**: BagPipes Senior – Alvin Vishanth (4/1) – 2nd & 3rd Place
 8. **15th Pipes & Drums Festival**: Tenor Drums Junior – Gabriel Neo (1/2) – 3rd Place
@@ -60,7 +53,7 @@ third_nav_title: Co Curricular Activities
 
 
 
-<h3><u>Girls’ Brigade (GB)</u></h3>
+<h6><u>Girls’ Brigade (GB)</u></h6>
 
 **2021**
 1. **Company Award** – Gold (9th Consecutive Year)
@@ -93,7 +86,7 @@ third_nav_title: Co Curricular Activities
 
 
 
-<h3><u>National Cadets Corps (NCC)</u></h3>
+<h6><u>National Cadets Corps (NCC)</u></h6>
 
 **2021**
 1. **Unit Recognition** – Distinction (6th Consecutive Year)
@@ -127,7 +120,7 @@ third_nav_title: Co Curricular Activities
 
 
 
-<h3><u>National Police Cadets Corps (NPCC)</u></h3>
+<h6><u>National Police Cadets Corps (NPCC)</u></h6>
 
 **2021**
 1. **Unit Overall Proficiency Award (UOPA)** – Gold
@@ -161,7 +154,7 @@ third_nav_title: Co Curricular Activities
 
 
 
-<h3><u>National Civil Defence Cadets Corps (NCDCC)</u></h3>
+<h6><u>National Civil Defence Cadets Corps (NCDCC)</u></h6>
 
 **2021**
 1. **Unit Overall Proficiency Award (UOPA)** – Gold (2nd Consecutive Year)
@@ -201,9 +194,9 @@ third_nav_title: Co Curricular Activities
 
 
 
-<center><h3><u>Sports</u></h3></center>
+<center><h4><u>Sports</u></h4></center>
 
-<h3><u>Badminton</u></h3>
+<h6><u>Badminton</u></h6>
 
 **2021**
 
@@ -219,7 +212,7 @@ third_nav_title: Co Curricular Activities
 
 
 
-<h3><u>Basketball</u></h3>
+<h6><u>Basketball</u></h6>
 
 **2020**
  
@@ -258,7 +251,7 @@ third_nav_title: Co Curricular Activities
 8.  **‘B’ Boys Jurong Cup** – 1st Place
 
 
-<h3><u>Football</u></h3>
+<h6><u>Football</u></h6>
 
 **2019**
 
@@ -280,7 +273,7 @@ third_nav_title: Co Curricular Activities
 
 
 
-<h3><u>Netball</u></h3>
+<h6><u>Netball</u></h6>
 
 **2019**
 
@@ -303,7 +296,7 @@ third_nav_title: Co Curricular Activities
 2.  **Regent Cup: ‘B’ Girls** **–** 4th Place
 
 
-<h3><u>Wushu</u></h3>
+<h6><u>Wushu</u></h6>
 
 **2021**  
 
@@ -337,7 +330,7 @@ third_nav_title: Co Curricular Activities
 1.  **Wushu National C Division: ‘C’ Girls Nanquan** – Eunice Tan (2/5) – 4th Place
 
 
-<h3><u>Outdoor Adventure Club (OAC)</u></h3>
+<h6><u>Outdoor Adventure Club (OAC)</u></h6>
 
 
 **2019**
@@ -361,10 +354,10 @@ third_nav_title: Co Curricular Activities
 
 
 
-<center><h3><u>Performing Arts</u></h3></center>
+<center><h4><u>Performing Arts</u></h4></center>
 
 
-<h3><u>Choir</u></h3>
+<h6><u>Choir</u></h6>
 
 **2021**  
 
@@ -386,7 +379,7 @@ third_nav_title: Co Curricular Activities
 
 
 
-<h3><u>Dance - Modern</u></h3>
+<h6><u>Dance - Modern</u></h6>
 
 **2021**  
 
@@ -406,7 +399,7 @@ third_nav_title: Co Curricular Activities
 1.  **SYF Arts Presentation** – Accomplishment
 
 
-<h3><u>Drama English</u></h3>
+<h6><u>Drama English</u></h6>
 
 **2021**  
 
@@ -426,7 +419,7 @@ third_nav_title: Co Curricular Activities
 1.  **SYF Arts Presentation** – Accomplishment
 
 
-<h3><u>Chinese Orchestra</u></h3>
+<h6><u>Chinese Orchestra</u></h6>
 
 **2021**  
 
@@ -447,7 +440,7 @@ third_nav_title: Co Curricular Activities
 
 
 
-<h3><u>Concert Band</u></h3>
+<h6><u>Concert Band</u></h6>
 
 
 **2021**  
@@ -470,10 +463,10 @@ third_nav_title: Co Curricular Activities
 
 
 
-<center><h3><u>Clubs and Socieities</u></h3></center>
+<center><h5><u>Clubs and Socieities</u></h4></center>
 
 
-<h3><u>InfoComm Club (ICC)</u></h3>
+<h6><u>InfoComm Club (ICC)</u></h6>
 
 **2019**
 
@@ -492,20 +485,3 @@ third_nav_title: Co Curricular Activities
 **2017**
 
 1.  **TwentyFour Motion Picture Competition** – 2nd Place , Most Creative Award
-
-
-
-
-<h3><u>Community Service Club (CSC)</u></h3>
-
-
-**2019**
-
-1.  **My Mini Eden Terrarium Competition:** **Schools Category** – Top 6
-2.  **SEC Recycling Bin Design Contest** – Top 5
-
-----
-
-**2017**
-
-1.  **Ngee Ann Poly Marigold Competition** – 3rd Place , Merit Award
