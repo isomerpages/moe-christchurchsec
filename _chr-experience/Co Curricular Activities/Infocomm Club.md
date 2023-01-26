@@ -4,6 +4,7 @@ permalink: /chr-experience/Co-Curricular-Activities/Infocomm-Club/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+![](/images/CCA/ICC2.jpg)
 <table>
   <tr>
     <th>Teacher-In-Charge</th>
