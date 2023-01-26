@@ -8,8 +8,7 @@ third_nav_title: Co Curricular Activities
 
 
 
-| Teacher-In-Charge |
-| -------- | 
+<u> **Teacher-In-Charge** </u>
 * Foon Lai Kuen Christabel (Mdm) (i/c)
 * Shen Ching Jen (Mr) (2i/c)
 * Chye Yan Ping Jacqueline (Ms)
