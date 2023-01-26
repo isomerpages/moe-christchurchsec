@@ -4,6 +4,7 @@ permalink: /chr-experience/Co-Curricular-Activities/Girls-Brigade/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+![](/images/CCA/GB.jpg)
 <table>
   <tr>
     <th>Teacher-In-Charge</th>
