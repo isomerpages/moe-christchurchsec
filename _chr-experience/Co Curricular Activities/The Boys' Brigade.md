@@ -4,6 +4,8 @@ permalink: /chr-experience/Co-Curricular-Activities/The-Boys-Brigade/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+![](/images/CCA/BB.jpg)
+
 <table>
   <tr>
     <th>Teacher-In-Charge</th>
