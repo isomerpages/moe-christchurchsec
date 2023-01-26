@@ -20,7 +20,6 @@ third_nav_title: Co Curricular Activities
 	<tr>
 </table>
 
-
 The Netball Team in Christ Church Secondary School is a competitive sports CCA. They represent the school in various leagues and carnivals throughout the year. The Netball CCA anchors on school’s values of Courage, Compassion and Curiosity. The players from the Netball Team take ownership of their own growth, are determined and dedicated to do their best in every training sessions, care and work collaboratively with others. 
 
 **Team Values**: <br>
