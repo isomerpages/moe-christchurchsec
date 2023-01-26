@@ -5,18 +5,12 @@ description: ""
 third_nav_title: Co Curricular Activities
 ---
 ![](/images/CCA/ICC2.jpg)
-<table>
-  <tr>
-    <th>Teacher-In-Charge</th>
-  </tr>
-  <tr>
-    <td>Chong Mea Fun (Ms) (i/c)</td>
-  </tr>
-  <tr>
-    <td>Lai Liming (Ms) </td>
-  </tr>
-  <tr>
-</table>
+
+<strong><u>Teacher-In-Charge</u></strong>
+* Chong Mea Fun (Ms) (i/c)
+* Lai Liming (Ms)
+
+<hr>
 
 *"An Infocomm Media Club, powered by IMDA."*
 
