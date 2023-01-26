@@ -4,14 +4,22 @@ permalink: /chr-experience/Co-Curricular-Activities/Chinese-Orchestra/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+<table>
+  <tr>
+    <th>Teacher-In-Charge</th>
+  </tr>
+  <tr>
+    <td>Tan Soh Leng (Ms) (i/c)</td>
+  </tr>
+  <tr>
+    <td>Roslina Bte Mahmood (Mdm)</td>
+  </tr>
+  <tr>
+    <td>Ter Mei Lan Elizabeth (Mdm)</td>
+  </tr>
+	<tr>
+</table>
 
-
-| Teacher-In-Charge |
-| -------- | 
-| Tan Soh Leng (Ms) (i/c)
-Roslina Bte Mahmood (Mdm)
-Ter Mei Lan Elizabeth (Mdm)
-|
 
 **CHR Chinese Orchestra Motto: A.S.P.I.R.E** <br>
 A : Attendance <br>

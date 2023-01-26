@@ -4,14 +4,22 @@ permalink: /chr-experience/Co-Curricular-Activities/Football/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+<table>
+  <tr>
+    <th>Teacher-In-Charge</th>
+  </tr>
+  <tr>
+    <td>Azman B Abu Bakar (Mr) (i/c)</td>
+  </tr>
+  <tr>
+    <td>Chan Sau Choy Desmond (Mr)</td>
+  </tr>
+  <tr>
+    <td>Muhammad Khairulnizam B A R (Mr) </td>
+  </tr>
+	<tr>
+</table>
 
-
-| Teacher-In-Charge |
-| -------- | 
-| Azman B Abu Bakar (Mr) (i/c)
-Chan Sau Choy Desmond (Mr)
-Muhammad Khairulnizam B A R (Mr) 
-|
 
 Our Football (Boys) Team took part in both ‘B’ and ’C’ Division North Zone Football Tournament in 2019 and 2020.
 
