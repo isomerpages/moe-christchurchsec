@@ -4,19 +4,30 @@ permalink: /chr-experience/Co-Curricular-Activities/National-Civil-Defence-Cadet
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-
-
-
-| Teacher-In-Charge | 
-| -------- | 
-| Seah Chin Kiong Francis (Mr) (i/c)
-Yap Wei Qi Vincent (Mr) (2i/c)
-Siti Nursyahidah Bte Ideris (Mdm)
-Muhammad Firdaus Bin Md Hair (Mr)
-Siti Farisa Binte Mohamad Noor (Ms)
-Zhou Yuxi (Ms)
-| 
+<table>
+  <tr>
+    <th>Teacher-In-Charge</th>
+  </tr>
+  <tr>
+    <td>Seah Chin Kiong Francis (Mr) (i/c)</td>
+  </tr>
+  <tr>
+    <td>Yap Wei Qi Vincent (Mr) (2i/c)</td>
+  </tr>
+  <tr>
+    <td>Siti Nursyahidah Bte Ideris (Mdm)</td>
+  </tr>
+  <tr>
+    <td>Muhammad Firdaus Bin Md Hair (Mr)</td>
+  </tr>
+  <tr>
+    <td>Siti Farisa Binte Mohamad Noor (Ms)</td>
+  </tr>
+	 <tr>
+    <td>Zhou Yuxi (Ms)</td>
+  </tr>
+	<tr>
+</table>
 
 The National Civil Defence Cadet Corps (NCDCC), having started in the year 2005, is the youngest member of the three National Uniformed Groups in Singapore. It was set up through the collaborative efforts of MOE and Ministry of Home Affairs.
 
