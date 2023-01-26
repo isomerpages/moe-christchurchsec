@@ -25,6 +25,9 @@ The Netball Team in Christ Church Secondary School is a competitive sports CCA. 
 **Team Values**: <br>
 Courage, Compassion and Curiosity: Determined and dedicated to do the best
 
+![](/images/CCA/Netball1.png)
+![](/images/CCA/Netball2.png)
+
 | Training Schedule |  |  |
 | -- | -- | -- |
 | Monday | 4.00pm - 6.00pm | Indoor Sports Hall |
