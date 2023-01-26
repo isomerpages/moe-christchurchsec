@@ -4,22 +4,12 @@ permalink: /chr-experience/Co-Curricular-Activities/Concert-Band/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<table>
-  <tr>
-    <th>Teacher-In-Charge</th>
-  </tr>
-  <tr>
-    <td>Juliza Bte Zulkifli (i/c)</td>
-  </tr>
-  <tr>
-    <td>Chng Li Yao Leonard (Mr)</td>
-  </tr>
-  <tr>
-    <td>Rusydiah Bte Abdul Razak (Ms)</td>
-  </tr>
-	<tr>
-</table>
+<strong><u>Teacher-In-Charge</u></strong>
+* Juliza Bte Zulkifli (i/c)
+* Chng Li Yao Leonard (Mr)
+* Rusydiah Bte Abdul Razak (Ms)
 
+<hr>
 
 **Our CCA** <br>
 Since its humble beginnings as a military brass band in 2003, the CHR Band has undergone a bold evolution into the CHR Concert Band as it is known today. Through the years, the Band has had many opportunities to perform on the school and public stage for the musical delight of audiences from all walks of life.
