@@ -4,13 +4,20 @@ permalink: /chr-experience/Co-Curricular-Activities/Infocomm-Club/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+<table>
+  <tr>
+    <th>Teacher-In-Charge</th>
+  </tr>
+  <tr>
+    <td>Chong Mea Fun (Ms) (i/c)</td>
+  </tr>
+  <tr>
+    <td>Lai Liming (Ms) </td>
+  </tr>
+  <tr>
+</table>
 
-
-| Teacher-In-Charge |
-| -------- | 
-| Chong Mea Fun (Ms) (i/c)
-Lai Liming (Ms)
-|
+*"An Infocomm Media Club, powered by IMDA."*
 
 Infocomm Club (ICC) is formed by a group of diligent individuals, who play a distinctive role in their own ways as behind-the-scenes heroes to contribute to the school. ICC is bonded by the key skills of effective communication, listening and acceptance. ICC accepts every individual for his or her personal talents. ICC then works as one to develop one another to become more effective and adaptable and to be prepared for any unexpected situation.
 
