@@ -4,6 +4,7 @@ permalink: /chr-experience/Co-Curricular-Activities/National-Civil-Defence-Cadet
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+![](/images/CCA/NCDCC.jpg)
 <table>
   <tr>
     <th>Teacher-In-Charge</th>
