@@ -6,27 +6,14 @@ third_nav_title: Co Curricular Activities
 ---
 ![](/images/CCA/BB.jpg)
 
-<table>
-  <tr>
-    <th>Teacher-In-Charge</th>
-  </tr>
-  <tr>
-    <td>Foon Lai Kuen Christabel (Mdm) (i/c)</td>
-  </tr>
-  <tr>
-    <td>Shen Ching Jen (Mr) (2i/c)</td>
-  </tr>
-  <tr>
-    <td>Chye Yan Ping Jacqueline (Ms)</td>
-  </tr>
-  <tr>
-    <td>Tan Zhi Lie Sean (Mr)</td>
-  </tr>
-  <tr>
-    <td>Tan Mui-In Amanda (Ms)</td>
-  </tr>
-	<tr>
-</table>
+
+
+| Teacher-In-Charge |
+| -------- | 
+* Foon Lai Kuen Christabel (Mdm) (i/c)
+* Shen Ching Jen (Mr) (2i/c)
+* Chye Yan Ping Jacqueline (Ms)
+* Tan Mui-In Amanda (Ms)
 
 
 <b> 11th Singapore Boys’ Brigade Company </b><br>
