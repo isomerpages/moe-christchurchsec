@@ -4,13 +4,19 @@ permalink: /chr-experience/Co-Curricular-Activities/Choir/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+<table>
+  <tr>
+    <th>Teacher-In-Charge</th>
+  </tr>
+  <tr>
+    <td>Ng Hui Ling (Ms) (i/c)</td>
+  </tr>
+  <tr>
+    <td>Rahimah Bte Selamat (Mdm)</td>
+  </tr>
+	<tr>
+</table>
 
-
-| Teacher-In-Charge |
-| -------- | 
-| Ng Hui Ling (Ms) (i/c)
-Rahimah Bte Selamat (Mdm)
-|
 
 The Christ Church Secondary School Choir was established in 2004 as a performing arts group for singing enthusiasts. Currently, the CHR Choir is under the direction and conducting of our Choral Director Mr Francis Liew. Mr Liew is an accomplished choral director, and well known to the choral and performing arts scene in Singapore.
 
