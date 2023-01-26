@@ -6,14 +6,15 @@ third_nav_title: Co Curricular Activities
 ---
 ![](/images/CCA/NCC.png)
 
-<u>**Teacher-In-Charge**</u>
+<strong><u>Teacher-In-Charge</u></strong>
 * Nuruljannah Binte Ishak (Ms) (i/c)
 * Nurul Aqidah Bte Shabudin (Ms) (2i/c)
 * Regina Boon Wen Xin (Ms)
 * Chong Zi Yi (Mr)
 * Liyana Binte Mohd Bakhit (Ms)
 * Zulkhairi Bin Zulkiflee (Mr)
----
+
+<hr>
 
 **National Cadet Corps (NCC)** <br>
 The NCC is one of the biggest UG in the MOE family of Uniformed Groups with a wide variety of programmes. Students undergo skills training in drills, marksmanship training, field craft and adventure training. There are also further programmes that include the Precision Drills Squad, Freestyle Drills Squad and outdoor survival programmes. Selected cadets have the opportunity to participate in various overseas trips. NCC cadets actively participate in the International Cadet Exchange Program (ICEP) which allows them to visit countries like Australia, India, Thailand, Brunei, United Kingdom and the United States.
