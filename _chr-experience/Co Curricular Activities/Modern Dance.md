@@ -4,6 +4,8 @@ permalink: /chr-experience/Co-Curricular-Activities/Modern-Dance/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+![](/images/CCA/DANCE.jpg)
+
 <strong><u>Teacher-In-Charge</u></strong>
 * Verona D/O Rhamanan (Ms) (i/c)
 * Thilagavathy Kathiresan (Mdm)
