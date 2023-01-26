@@ -4,8 +4,6 @@ permalink: /our-curriculum/Co-Curricular-Outcomes/school-awards/
 description: ""
 third_nav_title: Achievements
 ---
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -60,5 +58,6 @@ third_nav_title: Achievements
   <tr>
     <td class="tg-ktyi"><span style="background-color:transparent">SEC-Starhub School Green Awards – Lotus Sustained Achievement Award</span></td>
   </tr>
+	<tr>
 </tbody>
 </table>
