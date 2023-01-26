@@ -4,6 +4,7 @@ permalink: /chr-experience/Co-Curricular-Activities/Basketball/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+![](/images/CCA/BASKETBALL.jpg)
 <table>
   <tr>
     <th>Teacher-In-Charge</th>
