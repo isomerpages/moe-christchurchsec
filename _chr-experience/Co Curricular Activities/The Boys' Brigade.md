@@ -12,7 +12,6 @@ third_nav_title: Co Curricular Activities
 * Shen Ching Jen (Mr) (2i/c)
 * Chye Yan Ping Jacqueline (Ms)
 * Tan Mui-In Amanda (Ms)
-
 <hr>
 
 <b> 11th Singapore Boys’ Brigade Company </b><br>
