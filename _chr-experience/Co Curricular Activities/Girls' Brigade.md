@@ -5,24 +5,14 @@ description: ""
 third_nav_title: Co Curricular Activities
 ---
 ![](/images/CCA/GB.jpg)
-<table>
-  <tr>
-    <th>Teacher-In-Charge</th>
-  </tr>
-  <tr>
-    <td>Tang Yun Yan Lynn (Ms) (i/c)</td>
-  </tr>
-  <tr>
-    <td>Yeo Xue Ying Althea (Ms) (2i/c)</td>
-  </tr>
-  <tr>
-    <td>Leow Swee Khim (Ms)</td>
-  </tr>
-  <tr>
-    <td>Jenifer Stephanie A/P Paskaran (Ms)</td>
-  </tr>
-	<tr>
-</table>
+
+<strong><u>Teacher-In-Charge</u></strong>
+* Tang Yun Yan Lynn (Ms) (i/c)
+* Yeo Xue Ying Althea (Ms) (2i/c)
+* Leow Swee Khim (Ms)
+* Jenifer Stephanie A/P Paskaran (Ms)
+
+<hr>
 
 <b> The Girls’ Brigade 18th Singapore Company </b> <br>
 The Girls’ Brigade 18th Singapore Company in Christ Church Secondary School is a Christian-based CCA formed in 1984 with the support from GB Headquarters and Light of Christ Church Woodlands (sponsoring church).

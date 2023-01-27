@@ -5,24 +5,14 @@ description: ""
 third_nav_title: Co Curricular Activities
 ---
 ![](/images/CCA/BASKETBALL.jpg)
-<table>
-  <tr>
-    <th>Teacher-In-Charge</th>
-  </tr>
-  <tr>
-    <td>Tan Suan Swee Ashley (Mr) (i/c)</td>
-  </tr>
-  <tr>
-    <td>Lam Cheng Wan (Ms)</td>
-  </tr>
-  <tr>
-    <td>Tay Ru Hui (Ms)</td>
-  </tr>
-  <tr>
-    <td>Wan Siew Hua (Mdm)</td>
-  </tr>
-	<tr>
-</table>
+
+<strong><u>Teacher-In-Charge</u></strong>
+* Tan Suan Swee Ashley (Mr) (i/c)
+* Lam Cheng Wan (Ms)
+* Tay Ru Hui (Ms)
+* Wan Siew Hua (Mdm)
+
+<hr>
 
 Co-Curricular Activities (CCA) is an integral part of our school's curriculum. Basketball helps balance the education that the school provides for our young people. Our basketballers are wonderful students who strive hard to balance their academic pursuits and sustain their participation in CCA.
 

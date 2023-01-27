@@ -4,19 +4,11 @@ permalink: /chr-experience/Co-Curricular-Activities/English-Drama/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<table>
-  <tr>
-    <th>Teacher-In-Charge</th>
-  </tr>
-  <tr>
-    <td>Narny Binte Ab Rahman (Ms) (i/c)</td>
-  </tr>
-  <tr>
-    <td>Charis Joy Lim Ying Hui (Ms)</td>
-  </tr>
-	<tr>
-</table>
+<strong><u>Teacher-In-Charge</u></strong>
+* Narny Binte Ab Rahman (Ms) (i/c)
+* Charis Joy Lim Ying Hui (Ms)
 
+<hr>
 
 The English Drama Club is made up of very enthusiastic and passionate members. The club provides students with the chance to hone their talents in various facets of theatre production. Students engage in backstage work and technical aspects of production from sound design, lighting to making of props. The club also provides platforms for students to dabble in script writing and stage management as well as to develop their confidence, voice projection and acting skills.
 

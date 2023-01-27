@@ -4,24 +4,13 @@ permalink: /chr-experience/Co-Curricular-Activities/Outdoor-Adventure-Club/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<table>
-  <tr>
-    <th>Teacher-In-Charge</th>
-  </tr>
-  <tr>
-    <td>Hu Chang Chuan (Mr) (i/c)</td>
-  </tr>
-  <tr>
-    <td>Sheereen Loke Kit Ying (Ms)</td>
-  </tr>
-  <tr>
-    <td>Maryam Bte Mohd Sesth (Ms)</td>
-  </tr>
-	  <tr>
-    <td>Bek Jun Hao (Mr)</td>
-  </tr>
-	<tr>
-</table>
+<strong><u>Teacher-In-Charge</u></strong>
+* Hu Chang Chuan (Mr) (i/c)
+* Sheereen Loke Kit Ying (Ms)
+* Maryam Bte Mohd Sesth (Ms)
+* Bek Jun Hao (Mr)
+
+<hr>
 
 
 **OAC Motto: Dare to Dream, Strive to Win**

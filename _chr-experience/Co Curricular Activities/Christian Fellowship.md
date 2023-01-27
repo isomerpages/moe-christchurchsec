@@ -4,19 +4,12 @@ permalink: /chr-experience/Co-Curricular-Activities/Christian-Fellowship/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<table>
-  <tr>
-    <th>Teacher-In-Charge</th>
-  </tr>
-  <tr>
-    <td>Low Qiucen Shaun (Mrs Lee) (i/c)</td>
-  </tr>
-  <tr>
-    <td>Loke Zhen Yi (Ms)</td>
-  </tr>
-	<tr>
-</table>
 
+<strong><u>Teacher-In-Charge</u></strong>
+* Low Qiucen Shaun (Mrs Lee) (i/c)
+* Loke Zhen Yi (Ms)
+
+<hr>
 
 *<center> "He has showed you, 0 man, what is good. And what doesn't he LORD require of you? <br> To act justly and to love mercy and to walk humbly with your God." <BR>
 MICAH 6:8 </center>*
