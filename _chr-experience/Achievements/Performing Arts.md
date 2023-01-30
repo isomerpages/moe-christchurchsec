@@ -24,7 +24,7 @@ third_nav_title: Achievements
 
 *   **SYF Arts Presentation** – Accomplishment
  
-
+----
 
 <h6><u>Dance - Modern</u></h6>
 
@@ -45,6 +45,7 @@ third_nav_title: Achievements
 
 *   **SYF Arts Presentation** – Accomplishment
 
+-----
 
 <h6><u>Drama English</u></h6>
 
@@ -65,6 +66,7 @@ third_nav_title: Achievements
 
 *   **SYF Arts Presentation** – Accomplishment
 
+-----
 
 <h6><u>Chinese Orchestra</u></h6>
 
@@ -85,7 +87,7 @@ third_nav_title: Achievements
 
 *   **SYF Arts Presentation** – Accomplishment
 
-
+-----
 
 <h6><u>Concert Band</u></h6>
 
