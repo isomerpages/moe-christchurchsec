@@ -2,7 +2,6 @@ collections:
   chr-experience:
     output: true
     order:
-      - Sports/.keep
       - CHR AOP Education.md
       - Academic Education/.keep
       - Academic Education/English.md
@@ -30,6 +29,7 @@ collections:
       - Co Curricular Activities/Outdoor Adventure Club.md
       - Co Curricular Activities/Infocomm Club.md
       - Co Curricular Activities/Christian Fellowship.md
+      - Sports/.keep
       - Achievements/.keep
       - Achievements/Uniformed Groups.md
       - Achievements/Sports.md
