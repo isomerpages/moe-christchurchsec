@@ -4,7 +4,7 @@ permalink: /chr-experience/Achievements/Sports/
 description: ""
 third_nav_title: Achievements
 ---
-<h6><u>Badminton</u></h6>
+<strong><u>Badminton</u></strong>
 
 **2021**
 
@@ -20,7 +20,13 @@ third_nav_title: Achievements
 
 ----
 
-<h6><u>Basketball</u></h6>
+<strong><u>Basketball</u></strong>
+
+**2022**
+ 
+*  **North Zone ‘B’ Division Basketball Championships** – Girls 1st Place
+
+---
 
 **2020**
  
@@ -43,9 +49,7 @@ third_nav_title: Achievements
 *   **North Zone ‘C’ Division Basketball Championships** – Boys 3rd Place
 *   **North Zone ‘C’ Division Basketball Championships** – Girls 2nd Place
 
-
 ----
-
 
 **2017**
 
@@ -59,7 +63,7 @@ third_nav_title: Achievements
 *   **‘B’ Boys Jurong Cup** – 1st Place
 ----
 
-<h6><u>Football</u></h6>
+<strong><u>Football</u></strong>
 
 **2019**
 
@@ -81,12 +85,17 @@ third_nav_title: Achievements
 ----
 
 
-<h6><u>Netball</u></h6>
+<strong><u>Netball</u></strong>
+
+**2022**
+
+*   **The Netball Academy Carnival ('C' Girls)** – 4th Place
+
+---
 
 **2019**
 
 *   **North Zone ‘C’ Division Netball Championships** – Top 8
-
 
 ---
 
@@ -104,7 +113,15 @@ third_nav_title: Achievements
 *   **Regent Cup: ‘B’ Girls** **–** 4th Place
 ----
 
-<h6><u>Wushu</u></h6>
+<strong><u>Wushu</u></strong>
+
+**2022**  
+
+*   **National Wushu Championships ‘B’ Boys**  
+			1st International Broadsword: Chia Kai Ming (4/3)   - 2nd Place<br>
+		 1st International Cudget: Chia Kai Ming (4/3) - 1st Place
+
+----
 
 **2021**  
 
@@ -113,7 +130,6 @@ third_nav_title: Achievements
      1st International Broadsword: Chia Kai Ming (3/3)  
      1st International Cudget: Chia Kai Ming (3/3)
 *   **National School Games**: SSSC Colours Award – Chia Kai Ming
-
 
 ----
 
