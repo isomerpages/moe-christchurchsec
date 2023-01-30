@@ -4,7 +4,7 @@ permalink: /chr-experience/Achievements/Clubs-and-Societies/
 description: ""
 third_nav_title: Achievements
 ---
-<h6><u>Outdoor Adventure Club (OAC)</u></h6>
+<strong><u>Outdoor Adventure Club (OAC)</u></strong>
 
 
 **2019**
@@ -28,7 +28,13 @@ third_nav_title: Achievements
  
 ----
 
-<h6><u>InfoComm Club (ICC)</u></h6>
+<strong><u>InfoComm Club (ICC)</u></strong>
+
+**2022**
+
+*   **Ngee Ann Poly StrITwise Mythic Competition** – Champion
+*   **IMDA Infocomm Media Club Youth Awards** – Certificate of Accomplishment
+----
 
 **2019**
 
