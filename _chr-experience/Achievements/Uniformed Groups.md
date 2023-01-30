@@ -4,7 +4,15 @@ permalink: /chr-experience/Achievements/Uniformed-Groups/
 description: ""
 third_nav_title: Achievements
 ---
-<h6><u>Boys’ Brigade (BB)</u></h6>
+<strong><u>Boys’ Brigade (BB)</u></strong>
+
+**2022**
+*  **J M Fraser Award** – Gold (15th Consecutive Year) 
+*  **Founder’s Award** – Sim Kian Hao Javier (4/3) , Yau Fu Pin (4/3) , Chiew Zi Hang (4/4) , Max Er Jing Xian (4/4)
+*  **BB AdventuRe:Ignite** – Gold Honour Roll
+*  **Character Quest** – Silver Honour Roll
+
+----
 
 **2021**
 *  **J M Fraser Award** – Gold (14th Consecutive Year) 
@@ -50,7 +58,13 @@ third_nav_title: Achievements
 *  **14th Pipes & Drums Festival**: Snare Junior – Janan Rajash (1/5) – 3rd Place
 
 
-<h6><u>Girls’ Brigade (GB)</u></h6>
+<strong><u>Girls’ Brigade (GB)</u></strong>
+
+**2022**
+*  **Company Award** – Gold (10th Consecutive Year)
+*  **Pioneer Brigader Brooch** – Keshini Krishnamoorthy (4/4) , Janelle Ng Xin Hui (4/6)
+
+----
 
 **2021**
 *  **Company Award** – Gold (9th Consecutive Year)
@@ -83,7 +97,14 @@ third_nav_title: Achievements
 
 
 
-<h6><u>National Cadets Corps (NCC)</u></h6>
+<strong><u>National Cadets Corps (NCC)</u></strong>
+
+**2022**
+*  **Unit Recognition** – Distinction (7th Consecutive Year)
+*  **NCC Sports Championships: Captain's Ball (Mixed Team)** – 3rd Place
+*  **NCC Sports Championships: Frisbee (Girls Team)** – 1st Place
+
+----
 
 **2021**
 *  **Unit Recognition** – Distinction (6th Consecutive Year)
@@ -117,7 +138,12 @@ third_nav_title: Achievements
 
 
 
-<h6><u>National Police Cadets Corps (NPCC)</u></h6>
+<strong><u>National Police Cadets Corps (NPCC)</u></strong>
+
+**2022**
+*  **Unit Overall Proficiency Award (UOPA)** – Gold (2nd Consecutive Year)
+
+---- 
 
 **2021**
 *  **Unit Overall Proficiency Award (UOPA)** – Gold
@@ -150,7 +176,13 @@ third_nav_title: Achievements
 
 
 
-<h6><u>National Civil Defence Cadets Corps (NCDCC)</u></h6>
+<strong><u>National Civil Defence Cadets Corps (NCDCC)</u></strong>
+
+**2022**
+*  **Unit Overall Proficiency Award (UOPA)** – Gold (3rd Consecutive Year)
+*  **Urban Adventure Civil Defence Challenge** – 4th Place
+
+----
 
 **2021**
 *  **Unit Overall Proficiency Award (UOPA)** – Gold (2nd Consecutive Year)
