@@ -2,7 +2,6 @@ collections:
   chr-experience:
     output: true
     order:
-      - Co Curricular Activities2/.keep
       - CHR AOP Education.md
       - Academic Education/.keep
       - Academic Education/English.md
