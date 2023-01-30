@@ -57,6 +57,7 @@ third_nav_title: Achievements
 *  **14th Pipes & Drums Festival**: Pipes Senior – Alvin Vishanth (3/1) – 2nd Place
 *  **14th Pipes & Drums Festival**: Snare Junior – Janan Rajash (1/5) – 3rd Place
 
+----
 
 <strong><u>Girls’ Brigade (GB)</u></strong>
 
@@ -95,7 +96,7 @@ third_nav_title: Achievements
 *  **Company Award** – Gold (6th Consecutive Year)
 *  **Dr Low Guat Tin Challenge** – 2x Gold Award, 3x Silver Award
 
-
+----
 
 <strong><u>National Cadets Corps (NCC)</u></strong>
 
@@ -136,7 +137,7 @@ third_nav_title: Achievements
 *  **Best Unit Competition** – Gold (3rd Consecutive Year)
 *  **Outstanding Cadet Award** – Mohamed Hakim (4/6)
 
-
+----
 
 <strong><u>National Police Cadets Corps (NPCC)</u></strong>
 
@@ -174,7 +175,7 @@ third_nav_title: Achievements
 *  **NPCC Challenge Shield** – Merit Award
 *  **Jurong Division Young Policing Awards** – 2nd Place
 
-
+----
 
 <strong><u>National Civil Defence Cadets Corps (NCDCC)</u></strong>
 
