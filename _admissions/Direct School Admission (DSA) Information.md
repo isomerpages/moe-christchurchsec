@@ -27,8 +27,8 @@ Students admitted to a secondary school through DSA-Sec are not allowed to submi
 
 Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for direct admission into the school for academic year 2023 in three talent areas:&nbsp;
 
- <img src="/images/DSA%20content.jpeg" style="width:95%">
- <img src="/images/DSA2022.png" style="width:95%">
+![](/images/DSA2023/dsa2023.png)
+
 
 
 ### **Clarification**
