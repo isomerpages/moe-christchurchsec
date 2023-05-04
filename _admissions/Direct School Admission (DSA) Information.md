@@ -14,7 +14,7 @@ Students apply based on their talent in sports, CCAs and specific talent areas.
 
 Students admitted to a secondary school through DSA-Sec are not allowed to submit school choices during the Secondary 1 posting process.
 
-**Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. **
+**Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.**
 
 ### Why Christ Church Secondary School (CHR)?  
 ![](/images/DSA2023/dsa2023_02.png)<br>
