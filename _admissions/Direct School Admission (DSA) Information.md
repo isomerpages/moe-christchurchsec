@@ -53,7 +53,7 @@ Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for di
   </tr>
 
   <tr>
-    <td><br>How to apply?</td>
+    <td>How to apply?</td>
     			<td>
 						
 1. Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. 
@@ -71,14 +71,14 @@ https://go.gov.sg/nmsdsa-sec-application</td>
   </tr>
 
   <tr>
-    <td><br>How many DSA can I apply for?</td>
+    <td>How many DSA can I apply for?</td>
     			<td>
 						
 4. Applicants can apply up to three choices (maximum of two choices for the same school under two different talent areas).</td>
   </tr>
 
   <tr>
-    <td><br>Information to provide</td>
+    <td>Information to provide</td>
     			<td>
 						
 5. Valid email address and local mobile number.
