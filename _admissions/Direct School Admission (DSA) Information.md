@@ -27,16 +27,16 @@ Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for di
 
 ### **Application Criteria**
 
-<br><mark>**Talent Area - Leadership**</mark> <br>
+<br><mark>Talent Area - Leadership</mark> <br>
 * Applicants must obtain a conduct grade of 'Very Good' or better in Pri 5 and/or Pri 6.
 * Applicants must have assumed leadership in the role of a school prefect/class monitor/CCA leader in Pri 5 and/or in Pri 6.
 * Applicants must join a Uniformed Group as a CCA.
 
-<br><mark>**Talent Area - Basketball**</mark> <br>
+<br><mark>Talent Area - Basketball</mark> <br>
 * Applicants must obtain a conduct grade of ‘Good’ or better in Pri 5 and/or in Pri 6.
 * Applicants must have represented their primary schools in inter-school basketball competitions.
 
-<br><mark>**Talent Area - Outdoor Adventure**</mark> <br>
+<br><mark>Talent Area - Outdoor Adventure</mark> <br>
 * Applicants must obtain a conduct grade of ‘Good’ or better in Pri 5 and/or in Pri 6.
 * Applicants must have a strong interest in the outdoors and have been actively involved in outdoor activities (eg. kayaking, sports climbing, trekking, etc.).
 
