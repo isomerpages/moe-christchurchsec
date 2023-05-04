@@ -61,13 +61,11 @@ Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for di
 						
 2. Applicants from MOE mainstream primary schools: 
 Parent may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance.
-<br><br>Instructions on Application: 
-[https://go.gov.sg/dsa-sec-application](https://go.gov.sg/dsa-sec-application)<br><br>
+<br><br>Instructions on Application: [https://go.gov.sg/dsa-sec-application](https://go.gov.sg/dsa-sec-application)<br><br>
 						
 3. Other applicants not studying in MOE mainstream primary schools: 
 Parents need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal.
-<br><br>Instructions on Application: 
-[https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)<br><br></td>
+<br><br>Instructions on Application: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)<br><br></td>
   </tr>
 
   <tr>
