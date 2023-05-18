@@ -4,8 +4,6 @@ permalink: /our-family/key-personnel/
 description: ""
 ---
 <img src="/images/Our%20Family/chr_school_leaders.jpg" style="width:600px">
-
-![](/images/Our%20Family/chr_school_leaders.jpg)
 <div align="center">(L to R) Mdm Heng, Mr Ong &amp; Mr Tay</div>
 
 ### School Leaders
