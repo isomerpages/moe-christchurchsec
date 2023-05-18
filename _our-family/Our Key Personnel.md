@@ -3,6 +3,9 @@ title: Our Key Personnel
 permalink: /our-family/key-personnel/
 description: ""
 ---
+![](/images/Our%20Family/chr_school_leaders.jpg)
+<div align="center">*(L to R) Mdm Heng, Mr Ong &amp; Mr Tay</div>
+
 ### School Leaders
 
 | **Principal** |
@@ -28,7 +31,7 @@ description: ""
 | **HOD ICT**    | Mr Lim Yang Cherng   |
 | **HOD Mathematics**    | Mdm Sandy Wong   |
 | **HOD Mother Tongue**    | Mr Gavin Chong   |
-| **HOD PE & CCA**    | Mr Ho Chee Hoong   |
+| **HOD PE &amp; CCA**    | Mr Ho Chee Hoong   |
 | **Year Head (Lower Sec)**    | Ms Angeline Ng   |
 | **Year Head (Upper Sec)**    | Mr Andy Lee  |
 
@@ -58,7 +61,7 @@ description: ""
 | -------- | -------- |
 | **LT English Language**| Mr Tan Chai Hok|
 | **ST Biology**| Mdm Juliza Binte Zulkifli| 
-| **ST Design & Technology**| Mdm Christabel Foon|
+| **ST Design &amp; Technology**| Mdm Christabel Foon|
 | **ST History**| Mr Ashley Tan|
 | **ST Mathematics**| Mdm Betty Koh|
 | **ST Mathematics**| Ms Leow Swee Khim|
