@@ -30,14 +30,14 @@ Students are exposed to a broader community of Mathematics to stretch their  pot
 
 ###### Achievements
 **2022**
-* Australian Mathematics Competition<br>
+* **Australian Mathematics Competition**<br>
 			- 39 Credits<br>
 			- 119 Proficiency<br> 
 
-* Huaxia Cup<br>
+* **Huaxia Cup**<br>
 			- 1 Gold<br>
 			- 7 Silver<br>
 			- 19 Bronze<br>
 
-* World Mathematics Invitational <br>
+* **World Mathematics Invitational** <br>
 			- 3 Bronze<br>
