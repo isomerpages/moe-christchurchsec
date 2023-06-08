@@ -6,18 +6,28 @@ third_nav_title: Co Curricular Activities
 ---
 ![](/images/CCA/BASKETBALL.jpg)
 
-<strong><u>Teacher-In-Charge</u></strong>
-* Tan Suan Swee Ashley (Mr) (i/c)
-* Lam Cheng Wan (Ms)
-* Tay Ru Hui (Ms)
-* Wan Siew Hua (Mdm)
+###### Introduction
 
-<hr>
+CHR Basketball welcomes students who are interested in learning and playing basketball at a competitive level. It aims to build self-motivated and resilient players who are disciplined and motivated to do their best in any endeavour.
 
-Co-Curricular Activities (CCA) is an integral part of our school's curriculum. Basketball helps balance the education that the school provides for our young people. Our basketballers are wonderful students who strive hard to balance their academic pursuits and sustain their participation in CCA.
+**Objectives**<br>
+* To help students build their fitness and basketball skills
+* To allow students to develop a spirit of teamwork and commitment
+* To bring out the best in each student through sporting achievement.
 
-Our Basketballers are a forward-looking group of students, working and playing hard in and out of the basketball court. They are currently preparing for the National School Games and despite the long hours and tight training schedule, they make no complaints. Other than the regular training sessions, they also participated actively in the e-training sessions conducted.
+###### Programme Overview
+Players undergo a training programme to build their confidence and skills in playing basketball. Through this programme, players are taught to  take responsibility for their own training and manage their time effectively. Players also learn the importance of resilience and commitment to excellence through our training programme.
 
-In 2019, they went for a cross-culture basketball training programme in Kuala Lumpur, Malaysia. The school’s support and generosity gave our Basketballers a chance to see the difference in the basketball arena overseas, and an opportunity to hone their basketball skills and techniques. The players also realised the importance of team discipline and unity.
+CHR Basketball participates in the annual National School Games for the following divisions: <br>
+- B Division Boys <br>
+- B Division Girls <br>
+- C Division Boys <br>
+- C Division Girls <br>
 
-Together with the guidance of our coach, our parents and our teachers, the resilience, perseverance and sportsmanship will stand them in good stead.
+###### Achievements
+
+**2022** <br>
+- B Division Boys: North Zone Top 8<br>
+- B Division Girls: North Zone Champions<br>
+- C Division Boys: North Zone Top 8<br>
+- C Division Girls: North Zone Top 8<br>
