@@ -4,37 +4,31 @@ permalink: /chr-experience/Co-Curricular-Activities/Outdoor-Adventure-Club/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<strong><u>Teacher-In-Charge</u></strong>
-* Hu Chang Chuan (Mr) (i/c)
-* Sheereen Loke Kit Ying (Ms)
-* Maryam Bte Mohd Sesth (Ms)
-* Bek Jun Hao (Mr)
+###### Introduction
+The Outdoor Adventure Club (OAC) aims to develop every member into a resilient and confident leader using outdoor activities as the main platform. In alignment with the school’s values (Courage, Compassion and Curiosity), members are often put in situations that test their limits and comfort zones. They take **Courage** when faced with adversities, show **Compassion** to each other and demonstrate **Curiosity** to seek solutions to the challenges they face. 
 
-<hr>
+We also provide opportunities for every OAC member to take ownership of their learning, strive for excellence, be better leaders and an inspiration to others in and out of the CCA.
 
+###### Programme Overview
+During their 4 years in OAC, members will
+- build physical and mental strength through various land and water activities
+- pick up various skills and knowledge through relevant certifications so that they can safely and confidently take on the outdoor activities
+- have opportunities to exhibit their skills and team work by taking part in orienteering races e.g. Greendale Adventure Race (GARanG) Race, National Orienteering Race (NOR)
 
-**OAC Motto: Dare to Dream, Strive to Win**
+Members are also trained to be facilitators of outdoor activities and situational games. This develops their leadership skills, increases their situational awareness and teaches them to work as a team.
 
-The Outdoor Adventure Club (OAC) aims to develop every member into a resilient and confident leader using Outdoor as the main platform.
+###### Achievements
+**2022**
+- GARanG Race (Girls Category - 2nd Place)
+- GARanG Race (Boys Category - 1st Place)
 
-During their 4 years of training and learning with OAC, they will go through land and sea activities that will make them physically stronger and mentally tougher. They will walk through a phase from trainee to learner, then from learner to leader, and eventually leader to mentor.
-
-
-
-| Modules | Description |
+###### Training Days &amp; Time
+**All Members:**
+| Day| Time | 
 | -------- | -------- | 
-| Camp Craft | <ul> <li> Knots <li> Lashing <li> Pioneering <li> Outdoor Cooking| 
-| Team Bonding | <ul> <li> Low Elements <li> High Elements <li> Teambonding Games | 
-| First Aid | <ul> <li> Bandages <li> CPR <li> AED| 
-| Safety | <ul> <li> Belay School| 
-| Community Outreach | <ul> <li> Values-In-Action (VIA)|
-| Maintenance | <ul> <li> Stocktake of Equipment <li> Cleaning of Equipment <li> Cleaning of Camp Room| 
-| Orienteering | <ul> <li> Directions <li> Bearings <li> Map Grid Reference <li> Pacing| 
+| Friday (CCA Day) | 0800 - 1115 |
 
-|   | SNCS L1 | SNCS L2 | SNAS L1 | Kayak 1* | Kayak 2* | First Aid |
-| -------- | -------- | -------- | ------- | -------- | -------- | -------- |
-| Sec 1 | &check; |||||&check;|
-| Sec 2 ||| &check;| &check; |||
-| Sec 3 || &check; ||| &check; ||
-| Sec 4 |||||||
-| Sec 5 |||||||
+**Selected Members:**
+| Day| Time | 
+| -------- | -------- | 
+| Monday / Tuesday / Wednesday | 0800 - 1115 |
