@@ -5,29 +5,45 @@ description: ""
 third_nav_title: Co Curricular Activities
 ---
 ![](/images/CCA/NCC.png)
+###### Introduction
+The National Cadet Corps (NCC) is a military youth organisation supported by the Ministry of Defence and the Ministry of Education. Our mission is to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities. 
 
-<strong><u>Teacher-In-Charge</u></strong>
-* Nuruljannah Binte Ishak (Ms) (i/c)
-* Nurul Aqidah Bte Shabudin (Ms) (2i/c)
-* Regina Boon Wen Xin (Ms)
-* Chong Zi Yi (Mr)
-* Liyana Binte Mohd Bakhit (Ms)
-* Zulkhairi Bin Zulkiflee (Mr)
+###### Programme Overview
+The 4-year NCC programme is based on the ‘Cadet Strong’ framework, which focuses on developing a **Fit Body, Resilient Mind and Committed Heart**. The programme also inculcates the 7 core values - loyalty to country, uprightness, leadership, discipline, commitment and responsibility, care for fellow cadets and adventurous spirit.
 
-<hr>
+Cadets undergo skills training in leadership, drills, marksmanship, fieldcraft and adventure-related areas. 
 
-**National Cadet Corps (NCC)** <br>
-The NCC is one of the biggest UG in the MOE family of Uniformed Groups with a wide variety of programmes. Students undergo skills training in drills, marksmanship training, field craft and adventure training. There are also further programmes that include the Precision Drills Squad, Freestyle Drills Squad and outdoor survival programmes. Selected cadets have the opportunity to participate in various overseas trips. NCC cadets actively participate in the International Cadet Exchange Program (ICEP) which allows them to visit countries like Australia, India, Thailand, Brunei, United Kingdom and the United States.
+Some of the key programs are:
+- Orienteering Skills
+- Individual Field Craft
+- SAR21 Individual Marksmanship Training and Live Range
+- Sports &amp; Games
+
+There are also further programmes that include the Precision Drill Squad, Freestyle Drill Squad and Sports &amp; Games. Selected cadets have the opportunity to participate in programmes such as the International Cadet Exchange Program (ICEP). 
+
+###### Achievements
+**2021** <br>
+- Unit Recognition (Distinction)
+
+**2022**
+- Unit Recognition (Distinction)
+- NCC Sports Championship (Captain’s Ball Mixed Team - 3rd Place)
+- NCC Sports Championship (Captain’s Ball Girls Team - 1st Place)
+- Outstanding Cadet Award - Karunakaran Arjuna
+
+**2023**
+- Freestyle Drills Competition (Central Preliminary Rounds - 3rd Place)
+- Precision Drills Competition (Central Preliminary Rounds - 5th Place)
 
 
-**NCC Focus**<br>
-NCC aims to develop cadets with a ‘CADET STRONG’ mindset that comprises:
+###### Training Days &amp; Time
+**All Cadets:**
+| Day| Time | 
+| -------- | -------- | 
+| Friday (CCA Day) | 0800 - 1115 |
 
-* A Resilient Mind<br>
-A cadet that has a resilient mind is confident to take on challenges and able to overcome setbacks.
-
-* A Fit Body <br>
-A cadet that understands the importance of a fit body,and takes ownership to maintain his or her physical fitness and adopts healthy habits.
-
-* A Committed Heart <br>
-A cadet with a committed heart lives the NCC Core Values with a strong sense of purpose to serve his or her unit, school and nation. S/he is passionate in developing his or her own abilities and proactively contributes wherever s/he goes.
+**Selected Cadets:**
+| Day| Time | 
+| -------- | -------- | 
+| Monday | 1600 - 1830 |
+| Friday | 1330 - 1630 |

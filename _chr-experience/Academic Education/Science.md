@@ -4,67 +4,55 @@ permalink: /our-curriculum/Academic/science/
 description: ""
 third_nav_title: Academic Education
 ---
-![](/images/scienceheader.jpeg)
+###### Introduction
+The Science Department in Christ Church Secondary School is anchored on the foundation of inquiry-based learning, where students are encouraged to question, investigate, and analyse the world around them. Our curricular goals are as follows:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sffh{background-color:#EEE;color:#222;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-9jgs{background-color:#EEE;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-</style>
+* To enthuse and nurture all students to be scientifically literate,
+* To provide strong science fundamentals for students to innovate and pursue STEM for future learning and work.
 
-**Science Department Vision** 
+###### Subject Offerings
+**Lower Secondary**
+| Subject| G3 | G2 | G1 |
+| -------- | -------- | -------- | ------ |
+| Science   | ✓     | ✓     | ✓|
 
- A community of confident and self-directed learners with a strong passion in Science.
-
-**Science Department Mission**
-
- To develop students’ interest in learning Science in a conducive learner-centred environment. 
-
- **Department Objectives**
-
-* To provide an authentic environment for inquiry-based and self-directed learning.
-* To instill curiosity, awareness for Science and collaboration amongst the learners.
-* To equip the learner with skills and knowledge to meet the challenges of the 21st century. 
-
-**Highlight of Science Department Programmes** 
-
-* <strong><u>Inquiry-Based Learning to curiosity and awareness</u></strong>
-
-<img src="/images/sc1.jpeg" 
-     style="width:65%">
-<img src="/images/sc2.jpeg" 
-     style="width:65%">
-<img src="/images/science 1.jpeg" 
-     style="width:65%">
-<img src="/images/science 2.jpeg" 
-     style="width:65%">
+**Upper Secondary**
+| Subject| G3 | G2 | G1 |
+| -------- | -------- | -------- | ------ |
+| Biology   | ✓     |      | |
+| Chemistry   | ✓     |      | |
+| Physics   | ✓     |      | |
+| Science (Chemistry/Biology)   | ✓     |      | |
+| Science (Physics/Chemistry)   |✓| ✓| |
+| Science   |      |      | ✓|
 
 
-<strong><u>Stretch Programme for Students</u></strong> 
-* North Zone Elementz Science Research & Singapore Youth Science Festival  
-* **ignITE Science** \- Inter-school competition for Normal Academic and Normal Technical Students
+###### Key Programmes
+Our Experiential Learning Programme (ELP) aims to expose students to authentic applications of Science in meaningful aspects of their lives. In developing skill sets in the Ways of Thinking and Doing in Science, students also get instilled with the joy of learning and the spirit of active learning so that they better appreciate the ubiquitous nature of Science.
 
+Our Secondary One students have the opportunity to visit the Science Centre in a programme where they discover how industries use the disciplines in Science, Technology, Engineering and Mathematics (STEM) and problem solving processes to develop solutions for everyday issues. ‘Marvel in Science’ provides our Secondary Two students the platform to debunk certain scientific myths that are found in their everyday lives and in popular culture. In this game-based programme, students will learn and apply Science to various scenarios in today’s popular culture and build foundational skills critically to discern fact from fiction.
 
-<img src="/images/8.jpeg" 
-     style="width:65%">
-		 
-<img src="/images/7.jpeg" 
-     style="width:65%">
-		 
-<img src="/images/6.jpeg" 
-     style="width:65%">
-		 
-<img src="/images/5.jpeg" 
-     style="width:65%">
-		 
-<img src="/images/3.jpeg" 
-     style="width:45%">
-		 
-<img src="/images/1.jpeg" 
-     style="width:65%">
+**Stretch Programmes** <br>
+Students who show passion and potential in Science will be provided with opportunities to participate in fairs and competitions. These programmes are designed to challenge students to go beyond their current level of academic performance by exposing them to more advanced learning opportunities. Other than preparing students for the rigours of higher education, stretch programmes offered by our department aim to develop research, critical thinking skills and analytical skills, as well as strengthen the students’ confidence. Students will gain valuable insights into their own learning abilities, allowing them to adjust their approach to learning in a fun and innovative manner. 
+
+The annual International Elementz Fair, organised by Anderson Serangoon Junior College, aims to encourage students to venture into the world of research and discovery. It is a platform for Upper Secondary students to showcase their primary and secondary scientific research, and develop prototypes that can contribute to the betterment of society. Students are exposed to real world issues that challenge them to think critically for solutions based on scientific knowledge and skills.
+
+The IgnITE Skills Challenge is an annual competition that introduces technical skills and showcases a deeper understanding of courses offered by the Institutes of Technical Education (ITEs). Challenges are designed to be engaging and fun to make learning enjoyable and memorable. Students also learn new skills and gain insights into future career choices through workshops that are organised in collaborative and competitive settings.
+
+###### Achievements
+**2022**
+* **18th International Elementz Fair**<br>
+			- 2 Silver<br>
+			- 1 Bronze<br> 
+			- 2 Certificate of Commendation<br> 
+
+**2019**
+* **Ignite Skills Challenge 2022**<br>
+			- Gold - Cyber Warrior category<br>
+			- Silver - Social Media Retailing category<br> 
+
+**2018**
+* **2018 Singapore Youth Science Fair**<br>
+			- 1 Distinction, 2 Silver<br>
+			- Most Innovative Project Award<br> 
+			- Most Outstanding Participation Award<br> 

@@ -4,15 +4,20 @@ permalink: /chr-experience/Co-Curricular-Activities/English-Drama/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<strong><u>Teacher-In-Charge</u></strong>
-* Narny Binte Ab Rahman (Ms) (i/c)
-* Charis Joy Lim Ying Hui (Ms)
+###### Introduction
+In alignment with our school values of Courage, Compassion and Curiosity, the English Drama Club aims to develop and nurture our students to be resilient and confident. The CHR Drama Club provides a safe and supportive platform for students to explore various scenarios and perspectives through communication and performance. Through the various activities in the Drama Club, students develop confidence, communication skills to express themselves, and empathy for others.
 
-<hr>
+###### Programme Overview
+During their 4 - 5 years in the Drama Club, students will have various opportunities to take part in multiple school performances. Apart from drama rehearsals, training sessions consist of engaging activities to grow students’ acting skills, improvisational techniques, body language and vocal dynamics. We also organise bonding activities and games such as Movie Day and day camps. The Drama Club experience for students is one that places emphasis on both drama skills as well as soft skills where they build character, communication skills and team work. 
 
-The English Drama Club is made up of very enthusiastic and passionate members. The club provides students with the chance to hone their talents in various facets of theatre production. Students engage in backstage work and technical aspects of production from sound design, lighting to making of props. The club also provides platforms for students to dabble in script writing and stage management as well as to develop their confidence, voice projection and acting skills.
+###### Achievements
+**2021** <br>
+- Singapore Youth Festival Arts Presentation (Distinction)
 
-Enrichment activities such as attending local plays and performances are also conducted to cultivate and sustain a love for the arts. 
+**2023**<br>
+- Singapore Youth Festival Arts Presentation (Accomplishment)
 
-Apart from school events and SYF, the CHR Drama Club also actively participates in Drama performances for the public such as performing at public libraries around Singapore as part of How Drama's Fairytale Trail.
-Theatre productions were taken from stage to video productions for National Day celebrations in school this year where students learnt a new approach to Drama and new skills during the process of video productions.
+###### Training Days &amp; Time
+| Day| Time | 
+| -------- | -------- | 
+| Friday (CCA Day) | 0800 - 1115 |

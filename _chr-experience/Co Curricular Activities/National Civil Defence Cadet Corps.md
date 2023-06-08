@@ -6,23 +6,46 @@ third_nav_title: Co Curricular Activities
 ---
 ![](/images/CCA/NCDCC.jpg)
 
-<strong><u>Teacher-In-Charge</u></strong>
-* Seah Chin Kiong Francis (Mr) (i/c)
-* Yap Wei Qi Vincent (Mr) (2i/c)
-* Siti Nursyahidah Bte Ideris (Mdm)
-* Muhammad Firdaus Bin Md Hair (Mr)
-* Siti Farisa Binte Mohamad Noor (Ms)
-* Zhou Yuxi (Ms)
+###### Introduction
+National Civil Defence Cadet Corps (NCDCC) was introduced to Christ Church Secondary School in 2010. Aligned with NCDCC’s motto of “We Learn, We Lead, We Serve”, the school’s NCDCC program develops our cadets to be:
+- **Active Learners** - motivating cadets to acquire new knowledge and skills
+- **Thoughtful Contributors** - shaping cadets into compassionate and empathetic individuals by fostering a strong sense of community
+- **Have the Drive to Excel** - provide cadets with opportunities to lead, communicate and problem solve.
 
-<hr>
+###### Programme Overview
+Through a combination of classroom-based instruction and practical activities, cadets are exposed to a wide range of topics related to emergency preparedness and management, such as simulated fire-fighting scenarios, life-saving first aid techniques and emergency preparedness. 
 
-The National Civil Defence Cadet Corps (NCDCC), having started in the year 2005, is the youngest member of the three National Uniformed Groups in Singapore. It was set up through the collaborative efforts of MOE and Ministry of Home Affairs.
+In addition, cadets take part in various service projects so as to develop them into socially responsible citizens who are willing to contribute to the community.
 
-NCDCC was introduced to Christ Church Secondary School in the year 2010 as a platform to nurture character and leadership development for Normal Technical students. It was offered to the class of Secondary One NT as a core CCA.  The objectives are to provide life skills such as first-aid training and fire safety, while instilling the values of a uniformed group discipline and togetherness. It is a four year character development journey for the cadets. While learning the life skills, students will also have opportunities at academic development and leadership training. The main focus is on nurturing the cadets, empowering them to be headers who are ready for service to the nation.
-The team of officers heading CHR NCDCC strives to nurture and develop our young cadets into resilient and responsible citizens through innovative and challenging Civil Defence activities. These activities vary from intense simulated fire-fighting experiences to crucial life-saving first aid skills which are directly connected with emergency preparedness and management that require quick and rational thinking. They also hope to develop and mould the character of our young cadets by using NCDCC as a platform to reach out to them.
+Some of the key programs are:
+- **Specialised Civil Defence Courses**: NCDCC is a proficiency-based program that allows cadets to acquire and demonstrate their knowledge and skills in various areas of civil defence. Click here to view the NCDCC badge framework.
 
-Non-Commissioned Officer (NCO) camp, kayaking expeditions and adventure races are some of the annual events to develop teamwork and leadership skills in our cadets. Apart from these, learning journeys to Civil Defence Academy, Fire stations and Heritage Centre are carefully planned to tie in with the NCDCC curriculum. Participation in overseas trips organized by HQ, like Hong Kong, Perth and Malacca, has also provided much exposure for our cadets.
+- **Precision Drill Challenge (PDC)**: The PDC is an annual competition which requires cadets to execute a complex series of movements as a squad. It instils a high level of discipline and builds resilience amongst the cadets.
 
-NCDCC has been successful in the overall development of the cadets since 2010. Initially, it was an uphill task in building the confidence and trust in the CCA to make a difference. Through sheer perseverance and with unwavering support and guidance from the school, the unit has come a long way and established itself as a core CCA for the NT students. The first few batches have successfully completed their four years with NCDCC, with some exceeding all expectations by becoming capable leaders while some have shown improvement in their confidence and interpersonal skills. Overall, the academic and character development for the classes is exemplary.  This development and success have paved the way for NCDCC to lay the foundation for character development for incoming cadets in our school.
+- **Urban Adventure Civil Defence Skills Challenge (UACDC)**: The challenge provides cadets the opportunity to compete at a national level, test their knowledge, skills, and teamwork.
 
-<FONT COLOR="#ff0000">Starting from 2021, NCDCC will be recruiting students from all streams! The unit has planned for more exciting and rewarding programmes in 2021 to make the NCDCC experience more rewarding. Christ Church Secondary School's NCDCC's objective is to perspire today for an inspiring tomorrow. Join us if you like to fight fire and save lives!
+- **Non-Commissioned Officer (NCO) camp**: The NCO camp provides opportunities for cadets to pick up leadership, management, and technical skills, in preparation for increased responsibilities and higher ranks within the NCDCC.
+
+###### Achievements
+**2021** <br>
+- Unit Overall Proficiency Award (Distinction)
+- SCDF-NCDCC Pinnacle Badge - Mohammad Shafir Bin Ilyas &amp; Amos Naivaqamu
+
+**2022**
+- Unit Overall Proficiency Award (Gold)
+- UACDC (4th Placing)
+- SCDF-NCDCC Pinnacle Badge - Rhys Low Jia Ler &amp; Ritz Low Jia Kang
+
+**2023**
+- SCDF-NCDCC Pinnacle Badge - Amirah Natania Binti Mohamad Nazif
+
+###### Training Days &amp; Time
+**All Cadets:**
+| Day| Time | 
+| -------- | -------- | 
+| Friday (CCA Day) | 0800 - 1115 |
+
+**Selected Cadets:**
+| Day| Time | 
+| -------- | -------- | 
+| Thursday | 1500 - 1800 |

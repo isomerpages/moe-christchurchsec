@@ -6,16 +6,41 @@ third_nav_title: Co Curricular Activities
 ---
 ![](/images/CCA/WUSHU.jpg)
 
-<strong><u>Teacher-In-Charge</u></strong>
-* Ang Sze Yi (Mdm) (i/c)
-* Goh Joo Leng (Mr)
+###### Introduction
+Wushu is a term used to describe various traditional Chinese martial arts that are practised for self-defence, health and sport. Through wushu, which incorporates various forms of combat, acrobatics and weaponry, members develop stamina, strength, flexibility, posture and a high level of confidence. Our members learn routines and drills using weapons or with their bare hands. 
 
-<hr>
+Main weapons used in CHR’s Wushu team
+- Cudgel
+- Spear
+- Sword
+- Broadsword
 
+Bare Hands Exercise
+- Chang Quan
+- Nan Quan
+- Tai Ji 
 
-Wushu, also known as Chinese martial arts, started in Christ Church Secondary School in 2008. Wushu is not only about mastering skill but it is also an aspect of traditional Chinese culture. Wushu is more and more enjoyed by the world as it helps to develop stamina and strength, flexibility, posture and level of confidence.
+###### Programme Overview
+CHR Wushu participates in the annual National School Games for the following divisions:
+- B Division Boys
+- B Division Girls 
+- C Division Boys
+- C Division Girls
 
+Other activities
+- Wushu Camp and Excursion
 
-Our members learn routines and drills using weapons or with bare hands. There are four main weapons used in the school's Wushu team, i.e. cudgel, spear, sword (long) and broadsword (short). In the case of bare hands exercise, changquan, nanquan and taiji are some examples. Changquan is characterized by speed and vigour, nanquan is well-known to train forcefulness and strength, while taiji is noted for its slow and gentle movements.
+###### Achievements
+**2021** <br>
+- B Division Boys: 1st International Cudgel Gold
+- B Division Boys: 1st International Broadsword Silver
 
-Wushu members participate actively in school performances as well as in the National Inter-School Wushu Championship every year. Members also attend a Wushu camp in school where they learn about the importance of team spirit and simple Wushu routine choreography.
+**2022**
+- B Division Boys: 1st International Cudgel Gold
+- B Division Boys: 1st International Broadsword Gold
+
+###### Training Days &amp; Time
+| Day| Time | 
+| -------- | -------- | 
+| Tuesday  | 1600 - 1800 | 
+| Friday (CCA Day) | 0800 - 1045 |
