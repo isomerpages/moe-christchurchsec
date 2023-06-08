@@ -5,18 +5,40 @@ description: ""
 third_nav_title: Co Curricular Activities
 ---
 ![](/images/CCA/ICC2.jpg)
+###### Introduction
+The Infocomm Club (ICC) is a group of members with a common interest in media production, programming and audio-visual media. The club brings together students with different strengths to learn from one another. As a team, the members work behind the scenes to ensure both face-to-face and live streaming events are produced at a high quality.
 
-<strong><u>Teacher-In-Charge</u></strong>
-* Chong Mea Fun (Ms) (i/c)
-* Lai Liming (Ms)
+###### Programme Overview
+During their stint with us, students will acquire key skills of effective communication, listening, and acceptance, and have opportunities to develop their own potential and adaptability. With an increased level of confidence, members present themselves as confident young leaders with their own unique strengths and talents.
 
-<hr>
+Some of the programmes members can look forward to:
+- Workshops on current Infocomm Technology
+- Photography
+- Videography
+- Audio-Visual systems e.g. live streaming and public announcements
+- Learning journeys by the Infocomm Media Development Authority (IMDA) which gives students first-hand experiences with the technologies and professionals in various industries, enabling them to better understand the real-world applications of tech and media. 
 
-Infocomm Club (ICC) is formed by a group of diligent individuals, who play a distinctive role in their own ways as behind-the-scenes heroes to contribute to the school. ICC is bonded by the key skills of effective communication, listening and acceptance. ICC accepts every individual for his or her personal talents. ICC then works as one to develop one another to become more effective and adaptable and to be prepared for any unexpected situation.
+Members also participate in competitions at national level based on their respective interests and talents, and take advantage of training programs offered by IMDA to develop their skills in various infocomm and media domains.
+
+In addition, selected student leaders have the opportunity to participate in the Infocomm Media Club Student Leadership Conference and workshops to hone their leadership skills. 
+
+###### Achievements
+
+**2022**
+- StrlTWise Competition 2022 (Champion)
+- IMDA Digital For Life Youth Award 2022 (Accomplishment)
 
 
-With these key development skills, this helps to boost every member’s self-esteem, thus presenting themselves as young confident leaders. ICC believes that every member has his own flair, and is able to take the lead to maximise his potential. ICC brings students with different strengths and weaknesses, with a common interest in photography, programming, AV/PA and videography to come together, stay together and succeed together and learn through mistakes.
+###### Training Days &amp; Time
+**All Members:**
+| Day| Time | 
+| -------- | -------- | 
+| Friday (CCA Day) | 0800 - 1115 |
 
-On a weekly basis, ICC members attend workshop sessions conducted by experts in the field of infocomm technology, photography, videography, etc during Friday CCA. ICC members take part in various national level competitions based on their respective talents.
+**Selected Members:**
+| |  | 
+| -------- | -------- | 
+| Assigned duties on Weekdays for morning assembly and/or school events |  |
+
 
 ![](/images/CCA/imdaimctagline.jpg)
