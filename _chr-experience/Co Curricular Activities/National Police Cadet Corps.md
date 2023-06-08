@@ -6,16 +6,33 @@ third_nav_title: Co Curricular Activities
 ---
 ![](/images/CCA/NPCC.jpg)
 
-<strong><u>Teacher-In-Charge</u></strong>
-* Ho Chin Kun Alan (Mr) (i/c)
-* Liyana Filzah Binte Anuar (Ms) (2i/c)
-* Yuan Xuelian (Ms)
-* Ong Kian Jie (Mr)
-* Ravathi D/O Gunasegaran (Ms)
+###### Introduction
+The National Police Cadet Corps (NPCC), formed in 1959, is one of the longest standing uniformed youth organisations in Singapore today with a proud heritage. Through a variety of activities, the values of RISE (Resilience, Integrity, Service, and Excellence) are inculcated in our cadets. These values will enable them to develop into caring and responsible citizens with a sense of purpose to serve the community.
 
-<hr>
+###### Programme Overview
+Our NPCC curriculum and activities focuses on the following five aspects:
+- **Law Enforcement** e.g. HQ activities like Police Knowledge, Basic Law, SANA, CSI, Sec 2 &amp; 3 0.22 Classification Shoot
+- **Leadership** e.g. Unit activities like Leadership &amp; Mentoring Skills Course
+- **Resilience** e.g. Area activities like Sec 2 Adventure Training Camp @ Pulau Ubin
+- **National Education** e.g. Unit activities like Total Defence
+- **Personal Development** e.g. Unit activities like Kayaking, Life Saving, Swimming
 
-NPCC is a challenging and rewarding CCA which instills discipline and advocates teamwork. Through numerous activities, the cadets learn to work with one another. In addition, they will have the opportunity to hone their leadership skills and toughen themselves physically and mentally. Visits to the various police establishments, shooting of 0.22 police revolvers and adventure training camps in Pulau Ubin are but some of the fun-filled activities to break the monotony of regular weekly training.
+Cadets also have opportunities to represent the school in events like National Day Parade, Police Day and NPCC Day. They can also participate in Inter-Unit Competitions like Campcraft, Drills, CSI and Area Games Competitions.
+
+###### Achievements
+**2021** <br>
+- Unit Overall Proficiency Award (Gold)
+
+**2022** <br>
+- Unit Overall Proficiency Award (Distinction)
+
+**2023**
+- SPF-NPCC Badge - Charis Soon En &amp; Joel Tan
+- N.E. Animation 2023 (Student Category - 2nd Runner-Up)
 
 
-Christ Church NPCC cadets can look forward to an overseas expedition once a year. NPCC cadets also get the opportunities to go on subsidised trips and visits to our overseas counterparts. This allows the cadets to build on their resilience, develop a global outlook and learn to collaborate with one another.
+###### Training Days &amp; Time
+**All Cadets:**
+| Day| Time | 
+| -------- | -------- | 
+| Friday (CCA Day) | 0800 - 1115 |
