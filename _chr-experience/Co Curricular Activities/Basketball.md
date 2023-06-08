@@ -33,3 +33,17 @@ CHR Basketball participates in the annual National School Games for the followin
 - C Division Girls: North Zone Top 8<br>
 
 ###### Training Days &amp; Time
+
+**Boys:**
+| Day| Time | 
+| -------- | -------- | 
+| Tuesday   | 1600 - 1800 | 
+| Thursday  | 1600 - 1800 | 
+| Friday (CCA Day) | 0800 - 1045 | 
+
+**Girls:**
+| Day| Time | 
+| -------- | -------- | 
+| Monday  | 1600 - 1800 | 
+| Thursday  | 1600 - 1800 | 
+| Friday (CCA Day) | 0800 - 1045 | 
