@@ -31,3 +31,5 @@ CHR Basketball participates in the annual National School Games for the followin
 - B Division Girls: North Zone Champions<br>
 - C Division Boys: North Zone Top 8<br>
 - C Division Girls: North Zone Top 8<br>
+
+###### Training Days &amp; Time
