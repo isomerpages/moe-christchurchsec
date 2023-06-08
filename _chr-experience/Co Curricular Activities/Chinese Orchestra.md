@@ -4,24 +4,21 @@ permalink: /chr-experience/Co-Curricular-Activities/Chinese-Orchestra/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<strong><u>Teacher-In-Charge</u></strong>
-* Tan Soh Leng (Ms) (i/c)
-* Roslina Bte Mahmood (Mdm)
-* Ter Mei Lan Elizabeth (Mdm)
+###### Introduction
+The Chinese Orchestra aims to inculcate a love for traditional Chinese music and culture among our students. As a musical ensemble, students learn about teamwork, harmony and coordination. CHR Chinese Orchestra challenges CHRians to learn the various classical instruments and make their learning meaningful when they successfully display their talent as one ensemble on various platforms. As an ensemble, students understand that they are a part of a whole in producing a pleasing harmony to the ears of the audience. The various activities in Chinese Orchestra also help students to discover their interests and talents to fuel in the students a life-long interest for music. Through our programme and activities, students will grow not only in musical skills but also in their character. 
 
-<hr>
+###### Programme Overview
+In the Chinese Orchestra, students will have various opportunities to take part in multiple school events. Apart from taking part in Singapore Youth Festivals, our programme provides students with the opportunity to learn not only about music but also to develop social and leadership skills. The weekly training and bonding activities such as games and learning journeys inculcate the joy of learning and nurture values such as teamwork, resilience, discipline and commitment.  
 
+###### Achievements
+**2021** <br>
+- Singapore Youth Festival Arts Presentation (Accomplishment)
 
-**CHR Chinese Orchestra Motto: A.S.P.I.R.E** <br>
-A : Attendance <br>
-S : Sincerity <br>
-P : Punctuality <br>
-I : Initiative <br>
-R : Respect <br>
-E : Enthusiastic <br>
+**2023**
+- Singapore Youth Festival Arts Presentation (Distinction)
 
-Christ Church Secondary School Chinese Orchestra (CO) is a platform for students who have passion and interest in Chinese instruments to showcase their talents.
- 
-CHR Chinese Orchestra's motto is A.S.P.I.R.E, which stands for Attendance, Sincerity, Punctuality, Initiative, Respect and Enthusiasm. We aim to inculcate these 6 values in our members through various exposure in performances. We A.S.P.I.R.E to achieve greater success and cultivate a musical passion in our members. We work towards our goal by incorporating a wide variety of activities into our curriculum.  We aim to give back to the society with our music made with love.
-
-Furthermore, members are encouraged to continually improve on their technique of playing the instruments so as to improve on the standard of their performances. They are encouraged to sit for the Instrumental Exams which offers a chance for them to obtain official recognition for their skills.
+###### Training Days &amp; Time
+| Day| Time | 
+| -------- | -------- | 
+| Monday  | 1530 - 1800 | 
+| Friday (CCA Day) | 0800 - 1115 |
