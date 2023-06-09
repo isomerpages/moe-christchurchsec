@@ -10,12 +10,14 @@ The Mathematics Department aims to develop our students to be confident and self
 ###### Subject Offerings
 
 Lower Secondary
+
 | Subject| G3 | G2 | G1 |
 | -------- | -------- | -------- | ------ |
 | Mathematics   | ✓     | ✓     | ✓|
 
 
 Upper Secondary
+
 | Subject| G3 | G2 | G1 |
 | -------- | -------- | -------- | ------ |
 | Elementary Mathematics   | ✓     | ✓     | ✓|
