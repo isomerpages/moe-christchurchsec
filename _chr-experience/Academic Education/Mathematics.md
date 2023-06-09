@@ -8,10 +8,12 @@ third_nav_title: Academic Education
 The Mathematics Department aims to develop our students to be confident and self-directed problem solvers. Our mission is to nurture students’ capacity to deal with ambiguity so as to apply Mathematical skills in practical tasks and real-life problems. 
 
 ###### Subject Offerings
+
 Lower Secondary
 | Subject| G3 | G2 | G1 |
 | -------- | -------- | -------- | ------ |
 | Mathematics   | ✓     | ✓     | ✓|
+
 
 Upper Secondary
 | Subject| G3 | G2 | G1 |
@@ -21,6 +23,7 @@ Upper Secondary
 | Principles of Account   | ✓     | ✓     | |
 | Computer Applications   |      |      | ✓|
 | Elements of Business Skills   |      |      | ✓|
+
 
 ###### Key Programmes
 Our Secondary 2 Financial Literacy Programme aims to help our students pick up Financial Literacy skills through real life applications of Mathematics. Our students will also be able to gain insights into how Mathematics can help people to manage bills, income, expenses, taxes, loans, etc. They will also learn and understand more about personal finance and budgeting through role playing and working with their peers. 
