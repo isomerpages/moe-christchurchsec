@@ -48,13 +48,16 @@ Our Boys discover the key principles of leadership through habits of encourageme
 
 
 ###### Training Days &amp; Time
+
 **All Boys:**
+
 | Day| Time | 
 | -------- | -------- | 
 | Friday (CCA Day) | 0800 - 1115 |
 |Selected Saturdays| 0900 - 1230 |
 
 **BB Band:**
+
 | Day| Time | 
 | -------- | -------- | 
 |Selected Fridays| 1300 - 1500 |
