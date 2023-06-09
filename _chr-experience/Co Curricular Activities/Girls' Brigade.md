@@ -44,6 +44,7 @@ In addition, drill is a part of the GB curriculum. It instils discipline, a habi
 - The Girls’ Brigade Drill Competition (Gold)
 
 ###### Training Days &amp; Time
+
 | Day| Time | 
 | -------- | -------- | 
 | Friday (CCA Day) | 0800 - 1115 |
