@@ -26,6 +26,20 @@ Should you wish to change your child’s / ward’s DMA After-School options, yo
 
 More details on the three DMA options can be found under “**Other Resources**”.
 
+
+##### Norms and Routines at Home
+In CHR, we have school routines and class routines to guide our students in the safe and appropriate use of PLDs in school.
+
+We strongly recommend parents to spend some time to establish norms and routines for device use at home:
+*   Talk about safe and appropriate use of PLDs
+    
+*   Set expectations and routines together
+    
+*   Provide an appropriate learning space
+    
+More information and ideas can be found in the attached Parent Handbooks I &amp; II.
+
+
 <img src="/images/DMA2.png" style="width:65%">
 
 Your child will be using the PLD for both in-class and out-of-class learning. This will prepare them for a technology-driven world.
