@@ -2,7 +2,7 @@ collections:
   our-experience:
     output: true
     order:
-      - Our 4 plus1 Curriculum.md
+      - Our 4plus1 Curriculum.md
       - Academic Programme/.keep
       - Academic Programme/English.md
       - Academic Programme/Mathematics.md
