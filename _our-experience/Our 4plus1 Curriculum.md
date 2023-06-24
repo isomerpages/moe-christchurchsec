@@ -11,4 +11,4 @@ On Mondays to Thursdays, students can focus on their academic areas. Friday morn
 
 The 4+ 1 curriculum creates possibilities in the design of our school experiences for students to grow as purposeful leaders through opportunities to challenge themselves, pursue goals and contribute thoughtfully. For example, having a common CCA day on Friday facilitates inter-CCA activities and other collaborations between CCAs, offering more opportunities for students to lead and interact with their schoolmates. The extended block of time also allows CCAs to organise training sessions and other activities at external venues, as well as longer learning journeys. 
 
-Both students and staff look forward to the vibrant and energetic atmosphere in school on Fridays, with everyone donning their CCA attire and engaging in various activities, as one community.**
+Both students and staff look forward to the vibrant and energetic atmosphere in school on Fridays, with everyone donning their CCA attire and engaging in various activities, as one community.
