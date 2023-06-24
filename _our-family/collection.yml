@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - School Management Committee.md
       - School Chaplaincy Team.md
       - CHR Alumni.md
