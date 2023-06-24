@@ -16,15 +16,14 @@ The Chromebook is affordable and affords students the ability to acquire soft sk
 ##### Device Management Application (DMA)
 
 You child’s Chromebooks will be installed with DMA to provide a safer digital environment for learning:<br>
-1.&nbsp;Web content is filtered to remove inappropriate content e.g.  pornography, gambling, extremism, violence<br>
-2.&nbsp;Internet connection is set from 7 a.m. to 11 p.m.<br>
-3.&nbsp;Only approved applications will be installed<br>
+* Web content is filtered to remove inappropriate content e.g.  pornography, gambling, extremism, violence<br>
+* Internet connection is set from 7 a.m. to 11 p.m.<br>
+* Only approved applications will be installed<br>
     
-There are three DMA options, each allowing parents / guardians different levels of restriction, control and monitoring after school hours e.g. amend internet connection timing, install other applications.&nbsp;
+There are **three DMA options**, each allowing parents / guardians different levels of restriction, control and monitoring after school hours e.g. amend internet connection timing, install other applications. More details on the three DMA options can be found under “**Other Resources**”.
+
 
 Should you wish to change your child’s / ward’s DMA After-School options, you can submit the request via [this link](https://form.gov.sg/639b30980ab349001216527e) .
-
-More details on the three DMA options can be found under “**Other Resources**”.
 
 
 ##### Norms and Routines at Home
