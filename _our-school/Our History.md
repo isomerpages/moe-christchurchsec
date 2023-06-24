@@ -19,7 +19,7 @@ In December 2001, a new campus in Woodlands was designated for the relocation of
 | Year| Our Principals |
 | -------- | -------- |
 | 1953 to 1972   | Revd Canon Samuel Baboo |
-| 1973 (Supervisor)   | Mr S E Jesudason| 
+| 1973 <br>(Supervisor)   | Mr S E Jesudason| 
 | 1973 to 1981  | Mr Daniel Kovipillai| 
 | 1981 to 1988  | Mr Gabriel Rajamoorthy| 
 | 1988 to 1990  | Mr Victor Wee Tai Tien| 
@@ -41,7 +41,7 @@ In December 2001, a new campus in Woodlands was designated for the relocation of
 | 1988 to 1994  | Mr K C Selvadurai| 
 | 1994 to 2012  | Mr Lau Wan Keong|
 | 2012 to 2021  | Mr Andrew Tay Shao Peng| 
-| 2022 to date  | Mr Valleteau De Moulliac Francois Marie Joseph Dominique| 
+| 2022 to date  | Mr Valleteau De Moulliac <br> Francois Marie Joseph Dominique| 
 
 <center>
 <style type="text/css">
