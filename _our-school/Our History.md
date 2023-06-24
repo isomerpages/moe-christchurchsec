@@ -3,7 +3,8 @@ title: Our History
 permalink: /our-school/our-history/
 description: ""
 ---
-<img src="/images/historygraphic.jpeg" style="width:75%">
+<img src="/images/Our%20School/Our%20History/historygraphic.jpeg" style="width:75%">
+
 
 ##### Overview
 Christ Church Secondary School (CHR) is a co-educational government-aided school located in Woodlands, Singapore. CHR has a strong academic programme and places great emphasis on character development and holistic education, offering a wide range of co-curricular activities to help students develop their talents and interests.
