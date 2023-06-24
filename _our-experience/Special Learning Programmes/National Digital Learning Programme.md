@@ -9,7 +9,6 @@ third_nav_title: Special Learning Programmes
 As part of [NDLP](https://www.channelnewsasia.com/singapore/national-digital-literacy-programme-has-enabled-students-have-access-digital-devices-amid-covid-19-halimah-yacob-2457851), every student in CHR will be using a Chromebook for both in-class and out-of-class learning. This will prepare them for a technology-driven world.
 
   
-
 The Chromebook is affordable and affords students the ability to acquire soft skills required for the future - digital literacies, self-directedness and discipline.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OXaHt9pZCa8" height="315" width="560"></iframe>
@@ -17,13 +16,15 @@ The Chromebook is affordable and affords students the ability to acquire soft sk
 ##### Device Management Application (DMA)
 
 You child’s Chromebooks will be installed with DMA to provide a safer digital environment for learning:<br>
-(1) Web content is filtered to remove inappropriate content e.g.  pornography, gambling, extremism, violence<br>
-(2) Internet connection is set from 7 a.m. to 11 p.m.<br>
-(3) Only approved applications will be installed<br>
+1.&nbsp;Web content is filtered to remove inappropriate content e.g.  pornography, gambling, extremism, violence<br>
+2.&nbsp;Internet connection is set from 7 a.m. to 11 p.m.<br>
+3.&nbsp;Only approved applications will be installed<br>
     
 There are three DMA options, each allowing parents / guardians different levels of restriction, control and monitoring after school hours e.g. amend internet connection timing, install other applications.&nbsp;
 
-Information on each option and how to request a change in options can be found here. Insert the instructions?**
+More details on the three DMA options can be found under “**Other Resources**”.
+
+Should you wish to change your child’s / ward’s DMA After-School options, you can submit the request via the link previously sent in PG.
 
 <img src="/images/DMA2.png" style="width:65%">
 
@@ -54,7 +55,7 @@ There are three DMA options, each providing parents with different levels of res
 
 3.&nbsp;**Option B:**&nbsp;Parents can disable the DMA after school hours
 
-More details on the three DMA options can be found under “**Other Resources**”.
+
 
 Should you wish to change your child’s / ward’s DMA After-School options, you can submit the request via the link previously sent in PG.
 
