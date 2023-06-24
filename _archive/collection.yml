@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Achievements/Uniformed Groups.md
       - Achievements/.keep
       - CHR AOP Education.md
       - Forms.md
