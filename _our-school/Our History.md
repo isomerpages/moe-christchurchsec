@@ -3,15 +3,22 @@ title: Our History
 permalink: /our-school/our-history/
 description: ""
 ---
-<img src="/images/historygraphic.jpeg" 
-     style="width:75%">
+<img src="/images/historygraphic.jpeg" style="width:75%">
 
+##### Overview
+Christ Church Secondary School (CHR) is a co-educational government-aided school located in Woodlands, Singapore. CHR has a strong academic programme and places great emphasis on character development and holistic education, offering a wide range of co-curricular activities to help students develop their talents and interests.
+
+##### Genesis
+The school's history dates to 1952 when it was registered as a private school run by the Anglican Diocese in Dorset Road. It was converted to a Government-Grant-in-Aid school in 1972 and renamed Christ Church Secondary School in 1973, starting with eight Secondary One classes. In 1985, the school moved to the old premises of Victoria School at Tyrwhitt Road and has since pushed ahead to provide value-added education to its students, achieving commendable academic outcomes and improving its standing as a school that believes in holistic education driven by students' needs, talents, and abilities.
+
+##### New Beginnings
+In December 2001, a new campus in Woodlands was designated for the relocation of the school. It was officially opened by Mr S. Dhanabalan, the then-Minister for National Development. CHR continues to refine its curriculum to develop confident and well-rounded students who are prepared to face the challenges of an ever-changing society, in service to the nation. Today, CHR has a student population of over 1,100 and a teaching staff of over 80.
 
 The history of Christ Church School dates back to 1952 when it was registered as a private school, run by the Anglican Diocese, at Dorset Road. However, due to declining enrolment in 1972, Christ Church and the Anglican Diocese decided to convert the school into a Government-Grant-in- Aid school. In 1973, Christ Church School became a fully government-aided school and was renamed Christ Church Secondary School (CHR). The school started functioning with eight Secondary One classes. In 1985, CHR Secondary School moved to the Tyrwhitt location, taking over the old premises of Victoria School on 15 June. Through sheer hard work and determination, the school pushed ahead to provide value-added education to her students, achieving commendable academic awards as well as improving standing as a school that believes in holistic education driven by students’ needs, talents and abilities.
 
 A new lease of life was further injected when an entirely new campus in Woodlands, equipped with the latest technology for teaching and learning was designated for the relocation of the school in December 2001. Holding fast to her belief that every person has worth and that his/her development can be nurtured to the optimum, CHR Secondary School continues to refine her curriculum to develop the well-rounded student who is confident to face the challenges of the ever-changing society.
 
-Today, we are proud to develop students equipped with the 21st Century skills to be of service to the nation.
+Today, we are proud to develop students equipped with the 21st&nbsp;Century skills to be of service to the nation.
 
 
 <center>
@@ -251,7 +258,7 @@ Today, we are proud to develop students equipped with the 21st Century skills t
 <col>
 </colgroup>
 <thead>
-	<thead>
+	</thead><thead>
   <tr>
     <th class="tg-dwlh"></th>
     <th class="tg-pll1"><span style="color:#222;background-color:#B0B0B0">Our Chaplains</span></th>
