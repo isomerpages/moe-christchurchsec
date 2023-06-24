@@ -25,6 +25,8 @@ There are **three DMA options**, each allowing parents / guardians different lev
 
 Should you wish to change your child’s / ward’s DMA After-School options, you can submit the request via [this link](https://form.gov.sg/639b30980ab349001216527e) .
 
+![](/images/Special%20Learning%20Programmes/NDLP/img_5990-2.jpg)*CHRians unboxing their Chromebooks*
+
 
 ##### Norms and Routines at Home
 In CHR, we have school routines and class routines to guide our students in the safe and appropriate use of PLDs in school.
