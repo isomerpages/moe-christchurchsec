@@ -13,6 +13,23 @@ The school's history dates to 1952 when it was registered as a private school ru
 
 ##### New Beginnings
 In December 2001, a new campus in Woodlands was designated for the relocation of the school. It was officially opened by Mr S. Dhanabalan, the then-Minister for National Development. CHR continues to refine its curriculum to develop confident and well-rounded students who are prepared to face the challenges of an ever-changing society, in service to the nation. Today, CHR has a student population of over 1,100 and a teaching staff of over 80.
+<br>
+<br>
+
+| Year| Our Principals |
+| -------- | -------- |
+| 1953 to 1972   | Revd Canon Samuel Baboo |
+| 1973 (Supervisor)   | Mr S E Jesudason| 
+| 1973 to 1981  | Mr Daniel Kovipillai| 
+| 1981 to 1988  | Mr Gabriel Rajamoorthy| 
+| 1988 to 1990  | Mr Victor Wee Tai Tien| 
+| 1990 to 1992  | Mr David Chen Chee Kang|
+| 1992 to 1997  | Mr Koh Boon Long| 
+| 1998 to 2002  | Mr Victor Giam Chong Guan| 
+| 2002 to 2008  | Mr Ang Chee Seng| 
+| 2009 to 2014  | Mrs Yeo Chin Nam|
+| 2015 to 2021  | Mr David Lau Yan Boon| 
+| 2022 to date  | Mr Adrian Tay Juncheng| 
 
 
 <center>
