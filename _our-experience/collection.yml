@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - CHR AOP Education.md
       - Academic Education/.keep
       - Academic Education/English.md
       - Academic Education/Mathematics.md
