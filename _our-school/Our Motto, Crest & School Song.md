@@ -3,27 +3,23 @@ title: Our Motto, Crest & School Song
 permalink: /our-school/motto-crest-song/
 description: ""
 ---
-<strong><center><u>Our Motto</u></center></strong>
+##### Our Motto
+**'PRAY and WORK'**
+	
+Our motto comes from the Bible verse:&nbsp;
 
-<center>'PRAY and WORK'
+*“And we pray this in order that you may live a life worthy of the Lord and may please him in every way: bearing fruit in every good work, growing in the knowledge of God”*
 
-<br>Our motto comes from the Bible verse,&nbsp;
-<br>“And we pray this in order that you may live a life worthy of the Lord and may please him in every way: bearing fruit in every good work, growing in the knowledge of God”,
-<br>Colossians 1:10, NIV</center>
-
-  
+*Colossians 1:10, NIV*
 
 * * *
-
+##### Our School Crest
   
-
-<strong><center><u>Our School Crest</u></center></strong>
-
 <img src="/images/chr_logo_small.jpeg" style="width:45%">
 
 
 
-**FLAMING TORCH**:&nbsp;At the heart of the crest, the torch symbolizes CHRians’ commitment to lifelong learning. This journey of life, and of learning, is one where each CHRian grows in character and in his God-given talents.
+**FLAMING TORCH**:&nbsp;At the heart of the crest, the torch symbolises CHRians’ commitment to lifelong learning. This journey of life and of learning, is one where each CHRian grows in character and in his God-given talents.
 
 **CROSS:**&nbsp;Give glory to GOD who has enabled our achievements. CHRIST is at the centre of our endeavours.
 
