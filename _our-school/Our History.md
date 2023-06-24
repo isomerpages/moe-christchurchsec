@@ -43,6 +43,18 @@ In December 2001, a new campus in Woodlands was designated for the relocation of
 | 2012 to 2021  | Mr Andrew Tay Shao Peng| 
 | 2022 to date  | Mr Valleteau De Moulliac <br> Francois Marie Joseph Dominique| 
 
+##### Chaplains
+| Year| Our Chaplains |
+| -------- | -------- |
+| 1952 to 1972   | Revd Canon Samuel Baboo |
+| 1973 to 1981   | Revd Canon C A Caldwell| 
+| 1981 to 1989  | Revd J. Villie Devapiragasam| 
+| 1989 to 1992  | Revd Kingsley Ponniah| 
+| 1992 to 2001  | Revd Canon Dr. A George Karunakaran| 
+| 2002 to 2007  | Revd John Sim Teck Chuan|
+| 2007 to 2010  | Revd Daniel Wee| 
+| 2011 to 2016  | Revd Tang Wai Lung| 
+| 2016 to date  | Revd William Tham Kok Meng| 
 <center>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
