@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Our Family.md
       - Our History.md
       - Our Vision, Mission & Values.md
       - Our Motto & Crest.md
