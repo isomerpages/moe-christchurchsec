@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Forms.md
       - Outdoor Education.md
       - CHR Pride.md
       - Academic Outcomes.md
