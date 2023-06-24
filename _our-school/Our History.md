@@ -14,7 +14,6 @@ The school's history dates to 1952 when it was registered as a private school ru
 ##### New Beginnings
 In December 2001, a new campus in Woodlands was designated for the relocation of the school. It was officially opened by Mr S. Dhanabalan, the then-Minister for National Development. CHR continues to refine its curriculum to develop confident and well-rounded students who are prepared to face the challenges of an ever-changing society, in service to the nation. Today, CHR has a student population of over 1,100 and a teaching staff of over 80.
 <br>
-<br>
 ##### Milestones in History
 | Year| Event |
 | -------- | -------- |
@@ -73,4 +72,4 @@ In December 2001, a new campus in Woodlands was designated for the relocation of
 | 2002 to 2007  | Revd John Sim Teck Chuan|
 | 2007 to 2010  | Revd Daniel Wee| 
 | 2011 to 2016  | Revd Tang Wai Lung| 
-| 2016 to date  | Revd William Tham Kok Meng| 
+| 2016 to date  | Revd William Tham Kok Meng|
