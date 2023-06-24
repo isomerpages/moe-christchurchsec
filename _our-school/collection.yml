@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - Our History.md
-      - Our Vision, Mission & Values.md
-      - Our Motto, Crest & School Song.md
       - Our Family/.keep
       - Our Family/Our Key Personnel.md
       - Our Family/Our Form Teachers.md
       - Our Family/School Management Committee.md
       - Our Family/School Chaplaincy Team.md
       - Our Family/CHR Alumni.md
+      - Our History.md
+      - Our Vision, Mission & Values.md
+      - Our Motto, Crest & School Song.md
       - Non Financial Information.md
