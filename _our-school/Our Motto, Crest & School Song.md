@@ -14,7 +14,7 @@ Our motto comes from the Bible verse:
 * * *
 ##### Our School Crest
   
-<img src="/images/chr_logo_small.jpeg" style="width:45%">
+<img src="/images/Our%20School/Our%20Motto,%20Crest%20&amp;%20Song/chr_logo_small.jpeg" style="width:45%">
 
 
 
