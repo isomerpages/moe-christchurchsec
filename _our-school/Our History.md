@@ -15,6 +15,25 @@ The school's history dates to 1952 when it was registered as a private school ru
 In December 2001, a new campus in Woodlands was designated for the relocation of the school. It was officially opened by Mr S. Dhanabalan, the then-Minister for National Development. CHR continues to refine its curriculum to develop confident and well-rounded students who are prepared to face the challenges of an ever-changing society, in service to the nation. Today, CHR has a student population of over 1,100 and a teaching staff of over 80.
 <br>
 <br>
+##### Milestones in History
+| Year| Event |
+| -------- | -------- |
+| 1952  | Founded as Christ Church School, a private educational institute at Dorset Road within the Christ Church Parish. |
+| 1973  |Evolved into a government-aided mission school overseen by the Anglican Diocese of Singapore and was renamed Christ Church Secondary School (CHR).| 
+| 1985 | Expanded and shifted to 2 Tyrwhitt Road Singapore 207523.| 
+| 2001 | Relocated to 20 Woodlands Drive 17 Singapore 737924. Christ Church Secondary School’s Dedication Ceremony was officiated by Rt. Rev. Dr. John Chew, Bishop of the Diocese of Singapore, on 14 December. New School Crest was unveiled.| 
+| 2002 | Official handing-over ceremony of Christ Church Secondary School.| 
+| 2004 | CHR’s official School Opening was officiated by Dr. Ong Chit Chung, Member of Parliament for the Jurong GRC.|
+| 2010 | Inaugural Public Concert ‘Music Moments’ on 24 Nov @ Republic Polytechnic.| 
+| 2012 | Signing of Memorandum of Understanding (MOU) with Boonwattana School, Nakhonratchasima, Thailand, on 8 August.| 
+| 2012 | Official Opening of the Indoor Sports Hall by Mr Vikram Nair, Advisor to Admiralty Grassroots Organisations, on 23 Nov.| 
+| 2013 | Official Opening of the Student Drop-In Centre (DIC) by Bishop, Revd Rennis Ponniah, the Diocese of Singapore, on 21 April.|
+| 2013 | Attained School Niche Status (Outdoor Adventure Learning) in May.|
+| 2013 | Signing of Letter Of Intent (LOI) with the School of Sports, Heath and Leisure, Republic Polytechnic, on 22 November.|
+| 2014 | 1st batch of Sec 1 intake joined CHR under the Direct School Admission (DSA) Exercise to build our niche programme.|
+| 2014 | Commencement of Learning for Life Programme (LLP), formerly known as the School Niche Programme, in the area of Sports and Outdoor Education.|
+| 2015 | Commencement of Applied Learning Programm (ALP), formerly known as the School Niche Programme, in the area of Sports and Outdoor Education.|
+
 ##### Principals
 | Year| Our Principals |
 | -------- | -------- |
