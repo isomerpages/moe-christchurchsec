@@ -22,9 +22,9 @@ You child’s Chromebooks will be installed with DMA to provide a safer digital 
     
 There are three DMA options, each allowing parents / guardians different levels of restriction, control and monitoring after school hours e.g. amend internet connection timing, install other applications.&nbsp;
 
-More details on the three DMA options can be found under “**Other Resources**”.
+Should you wish to change your child’s / ward’s DMA After-School options, you can submit the request via [this link](https://form.gov.sg/639b30980ab349001216527e) .
 
-Should you wish to change your child’s / ward’s DMA After-School options, you can submit the request via the link previously sent in PG.
+More details on the three DMA options can be found under “**Other Resources**”.
 
 <img src="/images/DMA2.png" style="width:65%">
 
