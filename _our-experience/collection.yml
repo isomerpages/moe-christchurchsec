@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Student Development/.keep
       - Academic Programme/.keep
       - Academic Programme/English.md
       - Academic Programme/Mathematics.md
@@ -29,6 +28,7 @@ collections:
       - Co Curricular Activities/Outdoor Adventure Club.md
       - Co Curricular Activities/Infocomm Club.md
       - Co Curricular Activities/Christian Fellowship.md
+      - Student Development/.keep
       - Pupil Wellbeing/.keep
       - Pupil Wellbeing/Pupil's Wellbeing and Developmental Discipline.md
       - Pupil Wellbeing/Civics and Character Education.md
