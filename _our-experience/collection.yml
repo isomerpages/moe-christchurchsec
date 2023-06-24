@@ -2,13 +2,13 @@ collections:
   our-experience:
     output: true
     order:
-      - Academic Education/.keep
-      - Academic Education/English.md
-      - Academic Education/Mathematics.md
-      - Academic Education/Science.md
-      - Academic Education/Humanities.md
-      - Academic Education/Aesthetics, Craft & Technology.md
-      - Academic Education/Mother Tongue.md
+      - Academic Programme/.keep
+      - Academic Programme/English.md
+      - Academic Programme/Mathematics.md
+      - Academic Programme/Science.md
+      - Academic Programme/Humanities.md
+      - Academic Programme/Aesthetics, Craft & Technology.md
+      - Academic Programme/Mother Tongue.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/The Boys' Brigade.md
       - Co Curricular Activities/Girls' Brigade.md
