@@ -32,7 +32,7 @@ In December 2001, a new campus in Woodlands was designated for the relocation of
 | 2013 | Signing of Letter Of Intent (LOI) with the School of Sports, Heath and Leisure, Republic Polytechnic, on 22 November.|
 | 2014 | 1st batch of Sec 1 intake joined CHR under the Direct School Admission (DSA) Exercise to build our niche programme.|
 | 2014 | Commencement of Learning for Life Programme (LLP), formerly known as the School Niche Programme, in the area of Sports and Outdoor Education.|
-| 2015 | Commencement of Applied Learning Programm (ALP), formerly known as the School Niche Programme, in the area of Sports and Outdoor Education.|
+| 2015 | Commencement of Health Science and Technology Applied Learning Programme (ALP)|
 
 ##### Principals
 | Year| Our Principals |
