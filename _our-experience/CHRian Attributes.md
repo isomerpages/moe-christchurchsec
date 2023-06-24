@@ -19,9 +19,10 @@ Let’s hear from our CHRians how their experiences in CHR have shaped them in t
 
 
 ##### Active Learners
-
+*Video coming Soon*
 
 ##### Thoughtful Contributors
-
+*Video coming Soon*
 
 ##### Drive to Excel
+*Video coming Soon*
