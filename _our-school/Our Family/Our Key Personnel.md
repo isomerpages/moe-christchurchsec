@@ -26,6 +26,7 @@ third_nav_title: Our Family
 | **School Staff Developer**    | Mrs Amy Yap    |
 | **HOD ACT**    | Mr Toh Hong Seng   |
 | **HOD CCE**    | Ms Belle Lim   |
+| **HOD Discipline**    | Mdm Mandy Choo   |
 | **HOD English Language**    | Ms Seah Jiemin   |
 | **HOD Science**    | Mr Muhamad Firdaus Bin Mohamed Yasin   |
 | **HOD Humanities**    | Mr Sng Thiam Eng   |
@@ -43,7 +44,6 @@ third_nav_title: Our Family
 | **Asst. Year Head (Upper Sec)**    | Ms Siti Farisa    |
 | **SH ACT**    | Ms Ng Hui Ling   |
 | **SH CCE**    | Ms Nurul Aqidah Binte Shabudin  |
-| **SH Discipline**    | Mdm Mandy Choo   |
 | **SH English Language**    | Ms NurulJannah Binte Ishak   |
 | **SH Science**    | Mr Chong Zi Yi   |
 | **SH Humanities**    | Ms Althea Yeo   |
@@ -54,13 +54,13 @@ third_nav_title: Our Family
 | | |
 | -------- | -------- |
 | **Administration Manager**    | Ms Lena Chung    |
-| **Operations Manager**    | Mr Lim Kim Chew   |
 
 ### Teacher Leaders
 
 | | |
 | -------- | -------- |
 | **LT English Language**| Mr Tan Chai Hok|
+| **LT Physics**| Mr Low Swee Hian|
 | **ST Biology**| Mdm Juliza Binte Zulkifli| 
 | **ST Design &amp; Technology**| Mdm Christabel Foon|
 | **ST History**| Mr Ashley Tan|
