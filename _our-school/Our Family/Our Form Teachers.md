@@ -18,17 +18,17 @@ third_nav_title: Our Family
 |**S1-8**|Ms Tan Soh Leng|Mdm Lam Cheng Wan|
 |**S2-1**|Ms Lai Liming| |
 |**S2-2**| Mdm Rahimah Bte Selamat | |
-|**S2-3**| Ms Sheereen Loke | |
+|**S2-3**| Ms Sheereen Loke | Ms Loo Wei Lin|
 |**S2-4**|Mdm Roslina Bte Mahmood|Ms Cindy Wong|
-|**S2-5**|Mdm Christabel Foon|Ms Lynn Tang|
+|**S2-5**|Mdm Christabel Foon| |
 |**S2-6**|Mr Hu Chang Chuan| |
 |**S2-7**|Mr Ong Kian Jie|Mdm Elizabeth Ter|
-|**S2-8**|Ms Jacquline Chye|Mr Zulkhairi Bin Zulkiflee|
-|**S3-1**|Ms Yuan Xuelian| |
+|**S2-8**|Ms Jacquline Chye|Mr Muhamad Isham Bin Ishak|
+|**S3-1**|Ms Yuan Xuelian| Mr Danial Matin Bin Zaini|
 |**S3-2**|Mdm Ng Hwee Bin| |
 |**S3-3**|Mr Sean Tan|Ms Uma Devi d/o Nadesvaran|
 |**S3-4**|Ms Chong Mea Fun||
-|**S3-5**|Mr Leonard Chng| |
+|**S3-5**|Mr Leonard Chng| Ms Weng Xiaohong|
 |**S3-6**|Mr Ashley Tan| |
 |**S3-7**|Mr Alan Ho|Ms Narny Binte Ab Rahman|
 |**S4-1**|Ms Regina Boon|Mr Francis Seah|
@@ -37,5 +37,5 @@ third_nav_title: Our Family
 |**S4-4**|Mdm Betty Koh|Ms Loke Zhen Yi|
 |**S4-5**|Mdm Siti Nursyahidah Binti Ideris|Mr Muhammad Firdaus Bin Mdm Hair|
 |**S4-6**|Mr Muhammad Khairulnizam B A R|Mdm Maryam Binte Mohammad Sesth|
-|**S4-7**|Mr Desmond Chan|Ms Zhou Yuxi |
+|**S4-7**|Mr Desmond Chan| |
 |**S5-1**|Ms Amanda Tan|Mdm Juliza Binte Zulkifli|
