@@ -66,4 +66,3 @@ third_nav_title: Our Family
 | **ST History**| Mr Ashley Tan|
 | **ST Mathematics**| Mdm Betty Koh|
 | **ST Mathematics**| Ms Leow Swee Khim|
-| **ST Physics**| Ms Uma Devi d/o Nadesvran|
