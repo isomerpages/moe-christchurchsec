@@ -7,6 +7,7 @@ third_nav_title: Co Curricular Activities
 ![](/images/CCA/NPCC.jpg)
 
 **Introduction**
+
 The National Police Cadet Corps (NPCC), formed in 1959, is one of the longest standing uniformed youth organisations in Singapore today with a proud heritage. Through a variety of activities, the values of RISE (Resilience, Integrity, Service, and Excellence) are inculcated in our cadets. These values will enable them to develop into caring and responsible citizens with a sense of purpose to serve the community.
 
  **Programme Overview**
