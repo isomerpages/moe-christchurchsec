@@ -4,10 +4,10 @@ permalink: /our-curriculum/Academic/humanities/
 description: ""
 third_nav_title: Academic Programmes
 ---
-###### Introduction
+#  Introduction
 The Humanities department in Christ Church Secondary School is dedicated to providing a learner-centred approach that empowers students to be active and thoughtful learners. The department recognises the importance of inspiring students to become global citizens who contribute positively to society and the environment. To achieve this goal, the department utilises authentic experiences to enable students to acquire the necessary skills, knowledge, and values from the study of the Humanities.
 
-###### Subject Offerings
+**Subject Offerings**
 * Geography
 * History
 * Social Studies
@@ -29,7 +29,7 @@ The Humanities department in Christ Church Secondary School is dedicated to prov
 | History   | ✓     | ✓     | |
 | Social Studies   | ✓     |  ✓    | ✓|
 
-###### Key Programmes
+** Key Programmes**
 The department's approach centres on 21st Century Competencies, where students are equipped with critical and analytical skills that are nurtured through inquiry-based learning strategies. The department's pedagogies foster self-directed learners who are curious and passionate about the Humanities. Students learn through various experiential learning methods, such as Class-based Inquiry, Learning Journeys as well as Historical and Geographical Investigations. The department also leverages technology to bring the world into the classroom, thus enhancing students' learning experiences.<br>
 
 The department's emphasis on outdoor and experiential learning is a unique feature of the Humanities education at Christ Church Secondary School. Students are encouraged to take up the role of young investigators and engage their senses to explore various topics in History and Geography. The Humanities Experiential Learning Programme (HELP) allows students to connect the knowledge and skills they have acquired in the classroom to the real world. As part of the department's inquiry approach to the Humanities, students learn by doing, seeing, and experiencing.
