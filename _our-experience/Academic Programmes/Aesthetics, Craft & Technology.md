@@ -6,7 +6,8 @@ third_nav_title: Academic Programmes
 ---
 ![](/images/artheader.jpeg)
 
-# Introduction
+**Introduction**
+
 The Aesthetics, Craft &amp; Technology Department (ACT) consists of four subjects – Art, Design &amp; Technology (D&amp;T), Food &amp; Consumer Education (FCE) and Music. We are committed to equip students with critical and inventive thinking skills through our academic and non-academic programmes. This is to enable them to be confident individuals who have the drive to excel.
 
 **Subject Offerings**
