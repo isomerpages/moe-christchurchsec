@@ -6,11 +6,11 @@ third_nav_title: Academic Programmes
 ---
 ![](/images/mtlheader.jpeg)
 
-###### Introduction
+#  Introduction
 
 The Mother Tongue Languages (MTL) Department aims to nurture our students to become confident and proficient users in their respective Mother Tongue languages. Through various authentic learning platforms, students can use their MTL beyond the classroom and learn to appreciate their culture and heritage.
 
-###### Subject Offerings
+**Subject Offerings**
 
 | Subject| G3 | G2 | G1 |
 | -------- | -------- | -------- | ------ |
@@ -20,7 +20,7 @@ The Mother Tongue Languages (MTL) Department aims to nurture our students to bec
 | Higher Chinese Language   | ✓     |      | |
 
 
-###### Key Programmes
+**Key Programmes**
 
 **Mother Tongue Languages Fortnight programme**
 
@@ -38,7 +38,7 @@ The Conversational Chinese and Malay (CCM) is an MOE-initiated programme which a
 
 The MTL department aims to promote MTL usage and learning outside the classrooms by encouraging our students to participate in external competitions and seminars. Through these competitions, students can gain greater exposure and challenge themselves. With the guidance of our MTL teachers, our students have performed well in these competitions.
 
-###### Achievements
+**Achievements**
 
 **2022**
 - CL: Create Your Own Newspaper Challenge 2022 <br>- 3rd and Commendation prize<br>
