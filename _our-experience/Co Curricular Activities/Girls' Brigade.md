@@ -6,13 +6,15 @@ third_nav_title: Co Curricular Activities
 ---
 ![](/images/CCA/GB.jpg)
 
-###### Introduction
+**Introduction**
+
 The Girls’ Brigade (GB) 18th Singapore Company in Christ Church Secondary School is a Christian-based CCA formed in 1984 with the support of Light of Christ Church Woodlands (sponsoring church). 
 
 The 18th Company aims to mould and transform Girls to grow and go beyond their potential to lead and serve others with confidence, and will continue to guide and empower future generations of Girls to carry on this mission. 
 
 
-###### Programme Overview
+**Programme Overview**
+
 Through our 4-year Senior Programme, our Girls are engaged in 4 different components that aim to develop them as God-fearing, resilient individuals and servant leaders of their communities.
 
 <u>Made for Adventure</u><br>
@@ -30,7 +32,8 @@ The Made for Future component develops courage and patience in girls as they lea
 In addition, drill is a part of the GB curriculum. It instils discipline, a habit of precision, unity and respect. The Girls apply what they learn in drill when they participate in national drill competitions, National Day parades and awards ceremonies.
 
 
-###### Achievements
+**Achievements**
+
 **2021** <br>
 - The Girls’ Brigade Company Awards (Gold)
 - Dr Low Guat Tin Challenge (Silver)
@@ -43,7 +46,7 @@ In addition, drill is a part of the GB curriculum. It instils discipline, a habi
 **2023**
 - The Girls’ Brigade Drill Competition (Gold)
 
-###### Training Days &amp; Time
+**Training Days &amp; Time**
 
 | Day| Time | 
 | -------- | -------- | 
