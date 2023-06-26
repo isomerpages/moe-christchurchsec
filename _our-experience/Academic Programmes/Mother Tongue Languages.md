@@ -6,7 +6,7 @@ third_nav_title: Academic Programmes
 ---
 ![](/images/mtlheader.jpeg)
 
-#  Introduction
+**Introduction**
 
 The Mother Tongue Languages (MTL) Department aims to nurture our students to become confident and proficient users in their respective Mother Tongue languages. Through various authentic learning platforms, students can use their MTL beyond the classroom and learn to appreciate their culture and heritage.
 
