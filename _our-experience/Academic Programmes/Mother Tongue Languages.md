@@ -42,6 +42,11 @@ The MTL department aims to promote MTL usage and learning outside the classrooms
 
 **2022**
 
-- CL: Create Your Own Newspaper Challenge 2022 <br>- 3rd and Commendation prize<br>
--  ML: National Writing Competition 2022 <br>- Top 10 Finalist<br>
--  TL: Tamil Comic Writing Competition 2022 <br>- 3rd prize<br>
+* **CL: Create Your Own Newspaper Challenge 2022**<br>
+			- 3rd and Commendation prize<br>
+
+* **ML: National Writing Competition 2022**<br>
+			- Top 10 Finalist<br>
+
+* **TL: Tamil Comic Writing Competition 2022**<br>
+			- 3rd prize<br>
