@@ -6,77 +6,42 @@ third_nav_title: Academic Programmes
 ---
 ![](/images/mtlheader.jpeg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-</style>
+###### Introduction
 
-**Vision:**&nbsp;Nurturing Active Learners and Proficient Users of their Mother Tongue Languages.  
+The Mother Tongue Languages (MTL) Department aims to nurture our students to become confident and proficient users in their respective Mother Tongue languages. Through various authentic learning platforms, students can use their MTL beyond the classroom and learn to appreciate their culture and heritage.
 
-**About the Department:**
+###### Subject Offerings
 
-The Mother Tongue Languages (MTL) Department offers Chinese Language, Higher Chinese Language, Malay Language and Tamil Language for studies.
-
-In Christ Church Secondary, learning MTL is beyond textbook knowledge and the four walls of a classroom.&nbsp; We integrate experiential programmes into the MTL curriculum to make MTL a living language.&nbsp; A structured 4-year plan is drawn up with specific focus on developing students’ language skills through innovative and fun-filled activities.
-
-**Objectives**
-
-a) Develop students effectively in 4 language skills, namely Aural-oral, Reading, Writing and Thinking Skills through structured MTL teaching.
-
-b) Inculcate appreciation of the Languages and Cultures through enjoyable experiential learning.
-
-c) Cultivate self-directed and active learning of MTL through ICT-infused Teaching and Learning.
-
-**Programmes Highlights**&nbsp;
-
-**Sec 1: Drama in Education Programme and&nbsp;Conversational Chinese/Malay (CCM)**
-
-<img src="/images/MTL1.png" style="width:65%">
-
-<img src="/images/MTL2.jpeg" style="width:65%">
-
-<img src="/images/MTL3.jpeg" style="width:65%">
-		 
-		 
-**Sec 2: Experiential Learning through Music**
-
-<img src="/images/MTL7.jpeg" style="width:65%">
-
-<img src="/images/MTL8.jpeg" style="width:65%">
-		 
-<img src="/images/MTL6.jpeg" style="width:65%">
-		 
-		 
-**Sec 3: MTL Cultural Appreciation Programme**
-
-<img src="/images/mtl9.png" style="width:65%">
-		 
-<img src="/images/mtl10.png" style="width:65%">
-		 
-		 
-**Sec 4&amp;5: Structured Intensive Learning Programme**  
-  
-**Others:**  
-
-*   Festival Celebration
-*   Reading Programme
-*   Stretch Programme
-*   PSG Talk
+| Subject| G3 | G2 | G1 |
+| -------- | -------- | -------- | ------ |
+| Chinese Language   | ✓     | ✓     | ✓|
+| Malay Language   | ✓     | ✓     | ✓|
+| Tamil Language   | ✓     | ✓     | ✓|
+| Higher Chinese Language   | ✓     |      | |
 
 
-<img src="/images/MTL12.jpeg" style="width:65%">
-		 
-<img src="/images/MTL15.jpeg" style="width:65%">
-		 
-		 
-<img src="/images/MTL16.jpeg" style="width:65%">
-		 
-<img src="/images/MTL18.jpeg" style="width:45%">
-		 
-		 
-<img src="/images/MTL14.jpeg" style="width:65%">
+###### Key Programmes
+
+**Mother Tongue Languages Fortnight programme**
+
+The Mother Tongue Fortnight programme aims to provide platforms for students to actively learn MTL and the associated culture to experience MTL as 'a living language'. The students get to speak their MTL and better understand their heritage and culture through a wide range of cultural activities organised, such as Chinese Fan painting, Batik Painting, and playing traditional musical instruments.
+
+**Festive Celebrations**
+
+To share the joy of cultural festivities among students from different backgrounds, the MTL department organises Chinese New Year, Hari Raya, Tamil New Year and Deepavali celebrations annually. Through these celebrations, students learn more about the different cultures, traditions and practices and join in the celebrations with their peers and teachers.
+
+**Conversational Chinese &amp; Malay**
+
+The Conversational Chinese and Malay (CCM) is an MOE-initiated programme which aims to strengthen Singapore’s multi-racial compact and enables students to learn functional Chinese or Malay Language to engage their counterparts in the region. Students learn to communicate based on daily life situations by listening and speaking in the language. They also gain a better understanding of Chinese or Malay culture.
+
+**Stretch Programmes** 
+
+The MTL department aims to promote MTL usage and learning outside the classrooms by encouraging our students to participate in external competitions and seminars. Through these competitions, students can gain greater exposure and challenge themselves. With the guidance of our MTL teachers, our students have performed well in these competitions.
+
+###### Achievements
+
+**2022**
+- CL: Create Your Own Newspaper Challenge 2022 <br>- 3rd and Commendation prize<br>
+- ML: National Writing Competition 2022 <br>- Top 10 Finalist<br>
+- TL: Tamil Comic Writing Competition 2022 <br>- 3rd prize<br>
+
