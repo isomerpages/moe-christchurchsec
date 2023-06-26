@@ -4,7 +4,8 @@ permalink: /our-curriculum/Academic/humanities/
 description: ""
 third_nav_title: Academic Programmes
 ---
-#  Introduction
+**Introduction**
+
 The Humanities department in Christ Church Secondary School is dedicated to providing a learner-centred approach that empowers students to be active and thoughtful learners. The department recognises the importance of inspiring students to become global citizens who contribute positively to society and the environment. To achieve this goal, the department utilises authentic experiences to enable students to acquire the necessary skills, knowledge, and values from the study of the Humanities.
 
 **Subject Offerings**
