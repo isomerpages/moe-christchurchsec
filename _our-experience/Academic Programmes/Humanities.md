@@ -19,6 +19,7 @@ The Humanities department in Christ Church Secondary School is dedicated to prov
 | History   | ✓     | ✓     | |
 | Social Studies   |      |      | ✓|
 
+
 **Upper Secondary**
 | Subject| G3 | G2 | G1 |
 | -------- | -------- | -------- | ------ |
