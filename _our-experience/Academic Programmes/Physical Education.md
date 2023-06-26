@@ -4,7 +4,7 @@ permalink: /our-experience/academic-programmes/permalink/
 description: ""
 third_nav_title: Academic Programmes
 ---
-#  Introduction
+**Introduction**
 
 The Physical Education (PE) Department is committed to promoting the national vision of having physically competent individuals who are active in their daily lives. To achieve this goal, the PE programme is designed to instil resilience and a lifelong passion for physical activity in our students. By participating in our PE programme, our students can enjoy improved physical and mental well-being, develop sportsmanship and teamwork, and cultivate a lifelong passion for physical activity.
 
