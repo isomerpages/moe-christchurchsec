@@ -4,13 +4,13 @@ permalink: /our-curriculum/Academic/science/
 description: ""
 third_nav_title: Academic Programmes
 ---
-###### Introduction
+# Introduction
 The Science Department in Christ Church Secondary School is anchored on the foundation of inquiry-based learning, where students are encouraged to question, investigate, and analyse the world around them. Our curricular goals are as follows:
 
 * To enthuse and nurture all students to be scientifically literate,
 * To provide strong science fundamentals for students to innovate and pursue STEM for future learning and work.
 
-###### Subject Offerings
+**Subject Offerings**
 
 **Lower Secondary**
 
@@ -30,7 +30,7 @@ The Science Department in Christ Church Secondary School is anchored on the foun
 | Science   |      |      | ✓|
 
 
-###### Key Programmes
+**Key Programmes**
 Our Experiential Learning Programme (ELP) aims to expose students to authentic applications of Science in meaningful aspects of their lives. In developing skill sets in the Ways of Thinking and Doing in Science, students also get instilled with the joy of learning and the spirit of active learning so that they better appreciate the ubiquitous nature of Science.
 
 Our Secondary One students have the opportunity to visit the Science Centre in a programme where they discover how industries use the disciplines in Science, Technology, Engineering and Mathematics (STEM) and problem solving processes to develop solutions for everyday issues. ‘Marvel in Science’ provides our Secondary Two students the platform to debunk certain scientific myths that are found in their everyday lives and in popular culture. In this game-based programme, students will learn and apply Science to various scenarios in today’s popular culture and build foundational skills critically to discern fact from fiction.
@@ -42,7 +42,7 @@ The annual International Elementz Fair, organised by Anderson Serangoon Junior C
 
 The IgnITE Skills Challenge is an annual competition that introduces technical skills and showcases a deeper understanding of courses offered by the Institutes of Technical Education (ITEs). Challenges are designed to be engaging and fun to make learning enjoyable and memorable. Students also learn new skills and gain insights into future career choices through workshops that are organised in collaborative and competitive settings.
 
-###### Achievements
+**Achievements**
 **2022**
 * **18th International Elementz Fair**<br>
 			- 2 Silver<br>
