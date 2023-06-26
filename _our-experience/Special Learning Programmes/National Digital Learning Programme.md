@@ -40,10 +40,3 @@ We strongly recommend parents to spend some time to establish norms and routines
     
 More information and ideas can be found in the attached **Parent Handbooks I &amp; II**.
 
-## Other Resources
-
-| Resource                                        | Attachment                                                                                    |
-| ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 1\. Parent Handbook (I) on Learning with a PLD  | [Click Here](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)  |
-| 2\. Parent Handbook (II) on Learning with a PLD | [Click Here](/files/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf) |
-| 3\. DMA Settings After School Hours&nbsp;            | [Click Here](/files/Annex%20A%20-%20DMA%20Settings%20After%20School%20Hours.pdf)&nbsp;             |
