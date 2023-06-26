@@ -4,7 +4,8 @@ permalink: /our-curriculum/Academic/science/
 description: ""
 third_nav_title: Academic Programmes
 ---
-# Introduction
+**Introduction**
+
 The Science Department in Christ Church Secondary School is anchored on the foundation of inquiry-based learning, where students are encouraged to question, investigate, and analyse the world around them. Our curricular goals are as follows:
 
 * To enthuse and nurture all students to be scientifically literate,
