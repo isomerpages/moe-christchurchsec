@@ -4,7 +4,7 @@ permalink: /our-curriculum/Academic/english/
 description: ""
 third_nav_title: Academic Programmes
 ---
-# Introduction
+**Introduction**
 
 The English Language (EL) and Literature Department aims to develop students to be confident and effective users of the English Language. Our curricular goals are as follows: 
 
