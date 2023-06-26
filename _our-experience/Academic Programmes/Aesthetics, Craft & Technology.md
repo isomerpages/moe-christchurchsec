@@ -6,112 +6,46 @@ third_nav_title: Academic Programmes
 ---
 ![](/images/artheader.jpeg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-</style>
+###### Introduction
+The Aesthetics, Craft &amp; Technology Department (ACT) consists of four subjects – Art, Design &amp; Technology (D&amp;T), Food &amp; Consumer Education (FCE) and Music. We are committed to equip students with critical and inventive thinking skills through our academic and non-academic programmes. This is to enable them to be confident individuals who have the drive to excel.
 
-Aesthetics, Craft &amp; Technology Department (ACT) consists of 4 subjects – Art, Design &amp; Technology, Food &amp; Nutrition and Music. The department was formed in 2002 when we shifted to Woodlands. We called the members in the department as ACTors and ACTresses. The department has a team of young in the service and energetic teachers. We have attained value-added result for D&amp;T and Art in GCE ‘O’ level examinations.  
-  
+###### Subject Offerings
 
-**Our Programme**  
-  
-**Art**  
-**Lower Secondary**&nbsp;&nbsp;
+Lower Secondary
 
-1.  Foundation Skills Development  
-    \- Elements of Art  
-    \- Principle of Design
-2.  Introduction to Art forms, Eg. Pop Art
-3.  Introduction to Basic Art History.
+| Subject| G3 | G2 | G1 |
+| -------- | -------- | -------- | ------ |
+| Art#  |      | ✓     | |
+| Food &amp; Consumer Education#  |      | ✓     | |
+| Music#  |      | ✓     | |
+| Design &amp; Technology#  |      | ✓     | |
 
-**Upper Secondary**
+#Students will take this subject at a common level in their mixed form classes
 
-1.  Art / Design Thinking
-2.  Ideas Development &amp; Execution
-3.  Introduction to Modern Art History
+Upper Secondary
 
-**Design &amp; Technology**
-**Lower Secondary**
+| Subject| G3 | G2 | G1 |
+| -------- | -------- | -------- | ------ |
+| Art  |   ✓   | ✓ | |
+| Design &amp; Technology  | ✓ |    | ✓|
+| Nutrition &amp; Food Science  |   ✓   |      | |
 
-1.  Introduction to Design Thinking
-2.  Project-based Learning  
-    \- Acrylic Design  
-    \- Toothbrush Holder  
-    \- Jelutong Massager  
-    \- Ez-link card holder  
-    \- Membrane Switch Cord
+###### Key Programmes
+Our academic progammes involve many hands-on sessions such as cooking in the FCE kitchen, working with tools in the D&amp;T workshop, art-making in the Art studio and performing in the music room.
 
-**Upper Secondary**
+Besides our academic programme from the subjects offered, we also have non-academic programmes, namely the Arts Education Programme. There are three segments in the Arts Education Programme (AEP) -  Exposure, Experience and Excursion. 
 
-1.  Understanding of Design
-2.  Skill-based training
-3.  Design Experience
+###### Achievements
+**2023**
+* **D&amp;T Award**<br>
+			- 2 Creative Adaptation Awards<br>
+			- 1 Creative Aesthetics Award<br>
+			- 1 Creative Innovation Award<br>
 
-**Food &amp; Nutritions**   
-**Lower Secondary**
-
-1.  To develop students' knowledge in the area of healthy eating and importance of maintaining a balanced diet.
-2.  How to plan balanced and healthy meals for people of different age groups through the use of nutritional tools and healthy cooking methods.
-3.  To create students' awareness in the area of Consumer Studies and to know their rights and responsibilities as consumers.
-
-**Upper Secondary**
-
-1.  To deepen students' knowledge in the area of Food and Nutrition, focusing on the functions of nutrients and meal planning.
-2.  To understand the concepts of food science through exploration and experimentation.
-3.  To develop critical thinking and analysis skills through the coursework curriculum.
-
-**Music**
-
-**General Music Programme (GMP)**
-
-Our General Music Programme (GMP) aims to develop the following music skills in our students:
-
-1.  Sing and play melodic and rhythmic instruments individually and in groups.
-2.  Create and improvise music
-3.  Describe and evaluate music through listening
-4.  Develop understanding of music elements / concepts
-5.  Discern and understand music from various cultures and of various genres
-6.  Understand the role of music in daily living
-
-**Lower Secondary**
-
-Secondary 1: Foundation of Music
-
-Areas of Music covered in Secondary 1:
-
-*   What is music?
-*   Music Elements (Melody, Rhythm, Tempo, Structure, Timbre, Texture and Dynamics)
-*   Rhythmic Notation
-*   Music Concepts
-*   Playing of Percussion Instruments
-*   Making music with everyday items / equipments to make music
-
-Secondary 2: Basic Keyboard and Basic Guitar Programme
-
-Areas of Music covered in Secondary 2:
-
-*   Pop Music Influence: various historical influence, artistes, bands, genre &amp; style
-*   Theory concepts
-*   Anatomy of the Keyboard / Guitar
-*   Function of instrument parts
-*   5 basic chords (C, G, F, Am, Em)
-*   Simple playing styles
-*   Sing and play simple pop songs
+**2022**
+* **SYF Art Exhibition - Certificate of Recognition**<br>
+* **D&amp;T Award**<br>
+			- 2 Creative Adaptation Awards<br>
+			- 1 Creative Innovation Award<br>
 
 
-<center><em>Keyboard Course - Students at work</em></center>
-
-<img src="/images/picture1.png" style="width:65%">
-
-
-<center><em>Guitar Course - Students at work</em></center>
-
-<img src="/images/picture2.png" style="width:65%">
