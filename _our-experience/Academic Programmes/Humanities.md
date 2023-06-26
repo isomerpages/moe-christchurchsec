@@ -13,6 +13,7 @@ The Humanities department in Christ Church Secondary School is dedicated to prov
 * Social Studies
 
 **Lower Secondary**
+
 | Subject| G3 | G2 | G1 |
 | -------- | -------- | -------- | ------ |
 | Geography   | ✓     | ✓     | |
@@ -21,6 +22,7 @@ The Humanities department in Christ Church Secondary School is dedicated to prov
 
 
 **Upper Secondary**
+
 | Subject| G3 | G2 | G1 |
 | -------- | -------- | -------- | ------ |
 | Geography   | ✓     | ✓     | |
