@@ -26,8 +26,15 @@ LLP in CHR is designed to ensure CHRians
 
 Throughout the 4 years, your child will participate in the following outdoor activities:
 
-###### Camps : <br>
-*  Sec 1 Resilience Camp<br>
-*  Sec 2 Resilience Camp<br>
-*  Sec 3 MOE-OBS Challenge Programme<br>
-*  Sec 4 Overseas Immersion Trip<br>
+###### Camps :
+*  Sec 1 Resilience Camp
+*  Sec 2 Resilience Camp
+*  Sec 3 MOE-OBS Challenge Programme
+*  Sec 4 Overseas Immersion Trip
+
+###### Programmes : 
+* CHR High Elements
+* Kayaking Orientation Programme (KOP)
+* DARE Programme
+* Singapore Mountaineering Federation Certification
+* SwimSafer 2.0
