@@ -2,10 +2,8 @@ logo: /images/school title v3.png
 links:
   - title: Our School
     collection: our-school
-  - title: Our Family
-    collection: our-family
-  - title: CHR Experience
-    collection: chr-experience
+  - title: Our Experience
+    collection: our-experience
   - title: Admissions
     collection: admissions
   - title: Contact Us

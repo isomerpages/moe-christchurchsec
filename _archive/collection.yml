@@ -2,6 +2,16 @@ collections:
   archive:
     output: true
     order:
+      - FSBB @ CHR.md
+      - Achievements/Others.md
+      - Achievements/School Awards.md
+      - Achievements/Clubs & Societies.md
+      - Achievements/Performing Arts.md
+      - Achievements/Sports.md
+      - Achievements/Uniformed Groups.md
+      - Achievements/.keep
+      - CHR AOP Education.md
+      - Forms.md
       - Outdoor Education.md
       - CHR Pride.md
       - Academic Outcomes.md

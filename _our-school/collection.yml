@@ -2,9 +2,15 @@ collections:
   our-school:
     output: true
     order:
+      - Principal's Message.md
+      - Our Family/.keep
+      - Our Family/Our Key Personnel.md
+      - Our Family/Our Form Teachers.md
+      - Our Family/School Management Committee.md
+      - Our Family/School Chaplaincy Team.md
+      - Our Family/CHR Alumni.md
       - Our History.md
       - Our Vision, Mission & Values.md
-      - Our Motto & Crest.md
-      - Our School Song.md
-      - Forms.md
+      - Our Motto, Crest & School Song.md
+      - Virtual School Tour.md
       - Non Financial Information.md
