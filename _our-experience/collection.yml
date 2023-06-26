@@ -4,7 +4,6 @@ collections:
     order:
       - CHRian Attributes.md
       - Our 4plus1 Curriculum.md
-      - Academic Programmes/Mother Tongue Languages.md
       - Academic Programmes/.keep
       - Academic Programmes/English.md
       - Academic Programmes/Mathematics.md
@@ -13,6 +12,7 @@ collections:
       - Academic Programmes/Aesthetics, Craft & Technology.md
       - Academic Programmes/Physical Education.md
       - Academic Programmes/Mother Tongue.md
+      - Academic Programmes/Mother Tongue Languages.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/The Boys' Brigade.md
       - Co Curricular Activities/Girls' Brigade.md
