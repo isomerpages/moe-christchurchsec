@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 ---
 ![](/images/CCA/FOOTBALL.jpg)
 
-** Introduction**
+**Introduction**
 
 In line with CHR school values of Courage and Compassion, the members of CHR Football will learn about sportsmanship, teamwork and demonstrate graciousness in victory and defeat. CHR Football aims to develop its players in self-confidence and equip them with leadership skills so that they can become a positive influence to others.
 
