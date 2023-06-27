@@ -38,4 +38,4 @@ Our NE programmes on commemorative events such as Total Defence Day, Internation
 
 **5. Values in Action**
 
-The VIA programmes are designed for CHRians to increase their awareness of community issues in order to advocate for such issues and collaborate to take action to positively impact their community. 
+The VIA programmes are designed for CHRians to increase their awareness of community issues in order to advocate for such issues and collaborate to take action to positively impact their community.
