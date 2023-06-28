@@ -4,12 +4,14 @@ permalink: /chr-experience/Co-Curricular-Activities/Outdoor-Adventure-Club/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-###### Introduction
+**Introduction**
+
 The Outdoor Adventure Club (OAC) aims to develop every member into a resilient and confident leader using outdoor activities as the main platform. In alignment with the school’s values (Courage, Compassion and Curiosity), members are often put in situations that test their limits and comfort zones. They take **Courage** when faced with adversities, show **Compassion** to each other and demonstrate **Curiosity** to seek solutions to the challenges they face. 
 
 We also provide opportunities for every OAC member to take ownership of their learning, strive for excellence, be better leaders and an inspiration to others in and out of the CCA.
 
-###### Programme Overview
+**Programme Overview**
+
 During their 4 years in OAC, members will
 - build physical and mental strength through various land and water activities
 - pick up various skills and knowledge through relevant certifications so that they can safely and confidently take on the outdoor activities
@@ -17,12 +19,14 @@ During their 4 years in OAC, members will
 
 Members are also trained to be facilitators of outdoor activities and situational games. This develops their leadership skills, increases their situational awareness and teaches them to work as a team.
 
-###### Achievements
+**Achievements**
+
 **2022**
 - GARanG Race (Girls Category - 2nd Place)
 - GARanG Race (Boys Category - 1st Place)
 
-###### Training Days &amp; Time
+**Training Days &amp; Time**
+
 **All Members:**
 | Day| Time | 
 | -------- | -------- | 

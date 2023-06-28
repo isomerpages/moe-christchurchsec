@@ -6,13 +6,15 @@ third_nav_title: Co Curricular Activities
 ---
 ![](/images/CCA/NCDCC.jpg)
 
-###### Introduction
+**Introduction**
+
 National Civil Defence Cadet Corps (NCDCC) was introduced to Christ Church Secondary School in 2010. Aligned with NCDCC’s motto of “We Learn, We Lead, We Serve”, the school’s NCDCC program develops our cadets to be:
 - **Active Learners** - motivating cadets to acquire new knowledge and skills
 - **Thoughtful Contributors** - shaping cadets into compassionate and empathetic individuals by fostering a strong sense of community
 - **Have the Drive to Excel** - provide cadets with opportunities to lead, communicate and problem solve.
 
-###### Programme Overview
+** Programme Overview**
+
 Through a combination of classroom-based instruction and practical activities, cadets are exposed to a wide range of topics related to emergency preparedness and management, such as simulated fire-fighting scenarios, life-saving first aid techniques and emergency preparedness. 
 
 In addition, cadets take part in various service projects so as to develop them into socially responsible citizens who are willing to contribute to the community.
@@ -26,7 +28,8 @@ Some of the key programs are:
 
 - **Non-Commissioned Officer (NCO) camp**: The NCO camp provides opportunities for cadets to pick up leadership, management, and technical skills, in preparation for increased responsibilities and higher ranks within the NCDCC.
 
-###### Achievements
+**Achievements**
+
 **2021** <br>
 - Unit Overall Proficiency Award (Distinction)
 - SCDF-NCDCC Pinnacle Badge - Mohammad Shafir Bin Ilyas &amp; Amos Naivaqamu
@@ -39,13 +42,16 @@ Some of the key programs are:
 **2023**
 - SCDF-NCDCC Pinnacle Badge - Amirah Natania Binti Mohamad Nazif
 
-###### Training Days &amp; Time
+**Training Days &amp; Time**
+
 **All Cadets:**
+
 | Day| Time | 
 | -------- | -------- | 
 | Friday (CCA Day) | 0800 - 1115 |
 
 **Selected Cadets:**
+
 | Day| Time | 
 | -------- | -------- | 
 | Thursday | 1500 - 1800 |
