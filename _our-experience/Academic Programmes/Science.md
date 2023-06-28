@@ -11,7 +11,9 @@ The Science Department in Christ Church Secondary School is anchored on the foun
 * To enthuse and nurture all students to be scientifically literate,
 * To provide strong science fundamentals for students to innovate and pursue STEM for future learning and work.
 
-**Subject Offerings**
+
+###### Subject Offerings
+
 
 **Lower Secondary**
 
