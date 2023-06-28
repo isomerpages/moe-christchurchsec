@@ -30,7 +30,7 @@ The Humanities department in Christ Church Secondary School is dedicated to prov
 | History   | ✓     | ✓     | |
 | Social Studies   | ✓     |  ✓    | ✓|
 
-** Key Programmes**
+**Key Programmes**
 
 The department's approach centres on 21st Century Competencies, where students are equipped with critical and analytical skills that are nurtured through inquiry-based learning strategies. The department's pedagogies foster self-directed learners who are curious and passionate about the Humanities. Students learn through various experiential learning methods, such as Class-based Inquiry, Learning Journeys as well as Historical and Geographical Investigations. The department also leverages technology to bring the world into the classroom, thus enhancing students' learning experiences.<br>
 
