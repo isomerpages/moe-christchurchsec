@@ -28,11 +28,13 @@ Members are also trained to be facilitators of outdoor activities and situationa
 **Training Days &amp; Time**
 
 **All Members:**
+
 | Day| Time | 
 | -------- | -------- | 
 | Friday (CCA Day) | 0800 - 1115 |
 
 **Selected Members:**
+
 | Day| Time | 
 | -------- | -------- | 
 | Monday / Tuesday / Wednesday | 0800 - 1115 |
