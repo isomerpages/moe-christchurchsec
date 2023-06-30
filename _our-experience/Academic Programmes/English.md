@@ -43,9 +43,12 @@ In Intensive Reading, Lower Secondary students read resources aligned to the the
 <p></p><center>
 
 ![](/images/Our%20Experience/Academic%20Programmes/English/english2.jpeg)
+	
 *Secondary 2 students presenting for ‘CHR Read’*
 	
-![](/images/Our%20Experience/Academic%20Programmes/English/english4.jpeg)	*Students visit the LibroHub and complete reviews of an article or book which interests them*.
+![](/images/Our%20Experience/Academic%20Programmes/English/english4.jpeg)	
+	
+*Students visit the LibroHub and complete reviews of an article or book which interests them*.
 
 </center><p></p>
 
@@ -56,6 +59,7 @@ As part of the department’s effort to build students’ confidence in public s
 <p></p><center>
 
 ![](/images/Our%20Experience/Academic%20Programmes/English/english1.jpeg)
+
 *Secondary 1 participants for CHR Speakers*
 
 <p></p></center>
@@ -68,6 +72,7 @@ Debate and discussion are done as part of the EL curriculum in the Upper Seconda
 <p></p><center>
 
 ![](/images/Our%20Experience/Academic%20Programmes/English/english3.jpg)
+
 *Secondary 3 students taking part in the intra-class debate*
 	
 <p></p></center>
