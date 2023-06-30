@@ -16,6 +16,7 @@ The school's history dates to 1952 when it was registered as a private school ru
 In December 2001, a new campus in Woodlands was designated for the relocation of the school. It was officially opened by Mr S. Dhanabalan, the then-Minister for National Development. CHR continues to refine its curriculum to develop confident and well-rounded students who are prepared to face the challenges of an ever-changing society, in service to the nation. Today, CHR has a student population of over 1,100 and a teaching staff of over 80.
 <br>
 ##### Milestones in History
+
 | Year| Event |
 | -------- | -------- |
 | 1952  | Founded as Christ Church School, a private educational institute at Dorset Road within the Christ Church Parish. |
@@ -35,6 +36,7 @@ In December 2001, a new campus in Woodlands was designated for the relocation of
 | 2015 | Commencement of Health Science and Technology Applied Learning Programme (ALP)|
 
 ##### Principals
+
 | Year| Our Principals |
 | -------- | -------- |
 | 1953 to 1972   | Revd Canon Samuel Baboo |
@@ -51,6 +53,7 @@ In December 2001, a new campus in Woodlands was designated for the relocation of
 | 2022 to date  | Mr Adrian Tay Juncheng| 
 
 ##### School Management Committee Chairman
+
 | Year| Chairman |
 | -------- | -------- |
 | 1973 to 1974   | Mr S E Jesudason |
@@ -63,6 +66,7 @@ In December 2001, a new campus in Woodlands was designated for the relocation of
 | 2022 to date  | Mr Valleteau De Moulliac <br> Francois Marie Joseph Dominique| 
 
 ##### Chaplains
+
 | Year| Our Chaplains |
 | -------- | -------- |
 | 1952 to 1972   | Revd Canon Samuel Baboo |

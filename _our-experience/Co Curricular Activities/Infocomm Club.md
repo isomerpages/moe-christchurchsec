@@ -24,6 +24,8 @@ Members also participate in competitions at national level based on their respec
 
 In addition, selected student leaders have the opportunity to participate in the Infocomm Media Club Student Leadership Conference and workshops to hone their leadership skills. 
 
+Visit Us at https://instagram.com/chr_icc
+
 **Achievements**
 
 **2022**
