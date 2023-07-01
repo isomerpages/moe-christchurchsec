@@ -44,7 +44,7 @@ In Intensive Reading, Lower Secondary students read resources aligned to the the
 
 <p></p><center>
 	
-*Secondary 2 students presenting for ‘CHR Read’*
+<i>Secondary 2 students presenting for ‘CHR Read’ </i>
 	
 </center><p></p>
 	
@@ -52,7 +52,7 @@ In Intensive Reading, Lower Secondary students read resources aligned to the the
 
 <center>
 
-*Students visit the LibroHub and complete reviews of an article or book which interests them*.
+<i>Students visit the LibroHub and complete reviews of an article or book which interests them </i>
 
 </center>
 
