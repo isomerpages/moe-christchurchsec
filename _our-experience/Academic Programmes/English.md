@@ -64,7 +64,7 @@ As part of the department’s effort to build students’ confidence in public s
 
 <p></p><center>
 	
-*Secondary 1 participants for CHR Speakers*
+<i>Secondary 1 participants for CHR Speakers </i>
 
 <p></p></center>
 
@@ -79,7 +79,7 @@ Debate and discussion are done as part of the EL curriculum in the Upper Seconda
 
 <p></p><center>
 	
-*Secondary 3 students taking part in the intra-class debate*
+<i>Secondary 3 students taking part in the intra-class debate*</i>
 	
 <p></p></center>
 
