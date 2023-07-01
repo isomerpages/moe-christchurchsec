@@ -40,27 +40,35 @@ In Extensive Reading, our students are exposed to a wide range of EL literature 
 
 In Intensive Reading, Lower Secondary students read resources aligned to the themes for the respective levels during the blended learning days. Some themes covered include Festivals &amp; Cultures, Food &amp; The Heart, Family, Friendship and The Roles We Play in Society. In addition, our Secondary 2 students are given opportunities to share their thoughts on issues that matter to them during morning assemblies as part of the ‘CHR Read’ effort. 
 
-<p></p><center>
-
 ![](/images/Our%20Experience/Academic%20Programmes/English/english2.jpeg)
+
+
+<center><i>Secondary 2 students presenting for ‘CHR Read’ </i></center>
+	
+![](/images/Our%20Experience/Academic%20Programmes/English/english4.jpeg)	
+
+<center>
+=======
 	
 *Secondary 2 students presenting for ‘CHR Read’*
 	
 ![](/images/Our%20Experience/Academic%20Programmes/English/english4.jpeg)	
-	
-*Students visit the LibroHub and complete reviews of an article or book which interests them*.
 
-</center><p></p>
+
+<i>Students visit the LibroHub and complete reviews of an article or book which interests them </i>
+
+</center>
 
 **2. Public Speaking Programmes – S1 CHR Speakers &amp; S2 Storytelling**
 
 As part of the department’s effort to build students’ confidence in public speaking and their ability to think on their feet, the Lower Secondary students are involved in the above programmes. ‘CHR Speakers’ gives the Secondary 1 students an opportunity to present their recount of an authentic experience in an engaging manner. ‘CHR Storytelling’ aims to equip our Secondary 2 students with the basic storytelling techniques through personal stories with accompanying photographs. 
 	
-<p></p><center>
-
 ![](/images/Our%20Experience/Academic%20Programmes/English/english1.jpeg)
 
-*Secondary 1 participants for CHR Speakers*
+
+<p></p><center>
+	
+<i>Secondary 1 participants for CHR Speakers </i>
 
 <p></p></center>
 
@@ -69,11 +77,13 @@ As part of the department’s effort to build students’ confidence in public s
 
 Debate and discussion are done as part of the EL curriculum in the Upper Secondary to extend students’ exposure to contemporary and controversial issues. Students are put through a process of preparation, in which they do their research and determine the credibility of the sources, before they present their arguments with justification and evidence in a persuasive and respectful manner. In the process, students are taught to practise active listening, an important skill, so that they can raise meaningful points of interest during the debate session or class discussion.
 
-<p></p><center>
+
 
 ![](/images/Our%20Experience/Academic%20Programmes/English/english3.jpg)
 
-*Secondary 3 students taking part in the intra-class debate*
+<p></p><center>
+	
+<i>Secondary 3 students taking part in the intra-class debate*</i>
 	
 <p></p></center>
 
