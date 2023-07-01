@@ -40,17 +40,21 @@ In Extensive Reading, our students are exposed to a wide range of EL literature 
 
 In Intensive Reading, Lower Secondary students read resources aligned to the themes for the respective levels during the blended learning days. Some themes covered include Festivals &amp; Cultures, Food &amp; The Heart, Family, Friendship and The Roles We Play in Society. In addition, our Secondary 2 students are given opportunities to share their thoughts on issues that matter to them during morning assemblies as part of the ‘CHR Read’ effort. 
 
-<p></p><center>
-
 ![](/images/Our%20Experience/Academic%20Programmes/English/english2.jpeg)
+
+<p></p><center>
 	
 *Secondary 2 students presenting for ‘CHR Read’*
 	
-![](/images/Our%20Experience/Academic%20Programmes/English/english4.jpeg)	
+</center><p></p>
 	
+![](/images/Our%20Experience/Academic%20Programmes/English/english4.jpeg)	
+
+<center>
+
 *Students visit the LibroHub and complete reviews of an article or book which interests them*.
 
-</center><p></p>
+</center>
 
 **2. Public Speaking Programmes – S1 CHR Speakers &amp; S2 Storytelling**
 
