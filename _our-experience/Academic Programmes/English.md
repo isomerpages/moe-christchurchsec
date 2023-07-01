@@ -47,16 +47,14 @@ In Intensive Reading, Lower Secondary students read resources aligned to the the
 	
 ![](/images/Our%20Experience/Academic%20Programmes/English/english4.jpeg)	
 
-<center>
-=======
-	
-*Secondary 2 students presenting for ‘CHR Read’*
+<center><i>*Secondary 2 students presenting for ‘CHR Read’*</i></center>
 	
 ![](/images/Our%20Experience/Academic%20Programmes/English/english4.jpeg)	
 
-
+<center>
+	
 <i>Students visit the LibroHub and complete reviews of an article or book which interests them </i>
-
+	
 </center>
 
 **2. Public Speaking Programmes – S1 CHR Speakers &amp; S2 Storytelling**
