@@ -42,6 +42,9 @@ In Intensive Reading, Lower Secondary students read resources aligned to the the
 
 ![](/images/Our%20Experience/Academic%20Programmes/English/english2.jpeg)
 
+<img style="width: 70%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english2.jpeg">
+
+
 
 <center><i>Secondary 2 students presenting for ‘CHR Read’ </i></center>
 	
