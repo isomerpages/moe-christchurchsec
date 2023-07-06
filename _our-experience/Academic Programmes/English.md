@@ -52,7 +52,7 @@ In Intensive Reading, Lower Secondary students read resources aligned to the the
 As part of the department’s effort to build students’ confidence in public speaking and their ability to think on their feet, the Lower Secondary students are involved in the above programmes. ‘CHR Speakers’ gives the Secondary 1 students an opportunity to present their recount of an authentic experience in an engaging manner. ‘CHR Storytelling’ aims to equip our Secondary 2 students with the basic storytelling techniques through personal stories with accompanying photographs. 
 
 <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english1.jpeg">
-<i>Secondary 1 participants for CHR Speakers </i>
+##### Secondary 1 participants for CHR Speakers
 
 **3. Debate and Discussion for the Upper Secondary Students**
 
