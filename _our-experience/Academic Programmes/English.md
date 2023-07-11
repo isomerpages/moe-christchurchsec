@@ -40,17 +40,18 @@ In Extensive Reading, our students are exposed to a wide range of EL literature 
 
 In Intensive Reading, Lower Secondary students read resources aligned to the themes for the respective levels during the blended learning days. Some themes covered include Festivals &amp; Cultures, Food &amp; The Heart, Family, Friendship and The Roles We Play in Society. In addition, our Secondary 2 students are given opportunities to share their thoughts on issues that matter to them during morning assemblies as part of the ‘CHR Read’ effort. 
 
-<img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english2.jpeg">
 
-<center><i>Secondary 2 students presenting for ‘CHR Read’ </i></center>
+  <figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english2.jpeg">
+    <figcaption>Secondary 2 students presenting for ‘CHR Read</figcaption>
+  </figure>
 
-<img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english4.jpeg">
+<br>
 
-<center>
-	
-<i>Students visit the LibroHub and complete reviews of an article or book which interests them </i>
-	
-</center>
+  <figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english4.jpeg">
+    <figcaption>Students visit the LibroHub and complete reviews of an article or book which interests them </figcaption>
+  </figure>
 
 **2. Public Speaking Programmes – S1 CHR Speakers &amp; S2 Storytelling**
 
@@ -64,6 +65,8 @@ As part of the department’s effort to build students’ confidence in public s
 
 <p></p></center>
 
+<img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english1.jpeg">
+<i>Secondary 1 participants for CHR Speakers</i>
 
 **3. Debate and Discussion for the Upper Secondary Students**
 

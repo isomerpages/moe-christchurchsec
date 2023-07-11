@@ -39,4 +39,3 @@ We strongly recommend parents to spend some time to establish norms and routines
 *   Provide an appropriate learning space
     
 More information and ideas can be found in the attached **Parent Handbooks I &amp; II**.
-

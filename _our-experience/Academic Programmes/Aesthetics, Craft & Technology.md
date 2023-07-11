@@ -35,9 +35,35 @@ Upper Secondary
 
 Our academic progammes involve many hands-on sessions such as cooking in the FCE kitchen, working with tools in the D&amp;T workshop, art-making in the Art studio and performing in the music room.
 
+  <figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/ACT/act001.jpg">
+    <figcaption> Students learn culinary skills in the FCE kitchen</figcaption>
+  </figure>
+
 Besides our academic programme from the subjects offered, we also have non-academic programmes, namely the Arts Education Programme. There are three segments in the Arts Education Programme (AEP) -  Exposure, Experience and Excursion. 
 
+  <figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/ACT/act005.jpg">
+    <figcaption> AEP Exposure provides our students with the opportunity to understand different types of arts performances during assembly programmes</figcaption>
+  </figure>
+	
+  <figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/ACT/act004.JPG">
+    <figcaption> AEP Experience provides our students opportunities to learn an art form through workshops held during the post-examination period. </figcaption>
+  </figure>
+	
+ <figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/ACT/act003.JPG">
+    <figcaption> AEP Excursion provides our students opportunities to attend external arts-related exhibitions and performances</figcaption>
+  </figure>
+
+
 **Achievements**
+
+ <figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/ACT/act002.JPG">
+    <figcaption> Awardees for the D&amp;T Creative Adaptation Award</figcaption>
+  </figure>
 
 **2023**
 * **D&amp;T Award**<br>

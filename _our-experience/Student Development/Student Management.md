@@ -1,6 +1,6 @@
 ---
 title: Student Management
-permalink: /our-experience/student-development/permalink/
+permalink: /our-experience/student-development/student-management/
 description: ""
 third_nav_title: Student Development
 ---

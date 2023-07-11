@@ -1,6 +1,6 @@
 ---
 title: Student Development
-permalink: /our-experience/student-development/permalink/
+permalink: /our-experience/student-development/student-development/
 description: ""
 third_nav_title: Student Development
 ---
@@ -31,4 +31,4 @@ In CHR, the idea of being a ‘CHR family’ is very important. A family comes t
 
 **Teacher-Student Relationships**
 
-With the diverse profile of students, CHR continues to build strong relationships with students through building trust.  Trust is built when both teachers and students understand and accept differences in communication styles with people of different personality tendencies (E-Colors) and seek to understand first before making a judgement or response. The school also sets aside time for meaningful conversations between teachers and students. These conversations are known as ‘Connecting Hearts and Thoughts’ (CHAT) sessions that take place during morning assembly every Monday and Friday. 
+With the diverse profile of students, CHR continues to build strong relationships with students through building trust.  Trust is built when both teachers and students understand and accept differences in communication styles with people of different personality tendencies (E-Colors) and seek to understand first before making a judgement or response. The school also sets aside time for meaningful conversations between teachers and students. These conversations are known as ‘Connecting Hearts and Thoughts’ (CHAT) sessions that take place during morning assembly every Monday and Friday.

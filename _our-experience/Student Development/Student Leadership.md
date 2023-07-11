@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /our-experience/student-development/permalink/
+permalink: /our-experience/student-development/student-leadership/
 description: ""
 third_nav_title: Student Development
 ---
