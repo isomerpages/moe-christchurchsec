@@ -60,6 +60,11 @@ Besides our academic programme from the subjects offered, we also have non-acade
 
 **Achievements**
 
+ <figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/ACT/act002.JPG">
+    <figcaption> Awardees for the D&amp;T Creative Adaptation Award</figcaption>
+  </figure>
+
 **2023**
 * **D&amp;T Award**<br>
 			- 2 Creative Adaptation Awards<br>
