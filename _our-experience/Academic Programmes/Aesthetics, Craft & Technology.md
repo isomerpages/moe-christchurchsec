@@ -35,6 +35,8 @@ Upper Secondary
 
 Our academic progammes involve many hands-on sessions such as cooking in the FCE kitchen, working with tools in the D&amp;T workshop, art-making in the Art studio and performing in the music room.
 
+![](/images/Our%20Experience/Academic%20Programmes/ACT/act001.jpg)
+
 Besides our academic programme from the subjects offered, we also have non-academic programmes, namely the Arts Education Programme. There are three segments in the Arts Education Programme (AEP) -  Exposure, Experience and Excursion. 
 
 **Achievements**
