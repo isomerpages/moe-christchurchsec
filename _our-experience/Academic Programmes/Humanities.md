@@ -36,8 +36,39 @@ The department's approach centres on 21st Century Competencies, where students a
 
 The department's emphasis on outdoor and experiential learning is a unique feature of the Humanities education at Christ Church Secondary School. Students are encouraged to take up the role of young investigators and engage their senses to explore various topics in History and Geography. The Humanities Experiential Learning Programme (HELP) allows students to connect the knowledge and skills they have acquired in the classroom to the real world. As part of the department's inquiry approach to the Humanities, students learn by doing, seeing, and experiencing.
 
+<figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Hums/hums001.jpg">
+    <figcaption>Students on a learning journey at Sungei Buloh</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Hums/hums002.jpg">
+    <figcaption>Students interviewing tourists on a learning journey at Marina Bay</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Hums/hums003.jpg">
+    <figcaption>Students engaging a mini archaeological dig lesson called ‘Totally Diggin’ History’ </figcaption>
+  </figure>
+	
+
 **Stretch Programmes** 
 
 The Humanities department offers a range of activities to engage students beyond the syllabus and help them develop skills in research, writing, and public speaking. Besides developing such valuable skills and knowledge, these meaningful learning experiences can serve them well in their academic and professional pursuits. An example is the Model Parliament Sitting (MPS), a valuable programme that can help students develop critical thinking, analytical skills, and the ability to present their ideas convincingly. It starts with a trip to Parliament House, where students gain firsthand experience of the workings of the government and understand the protocol involved in discussing national matters. Another example is the Model United Nations Conference, which aims to generate engaging and insightful discussions among students from different schools on a wide range of issues, modelled after the UN conferences. 
 
 On their return, these students then lead their classmates in public role play, cooperative learning, and debate, which are effective teaching methods that can enhance students' confidence in expressing their thoughts and opinions. In addition, these programmes can also help students understand the decision-making process taken by governments and the importance of trade-offs and calculated risks in making decisions for the good of society. This can help students appreciate the complexity of governance and the challenges involved in balancing competing interests and priorities.
+
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Hums/hums004.jpg">
+    <figcaption>Students attending a sitting of Parliament </figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Hums/hums005.jpg">
+    <figcaption>Students at Nanyang Technological University for Model United Nations</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Hums/hums006.jpg">
+    <figcaption>Students presenting their award-winning exhibit at the National Institute of Education for the Singapore History Day Challenge </figcaption>
+  </figure>
