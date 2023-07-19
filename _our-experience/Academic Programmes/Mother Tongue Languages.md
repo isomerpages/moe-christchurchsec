@@ -29,9 +29,39 @@ The Mother Tongue Languages (MTL) Department aims to nurture our students to bec
 
 The Mother Tongue Fortnight programme aims to provide platforms for students to actively learn MTL and the associated culture to experience MTL as 'a living language'. The students get to speak their MTL and better understand their heritage and culture through a wide range of cultural activities organised, such as Chinese Fan painting, Batik Painting, and playing traditional musical instruments.
 
+  <figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0001.png">
+    <figcaption>Chinese Fan Painting</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 30%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0002.png">
+    <figcaption>Batik Painting</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0003.png">
+    <figcaption>Learning to play Dhol Tash</figcaption>
+  </figure>
+
 **Festive Celebrations**
 
 To share the joy of cultural festivities among students from different backgrounds, the MTL department organises Chinese New Year, Hari Raya, Tamil New Year and Deepavali celebrations annually. Through these celebrations, students learn more about the different cultures, traditions and practices and join in the celebrations with their peers and teachers.
+
+<figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0004.png">
+    <figcaption>Making of Tang Yuan (汤圆）during Chinese New Year celebrations</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0005.png">
+    <figcaption>Hari Raya celebrations</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0006.png">
+    <figcaption>Deepavali celebrations</figcaption>
+  </figure>
 
 **Conversational Chinese &amp; Malay**
 
