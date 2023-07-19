@@ -23,6 +23,17 @@ Other events<br>
 - Netball Carnivals
 - Volunteer work at Netball Singapore events like the Nations Cup, Asian Netball Champs, and Netball Super League, helping with tasks such as managing games and supporting teams
 
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/Netball/netball01.jpeg">
+    <figcaption>C Division Netball at the Netball Academy Carnival</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/Netball/netball02.jpeg">
+    <figcaption>CHR Netball Team at the Netball Academy Carnival</figcaption>
+  </figure>
+	
+
 **Achievements**
 
 **2022** <br>

@@ -24,6 +24,16 @@ CHR Basketball participates in the annual National School Games for the followin
 - C Division Boys <br>
 - C Division Girls <br>
 
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/Basketball/basketball005.jpg">
+    <figcaption>B Division Basketball (Girls) National School Games 2022</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/Basketball/basketball006.jpg">
+    <figcaption>B Division Basketball (Boys) Team</figcaption>
+  </figure>
+
  **Achievements**
 
 **2022** <br>

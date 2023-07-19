@@ -4,7 +4,7 @@ permalink: /chr-experience/Co-Curricular-Activities/Wushu/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/CCA/WUSHU.jpg)
+![](/images/CCA/Wushu/WUSHU.jpg)
 
  **Introduction**
  
@@ -31,6 +31,32 @@ CHR Wushu participates in the annual National School Games for the following div
 
 Other activities
 - Wushu Camp and Excursion
+
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/Wushu/wushu01.jfif">
+    <figcaption>CHR Wushu at the Chinese New Year Concert performance</figcaption>
+  </figure>
+
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/Wushu/wushu02.jfif">
+    <figcaption>Training with Wushu alumni</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/Wushu/wushu03.jfif">
+    <figcaption>Wushu training at the CHR Hardcourt</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/CCA/Wushu/wushu05.jpg">
+    <figcaption>1st International Cudgel B Division Gold 2022 - Chia Kai Meng</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/Wushu/wushu06.jpg">
+    <figcaption>Chinese New Year Celebrations at Ace the Place</figcaption>
+  </figure>
+
 
 **Achievements**
 

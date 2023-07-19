@@ -4,8 +4,8 @@ permalink: /chr-experience/Co-Curricular-Activities/Badminton/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/CCA/BADMINTON.jpg)
 
+![](/images/CCA/Badminton/BADMINTON.jpg)
 **Introduction**
 
 CHR Badminton aims to nurture every badminton player into well-disciplined and respectful men and women of character. Its mission is to bring out the spirit of fair play, teamwork and sportsmanship in its players.
@@ -19,11 +19,31 @@ CHR Badminton aims to nurture every badminton player into well-disciplined and r
 
 During training sessions, players work on strengthening and conditioning activities, basic and advanced drills on strokes as well as game play for competitive setting. 
 
+ <figure>
+    <img style="width: 70%; height: auto;" alt="Image" src="/images/CCA/Badminton/badminton03.jpeg">
+    <figcaption>Badminton Training at CHR’s Indoor Sports Hall</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 70%; height: auto;" alt="Image" src="/images/CCA/Badminton/badminton05.jpeg">
+    <figcaption>Badminton Training at Bukit Canberra Sports Hall</figcaption>
+  </figure>
+
 CHR Badminton participates in National School Games for the following divisions:<br>
 - B Division Boys<br>
 - B Division Girls<br>
 - C Division Boys<br>
 - C Division Girls <br>
+
+<figure>
+    <img style="width: 70%; height: auto;" alt="Image" src="/images/CCA/Badminton/badminton01.jpeg">
+    <figcaption>B Division Badminton (Boys) National School Games</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 70%; height: auto;" alt="Image" src="/images/CCA/Badminton/badminton02.jpeg">
+    <figcaption>B Division Badminton (Girls) National School Games</figcaption>
+  </figure>
 
 **Training Days &amp; Time**
 
