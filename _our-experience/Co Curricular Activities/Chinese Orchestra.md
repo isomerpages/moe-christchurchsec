@@ -12,6 +12,18 @@ The Chinese Orchestra aims to inculcate a love for traditional Chinese music and
 
 In the Chinese Orchestra, students will have various opportunities to take part in multiple school events. Apart from taking part in Singapore Youth Festivals, our programme provides students with the opportunity to learn not only about music but also to develop social and leadership skills. The weekly training and bonding activities such as games and learning journeys inculcate the joy of learning and nurture values such as teamwork, resilience, discipline and commitment.  
 
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/Chinese%20Orchestra/co0004.jpg">
+    <figcaption>CHR Chinese Orchestra at the Singapore Conference Hall for SYF 2023</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/Chinese%20Orchestra/co0002.jpeg">
+    <figcaption>Learning Journey to Asian Civilisation Museum</figcaption>
+  </figure>
+	
+	
+
 **Achievements**
 
 **2021** <br>
