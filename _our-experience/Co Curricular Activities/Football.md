@@ -4,7 +4,7 @@ permalink: /chr-experience/Co-Curricular-Activities/Football/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/CCA/FOOTBALL.jpg)
+![](/images/CCA/Football/FOOTBALL.jpg)
 
 **Introduction**
 
@@ -20,6 +20,22 @@ CHR Football participates in the annual National School Games for the following 
 - C Division Boys <br>
 
 In 2022, our C Division boys qualified for the quarter-final rounds of the North Zone League, while in 2023, our B Division boys came close to a semi-final berth in League 2 of the National Schools Games.
+
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/Football/football01.jfif">
+    <figcaption>B Division Basketball (Girls) National School Games 2022</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/Football/football02.jfif">
+    <figcaption>C Division Football National School Games 2023</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/Football/football03.jfif">
+    <figcaption>A team huddle before a match</figcaption>
+  </figure>
+	
 
 **Achievements**
 
