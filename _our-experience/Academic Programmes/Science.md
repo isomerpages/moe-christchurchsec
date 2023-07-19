@@ -54,6 +54,10 @@ The IgnITE Skills Challenge is an annual competition that introduces technical s
 			- 1 Bronze<br> 
 			- 2 Certificate of Commendation<br> 
 
+  <figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Science/science1.jpg">
+	 </figure>
+
 **2019**
 * **Ignite Skills Challenge 2022**<br>
 			- Gold - Cyber Warrior category<br>
