@@ -49,19 +49,20 @@ The IgnITE Skills Challenge is an annual competition that introduces technical s
 
 **Achievements**
 **2022**
-* **18th International Elementz Fair**<br>
-			- 2 Silver<br>
-			- 1 Bronze<br> 
-			- 2 Certificate of Commendation<br> 
+
+* **Ignite Skills Challenge 2022**<br>
+			- Gold - Cyber Warrior category<br>
+			- Silver - Social Media Retailing category<br> 
 
   <figure>
     <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Science/science1.jpg">
 	 </figure>
 
 **2019**
-* **Ignite Skills Challenge 2022**<br>
-			- Gold - Cyber Warrior category<br>
-			- Silver - Social Media Retailing category<br> 
+* **18th International Elementz Fair**<br>
+			- 2 Silver<br>
+			- 1 Bronze<br> 
+			- 2 Certificate of Commendation<br> 
 
 **2018**
 * **2018 Singapore Youth Science Fair**<br>
