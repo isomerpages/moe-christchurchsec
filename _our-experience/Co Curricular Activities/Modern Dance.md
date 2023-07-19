@@ -14,6 +14,12 @@ The Modern Dance Club aims to inspire students to strive for excellence in dance
 
 The Modern Dance Club explores the various types of dance, namely, Contemporary, Hip Hop and Jazz. In addition, technical training increases flexibility. Students were able to showcase their learning by participating in the Singapore Youth Festival 2023 and participating in various internal and external programmes namely the ACE The Place National Day concert, school concerts such as National Day and Deepavali celebration and our very own school production, Passionata. Their exposure to the production allowed them to mature and bond as a team.
 
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/Modern%20Dance/dance001.png">
+    <figcaption>2023 SYF Full Dress Rehearsal</figcaption>
+  </figure>
+
+
 **Achievements**
 
 **2021** <br>
