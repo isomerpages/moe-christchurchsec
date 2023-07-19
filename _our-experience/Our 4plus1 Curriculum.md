@@ -11,6 +11,7 @@ The 4+ 1 curriculum creates possibilities in the design of our school experience
 
 Both students and staff look forward to the vibrant and energetic atmosphere in school on Fridays, with everyone donning their CCA attire and engaging in various activities, as one community. 
 
-
-![](/images/Our%20Experience/4plus1/image1.jpg)
-*CHR’s vibrant morning assembly on Fridays, with CHRians donning their respective CCA attires*
+  <figure>
+    <img style="width: 100%; height: auto;" alt="Image" src="/images/Our%20Experience/4plus1/image1.jpg">
+    <figcaption>CHR’s vibrant morning assembly on Fridays, with CHRians donning their respective CCA attires</figcaption>
+  </figure>
