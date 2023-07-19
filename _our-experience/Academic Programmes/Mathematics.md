@@ -32,9 +32,36 @@ Upper Secondary
 
 Our Secondary 2 Financial Literacy Programme aims to help our students pick up Financial Literacy skills through real life applications of Mathematics. Our students will also be able to gain insights into how Mathematics can help people to manage bills, income, expenses, taxes, loans, etc. They will also learn and understand more about personal finance and budgeting through role playing and working with their peers. 
 
+  <figure>
+    <img style="width: 30%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths1.jpg">
+    <figcaption>Role playing and learning about budgeting </figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 30%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths2.jpg">
+    <figcaption>Working together to calculate the amount of foreign currency needed </figcaption>
+  </figure>
+
+<figure>
+    <img style="width: 30%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths3.jpg">
+    <figcaption>Working out the transport costs needed </figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 30%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths4.jpg">
+    <figcaption>Learning about how to manage expenses</figcaption>
+  </figure>
+
+
 **Stretch Programmes** <br>
 
 Students are exposed to a broader community of Mathematics to stretch their  potential in the subject. Selected students are provided with opportunities to take part in international and national competitions such as Australian Mathematics Competition (AMC) and Singapore Mathematics Olympiad (SMO) .
+
+<figure>
+    <img style="width: 30%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths5.jpg">
+    <figcaption>Certificate presentation for the Australian Mathematics Competition</figcaption>
+  </figure>
+
 
  **Achievements**
 **2022**
