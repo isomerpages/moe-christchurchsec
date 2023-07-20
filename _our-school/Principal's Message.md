@@ -32,7 +32,7 @@ To develop each meatless local dish, I am sure they had to ask themselves many q
 <figure>
     <img style="width: 90%; height: auto;" alt="Image" src="/images/Our%20School/P%20Message/pmessage20july23.jpg">
     <figcaption>Image via Temasek Polytechnic</figcaption>
-  </figure>
+</figure>
 	
 
 It is curiosity that drives us to ask questions such as:
