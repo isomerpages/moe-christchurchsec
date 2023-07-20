@@ -4,7 +4,7 @@ permalink: /our-curriculum/student-welfare/character-and-citizenship-education/
 description: ""
 third_nav_title: Student Development
 ---
-# Introduction
+**Introduction**
 
 Character and Citizenship Education (CCE) is integral to the holistic development of our students, leading to positive life outcomes, and aims to provide an integrated approach to addressing their development of values, character, social-emotional well-being, and citizenship dispositions in a coherent and holistic way.
 
