@@ -66,10 +66,10 @@ Mr Tay
 **For further reading**
 
 * AI ‘godfather’ Geoffrey Hinton warns of dangers as he quits Google<br>
-	https://www.bbc.com/news/world-us-canada-65452940 
+[https://www.bbc.com/news/world-us-canada-65452940 ](https://www.bbc.com/news/world-us-canada-65452940 )
 
 * Temasek Poly students develop plant-based alternatives for local foods like laksa and beef rendang<br>
-	https://mothership.sg/2023/03/temasek-poly-plant-based-foods/
+[https://mothership.sg/2023/03/temasek-poly-plant-based-foods/](https://mothership.sg/2023/03/temasek-poly-plant-based-foods/)
  	
 * She finished last, but this runner won fans for not giving up in a pounding rain<br>
-https://www.npr.org/2023/05/16/1176430543/female-runner-cambodia-last-rain-southeast-asian-games
+[https://www.npr.org/2023/05/16/1176430543/female-runner-cambodia-last-rain-southeast-asian-games](https://www.npr.org/2023/05/16/1176430543/female-runner-cambodia-last-rain-southeast-asian-games)
