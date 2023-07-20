@@ -29,6 +29,21 @@ In CHR, it is imperative to equip students with coping techniques and strategies
 
 In CHR, the idea of being a ‘CHR family’ is very important. A family comes together to support each other. This is emphasised through many platforms and is a core consideration in our programme design. The school year begins with a student-led discussion on the class theme, motto and promise within each form class. This is for students to develop a sense of belonging to their form class and to commit to a common promise with their classmates. Through this, the students build stronger relationships with their peers and learn to accept the differences they have. The understanding of differences in communication styles and personality tendencies through E-Colors will enable students to better understand each other. The message of being there for each other is emphasised during the morning assembly programme, as well as Month @ A Glance (an end-of-the-month reflection to look back at the previous month and plan on what to do for self and others in the next month). 
 
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/Our%20Experience/Student%20Development/SD/sd0001.jpg">
+    <figcaption>Month @ A Glance during Morning Assembly</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/Our%20Experience/Student%20Development/SD/sd0002.jpg">
+    <figcaption>My Class, My Family, My Home </figcaption>
+  </figure>
+
 **Teacher-Student Relationships**
 
 With the diverse profile of students, CHR continues to build strong relationships with students through building trust.  Trust is built when both teachers and students understand and accept differences in communication styles with people of different personality tendencies (E-Colors) and seek to understand first before making a judgement or response. The school also sets aside time for meaningful conversations between teachers and students. These conversations are known as ‘Connecting Hearts and Thoughts’ (CHAT) sessions that take place during morning assembly every Monday and Friday.
+
+<figure>
+    <img style="width: 80%; height: auto;" alt="Image" src="/images/Our%20Experience/Student%20Development/SD/sd0003.jpg">
+    <figcaption>CHAT sessions in the canteen</figcaption>
+  </figure>
