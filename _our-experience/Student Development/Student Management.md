@@ -12,4 +12,8 @@ Students learn well when there is order and discipline. The school’s approach 
 
 **Approach**
 
-The school adopts a  positive and proactive approach to instil self-discipline and good character in our students. The school uses positive discipline to educate our students on behaviours that are acceptable, and those that are not, in a way that is firm yet kind. Disciplinary measures are meted out fairly, firmly, and appropriately to help students understand that their actions have consequences. The positive and proactive approach is outlined below.
+The school adopts a&nbsp; positive and proactive approach to instil self-discipline and good character in our students. The school uses positive discipline to educate our students on behaviours that are acceptable, and those that are not, in a way that is firm yet kind. Disciplinary measures are meted out fairly, firmly, and appropriately to help students understand that their actions have consequences. The positive and proactive approach is outlined below.
+
+<figure>
+    <img style="width: 90%; height: auto;" alt="Image" src="/images/Our%20Experience/Student%20Development/Student%20Management/sm0001.png">
+  </figure>
