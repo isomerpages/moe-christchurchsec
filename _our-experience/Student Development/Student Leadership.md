@@ -22,6 +22,23 @@ Student Leaders’ Investiture
 
 As an Anglican school who believes strongly in serving and growing with God as our Enabler, our student leaders are invested at the St Andrew's Cathedral by the Bishop annually as a reminder to the call to serve with purpose and honour.
 
+<figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Student%20Development/Student%20leadership/sl0001.jpg">
+  </figure>
+	
+<figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Student%20Development/Student%20leadership/sl0002.jpg">
+  </figure>
+	
+<figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Student%20Development/Student%20leadership/sl0003.jpg">
+  </figure>
+	
+
 **DSA-Leadership**
 
 Students accepted under DSA-Leadership will have the opportunity to participate actively and develop their leadership abilities with the CHR Uniformed Group family. Besides honing their passion to serve others, students will acquire skill sets unique to their Uniformed Group CCA.
+
+<figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Student%20Development/Student%20leadership/sl0004.jpg">
+  </figure>
