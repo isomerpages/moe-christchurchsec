@@ -37,4 +37,10 @@ A CCA that is for students, by students, CFers exercise ownership and hone their
     <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/CF/cf0004.jpg">
 	</figure>
 	
-	
+**Training Days &amp; Time**
+
+**All Members:**
+
+| Day| Time | 
+| -------- | -------- | 
+| Friday (CCA Day) | 0800 - 1115 |
