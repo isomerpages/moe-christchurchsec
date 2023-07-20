@@ -29,7 +29,11 @@ I was impressed by a team of Temasek Polytechnic students who developed plant-ba
 
 To develop each meatless local dish, I am sure they had to ask themselves many questions, which they had to investigate. The traditional laksa recipe uses a shrimp broth. They had to figure out what plant-based additives could best recreate the flavour of laksa. To make their rendang, one of them learnt his grandmother’s recipe and modified it. As for satay, they had to experiment with many different ingredients and cooking methods to get the texture right. They were so successful that in a taste test involving 500 people, around 70% could not tell that they were eating meatless dishes!
 
-
+<figure>
+    <img style="width: 90%; height: auto;" alt="Image" src="/images/Our%20School/P%20Message/pmessage20july23.jpg">
+    <figcaption>Image via Temasek Polytechnic</figcaption>
+  </figure>
+	
 
 It is curiosity that drives us to ask questions such as:
 
@@ -68,4 +72,4 @@ Mr Tay
 	https://mothership.sg/2023/03/temasek-poly-plant-based-foods/
  	
 * She finished last, but this runner won fans for not giving up in a pounding rain<br>
-https://www.npr.org/2023/05/16/1176430543/female-runner-cambodia-last-rain-southeast-asian-games 
+https://www.npr.org/2023/05/16/1176430543/female-runner-cambodia-last-rain-southeast-asian-games
