@@ -32,9 +32,31 @@ Throughout the 4 years, your child will participate in the following outdoor act
 *  Sec 3 MOE-OBS Challenge Programme
 *  Sec 4 Overseas Immersion Trip
 
+<figure>
+    <img style="width: 50%; height: auto;" alt="Image" src="/images/Special%20Learning%20Programmes/LLP/llp001.jpg">
+    <figcaption>CHRians attempting our Challenge Rope Course during Secondary 2 Resilience Camp</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 70%; height: auto;" alt="Image" src="/images/Special%20Learning%20Programmes/LLP/llp002.jpg">
+    <figcaption>Secondary 3 MOE-Outward Bound Singapore Challenge Programme</figcaption>
+  </figure>
+	
+
+
 **Programmes :** 
 * CHR High Elements
 * Kayaking Orientation Programme (KOP)
 * DARE Programme
 * Singapore Mountaineering Federation Certification
 * SwimSafer 2.0
+
+<figure>
+    <img style="width: 70%; height: auto;" alt="Image" src="/images/Special%20Learning%20Programmes/LLP/llp003.jpg">
+    <figcaption>Kayaking Orientation Programme</figcaption>
+  </figure>
+	
+<figure>
+    <img style="width: 70%; height: auto;" alt="Image" src="/images/Special%20Learning%20Programmes/LLP/llp004.jpg">
+    <figcaption>SwimSafer 2.0</figcaption>
+  </figure>
