@@ -8,6 +8,11 @@ third_nav_title: Special Learning Programmes
 
 As part of [NDLP](https://www.channelnewsasia.com/singapore/national-digital-literacy-programme-has-enabled-students-have-access-digital-devices-amid-covid-19-halimah-yacob-2457851), every student in CHR will be using a Chromebook for both in-class and out-of-class learning. This will prepare them for a technology-driven world.
 
+<figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Special%20Learning%20Programmes/NDLP/ndlp01.jpg">
+    <figcaption>CHRians unboxing their Chromebook</figcaption>
+  </figure>
+	![](/images/Special%20Learning%20Programmes/NDLP/ndlp01.jpg)
   
 The Chromebook is affordable and affords students the ability to acquire soft skills required for the future - digital literacies, self-directedness and discipline.
 
