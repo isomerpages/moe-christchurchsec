@@ -35,7 +35,7 @@ third_nav_title: Our Family
 |**S4-2**|Mr Bek Jun Hao|Ms Althea Yeo|
 |**S4-3**|Ms Rusydiah Binte Abdul Razak| Ms Wendy Chew |
 |**S4-4**|Mdm Betty Koh|Ms Loke Zhen Yi|
-|**S4-5**|Mdm Siti Nursyahidah Binti Ideris|Mr Muhammad Firdaus Bin Mdm Hair|
+|**S4-5**|Mdm Siti Nursyahidah Binti Ideris|Mr Muhammad Firdaus Bin Md Hair|
 |**S4-6**|Mr Muhammad Khairulnizam B A R|Mdm Maryam Binte Mohammad Sesth|
 |**S4-7**|Mr Desmond Chan| |
 |**S5-1**|Ms Amanda Tan|Mdm Juliza Binte Zulkifli|
