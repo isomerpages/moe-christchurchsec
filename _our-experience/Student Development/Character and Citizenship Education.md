@@ -44,12 +44,12 @@ In our school, CHRians have the platform to reflect on their personal growth and
 
 <figure>
     <img style="width: 80%; height: auto;" alt="Image" src="/images/Our%20Experience/Student%20Development/CCE/cce003.jpg">
-    <figcaption>Peer Mentoring Session</figcaption>
+    <figcaption>	Mind Matters: Mental Well-Being Talkshow in partnership with health professionals from Woodlands Health</figcaption>
   </figure>
-	
+
 <figure>
     <img style="width: 80%; height: auto;" alt="Image" src="/images/Our%20Experience/Student%20Development/CCE/cce004.jpg">
-    <figcaption>Mind Matters: Mental Well-Being Talkshow in partnership with health professionals from Woodlands Health </figcaption>
+    <figcaption>Peer Mentoring Session </figcaption>
   </figure>
 
 **4. National Education (NE)**
