@@ -185,7 +185,7 @@ Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTe
 Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/GYS%20Opt%20Out%20-%20Sexuality%20Education%202023%20(Upload%20on%20sch%20website).pdf). The completed form is to be submitted by 25/01/2023.
 
 12.
-Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/GYS%20Opt%20Out%20E-Teens%20Programme%20(Upload%20on%20sch%20website).pdf).  The completed form is to be submitted by 05/05/2023.
+Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/GYS%20Opt%20Out%20E-Teens%20Programme%20(Upload%20on%20sch%20website).pdf).  The completed form is to be submitted by 05/05/2023. <br>
 
 13. 
 Parents can contact the school at [ccss@moe.edu.sg](ccss@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
