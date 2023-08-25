@@ -11,7 +11,6 @@ sections:
       url: open-house
   - resources:
       title: Announcement
-      button: Resources Button Name
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
