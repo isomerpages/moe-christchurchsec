@@ -10,8 +10,7 @@ sections:
       background: /images/Homepage/homepage-banner.gif
       url: open-house
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
+      title: Announcement
       button: Resources Button Name
   - infopic:
       title: Active Learners
