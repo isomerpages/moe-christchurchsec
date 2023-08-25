@@ -15,7 +15,6 @@ sections:
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
-      button: Find out more!
       url: /others/be-curious-about-everything/
       alt: Image alt text
       image: /images/Homepage/Active Learners1.jpg
