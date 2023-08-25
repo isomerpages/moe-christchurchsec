@@ -9,6 +9,10 @@ sections:
   - hero:
       background: /images/Homepage/homepage-banner.gif
       url: open-house
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
@@ -16,8 +20,8 @@ sections:
       url: /others/be-curious-about-everything/
       alt: Image alt text
       image: /images/Homepage/Active Learners1.jpg
-      description: "Students are active learners who are able to inquire and
-        articulate their thinking confidently to others. "
+      description: Students are active learners who are able to inquire and articulate
+        their thinking confidently to others.
   - infopic:
       title: Thoughtful Contributors
       subtitle: Make a Difference
@@ -31,9 +35,8 @@ sections:
   - infopic:
       title: Drive to Excel
       subtitle: Become the best of yourself
-      description: "Students will experience a strong school culture of gratitude.
-        They will give thanks and appreciate their strengths and potential
-        limiters. "
+      description: Students will experience a strong school culture of gratitude. They
+        will give thanks and appreciate their strengths and potential limiters.
       button: Find out more
       url: /others/become-the-best-version-of-yourself/
       alt: Image alt text
