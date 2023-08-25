@@ -34,7 +34,6 @@ sections:
       subtitle: Become the best of yourself
       description: Students will experience a strong school culture of gratitude. They
         will give thanks and appreciate their strengths and potential limiters.
-      button: Find out more
       url: /others/become-the-best-version-of-yourself/
       alt: Image alt text
       image: /images/Homepage/Drive to Excel.jpg
