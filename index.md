@@ -26,7 +26,6 @@ sections:
       description: Students understand the needs and perspectives of others around
         them, initiate and seize opportunities to positively impact the lives of
         others.
-      button: Find out more!
       url: /others/pay-it-forward-make-a-difference/
       alt: Image alt text
       image: /images/Homepage/Thoughtful Contributor.jpg
