@@ -4,7 +4,7 @@ permalink: /our-family/chr-alumni/
 description: ""
 third_nav_title: Our Family
 ---
-## Vision &amp; Mission
+### Vision &amp; Mission
 
 
 **CHR Alumni**&nbsp;was registered with the Registry of Society on 21 August 2012 and officially launched by Mr Khaw Boon Wan, Minister for National Development on 23 November 2012 at CHR 60th Anniversary Gala Celebration.  
@@ -22,7 +22,7 @@ third_nav_title: Our Family
 * To promote the co-operation and active support of CHR Alumni in carrying out the aims and objectives of the School
     
 
-## Committee
+### Committee
 
 | Position | Name |
 | ----- | ----- |
