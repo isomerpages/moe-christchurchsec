@@ -67,14 +67,11 @@ As part of the department’s effort to build students’ confidence in public s
 
 Debate and discussion are done as part of the EL curriculum in the Upper Secondary to extend students’ exposure to contemporary and controversial issues. Students are put through a process of preparation, in which they do their research and determine the credibility of the sources, before they present their arguments with justification and evidence in a persuasive and respectful manner. In the process, students are taught to practise active listening, an important skill, so that they can raise meaningful points of interest during the debate session or class discussion.
 
+  <figure>
+    <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english3.jpg">
+    <figcaption>Secondary 3 students taking part in the intra-class debate </figcaption>
+  </figure>
 
-<img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english3.jpg">
-
-<p></p><center>
-	
-<i>Secondary 3 students taking part in the intra-class debate</i>
-	
-<p></p></center>
 
 ##### 4. Project Work &amp; Presentation
 
