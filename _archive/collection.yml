@@ -2,6 +2,11 @@ collections:
   archive:
     output: true
     order:
+      - Others/Be Curious About Everything.md
+      - Others/Pay it Forward, Make a Difference.md
+      - Others/Become the Best Version of Yourself.md
+      - Others/.keep
+      - CHR Highlights.md
       - FSBB @ CHR.md
       - Achievements/Others.md
       - Achievements/School Awards.md

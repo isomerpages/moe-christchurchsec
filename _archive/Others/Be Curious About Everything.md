@@ -2,14 +2,13 @@
 title: Be Curious About Everything
 permalink: /others/be-curious-about-everything/
 description: ""
+third_nav_title: Others
 ---
-
-
 ![](/images/yawwah%20banner.png)
 
 # Be Curious About Everything
 
-In Christ Church Secondary School, you will be a confident learner who is able to inquire and articulate your thinking confidently to others. Beyond acquiring knowledge, you will learn and apply what you have learnt to real life. 
+In Christ Church Secondary School, you will be a confident learner who is able to inquire and articulate your thinking confidently to others. Beyond acquiring knowledge, you will learn and apply what you have learnt to real life.&nbsp;
 
   
 
@@ -24,7 +23,7 @@ In Christ Church Secondary School, you will be a confident learner who is able t
  <br>
  
 
-**_“I learnt to manage my time more efficiently and be more self-directed in learning. Planning my time during HBL is important because I need to hand in my work on time so that I can better prepare myself for lessons the following day.”_** 
+**_“I learnt to manage my time more efficiently and be more self-directed in learning. Planning my time during HBL is important because I need to hand in my work on time so that I can better prepare myself for lessons the following day.”_**&nbsp;
 
 <div>
 <div style="float: right">
@@ -89,4 +88,4 @@ In Christ Church Secondary School, you will be a confident learner who is able t
 
 # Catch a glimpse of our Academic Programmes!
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/96qa6nVvYiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/96qa6nVvYiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>

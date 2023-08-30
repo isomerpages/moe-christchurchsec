@@ -2,11 +2,8 @@
 title: Become the Best Version of Yourself
 permalink: /others/become-the-best-version-of-yourself/
 description: ""
+third_nav_title: Others
 ---
-
-
-
-
 ![](/images/yawwah%20banner.png)
 
 In Christ Church Secondary School, you will experience a strong school culture of gratitude. You will learn to give thanks and appreciate your strengths and potential limiters. Your sense of purpose and hope keeps you energised and gives you fulfilment in what you do. 
@@ -51,4 +48,4 @@ In Christ Church Secondary School, you will experience a strong school culture o
 
 #  Come see how you can be the Architect of Your Life
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/J2eHP0WGFK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/J2eHP0WGFK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
