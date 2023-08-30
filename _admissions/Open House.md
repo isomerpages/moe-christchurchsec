@@ -15,7 +15,7 @@ description: ""
 <iframe width="500" height="350" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### 5 Things to Check Out!
-1.  Students’ Experience at CHR
+1.  Students’ Experience at CHR here
 2.  Our 4+1 Curriculum &amp; CCA Offerings
 3.  Our Academic Programme Offerings
 4.  Our School Facilities (including outdoor elements!)
