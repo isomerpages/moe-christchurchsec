@@ -24,7 +24,7 @@ third_nav_title: Our Family
 | | |
 | -------- | -------- |
 | **School Staff Developer**    | Mrs Amy Yap    |
-| **HOD ACT**    | Mr Toh Hong Seng   |
+| **HOD ACT**    | -  |
 | **HOD CCE**    | Ms Belle Lim   |
 | **HOD Discipline**    | Mdm Mandy Choo   |
 | **HOD English Language**    | Ms Seah Jiemin   |
