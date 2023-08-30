@@ -10,6 +10,10 @@ description: ""
 | 24 Nov 2023 (Fri)    | 10.30am - 3.30pm  |
 | 25 Nov 2023 (Sat)    | 8.30am - 4.00pm  |
 
+
+### A New Journey
+<iframe width="500" height="350" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 ### 5 Things to Check Out!
 1.  Students’ Experience at CHR
 2.  Our 4+1 Curriculum &amp; CCA Offerings
