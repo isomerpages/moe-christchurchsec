@@ -20,7 +20,7 @@ third_nav_title: Our Family
 | **Hon. Internal Auditor**| Ms Ophelia Lim|
 
 
-### Vision &amp; Mission
+##### Vision &amp; Mission
 
 
 **CHR Alumni**&nbsp;was registered with the Registry of Society on 21 August 2012 and officially launched by Mr Khaw Boon Wan, Minister for National Development on 23 November 2012 at CHR 60th Anniversary Gala Celebration.  
@@ -39,7 +39,7 @@ third_nav_title: Our Family
     
 
 
-### Join Us
+##### Join Us
 **Membership Qualification and Rights**
 
 
@@ -57,7 +57,7 @@ third_nav_title: Our Family
 
 Download the application form and mail it together with a cheque payable to **CHR Alumni** to Christ Church Secondary School, 20, Woodlands Drive 17, Singapore 737924.
 
-### Contact Information
+##### Contact Information
 
 **Email:**  [chralumni@hotmail.sg](mailto:chralumni@hotmail.sg)  
   **Facebook:** [https://www.facebook.com/chralumni](https://www.facebook.com/chralumni)
