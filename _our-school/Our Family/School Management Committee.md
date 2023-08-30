@@ -4,6 +4,7 @@ permalink: /our-family/school-management-committee/
 description: ""
 third_nav_title: Our Family
 ---
+### School Management Committee
 | Position | Name |
 | --- | --- |
 | **Chairman** | Mr Valleteau De Moulliac Francois Marie Joseph Dominique |

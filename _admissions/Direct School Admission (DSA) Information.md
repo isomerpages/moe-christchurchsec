@@ -25,7 +25,7 @@ Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for di
 ![](/images/DSA2023/dsa2023.png)
 ![](/images/DSA2023/dsa2023_01.png) 
 
-### **Application Criteria**
+### Application Criteria
 
 <br><mark>Talent Area - Leadership</mark> <br>
 * Applicants must obtain a conduct grade of 'Very Good' or better in Pri 5 and/or Pri 6.

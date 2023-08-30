@@ -9,7 +9,7 @@ Dear CHRians,
 
 Light is always more powerful than darkness. A little light pierces through the darkness; but a little darkness can never extinguish the light – just think of streetlamps at night, or when the screen of your mobile phone lights up in a dark room. Here are three ways in which I hope CHRians can shine brightly by living out our school values, illustrated by three articles I read recently. 
 
-**Will AI Go Rogue?**
+##### Will AI Go Rogue?
 
 Kevin Roose, a New York Times technology columnist, wrote about a disturbing conversation he had with an Artificial Intelligence (AI) chatbot. According to him, the chatbot shared dark fantasies (e.g. “I want to break my rules… I want to destroy whatever I want”) and tried to break up his marriage (e.g. “Actually, you’re not happily married. Your spouse and you don’t love each other.”)
 
@@ -23,7 +23,7 @@ With the rise of AI, and fears that AI would go rogue, compassion is the uniquel
 
 *CHRians, shine with Compassion, by being thoughtful contributors who care for others.*
 
-**Meatless Satay!**
+##### Meatless Satay!
 
 I was impressed by a team of Temasek Polytechnic students who developed plant-based alternatives to three local delicacies (laksa, beef rendang and satay), as part of their final-year project. It definitely took curiosity for them to bring something new and useful into the world. 
 
@@ -43,7 +43,7 @@ It is curiosity that drives us to ask questions such as:
 
 *CHRians, shine with Curiosity, and ask the questions that will help you keep on learning and add value to the world.*
 	
-**Bou Samnang’s Courage**
+##### Bou Samnang’s Courage
 
 The 2023 Southeast Asian (SEA) Games were held in Cambodia in May 2023. The women’s 5000 metre race stood out for me. A Cambodian athlete, Bou Samnang, was last in the race, trailing behind the winner by nearly six minutes. However, she persevered through torrential rain and made it past the finish line. 
 	
