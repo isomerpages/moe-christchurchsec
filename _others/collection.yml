@@ -1,5 +1,4 @@
 collections:
   others:
     output: true
-    order:
-      - Be Curious About Everything.md
+    order: []
