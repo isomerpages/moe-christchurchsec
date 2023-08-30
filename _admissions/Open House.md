@@ -16,10 +16,10 @@ description: ""
 
 ### 5 Things to Check Out!
 1.   [Students’ Experience at CHR](/our-experience/chrianattributes/)
-2.  [Our 4+1 Curriculum](/our-experience/4plus1/) &amp; [18 CCA Offerings](https://www.christchurchsec.moe.edu.sg/chr-experience/Co-Curricular-Activities/The-Boys-Brigade/)
-3.  Our Academic Programme Offerings
-4.  Our School Facilities (including outdoor elements!)
-5.  Our Official Facebook
+2.  [Our 4+1 Curriculum](/our-experience/4plus1/) &amp; [18 CCAs](https://www.christchurchsec.moe.edu.sg/chr-experience/Co-Curricular-Activities/The-Boys-Brigade/)
+3.  [Our Academic Programme](https://www.christchurchsec.moe.edu.sg/our-curriculum/Academic/english/)
+4.  [Our School Facilities (including outdoor elements!)](https://www.christchurchsec.moe.edu.sg/our-school/school-tour/)
+5.  [Our Official Facebook](https://www.facebook.com/ChristChurchSecSchool/)
    
 	 
 ### 2022 e-Open House Panel
