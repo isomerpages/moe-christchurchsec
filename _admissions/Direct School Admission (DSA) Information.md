@@ -6,7 +6,7 @@ description: ""
 <img src="/images/DSA%20banner%20for%20website%20v2.jpeg" style="width:95%">
 
 
-### What is Direct School Admission (DSA)?
+#### What is Direct School Admission (DSA)?
 
 Direct School Admission for secondary schools (DSA-Sec) allows students to apply to some schools before taking the PSLE.
 
@@ -16,16 +16,16 @@ Students admitted to a secondary school through DSA-Sec are not allowed to submi
 
 **Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.**
 
-### Why Christ Church Secondary School (CHR)?  
+#### Why Christ Church Secondary School (CHR)?  
 ![](/images/DSA2023/dsa2023_02.png)<br>
 ![](/images/you%20v2.jpeg)
 
-### Direct School Admission @ CHR  
+#### Direct School Admission @ CHR  
 Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for direct admission into the school in three talent areas: 
 ![](/images/DSA2023/dsa2023.png)
 ![](/images/DSA2023/dsa2023_01.png) 
 
-### **Application Criteria**
+#### Application Criteria
 
 <br><mark>Talent Area - Leadership</mark> <br>
 * Applicants must obtain a conduct grade of 'Very Good' or better in Pri 5 and/or Pri 6.
@@ -42,7 +42,7 @@ Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for di
 
 ***Please note that meeting all the criteria does not guarantee the applicant will be shortlisted for selection or given an offer.***
 
-### **Important Dates**
+#### **Important Dates**
 
 <h4><mark>Application Period: 4th – 31st May 2023</mark></h4> <br>
 
@@ -131,6 +131,6 @@ Students studying in MOE mainstream schools will receive their DSA-Sec results t
 **Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent area they are selected for from year 1 to 4.**
 
 
-### **Clarification**
+#### **Clarification**
 
 For further enquiries, please contact Mr Ho Chee Hoong, HOD PE/CCA, at 68933297 during office hours or email him at <a href="mailto:ho_chee_hoong@schools.gov.sg">ho_chee_hoong@schools.gov.sg</a>
