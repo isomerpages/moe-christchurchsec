@@ -7,9 +7,16 @@ description: ""
 
 | Date | Time |
 | -------- | -------- |
-| Text     | Text     |
+| 24 Nov 2023 (Fri)    | 10.30am - 3.30pm  |
+| 25 Nov 2023 (Sat)    | 8.30am - 4.00pm  |
 
-
+### 5 Things to Check Out!
+1.  Students’ Experience at CHR
+2.  Our 4+1 Curriculum &amp; CCA Offerings
+3.  Our Academic Programme Offerings
+4.  Our School Facilities (including outdoor elements!)
+5.  Our Official Facebook
+   
 <!--
 # Open House 2022
 ![](/images/2022_16_9%20size_edit.jpg)
@@ -46,40 +53,12 @@ description: ""
 </tbody>
 </table>
 -->
-<h2>Virtual School Tour</h2>
 
-<iframe width="700" height="415" src="https://www.youtube.com/embed/JkOZx0OqvO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<br>
-<br>
 
 <h2> Our Students</h2>
 <iframe width="700" height="415" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 
-<h2>School Prospect</h2>
-Come find out where the CHR journey will take you! 
-<br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRv39cDC5Litkdpytp7RA73rkTpa5TUDcRK9ZeNveLb0eQ8N0O3xPQtkMirUPnYFz6JVNYVOzhqGoY6/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="700" height="450" allowfullscreen="true"></iframe>
-<br>
-
-<h2>You are Why We are here</h2>
-	<br>
-
-<table><tbody><tr><td>		
-			<a target="_self" href="/others/be-curious-about-everything"> 
-          <img style="height:350" src="/images/bcae.png">
-	</a>
-			</td><td>
-			<a target="_self" href="/others/pay-it-forward-make-a-difference"> 
-          <img style="height:350" src="/images/pif.png">
-	</a>
-			</td><td>
-			<a target="_self" href="/others/become-the-best-version-of-yourself">
-          <img style="height:350" src="/images/btbvoy.png">
-	</a>
-			</td>
-</tr></tbody></table>
 
 		 
 <h2>Previous Open Houses</h2>
