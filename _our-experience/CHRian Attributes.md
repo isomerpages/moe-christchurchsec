@@ -20,7 +20,7 @@ Let’s hear from our CHRians how their experiences in CHR have shaped them in t
 
 | **Active Learners**|
 |---|
-|<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2dpRtR4kVcg?si=s4JxFSmGcJeLwc6p" height="315" width="560"></iframe>|
+| <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2dpRtR4kVcg?si=s4JxFSmGcJeLwc6p" height="315" width="560"></iframe> |
 
 
 | **Thoughtful Contributors**|
