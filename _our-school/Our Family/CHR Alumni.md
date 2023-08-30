@@ -4,6 +4,22 @@ permalink: /our-family/chr-alumni/
 description: ""
 third_nav_title: Our Family
 ---
+### Committee
+
+| Position | Name |
+| ----- | ----- |
+| **President** | Mr Mohammad Mydeen |
+| **Vice President** | Mr Thomas Ting|
+| **Hon. Secretary** | Ms Lynn Tay |
+| **Asst. Hon. Secretary** | Ms Rebecca Quek |
+| **Hon. Treasurer** | Ms Stefanie Chua |
+| **Asst. Hon. Treasurer** | Ms Madeline Goh |
+| **Members** | Mr Justin Kon |
+| **Members** | Ms Pauline Kui |
+| **Hon. Internal Auditor**| Ms Siti Mariam Bte Ahmad|
+| **Hon. Internal Auditor**| Ms Ophelia Lim|
+
+
 ### Vision &amp; Mission
 
 
@@ -22,20 +38,7 @@ third_nav_title: Our Family
 * To promote the co-operation and active support of CHR Alumni in carrying out the aims and objectives of the School
     
 
-### Committee
 
-| Position | Name |
-| ----- | ----- |
-| **President** | Mr Mohammad Mydeen |
-| **Vice President** | Mr Thomas Ting|
-| **Hon. Secretary** | Ms Lynn Tay |
-| **Asst. Hon. Secretary** | Ms Rebecca Quek |
-| **Hon. Treasurer** | Ms Stefanie Chua |
-| **Asst. Hon. Treasurer** | Ms Madeline Goh |
-| **Members** | Mr Justin Kon |
-| **Members** | Ms Pauline Kui |
-| **Hon. Internal Auditor**| Ms Siti Mariam Bte Ahmad|
-| **Hon. Internal Auditor**| Ms Ophelia Lim|
   
 ## Join Us
 **Membership Qualification and Rights**
