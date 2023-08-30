@@ -4,7 +4,7 @@ permalink: /our-curriculum/Academic/english/
 description: ""
 third_nav_title: Academic Programmes
 ---
-**Introduction**
+### Introduction
 
 The English Language (EL) and Literature Department aims to develop students to be confident and effective users of the English Language. Our curricular goals are as follows: 
 
@@ -12,27 +12,27 @@ The English Language (EL) and Literature Department aims to develop students to 
 * To instil critical thinking skills in students so that they become discerning readers
 * To explore real-world issues using inquiry through dialogue
 
-**Subject Offerings**
+### Subject Offerings
 
-Lower Secondary
+##### Lower Secondary
 
 | Subject| G3 | G2 | G1 |
 | -------- | -------- | -------- | ------ |
 | English   | ✓     | ✓     | ✓|
 | Literature   | ✓     | ✓     | |
 
-Upper Secondary
+##### Upper Secondary
 
 | Subject| G3 | G2 | G1 |
 | -------- | -------- | -------- | ------ |
 | English   | ✓     | ✓     | ✓|
 | Literature   | ✓     |      |       |
 
-**Key Programmes**
+### Key Programmes
 
 Some department highlights include the following:
 
-**1. READ @ CHR**
+##### 1. READ @ CHR
 
 READ@CHR is a school-wide approach which features Extensive Reading (for all levels) and Intensive Reading (for Lower Secondary).
 
@@ -53,7 +53,7 @@ In Intensive Reading, Lower Secondary students read resources aligned to the the
     <figcaption>Students visit the LibroHub and complete reviews of an article or book which interests them </figcaption>
   </figure>
 
-**2. Public Speaking Programmes – S1 CHR Speakers &amp; S2 Storytelling**
+##### 2. Public Speaking Programmes – S1 CHR Speakers &amp; S2 Storytelling
 
 As part of the department’s effort to build students’ confidence in public speaking and their ability to think on their feet, the Lower Secondary students are involved in the above programmes. ‘CHR Speakers’ gives the Secondary 1 students an opportunity to present their recount of an authentic experience in an engaging manner. ‘CHR Storytelling’ aims to equip our Secondary 2 students with the basic storytelling techniques through personal stories with accompanying photographs. 
 
@@ -68,7 +68,7 @@ As part of the department’s effort to build students’ confidence in public s
 <img style="width: 60%; height: auto;" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english1.jpeg">
 <i>Secondary 1 participants for CHR Speakers</i>
 
-**3. Debate and Discussion for the Upper Secondary Students**
+##### 3. Debate and Discussion for the Upper Secondary Students
 
 Debate and discussion are done as part of the EL curriculum in the Upper Secondary to extend students’ exposure to contemporary and controversial issues. Students are put through a process of preparation, in which they do their research and determine the credibility of the sources, before they present their arguments with justification and evidence in a persuasive and respectful manner. In the process, students are taught to practise active listening, an important skill, so that they can raise meaningful points of interest during the debate session or class discussion.
 
@@ -81,18 +81,18 @@ Debate and discussion are done as part of the EL curriculum in the Upper Seconda
 	
 <p></p></center>
 
-**4. Project Work &amp; Presentation**
+##### 4. Project Work &amp; Presentation
 
 To encourage our students to be active learners and strengthen their ability to work in a team, the department designs our curriculum to include group-based project work which allows rich exchange of ideas to take place.  
 
-**Stretch Programmes**
+### Stretch Programmes
 * Scrabble Competition (National &amp; Zonal)
 * Student Journalists &amp; Radio Jockeys: Les Literato &amp; El Viva Voce
 * National Schools Literature Festival (NSLF)
 * Commonwealth Essay Competition
 * YMCA Plain English Speaking Awards (PESA)
 
-**Achievements**
+### Achievements
 
 **2022**
 * Commonwealth Essay Competition <br>
