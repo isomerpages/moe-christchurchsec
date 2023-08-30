@@ -3,15 +3,12 @@ title: Open House
 permalink: /open-house/
 description: ""
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-uj1d{background-color:#036667;color:#FFF;font-weight:bold;text-align:center;vertical-align:top;font-size:18px}
-.tg .tg-12lz{background-color:#DBF1D8;text-align:center;vertical-align:top;font-size:18px}
-</style>
+### Open House 2023
+
+| Date | Time |
+| -------- | -------- |
+| Text     | Text     |
+
 
 <!--
 # Open House 2022
