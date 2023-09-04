@@ -3,7 +3,7 @@ title: Our 4plus1 Curriculum
 permalink: /our-experience/4plus1/
 description: ""
 ---
-**4+1 Curriculum**
+### 4+1 Curriculum
 
 Introduced in 2010, Christ Church Secondary School’s ‘4+1’ curriculum week reflects our emphasis on the holistic development of students through striking a healthy balance between students’ academic and co-curricular pursuits. On Mondays to Thursdays, students can focus on their academic areas. Friday mornings (8.30am - 11.30am) are dedicated to Co-Curricular Activities, while the last hour of the day (11.30am - 12.30pm) is set aside for Character and Citizenship Education (CCE) lessons, chapel or assembly programmes. 
 
