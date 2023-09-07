@@ -36,7 +36,7 @@ During their 4 - 5 years in the Drama Club, students will have various opportuni
 **2021** <br>
 - Singapore Youth Festival Arts Presentation (Distinction)
 
-**Training Days &amp; Time**
+### Training Days &amp; Time
 
 | Day| Time | 
 | -------- | -------- | 
