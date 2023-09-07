@@ -4,9 +4,7 @@ permalink: /chr-experience/Co-Curricular-Activities/National-Cadet-Corps/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/CCA/NCC/NCC.png)
-
-**Introduction**
+### Introduction
 
 The National Cadet Corps (NCC) is a military youth organisation supported by the Ministry of Defence and the Ministry of Education. Our mission is to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities. 
 
@@ -16,7 +14,7 @@ The National Cadet Corps (NCC) is a military youth organisation supported by the
   </figure>
 
 
-**Programme Overview**
+### Programme Overview
 
 The 4-year NCC programme is based on the ‘Cadet Strong’ framework, which focuses on developing a **Fit Body, Resilient Mind and Committed Heart**. The programme also inculcates the 7 core values - loyalty to country, uprightness, leadership, discipline, commitment and responsibility, care for fellow cadets and adventurous spirit.
 
@@ -51,7 +49,7 @@ There are also further programmes that include the Precision Drill Squad, Freest
 </figcaption>
   </figure>
 
-**Achievements**
+### Achievements
 
 **2023**
 
@@ -70,7 +68,7 @@ There are also further programmes that include the Precision Drill Squad, Freest
 - Unit Recognition (Distinction)
 
 
-**Training Days &amp; Time**
+### Training Days &amp; Time
 
 **All Cadets:**
 
