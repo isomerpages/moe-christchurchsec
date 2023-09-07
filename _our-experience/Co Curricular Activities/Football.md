@@ -4,13 +4,11 @@ permalink: /chr-experience/Co-Curricular-Activities/Football/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/CCA/Football/FOOTBALL.jpg)
-
-**Introduction**
+### Introduction
 
 In line with CHR school values of Courage and Compassion, the members of CHR Football will learn about sportsmanship, teamwork and demonstrate graciousness in victory and defeat. CHR Football aims to develop its players in self-confidence and equip them with leadership skills so that they can become a positive influence to others.
 
-**Programme Overview**
+### Programme Overview
 
 The CHR Football training programme aims to develop players’ physical fitness by  improving  their strength, fitness and endurance level, while also imparting strategies, tactics and individual skills in football. The players are also  monitored and mentored ‘on’ and ‘off’ the field to encourage exemplary behaviour both during CCA and in the classroom. 
 
