@@ -4,7 +4,7 @@ permalink: /our-curriculum/ndlp/
 description: ""
 third_nav_title: Special Learning Programmes
 ---
-##### Chromebook
+### NDLP with Chromebooks
 
 As part of [NDLP](https://www.channelnewsasia.com/singapore/national-digital-literacy-programme-has-enabled-students-have-access-digital-devices-amid-covid-19-halimah-yacob-2457851), every student in CHR will be using a Chromebook for both in-class and out-of-class learning. This will prepare them for a technology-driven world.
 
@@ -18,7 +18,7 @@ The Chromebook is affordable and affords students the ability to acquire soft sk
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OXaHt9pZCa8" height="315" width="560"></iframe>
 
-##### Device Management Application (DMA)
+### Device Management Application (DMA)
 
 You child’s Chromebooks will be installed with DMA to provide a safer digital environment for learning:<br>
 * Web content is filtered to remove inappropriate content e.g.  pornography, gambling, extremism, violence<br>
@@ -33,7 +33,7 @@ Should you wish to change your child’s / ward’s DMA After-School options, yo
 ![](/images/Special%20Learning%20Programmes/NDLP/img_5990-2.jpg)*CHRians unboxing their Chromebooks*
 
 
-##### Norms and Routines at Home
+### Norms and Routines at Home
 In CHR, we have school routines and class routines to guide our students in the safe and appropriate use of PLDs in school.
 
 We strongly recommend parents to spend some time to establish norms and routines for device use at home:
