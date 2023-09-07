@@ -35,7 +35,7 @@ In 2022, our C Division boys qualified for the quarter-final rounds of the North
   </figure>
 	
 
-**Achievements**
+### Achievements
 
 **2022** <br>
 * C Division Boys: North Zone Top 8
@@ -43,7 +43,7 @@ In 2022, our C Division boys qualified for the quarter-final rounds of the North
 **2023 (Schools National League System)**
 * B Division Boys: Preliminary Rounds Top 2 - Qualified for League 2 National School Games Group Stage
 
-**Training Days &amp; Time**
+### Training Days &amp; Time
 
 | Day| Time | 
 | -------- | -------- | 
