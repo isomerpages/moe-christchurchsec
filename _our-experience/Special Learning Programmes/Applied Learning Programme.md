@@ -4,7 +4,7 @@ permalink: /our-curriculum/applied-learning-programme/
 description: ""
 third_nav_title: Special Learning Programmes
 ---
-**Introduction**
+### Introduction
 
 Health Science and Technology @ CHR is a Science, Technology, Engineering and Mathematics Applied Learning Programme (STEM ALP). It provides learning opportunities for students to apply their knowledge and skills in Science, Mathematics and Technology to solve real-world problems.
 
@@ -12,11 +12,11 @@ It aims to develop 21st Century Competencies through an Inquiry Approach in Heal
 
 Health Science and Technology @ CHR takes the form of guided inquiry where students are equipped with the coding knowledge and skills of building electronic circuits using various inputs and outputs components and develop solutions and assistive devices to overcome obstacles faced by the elderly and people with disabilities.By fostering empathy, we aim to also inspire students to become active contributors and compassionate advocates.
 
-**Key Events / Milestones / Programme**
+### Key Events / Milestones / Programme
 
 As part of your child’s secondary school ALP journey, he/she will participate in the following activities:
 
-**Lower Secondary curriculum:**
+**Lower Secondary Curriculum:**
 
 | Level|  |
 | -------- | -------- | 
