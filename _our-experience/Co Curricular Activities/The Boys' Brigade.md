@@ -48,7 +48,7 @@ Our Boys discover the key principles of leadership through habits of encourageme
 - Best Boy Award - Zachary Lim
 
 
-**Training Days &amp; Time**
+### Training Days &amp; Time
 
 **All Boys:**
 
