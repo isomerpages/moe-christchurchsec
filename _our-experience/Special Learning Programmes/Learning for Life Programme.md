@@ -4,11 +4,11 @@ permalink: /our-curriculum/learning-for-life-programme/
 description: ""
 third_nav_title: Special Learning Programmes
 ---
-**Introduction**
+### Introduction
 
 CHR’s Learning for Life Programme (LLP) is Outdoor Education. The objective of our LLP is to instil leadership qualities and develop character through Outdoor Adventure Learning. In CHR’s LLP, students develop their character and values, cultivate positive attitudes, and strengthen their people skills through experiential learning opportunities. They are nurtured within authentic learning environments to connect with the world outside their classroom and overcome challenges.
 
-**Why Outdoor Education?**
+### Why Outdoor Education?
 
 Exploring the outdoors provides students with rich learning experiences beyond what they can achieve in the classroom. 
 
@@ -22,7 +22,7 @@ LLP in CHR is designed to ensure CHRians
 * develop social awareness and relationship management skills as they collaborate and demonstrate care and concern for one another during their participation in Outdoor Adventure Learning;
 * develop leadership competencies by being leaders of self and leaders of peers.
 
-**Key Events / Milestones / Programme**
+### Programme Overview
 
 Throughout the 4 years, your child will participate in the following outdoor activities:
 
