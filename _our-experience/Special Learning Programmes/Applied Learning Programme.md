@@ -12,7 +12,7 @@ It aims to develop 21st Century Competencies through an Inquiry Approach in Heal
 
 Health Science and Technology @ CHR takes the form of guided inquiry where students are equipped with the coding knowledge and skills of building electronic circuits using various inputs and outputs components and develop solutions and assistive devices to overcome obstacles faced by the elderly and people with disabilities.By fostering empathy, we aim to also inspire students to become active contributors and compassionate advocates.
 
-### Key Events / Milestones / Programme
+### Programme Overview
 
 As part of your child’s secondary school ALP journey, he/she will participate in the following activities:
 
