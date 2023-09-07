@@ -4,9 +4,7 @@ permalink: /chr-experience/Co-Curricular-Activities/Badminton/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-![](/images/CCA/Badminton/BADMINTON.jpg)
-**Introduction**
+### Introduction
 
 CHR Badminton aims to nurture every badminton player into well-disciplined and respectful men and women of character. Its mission is to bring out the spirit of fair play, teamwork and sportsmanship in its players.
 
@@ -15,7 +13,7 @@ CHR Badminton aims to nurture every badminton player into well-disciplined and r
 * To forge camaraderie and build resilience in the team
 * To build character and confidence in players 
 
-**Programme Overview**
+### Programme Overview
 
 During training sessions, players work on strengthening and conditioning activities, basic and advanced drills on strokes as well as game play for competitive setting. 
 
@@ -45,7 +43,7 @@ CHR Badminton participates in National School Games for the following divisions:
     <figcaption>B Division Badminton (Girls) National School Games</figcaption>
   </figure>
 
-**Training Days &amp; Time**
+### Training Days &amp; Time
 
 | Day| Time | Venue |
 | -------- | -------- | -------- |

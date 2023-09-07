@@ -2,6 +2,10 @@ collections:
   archive:
     output: true
     order:
+      - Cyberwellness.md
+      - Pupil's Wellbeing and Developmental Discipline.md
+      - Values in Action.md
+      - CHR's Commitment to the Environment.md
       - Others/Be Curious About Everything.md
       - Others/Pay it Forward, Make a Difference.md
       - Others/Become the Best Version of Yourself.md

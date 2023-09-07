@@ -4,9 +4,7 @@ permalink: /chr-experience/Co-Curricular-Activities/National-Police-Cadet-Corps/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/CCA/NPCC/NPCC.jpg)
-
-**Introduction**
+### Introduction
 
 The National Police Cadet Corps (NPCC), formed in 1959, is one of the longest standing uniformed youth organisations in Singapore today with a proud heritage. Through a variety of activities, the values of RISE (Resilience, Integrity, Service, and Excellence) are inculcated in our cadets. These values will enable them to develop into caring and responsible citizens with a sense of purpose to serve the community.
 
@@ -15,7 +13,7 @@ The National Police Cadet Corps (NPCC), formed in 1959, is one of the longest st
   </figure>
 	
 
- **Programme Overview**
+ ### Programme Overview
  
 Our NPCC curriculum and activities focuses on the following five aspects:
 - **Law Enforcement** e.g. HQ activities like Police Knowledge, Basic Law, SANA, CSI, Sec 2 &amp; 3 0.22 Classification Shoot
@@ -42,7 +40,7 @@ Cadets also have opportunities to represent the school in events like National D
   </figure>
 	
 
-**Achievements**
+### Achievements
 
 **2023**
 - SPF-NPCC Badge - Charis Soon En &amp; Joel Tan
@@ -55,7 +53,7 @@ Cadets also have opportunities to represent the school in events like National D
 - Unit Overall Proficiency Award (Gold)
 
 
-**Training Days &amp; Time**
+### Training Days &amp; Time
 
 **All Cadets:**
 

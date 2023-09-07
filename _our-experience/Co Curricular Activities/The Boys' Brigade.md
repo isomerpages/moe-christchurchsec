@@ -4,15 +4,13 @@ permalink: /chr-experience/Co-Curricular-Activities/The-Boys-Brigade/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/CCA/BB.jpg)
-
-**Introduction**
+### Introduction
 
 The Boys’ Brigade (BB) 11th Singapore Company in Christ Church Secondary School is a Christian-based CCA formed in 1974 with the support of the Light of Christ Church Woodlands (sponsoring church). 
 
 The 11th Company provides fun, meaningful and challenging activities to nurture our Boys to lead and serve the community. Through promoting the habits of Obedience, Reverence, Discipline, Self-respect, we envision our Boys maturing into men of integrity and trustworthy leaders.
 
-**Programme Overview**
+### Programme Overview
 
 Through our 4-year Senior Programme, our Boys acquire skills and knowledge in four domains: Global Awareness, Community Spiritedness, Personal Mastery and Leadership.
 
@@ -28,7 +26,7 @@ Our Boys will also learn discipline, perseverance and adaptability through expos
 <u>Leadership</u><br>
 Our Boys discover the key principles of leadership through habits of encouragement, social initiative, trustworthiness and service to others. Brigade-level competitions, leadership development courses and community service projects such as BB CARES offer opportunities for exposure and skills development. 
 
-**Achievements**
+### Achievements
 
 **2021** <br>
 - BB Blaze (Silver) 
@@ -50,7 +48,7 @@ Our Boys discover the key principles of leadership through habits of encourageme
 - Best Boy Award - Zachary Lim
 
 
-**Training Days &amp; Time**
+### Training Days &amp; Time
 
 **All Boys:**
 
