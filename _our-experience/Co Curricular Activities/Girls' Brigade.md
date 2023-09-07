@@ -44,7 +44,7 @@ In addition, drill is a part of the GB curriculum. It instils discipline, a habi
 **2023**
 - The Girls’ Brigade Drill Competition (Gold)
 
-**Training Days &amp; Time**
+### Training Days &amp; Time
 
 | Day| Time | 
 | -------- | -------- | 
