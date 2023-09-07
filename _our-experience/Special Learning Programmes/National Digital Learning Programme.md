@@ -12,7 +12,7 @@ As part of [NDLP](https://www.channelnewsasia.com/singapore/national-digital-lit
     <img style="width: 60%; height: auto;" alt="Image" src="/images/Special%20Learning%20Programmes/NDLP/ndlp01.jpg">
     <figcaption>CHRians unboxing their Chromebook</figcaption>
   </figure>
-	![](/images/Special%20Learning%20Programmes/NDLP/ndlp01.jpg)
+
   
 The Chromebook is affordable and affords students the ability to acquire soft skills required for the future - digital literacies, self-directedness and discipline.
 
