@@ -10,6 +10,7 @@ description: ""
 | 24 Nov 2023 (Fri)    | 10.30am - 3.30pm  |
 | 25 Nov 2023 (Sat)    | 8.30am - 4.00pm  |
 
+Please indicate your interest to visit us by submitting [this form](https://chr.sg/OH2023).
 
 ### A New Journey
 <iframe width="500" height="350" src="https://www.youtube.com/embed/i5EkHJ6a5Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>

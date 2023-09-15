@@ -43,4 +43,4 @@ We strongly recommend parents to spend some time to establish norms and routines
     
 *   Provide an appropriate learning space
     
-More information and ideas can be found in the attached **Parent Handbooks I &amp; II**.
+More information and ideas can be found in the attached **[Parent Handbook I](/files/NDLP/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf) &amp; [Parent Handbook II on Learning with a PLD](/files/NDLP/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf).**
