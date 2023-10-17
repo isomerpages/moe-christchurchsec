@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Forms.md
       - Principal's Message.md
       - Our Family/.keep
       - Our Family/Our Key Personnel.md
@@ -13,5 +12,6 @@ collections:
       - Our History.md
       - Our Vision, Mission & Values.md
       - Our Motto, Crest & School Song.md
+      - Forms.md
       - Virtual School Tour.md
       - Non Financial Information.md
