@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Forms.md
       - Principal's Message.md
       - Our Family/.keep
       - Our Family/Our Key Personnel.md
