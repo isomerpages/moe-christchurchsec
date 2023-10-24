@@ -14,11 +14,12 @@ description: ""
 Please indicate your interest to visit us by submitting [this form](https://chr.sg/OH2023).
 
 ##### 2023 Highlights
-| Actvity | 24 Nov (Fri) | 25 Nov (Sat)|
-| -------- | -------- |-------- |
-| School Leaders' Address    | 10.30am &amp; 1.00pm  |9.00am, 11.00am &amp; 1.00pm  |
-| OE Experience| 11.30am &amp; 2.00pm |10.00am &amp; 2.00pm |
-| School Tour| Every 30 mins |Every 30 mins |
+
+| Actvity |24 Nov (Fri)| 25 Nov (Sat)|
+| --------| --------|--------|
+| School Leaders' Address| 10.30am &amp; 1.00pm  |9.00am, 11.00am &amp; 1.00pm|
+| OE Experience| 11.30am &amp; 2.00pm |10.00am &amp; 2.00pm|
+| School Tour| Every 30 mins|Every 30 mins|
 
 ### 5 Things to Check Out!
 1.   [Students’ Experience at CHR](/our-experience/chrianattributes/)
