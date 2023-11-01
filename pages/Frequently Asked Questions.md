@@ -11,3 +11,6 @@ As part of our 4+1 curriculum , we will have the bulk of our academic curriculum
 
 #### 2. What does it mean to be a mission school? Must students be Christians in order to apply?
 CHR welcomes all students regardless of ethnicity or religious beliefs. We have daily morning reflections which emphasize the character development of our students based on sound values that  can be applied to all, regardless of ethnicity or religion.
+
+#### 3. What are the public transport options near your school?
+We have bus service 901 as well as 901M from Woodlands MRT and Interchange. Alternatively, students can take the Thomson-East Coast Line and alight at Woodlands South Station (TE3) which is right at the back gate of our school.
