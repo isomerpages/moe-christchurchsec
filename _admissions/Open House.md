@@ -2,6 +2,7 @@
 title: Open House
 permalink: /open-house/
 description: ""
+variant: markdown
 ---
 ### Open House 2023
 ![](/images/Admissions/Open%20House/open%20house%20(facebook%20post).png)
@@ -11,7 +12,6 @@ description: ""
 | 24 Nov 2023 (Fri)    | 10.30am - 3.30pm  |
 | 25 Nov 2023 (Sat)    | 8.30am - 4.00pm  |
 
-Please indicate your interest to visit us by submitting [this form](https://chr.sg/OH2023).
 
 ##### 2023 Highlights
 
