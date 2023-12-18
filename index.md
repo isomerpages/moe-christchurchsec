@@ -34,4 +34,14 @@ sections:
       url: /others/become-the-best-version-of-yourself/
       alt: Image alt text
       image: /images/Homepage/Drive to Excel.jpg
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 18 December 2023
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
