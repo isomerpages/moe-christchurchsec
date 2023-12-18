@@ -39,9 +39,11 @@ sections:
       id: announcements
       subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: New Announcement
+        - title: Secondary 1 Registration 2024
           date: 18 December 2023
-          announcement: Announcement content
+          announcement: |-
+            Purchase of books and uniforms (27 December 2023). 
+            More details will be provided via PG on 22 Dec 2023 (p.m).
           link_text: ""
           link_url: ""
 ---
