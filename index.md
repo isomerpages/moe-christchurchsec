@@ -9,6 +9,15 @@ sections:
   - hero:
       background: /images/Homepage/homepage-banner.gif
       url: open-house
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Secondary 1 Registration 2024
+          date: 18 December 2023
+          announcement: Details regarding Secondary 1 registration 2024.
+          link_text: Click here
+          link_url: /resources/2023/sec1reg2024/
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
