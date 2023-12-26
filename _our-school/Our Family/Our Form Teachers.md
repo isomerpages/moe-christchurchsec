@@ -25,12 +25,12 @@ variant: markdown
 |**S2-6**|Ms Ravathi d/o Gunasegaran| Mdm Elizabeth Ter |
 |**S2-7**|Ms Tay Ru Hui|Ms Ho Yi Ling|
 |**S2-8**|Ms Tan Soh Leng |Mdm Lam Cheng Wan|
-|**S3-1**|Ms Yuan Xuelian| Mr Danial Matin Bin Zaini|
-|**S3-2**|Mdm Ng Hwee Bin| |
-|**S3-3**|Mr Sean Tan|Ms Uma Devi d/o Nadesvaran|
-|**S3-4**|Ms Chong Mea Fun||
-|**S3-5**|Mr Leonard Chng| Ms Weng Xiaohong|
-|**S3-6**|Mr Ashley Tan| |
+|**S3-1**|Mr Muhammad Khairulnizam B A R| |
+|**S3-2**|Mdm Christabel Foon| |
+|**S3-3**|Mr Francis Seah| |
+|**S3-4**|Ms Wendy Chew||
+|**S3-5**|Mdm Rahimah Bte Selamat| |
+|**S3-6**|Mr Hu Chang Chuan| |
 |**S3-7**|Mr Alan Ho|Ms Narny Binte Ab Rahman|
 |**S4-1**|Ms Regina Boon|Mr Francis Seah|
 |**S4-2**|Mr Bek Jun Hao|Ms Althea Yeo|
