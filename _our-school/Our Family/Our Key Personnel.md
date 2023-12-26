@@ -3,6 +3,7 @@ title: Our Key Personnel
 permalink: /our-family/key-personnel/
 description: ""
 third_nav_title: Our Family
+variant: markdown
 ---
 <img src="/images/Our%20Family/chr_school_leaders.jpg" style="width:500px">
 <div align="center">(L to R) Mdm Heng, Mr Ong &amp; Mr Tay</div>
@@ -24,7 +25,7 @@ third_nav_title: Our Family
 | | |
 | -------- | -------- |
 | **School Staff Developer**    | Mrs Amy Yap    |
-| **HOD ACT**    | -  |
+| **HOD ACT**    | Mdm Lee Siew Foong  |
 | **HOD CCE**    | Ms Belle Lim   |
 | **HOD Discipline**    | Mdm Mandy Choo   |
 | **HOD English Language**    | Ms Seah Jiemin   |
@@ -34,7 +35,7 @@ third_nav_title: Our Family
 | **HOD Mathematics**    | Mdm Sandy Wong   |
 | **HOD Mother Tongue**    | Mr Gavin Chong   |
 | **HOD PE &amp; CCA**    | Mr Ho Chee Hoong   |
-| **Year Head (Lower Sec)**    | Ms Angeline Ng   |
+| **Year Head (Lower Sec)**    | -   |
 | **Year Head (Upper Sec)**    | Mr Andy Lee  |
 
 
@@ -45,15 +46,18 @@ third_nav_title: Our Family
 | **SH ACT**    | Ms Ng Hui Ling   |
 | **SH CCE**    | Ms Nurul Aqidah Binte Shabudin  |
 | **SH English Language**    | Ms NurulJannah Binte Ishak   |
-| **SH Science**    | Mr Chong Zi Yi   |
+| **SH English Language**    | Ms Rusydiah Abdul Razak    |
 | **SH Humanities**    | Ms Althea Yeo   |
+| **SH ICT**    | Ms Adelene Tan   |
+| **SH Leadership**    | Mr Bek Hun Hao |
+| **SH PE**    | Ms Sheereen Lok   |
+| **SH Science**    | Mr Chong Zi Yi   |
 | **SH Tamil Language**    | Mdm Thilagavathy Kathiresan   |
-| **SH PE**    | Ms Low Yilun   |
-| **SH Leadership**    | Mdm Shaun Low   |
 
 | | |
 | -------- | -------- |
 | **Administration Manager**    | Ms Lena Chung    |
+| **Operations Manager**    | Mr Anthony Lee   |
 
 ### Teacher Leaders
 
