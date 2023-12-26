@@ -31,12 +31,14 @@ variant: markdown
 |**S3-4**|Ms Wendy Chew||
 |**S3-5**|Mdm Rahimah Bte Selamat| |
 |**S3-6**|Mr Hu Chang Chuan| |
-|**S3-7**|Mr Alan Ho|Ms Narny Binte Ab Rahman|
-|**S4-1**|Ms Regina Boon|Mr Francis Seah|
-|**S4-2**|Mr Bek Jun Hao|Ms Althea Yeo|
-|**S4-3**|Ms Rusydiah Binte Abdul Razak| Ms Wendy Chew |
-|**S4-4**|Mdm Betty Koh|Ms Loke Zhen Yi|
-|**S4-5**|Mdm Siti Nursyahidah Binti Ideris|Mr Muhammad Firdaus Bin Md Hair|
-|**S4-6**|Mr Muhammad Khairulnizam B A R|Mdm Maryam Binte Mohammad Sesth|
-|**S4-7**|Mr Desmond Chan| |
-|**S5-1**|Ms Amanda Tan|Mdm Juliza Binte Zulkifli|
+|**S3-7**|Mr Desmond Chan| |
+|**S3-8**|Mdm Betty Koh| |
+|**S4-1**|Ms Yuan Xuelian|Mr Danial Matin Bin Zaini|
+|**S4-2**|Mdm Ng Hwee Bin|Ms Jacqueline Chye|
+|**S4-3**|Mr Sean Tan | Ms Uma Devi d/o Nadesvaran|
+|**S4-4**|Ms Chong Mea Fun|Ms Siti Nursyahidah Binte Ideris|
+|**S4-5**|Mr Leonard Chng |Ms Weng Xiaohong|
+|**S4-6**|Mr Ashley Tan|Mdm Wong Yea Sien|
+|**S4-7**|Mr Alan Ho| Ms Narny Binte Ab Rahman|
+|**S5-1**|Mr Muhamad Firdaus Bin Md Hair| |
+|**S5-2**|Mdm Maryam Binte Mohammad Sesth| |
