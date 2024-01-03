@@ -18,7 +18,7 @@ variant: markdown
 |**S1-7**|Ms Rusydiah Binte Abdul Razak |Mr Vincent Yap|
 |**S1-8**|Mr Muhammad Isham Bin Ishak|Ms Amanda Tan|
 |**S2-1**|Mr Goh Joo Leng| |
-|**S2-2**| Ms Regina Boon | |
+|**S2-2**| Ms Regina Boon |Ms Loo Wei Lin |
 |**S2-3**| Mr Yap Choon Bock | Ms Charis Lim|
 |**S2-4**|Mdm Ang Sze Yi|Ms Han Shui Qing|
 |**S2-5**|Ms Verona d/o Rhamanan| |
