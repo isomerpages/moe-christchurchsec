@@ -49,8 +49,8 @@ variant: markdown
 | **SH English Language**    | Ms Rusydiah Abdul Razak    |
 | **SH Humanities**    | Ms Althea Yeo   |
 | **SH ICT**    | Ms Adelene Tan   |
-| **SH Leadership**    | Mr Bek Hun Hao |
-| **SH PE**    | Ms Sheereen Lok   |
+| **SH Leadership**    | Mr Bek Jun Hao |
+| **SH PE**    | Ms Sheereen Loke   |
 | **SH Science**    | Mr Chong Zi Yi   |
 | **SH Tamil Language**    | Mdm Thilagavathy Kathiresan   |
 
