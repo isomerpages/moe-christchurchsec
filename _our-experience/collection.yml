@@ -1,0 +1,42 @@
+collections:
+  our-experience:
+    output: true
+    order:
+      - CHRian Attributes.md
+      - Our 4plus1 Curriculum.md
+      - Academic Programmes/.keep
+      - Academic Programmes/English.md
+      - Academic Programmes/Mathematics.md
+      - Academic Programmes/Science.md
+      - Academic Programmes/Humanities.md
+      - Academic Programmes/Aesthetics, Craft & Technology.md
+      - Academic Programmes/Physical Education.md
+      - Academic Programmes/Mother Tongue Languages.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/The Boys' Brigade.md
+      - Co Curricular Activities/Girls' Brigade.md
+      - Co Curricular Activities/National Cadet Corps.md
+      - Co Curricular Activities/National Civil Defence Cadet Corps.md
+      - Co Curricular Activities/National Police Cadet Corps.md
+      - Co Curricular Activities/Badminton.md
+      - Co Curricular Activities/Basketball.md
+      - Co Curricular Activities/Football.md
+      - Co Curricular Activities/Netball.md
+      - Co Curricular Activities/Wushu.md
+      - Co Curricular Activities/Chinese Orchestra.md
+      - Co Curricular Activities/Choir.md
+      - Co Curricular Activities/Concert Band.md
+      - Co Curricular Activities/English Drama.md
+      - Co Curricular Activities/Modern Dance.md
+      - Co Curricular Activities/Outdoor Adventure Club.md
+      - Co Curricular Activities/Infocomm Club.md
+      - Co Curricular Activities/Christian Fellowship.md
+      - Student Development/.keep
+      - Student Development/Character and Citizenship Education.md
+      - Student Development/Student Development.md
+      - Student Development/Student Management.md
+      - Student Development/Student Leadership.md
+      - Special Learning Programmes/.keep
+      - Special Learning Programmes/Applied Learning Programme.md
+      - Special Learning Programmes/Learning for Life Programme.md
+      - Special Learning Programmes/National Digital Learning Programme.md

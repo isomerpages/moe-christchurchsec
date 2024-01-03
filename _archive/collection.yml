@@ -1,0 +1,44 @@
+collections:
+  archive:
+    output: true
+    order:
+      - privacy.md
+      - Cyberwellness.md
+      - Pupil's Wellbeing and Developmental Discipline.md
+      - Values in Action.md
+      - CHR's Commitment to the Environment.md
+      - Others/Be Curious About Everything.md
+      - Others/Pay it Forward, Make a Difference.md
+      - Others/Become the Best Version of Yourself.md
+      - Others/.keep
+      - CHR Highlights.md
+      - FSBB @ CHR.md
+      - Achievements/Others.md
+      - Achievements/School Awards.md
+      - Achievements/Clubs & Societies.md
+      - Achievements/Performing Arts.md
+      - Achievements/Sports.md
+      - Achievements/Uniformed Groups.md
+      - Achievements/.keep
+      - CHR AOP Education.md
+      - Forms.md
+      - Outdoor Education.md
+      - CHR Pride.md
+      - Academic Outcomes.md
+      - Useful Links.md
+      - Principal’s Letter to CHRians.md
+      - Contact Us.md
+      - Students' Achievements.md
+      - Weighted Assessment and Examinations Schedule.md
+      - Calendar of Events.md
+      - School Timetable.md
+      - terms-of-use.md
+      - Woodlands Health Campus.md
+      - Parent's Gateway (PG).md
+      - Parent Support Group.md
+      - CHR Partners.md
+      - Staff Recognition.md
+      - Non Teaching Staff.md
+      - Teaching Staff.md
+      - Teacher Leaders.md
+      - School Executive Committee.md
