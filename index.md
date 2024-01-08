@@ -17,7 +17,7 @@ sections:
           date: 08 January 2024
           announcement: Details regarding the release of 2023 O-Level results.
           link_text: Click here
-          link_url: /resources/2023/sec1reg2024/
+          link_url: /resources/2024/release2023olevelresults/
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
