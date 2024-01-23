@@ -9,15 +9,6 @@ sections:
   - hero:
       background: /images/Homepage/homepage-banner.gif
       url: open-house
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Release of 2023 O-Level Results
-          date: 08 January 2024
-          announcement: Details regarding the release of 2023 O-Level results.
-          link_text: Click here
-          link_url: /resources/2024/release2023olevelresults/
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
