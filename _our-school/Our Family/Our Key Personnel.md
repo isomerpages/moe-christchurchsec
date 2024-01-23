@@ -25,7 +25,7 @@ variant: markdown
 | | |
 | -------- | -------- |
 | **School Staff Developer**    | Mrs Amy Yap    |
-| **HOD ACT**    | Mdm Lee Siew Foong  |
+| **HOD ACT**    | Ms Lee Siew Foong  |
 | **HOD CCE**    | Ms Belle Lim   |
 | **HOD Discipline**    | Mdm Mandy Choo   |
 | **HOD English Language**    | Ms Seah Jiemin   |
