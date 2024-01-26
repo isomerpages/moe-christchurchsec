@@ -3,6 +3,7 @@ title: Football
 permalink: /chr-experience/Co-Curricular-Activities/Football/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
 
@@ -37,15 +38,15 @@ In 2022, our C Division boys qualified for the quarter-final rounds of the North
 
 ### Achievements
 
-**2022** <br>
-* C Division Boys: North Zone Top 8
-
 **2023 (Schools National League System)**
 * B Division Boys: Preliminary Rounds Top 2 - Qualified for League 2 National School Games Group Stage
+
+**2022** <br>
+* C Division Boys: North Zone Top 8
 
 ### Training Days &amp; Time
 
 | Day| Time | 
 | -------- | -------- | 
-| Monday  | 1530 - 1730 | 
+| Monday  | 1615 - 1815 | 
 | Friday (CCA Day) | 0800 - 1115 |
