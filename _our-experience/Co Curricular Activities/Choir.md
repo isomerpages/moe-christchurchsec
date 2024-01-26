@@ -3,6 +3,7 @@ title: Choir
 permalink: /chr-experience/Co-Curricular-Activities/Choir/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
 
@@ -36,11 +37,11 @@ Choristers are taught sight-reading, singing to the pitch, enunciation, pronunci
 
 ### Achievements
  
-**2021** <br>
-- Singapore Youth Festival Arts Presentation
-
 **2023**<br>
 - Singapore Youth Festival Arts Presentation (Accomplishment)
+
+**2021** <br>
+- Singapore Youth Festival Arts Presentation
 
 ### Training Days &amp; Time
 
