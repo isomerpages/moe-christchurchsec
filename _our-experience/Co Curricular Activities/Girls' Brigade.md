@@ -3,6 +3,7 @@ title: Girls' Brigade
 permalink: /chr-experience/Co-Curricular-Activities/Girls-Brigade/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
 
@@ -32,17 +33,18 @@ In addition, drill is a part of the GB curriculum. It instils discipline, a habi
 
 ### Achievements
 
-**2021** <br>
-- The Girls’ Brigade Company Awards (Gold)
-- Dr Low Guat Tin Challenge (Silver)
-- Pioneer Brigadier Brooch - Valerie Png En Qi
-
-**2022** <br>
-- The Girls’ Brigade Company Awards (Gold)
-- Dr Low Guat Tin Challenge (Silver)
-
 **2023**
 - The Girls’ Brigade Drill Competition (Gold)
+
+
+**2022** <br>
+- The Girls’ Brigade Company Award (Gold)
+- Dr Low Guat Tin Challenge (Silver)
+
+**2021** <br>
+- The Girls’ Brigade Company Award (Gold)
+- Dr Low Guat Tin Challenge (Silver)
+- Pioneer Brigadier Brooch - Valerie Png En Qi
 
 ### Training Days &amp; Time
 
