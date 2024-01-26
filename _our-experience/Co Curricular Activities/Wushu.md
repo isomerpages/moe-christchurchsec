@@ -3,6 +3,7 @@ title: Wushu
 permalink: /chr-experience/Co-Curricular-Activities/Wushu/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
  
@@ -58,13 +59,13 @@ Other activities
 
 ### Achievements
 
-**2021** <br>
-- B Division Boys: 1st International Cudgel Gold
-- B Division Boys: 1st International Broadsword Silver
-
 **2022**
 - B Division Boys: 1st International Cudgel Gold
 - B Division Boys: 1st International Broadsword Gold
+
+**2021** <br>
+- B Division Boys: 1st International Cudgel Gold
+- B Division Boys: 1st International Broadsword Silver
 
 ### Training Days &amp; Time
 
