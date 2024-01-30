@@ -3,8 +3,9 @@ title: Modern Dance
 permalink: /chr-experience/Co-Curricular-Activities/Modern-Dance/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
- ### Introduction
+### Introduction
  
 The Modern Dance Club aims to inspire students to strive for excellence in dance, to cultivate a deeper appreciation of the arts through music and movement and to encourage students’ expression through dance. Dancers build confidence, discipline and learn to work well together towards a common goal that aligns with our school’s values of developing Compassion and Curiosity. Furthermore, dance helps the dancers to develop skills that are necessary for learning such as creativity, communication, critical thinking and collaboration. Through the creative process, dancers are encouraged to use their imagination, collaborate with their peers to solve problems and discover multiple solutions to challenges. Thus, the team builds camaraderie as they work together and learn to embrace the different strengths that each dancer brings to the team. 
 
@@ -24,7 +25,7 @@ The Modern Dance Club explores the various types of dance, namely, Contemporary,
 - Singapore Youth Festival Arts Presentation (Accomplishment)
 
 **2021** <br>
-- Singapore Youth Festival Arts Presentation(Accomplishment)
+- Singapore Youth Festival Arts Presentation (Accomplishment)
 
 
 ### Training Days &amp; Time

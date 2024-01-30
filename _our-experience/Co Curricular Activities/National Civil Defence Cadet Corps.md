@@ -3,6 +3,7 @@ title: National Civil Defence Cadet Corps
 permalink: /chr-experience/Co-Curricular-Activities/National-Civil-Defence-Cadet-Corps/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
 
@@ -44,17 +45,17 @@ Some of the key programs are:
 
 ### Achievements
 
-**2021** <br>
-- Unit Overall Proficiency Award (Distinction)
-- SCDF-NCDCC Pinnacle Badge - Mohammad Shafir Bin Ilyas &amp; Amos Naivaqamu
+**2023**
+- SCDF-NCDCC Pinnacle Badge - Amirah Natania Binti Mohamad Nazif
 
 **2022**
 - Unit Overall Proficiency Award (Gold)
 - UACDC (4th Placing)
 - SCDF-NCDCC Pinnacle Badge - Rhys Low Jia Ler &amp; Ritz Low Jia Kang
 
-**2023**
-- SCDF-NCDCC Pinnacle Badge - Amirah Natania Binti Mohamad Nazif
+**2021** <br>
+- Unit Overall Proficiency Award (Distinction)
+- SCDF-NCDCC Pinnacle Badge - Mohammad Shafir Bin Ilyas &amp; Amos Naivaqamu
 
 ### Training Days &amp; Time
 
@@ -70,10 +71,7 @@ Some of the key programs are:
 | -------- | -------- | 
 | Thursday | 1500 - 1800 |
 
-<figure>
-    <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/NCDCC/ncdcc04.jpeg">
-    <figcaption>Civil Defence Heritage Gallery visits</figcaption>
-  </figure>
+
 	
 <figure>
     <img style="width: 80%; height: auto;" alt="Image" src="/images/CCA/NCDCC/ncdcc04.jpeg">

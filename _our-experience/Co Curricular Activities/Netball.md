@@ -3,6 +3,7 @@ title: Netball
 permalink: /chr-experience/Co-Curricular-Activities/Netball/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
 
@@ -36,14 +37,13 @@ Other events<br>
 
 ### Achievements
 
+**2023**<br>
+- B Division Girls: North Zone Top 8
+
 **2022** <br>
 - B Division Girls: North Zone Top 8
 - C Division Girls: North Zone Top 8
 - The Netball Academy Carnival: 4th Position 
-
-**2023**<br>
-- B Division Girls: North Zone Top 8
-
 
 ### Training Days &amp; Time
 

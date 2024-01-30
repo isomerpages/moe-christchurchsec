@@ -3,6 +3,7 @@ title: Chinese Orchestra
 permalink: /chr-experience/Co-Curricular-Activities/Chinese-Orchestra/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
 
@@ -26,11 +27,11 @@ In the Chinese Orchestra, students will have various opportunities to take part 
 
 ### Achievements
 
-**2021** <br>
-- Singapore Youth Festival Arts Presentation (Accomplishment)
-
 **2023**
 - Singapore Youth Festival Arts Presentation (Distinction)
+
+**2021** <br>
+- Singapore Youth Festival Arts Presentation (Accomplishment)
 
 ### Training Days &amp; Time
 
