@@ -138,19 +138,22 @@ and seminars. Through these competitions, students can gain greater exposure
 and challenge themselves. With the guidance of our MTL teachers, our students
 have performed well in these competitions.</p>
 <h3>Achievements</h3>
-<p>2023</p>
+<p><strong>2023</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>CL: National Text Recital Competition&nbsp; - Tai Lian Hong (S2-8) - Gold
-Award</p>
-<p>: Create Your Own Newspaper Challenge - Certificate of Participation</p>
-<p>ML: Short Story Writing Competition - 1 Gold Award, 1 Bronze Award</p>
-<p>: Pena Emas Competition - Certificate of Participation</p>
+Award
+<br>: Create Your Own Newspaper Challenge - Certificate of Participation</p>
+</li>
+<li>
+<p>ML: Short Story Writing Competition - 1 Gold Award, 1 Bronze Award
+<br>: Pena Emas Competition - Certificate of Participation</p>
 </li>
 <li>
 <p>TL: Kamban Vizha&nbsp; - 1 student within top 6 positions, 3 certificates
-of Participation</p>
-<p>: Tamil ARTS Contest - Certificate of Participation</p>
+of Participation
+<br>: Tamil ARTS Contest - Certificate of Participation</p>
 </li>
 </ul>
 <p></p>
