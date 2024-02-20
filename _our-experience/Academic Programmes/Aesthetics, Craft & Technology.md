@@ -209,7 +209,7 @@ Transplant Committee)</p>
 <img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/ACT/act002.JPG">
 </div>
 <p>Awardees for the D&amp;T Creative Adaptation Award</p>
-<p><strong>2022</strong>
+<p><strong>2022</strong> 
 <br>
 <br><strong>ART</strong>
 </p>
@@ -227,7 +227,7 @@ Transplant Committee)</p>
 </p>
 </li>
 <li>
-<p><strong>D&amp;T Award</strong>
+<p><strong>D&amp;T Award</strong> 
 <br>- 2 Creative Adaptation Awards
 <br>- 1 Creative Innovation Award
 <br>
