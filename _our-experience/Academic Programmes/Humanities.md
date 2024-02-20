@@ -215,42 +215,41 @@ challenges involved in balancing competing interests and priorities.</p>
 <p>Students presenting their award-winning exhibit at the National Institute
 of Education for the Singapore History Day Challenge
 <br>
-<br>__________________________________________
-<br>
+</p>
+<h2>Achievements</h2>
+<p>
 <br><strong>2023</strong>
 </p>
 <p><strong>MOE History Challenge 2023</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>3 Certificate of participation</p>
 </li>
 <li>
 <p>1 shortlisted for History Talent Development Programme (HTDP)&nbsp;&nbsp;</p>
 </li>
-</ul>
-<p><strong>Nanyang Technological University Model United Nations</strong>
-</p>
-<ul>
+<li>
+<p>Nanyang Technological University Model United Nations</p>
+</li>
 <li>
 <p>8 Certificate of Participation</p>
 </li>
 </ul>
-<p><strong>2022</strong>
+<p><strong>2022 </strong>
 <br>
 <br><strong>National Youth Environment Conference</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>9 Certificate of Participation</p>
 </li>
 <li>
 <p>1 Outstanding Delegate Award</p>
 </li>
-</ul>
-<p><strong>10th ASEAN Quiz</strong>
-</p>
-<ul>
+<li>
+<p>10th ASEAN Quiz</p>
+</li>
 <li>
 <p>Qualifying Rounds</p>
 </li>
