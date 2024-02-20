@@ -1,9 +1,9 @@
 ---
-title: Girls' Brigade
-permalink: /chr-experience/Co-Curricular-Activities/Girls-Brigade/
+title: The Girls' Brigade
+permalink: /chr-experience/co-curricular-activities/girls-brigade/
 description: ""
 third_nav_title: Co Curricular Activities
-variant: markdown
+variant: tiptap
 ---
 ### Introduction
 

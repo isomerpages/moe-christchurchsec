@@ -2,9 +2,8 @@
 title: Principal's Message
 permalink: /our-family/p-message/
 description: ""
+variant: markdown
 ---
-July 2023
-
 Dear CHRians,
 
 Light is always more powerful than darkness. A little light pierces through the darkness; but a little darkness can never extinguish the light – just think of streetlamps at night, or when the screen of your mobile phone lights up in a dark room. Here are three ways in which I hope CHRians can shine brightly by living out our school values, illustrated by three articles I read recently. 
