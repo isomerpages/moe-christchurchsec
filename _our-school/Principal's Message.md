@@ -5,8 +5,10 @@ description: ""
 variant: tiptap
 ---
 <p>Dear CHRians,</p>
-<p><em>“I have come that they may have life, and have it to the full.” (John 10:10b, NIV)</em>
-<br><em>“My purpose is to give them a rich and satisfying life.” (John 10:10b, NLT) </em>
+<p><em>&lt;center&gt;</em>
+<br><em>&lt;p&gt; “I have come that they may have life, and have it to the full.” (John 10:10b, NIV)</em> &lt;/p&gt;
+<br><em>&lt;p&gt; “My purpose is to give them a rich and satisfying life.” (John 10:10b, NLT) </em>&lt;/p&gt;
+<br><em>&lt;/center&gt;</em>
 </p>
 <p>Jesus wants us to have abundant, overflowing lives. What would the abundant
 life look like to you in 2024?</p>
@@ -22,7 +24,7 @@ in.</p>
 <p></p>
 <p>Jesus taught many important lessons about how we should relate to each
 other. For example:</p>
-<p><em>“In everything, do to others what you would have them do to you, for this sums up the Law...” (Matthew 7:12)</em>
+<p><em>“In everything, do to others what you would have them do to you, for this sums up the Law...” (Matthew 7:12)</em> 
 <br><em>“… Love your neighbour as yourself.” (Matthew 22:29)</em>
 </p>
 <p></p>
