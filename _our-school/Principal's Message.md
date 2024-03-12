@@ -31,10 +31,10 @@ other. For example:</p>
 Rule”. If we follow these commandments, it will go a long way in helping
 us build and maintain strong relationships with our friends, schoolmates,
 teachers, family members and other loved ones.</p>
-<p>&nbsp;<strong>&lt;insert Image&gt;</strong>
-</p>
-<p><em>4-4’s VIA Project: Introducing elderly residents to DuoLingo to learn languages (6 Mar 2024)</em>
-</p>
+<p></p><center>&nbsp;<strong>&lt;insert Image&gt;</strong>
+<p></p>
+<p><em>4-4’s VIA Project: Introducing elderly residents to DuoLingo to learn languages (6 Mar 2024)</em></p></center>
+<p></p>
 <p>May we be blessed with abundance in our relationships!</p>
 <p></p>
 <p><strong>Abundance in Character</strong>
@@ -108,8 +108,8 @@ event.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>&lt;insert Image&gt;</strong>
-</p>
+<p></p><center><strong>&lt;insert Image&gt;</strong>
+<p></p>
 <p><em>Shriya (3-3), Arnold (4-1), and Xann (4-2) wrapping up Term 1 (8 Mar 2024)</em>
 </p>
 <p><strong>&lt;insert Image&gt;</strong>
@@ -124,7 +124,7 @@ event.</p>
 </p>
 <p><em>Daniel (3-7) will be leading the Volleyball Interest Group this year</em>
 </p>
-<p></p>
+<p></p></center>
 <p>Set some audacious goals for yourself to reach towards!</p>
 <p></p>
 <p>May 2024 be a year of abundance in relationships, character and growth
