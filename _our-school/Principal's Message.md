@@ -2,12 +2,14 @@
 title: Principal's Message
 permalink: /our-family/p-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p>Dear CHRians,</p>
-<p><em></em></p><center><em>“I have come that they may have life, and have it to the full.” (John 10:10b, NIV)</em> 
+<p></p>
+<p><em>“I have come that they may have life, and have it to the full.” (John 10:10b, NIV)</em> 
 <br><em>“My purpose is to give them a rich and satisfying life.” (John 10:10b, NLT) </em>&lt;/p&gt;
-	<br></center>
+<br>
+</p>
 <p></p>
 <p>Jesus wants us to have abundant, overflowing lives. What would the abundant
 life look like to you in 2024?</p>
@@ -23,17 +25,22 @@ in.</p>
 <p></p>
 <p>Jesus taught many important lessons about how we should relate to each
 other. For example:</p>
-<p><em></em></p><center><em>“In everything, do to others what you would have them do to you, for this sums up the Law...” (Matthew 7:12)</em> 
+<p></p>
+<p><em>“In everything, do to others what you would have them do to you, for this sums up the Law...” (Matthew 7:12)</em> 
 <br><em>“… Love your neighbour as yourself.” (Matthew 22:29)</em>
-<p></p></center>
+</p>
+<p></p>
 <p></p>
 <p>The first verse (Matthew 7:12) is commonly referred to as the “Golden
 Rule”. If we follow these commandments, it will go a long way in helping
 us build and maintain strong relationships with our friends, schoolmates,
 teachers, family members and other loved ones.</p>
-<p></p><center>&nbsp;<strong>&lt;insert Image&gt;</strong>
 <p></p>
-<p><em>4-4’s VIA Project: Introducing elderly residents to DuoLingo to learn languages (6 Mar 2024)</em></p></center>
+<p>&nbsp;<strong>&lt;insert Image&gt;</strong>
+</p>
+<p></p>
+<p><em>4-4’s VIA Project: Introducing elderly residents to DuoLingo to learn languages (6 Mar 2024)</em>
+</p>
 <p></p>
 <p>May we be blessed with abundance in our relationships!</p>
 <p></p>
@@ -108,7 +115,9 @@ event.</p>
 </li>
 </ul>
 <p></p>
-<p></p><center><strong>&lt;insert Image&gt;</strong>
+<p></p>
+<p><strong>&lt;insert Image&gt;</strong>
+</p>
 <p></p>
 <p><em>Shriya (3-3), Arnold (4-1), and Xann (4-2) wrapping up Term 1 (8 Mar 2024)</em>
 </p>
@@ -124,7 +133,7 @@ event.</p>
 </p>
 <p><em>Daniel (3-7) will be leading the Volleyball Interest Group this year</em>
 </p>
-<p></p></center>
+<p></p>
 <p>Set some audacious goals for yourself to reach towards!</p>
 <p></p>
 <p>May 2024 be a year of abundance in relationships, character and growth
