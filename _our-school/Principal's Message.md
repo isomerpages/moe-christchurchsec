@@ -2,7 +2,7 @@
 title: Principal's Message
 permalink: /our-family/p-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p>Dear CHRians,</p>
 <p></p>
@@ -36,9 +36,9 @@ Rule”. If we follow these commandments, it will go a long way in helping
 us build and maintain strong relationships with our friends, schoolmates,
 teachers, family members and other loved ones.</p>
 <p></p>
-<p>&nbsp;<strong>&lt;insert Image&gt;</strong>
-</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024/P message/P01.jpg">
+</div>
 <p><em>4-4’s VIA Project: Introducing elderly residents to DuoLingo to learn languages (6 Mar 2024)</em>
 </p>
 <p></p>
@@ -116,20 +116,24 @@ event.</p>
 </ul>
 <p></p>
 <p></p>
-<p><strong>&lt;insert Image&gt;</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024/P message/P02.jpg">
+</div>
 <p></p>
 <p><em>Shriya (3-3), Arnold (4-1), and Xann (4-2) wrapping up Term 1 (8 Mar 2024)</em>
 </p>
-<p><strong>&lt;insert Image&gt;</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024/P message/P03.jpg">
+</div>
 <p><em>Firdauz (4-2), Siti Aiyla (4-4) and Varick (4-4) performing at Groovin’ Jamboree (23 Feb 2024)</em>
 </p>
-<p><strong>&lt;insert Image&gt;</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024/P message/P04.png">
+</div>
 <p><em>Kah Yan (4-2) and Candice (4-4) at Royce Dental Surgery for World of Work Experience (Nov 2023)</em>
-</p>
-<p><strong>&lt;insert Image&gt;</strong>
 </p>
 <p><em>Daniel (3-7) will be leading the Volleyball Interest Group this year</em>
 </p>
