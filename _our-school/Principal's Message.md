@@ -6,10 +6,11 @@ variant: markdown
 ---
 <p>Dear CHRians,</p>
 <p></p>
-<p><em></em></p><center><em>“I have come that they may have life, and have it to the full.” (John 10:10b, NIV)</em> 
-<br><em>“My purpose is to give them a rich and satisfying life.” (John 10:10b, NLT) </em>&lt;/p&gt;
+<center>
+<p><em>“I have come that they may have life, and have it to the full.” (John 10:10b, NIV)</em> 
+<br><em>“My purpose is to give them a rich and satisfying life.” (John 10:10b, NLT) </em>
 <br>
-<p></p></center>
+</p></center>
 <p></p>
 <p>Jesus wants us to have abundant, overflowing lives. What would the abundant
 life look like to you in 2024?</p>
