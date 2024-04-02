@@ -135,7 +135,7 @@ event.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024/P message/P04.png">
 </div>
-<em>Kah Yan (4-2) and Candice (4-4) at Royce Dental Surgery for World of Work Experience <br>(Nov 2023)</em>
+<em>Kah Yan (4-2) and Candice (4-4) at Royce Dental Surgery for World of Work Experience (Nov 2023)</em>
 
 <p></p>
 <div class="isomer-image-wrapper">
