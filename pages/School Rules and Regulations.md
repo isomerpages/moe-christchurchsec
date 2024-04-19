@@ -1,7 +1,8 @@
 ---
 title: School Rules and Regulations
-permalink: /our-school/school-rules-and-regulations/
+permalink: /archive/
 description: ""
+variant: tiptap
 ---
 # STUDENT EXPECTATIONS
 
