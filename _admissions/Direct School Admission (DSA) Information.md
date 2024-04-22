@@ -23,7 +23,7 @@ Students admitted to a secondary school through DSA-Sec are not allowed to submi
 
 ### Direct School Admission @ CHR  
 Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for direct admission into the school in three talent areas: 
-![](/images/DSA2023/dsa2023.png)
+![](/images/2024/Admission/DSA_2024.png)
 ![](/images/DSA2023/dsa2023_01.png) 
 
 The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec). 
