@@ -34,7 +34,19 @@ Christ Church Secondary School (CHR) welcomes Primary 6 students to apply for di
 
 ### Important Dates
 
-![](/images/2024/Admission/CHR_DSA_2024__2_1_.png)
+<a href="https://www.google.com">
+    <img alt="Description of the image" src="/images/2024/Admission/CHR_DSA_2024__2_1_.png">
+</a>
+
+<a href="link_to_your_destination">
+    <img alt="Description of the image" src="/images/2024/CHR_DSA_2024__2_2_.png">
+</a>
+<a href="link_to_your_destination">
+    <img alt="Description of the image" src="/images/2024/CHR_DSA_2024__2_3_.png">
+</a>
+
+
+
 
 
 ### **Clarification**
