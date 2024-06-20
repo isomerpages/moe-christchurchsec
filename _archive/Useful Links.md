@@ -2,10 +2,9 @@
 title: Useful Links
 permalink: /useful-links/
 description: ""
+variant: markdown
 ---
-
 *   [CHR One-Stop](https://linktr.ee/CHRFamily) 
-*   [LMS AskNLearn](http://lms.asknlearn.com/ccss)
 *   [Student iCON](https://workspace.google.com/dashboard)
 *   [Les.Literato Instagram Page](https://instagram.com/les.literato?utm_medium=copy_link)
 *   [Ace Learning](http://www.ace-learning.com/index.php)
