@@ -5,10 +5,11 @@ date: 2022-12-15
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 #### **Useful Links for N-Level Students**
 
-There are always pathways available for our CHRians, no matter what their results are. The N-Level Examination is just the tip of the iceberg and does not define our CHRians as a person. As a support provided by the school, the links below are meant to serve as a one-stop place for parents and students to have clarity on the multiple options available to our N-Level students. 
+There are always pathways available for our CHRians, no matter what their results are. The N-Level Examination is just the tip of the iceberg and does not define our CHRians as a person. As a support provided by the school, the links below are meant to serve as a one-stop place for parents and students to have clarity on the multiple options available to our N-Level students.&nbsp;
 
 1\. (For Parents) Resources on providing emotional support for your teen:<br>
 [https://go.gov.sg/selresforparents](https://go.gov.sg/selresforparents)
@@ -20,7 +21,7 @@ There are always pathways available for our CHRians, no matter what their result
 [https://go.gov.sg/mysfsec](https://go.gov.sg/mysfsec)
 
 4\. ITE JIE Admission Booklet 2023:<br>
-[https://www.ite.edu.sg/courses/full-time-courses/download-course-booklet](https://www.ite.edu.sg/courses/full-time-courses/download-course-booklet)
+
 
 5\. Information on DPP<br>
 [https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp](https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp)
