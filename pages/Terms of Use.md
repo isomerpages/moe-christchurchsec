@@ -17,13 +17,13 @@ and all of the changes.
 <br><strong>Proprietary Rights</strong>
 <br>2. This website is maintained by Christ Church Secondary School (CCSS).</p>
 <p><strong>Privacy Policy</strong>
-<br>4. Click here to review this website&nbsp;<a href="https://www.gov.sg/privacy-statement" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>.</p>
+<br>4. Click here to review this website&nbsp;<a href="https://christchurchsec.moe.edu.sg/privacy-statement/" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>.</p>
 <p><strong>Restrictions on use of Materials</strong>
-<br>5. Except as otherwise provided, the Contents of this website shall not
-be reproduced, republished, uploaded, posted, transmitted or otherwise
+<br>5. Except as otherwise provided, the contents of this website shall not
+be reproduced, republished, uploaded, posted, transmitted, or otherwise
 distributed in any way, without the prior written permission of Christ
 Church Secondary School(CCSS).
-<br>6. Modification of any of the Contents or use of the Contents for any
+<br>6. Modification of any of the contents or use of the contents for any
 other purpose will be a violation of Christ Church Secondary School's copyright
 and other intellectual property rights. The graphics and images on this
 website are protected by copyright and may not be reproduced or appropriated
