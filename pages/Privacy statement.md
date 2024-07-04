@@ -4,7 +4,6 @@ permalink: /privacy-statement/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>This is a Christ Church Secondary School website. Thank you for examining
