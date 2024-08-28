@@ -11,7 +11,6 @@ sections:
       url: open-house
   - resources:
       title: Resources
-      subtitle: Add a preview and link to your Resource Room
       id: resources
   - infopic:
       title: Active Learners
