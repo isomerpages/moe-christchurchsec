@@ -9,6 +9,10 @@ sections:
   - hero:
       background: /images/Homepage/homepage-banner.gif
       url: open-house
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
