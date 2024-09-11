@@ -3,6 +3,7 @@ title: National Cadet Corps
 permalink: /chr-experience/Co-Curricular-Activities/National-Cadet-Corps/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
 
@@ -51,6 +52,10 @@ There are also further programmes that include the Precision Drill Squad, Freest
 
 ### Achievements
 
+**2024**
+
+- Unit Recognition (Distinction)
+
 **2023**
 
 - Freestyle Drills Competition (Central Preliminary Rounds - 3rd Place)
@@ -63,9 +68,6 @@ There are also further programmes that include the Precision Drill Squad, Freest
 - NCC Sports Championship (Captain’s Ball Girls Team - 1st Place)
 - Outstanding Cadet Award - Karunakaran Arjuna
 
-**2021**
-
-- Unit Recognition (Distinction)
 
 
 ### Training Days &amp; Time
