@@ -3,6 +3,7 @@ title: Badminton
 permalink: /chr-experience/Co-Curricular-Activities/Badminton/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
 
@@ -42,6 +43,12 @@ CHR Badminton participates in National School Games for the following divisions:
     <img style="width: 70%; height: auto;" alt="Image" src="/images/CCA/Badminton/badminton02.jpeg">
     <figcaption>B Division Badminton (Girls) National School Games</figcaption>
   </figure>
+	
+### Achievements
+
+- B Boys - Quarterfinal
+- B Girls - Quarterfinal
+- Sembawang GRC Inter- School Competition (Team) - 2nd Place
 
 ### Training Days &amp; Time
 
