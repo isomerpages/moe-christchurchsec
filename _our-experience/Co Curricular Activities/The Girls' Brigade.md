@@ -72,19 +72,7 @@ Sarah Sim</p>
 <p></p>
 </li>
 </ul>
-<p><strong>2021</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The Girls’ Brigade Company Award (Gold)</p>
-</li>
-<li>
-<p>Dr Low Guat Tin Challenge (Silver)</p>
-</li>
-<li>
-<p>Pioneer Brigadier Brooch - Valerie Png En Qi</p>
-</li>
-</ul>
+<p></p>
 <h3>Training Days &amp; Time</h3>
 <table style="minWidth: 50px">
 <colgroup>
