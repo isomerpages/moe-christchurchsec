@@ -51,7 +51,7 @@ Cadets also have opportunities to represent the school in events like National D
 - SPF-NPCC Badge - Charis Soon En &amp; Joel Tan
 - N.E. Animation 2023 (Student Category - 2nd Runner-Up)
 
-**2022** <br>
+**2022**
 - Unit Overall Proficiency Award (Distinction)
 
 
