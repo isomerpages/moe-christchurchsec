@@ -3,6 +3,7 @@ title: National Police Cadet Corps
 permalink: /chr-experience/Co-Curricular-Activities/National-Police-Cadet-Corps/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
 
@@ -42,15 +43,16 @@ Cadets also have opportunities to represent the school in events like National D
 
 ### Achievements
 
+**2024**
+- Unit Overall Proficiency Award (Distinction)
+- SPF-NPCC Badge - Vince Andrei Tang, Sidra Chuay, Renae Foo 
+
 **2023**
 - SPF-NPCC Badge - Charis Soon En &amp; Joel Tan
 - N.E. Animation 2023 (Student Category - 2nd Runner-Up)
 
-**2022** <br>
+**2022**
 - Unit Overall Proficiency Award (Distinction)
-
-**2021** <br>
-- Unit Overall Proficiency Award (Gold)
 
 
 ### Training Days &amp; Time

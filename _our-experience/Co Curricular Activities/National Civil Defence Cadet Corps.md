@@ -45,6 +45,10 @@ Some of the key programs are:
 
 ### Achievements
 
+**2024**
+- Unit Overall Proficiency Award (UOPA) - Distinction
+- SCDF-NCDCC Badge - Shafiqah, Muhammad Safwan
+
 **2023**
 - SCDF-NCDCC Pinnacle Badge - Amirah Natania Binti Mohamad Nazif
 
@@ -53,9 +57,6 @@ Some of the key programs are:
 - UACDC (4th Placing)
 - SCDF-NCDCC Pinnacle Badge - Rhys Low Jia Ler &amp; Ritz Low Jia Kang
 
-**2021** <br>
-- Unit Overall Proficiency Award (Distinction)
-- SCDF-NCDCC Pinnacle Badge - Mohammad Shafir Bin Ilyas &amp; Amos Naivaqamu
 
 ### Training Days &amp; Time
 
