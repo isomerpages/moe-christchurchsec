@@ -3,6 +3,7 @@ title: The Boys' Brigade
 permalink: /chr-experience/Co-Curricular-Activities/The-Boys-Brigade/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
 
@@ -28,6 +29,13 @@ Our Boys discover the key principles of leadership through habits of encourageme
 
 ### Achievements
 
+**2024**
+- J M Fraser Award for Excellence (High Distinction)
+- BB Blaze (Silver) 
+- Founder's Award - Brayven Sim
+- Best Boy Award - Brayven Sim
+- BB Blaze (Silver) 
+
 **2023**
 - BB Blaze (Silver) 
 - Founder's Award - Zachary Lim, Darrel Ong En Zhe &amp; Bay Jiasheng, Dillon
@@ -40,13 +48,6 @@ Our Boys discover the key principles of leadership through habits of encourageme
 - BB Week (Silver) 
 - Founder's Award - Sim Kian Hao Javier, Yau Fu Pin, Max Er Jing Xian &amp; Chiew Zi Hang
 - Best Boy Award - Sim Kian Hao Javier
-
-**2021** <br>
-
-- J M Fraser Award for Excellence (Gold)
-- Character Quest (Gold) 
-- BB Week (Silver) 
-- Best Boy Award - Gabriel Neo Jiawei
 
 
 
