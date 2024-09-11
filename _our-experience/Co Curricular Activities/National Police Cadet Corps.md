@@ -43,7 +43,7 @@ Cadets also have opportunities to represent the school in events like National D
 
 ### Achievements
 
-**2023**
+**2024**
 - Unit Overall Proficiency Award (Distinction)
 - SPF-NPCC Badge - Vince Andrei Tang, Sidra Chuay, Renae Foo 
 
@@ -53,9 +53,6 @@ Cadets also have opportunities to represent the school in events like National D
 
 **2022** <br>
 - Unit Overall Proficiency Award (Distinction)
-
-**2021** <br>
-- Unit Overall Proficiency Award (Gold)
 
 
 ### Training Days &amp; Time
