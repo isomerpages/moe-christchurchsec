@@ -4,22 +4,20 @@ permalink: /open-house/
 description: ""
 variant: markdown
 ---
-### Open House 2023
-![](/images/Admissions/Open%20House/open%20house%20(facebook%20post).png)
-
+### Open House 2024
 | Date | Time |
 | -------- | -------- |
-| 24 Nov 2023 (Fri)    | 10.30am - 3.30pm  |
-| 25 Nov 2023 (Sat)    | 8.30am - 4.00pm  |
+| 22 Nov 2024 (Fri)    | 10.00am - 1.00pm  |
+| 23 Nov 2024 (Sat)    | 8.30am - 12.30pm  |
 
 
-##### 2023 Highlights
+##### 2024 Highlights
 
 | Actvity |24 Nov (Fri)| 25 Nov (Sat)|
 | --------| --------|--------|
-| School Leaders' Address| 10.30am &amp; 1.00pm  |9.00am, 11.00am &amp; 1.00pm|
-| OE Experience| 11.30am &amp; 2.00pm |10.00am &amp; 2.00pm|
-| School Tour| Every 30 mins|Every 30 mins|
+| School Leaders' Welcome| 10.00am  |9.00am|
+| OE Experience| 11.00am to 12.30pm |10.00am to 11.30pm|
+| School Tour| Every 15 mins|Every 15 mins|
 
 ### 5 Things to Check Out!
 1.   [Students’ Experience at CHR](/our-experience/chrianattributes/)
