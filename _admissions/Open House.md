@@ -4,6 +4,11 @@ permalink: /open-house/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/Open House/OH_2024_EDM.jpg">
+</div>
 <h3>Open House 2024</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -38,7 +43,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h5>2024 Highlights</h5>
+<h3>2024 Highlights</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
