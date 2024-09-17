@@ -5,10 +5,10 @@ description: ""
 variant: markdown
 ---
 ### Open House 2024
-| Date | Time |
-| -------- | -------- |
-| 22 Nov 2024 (Fri)    | 10.00am - 1.00pm  |
-| 23 Nov 2024 (Sat)    | 8.30am - 12.30pm  |
+|Date| Time|
+|--------|--------|
+|22 Nov 2024 (Fri)|10.00am - 1.00pm|
+|23 Nov 2024 (Sat)|8.30am - 12.30pm|
 
 
 ##### 2024 Highlights
