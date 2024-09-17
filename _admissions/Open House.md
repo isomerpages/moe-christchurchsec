@@ -38,7 +38,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h5>2024 Highlights</h5>
+<h3>2024 Highlights</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
