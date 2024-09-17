@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 Nov 2024</p>
+<p>23 Nov 2024 (Sat)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8.30am - 12.30pm</p>
