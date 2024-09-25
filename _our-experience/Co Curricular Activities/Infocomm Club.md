@@ -3,6 +3,7 @@ title: Infocomm Club
 permalink: /chr-experience/Co-Curricular-Activities/Infocomm-Club/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
 The Infocomm Club (ICC) is a group of members with a common interest in media production, programming and audio-visual media. The club brings together students with different strengths to learn from one another. As a team, the members work behind the scenes to ensure both face-to-face and live streaming events are produced at a high quality.
@@ -25,6 +26,9 @@ In addition, selected student leaders have the opportunity to participate in the
 Visit Us at [https://instagram.com/chr_icc](https://instagram.com/chr_icc)
 
 ### Achievements
+
+**2024**
+- Digital Business Challenge (1st & 2nd Prize)
 
 **2022**
 - StrlTWise Competition 2022 (Champion)
