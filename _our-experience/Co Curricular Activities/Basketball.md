@@ -3,6 +3,7 @@ title: Basketball
 permalink: /chr-experience/Co-Curricular-Activities/Basketball/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
 
@@ -33,6 +34,9 @@ CHR Basketball participates in the annual National School Games for the followin
   </figure>
 
  ### Achievements
+
+**2024** <br>
+- NSG C Div Girls League 2 : 3rd Place<br>
 
 **2022** <br>
 - B Division Boys: North Zone Top 8<br>
