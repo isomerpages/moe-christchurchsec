@@ -51,7 +51,7 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="go.gov.sg/chrmoefaspamplet" rel="noopener nofollow" target="_blank">MOE FAS Scheme Brochures</a>
+<p><a href="https://go.gov.sg/chrmoefaspamplet" rel="noopener nofollow" target="_blank">MOE FAS Scheme Brochures</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
