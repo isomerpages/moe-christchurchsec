@@ -4,7 +4,12 @@ permalink: /our-school/forms/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,7 +27,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/2024%20moe%20fas%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance Scheme 2024</a>
+<p><a href="/files/Forms/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">Financial Assistance Scheme 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,6 +37,30 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">MOE e-FAS application form 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE Financial Assistance Application Form (eFAS) for 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="go.gov.sg/chrmoefaspamplet" rel="noopener nofollow" target="_blank">MOE FAS Scheme Brochures</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brochures are available in English, Chinese, Malay, and Tamil.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/chrdma2024" rel="noopener noreferrer nofollow" target="_blank">Application to change DMA Option</a>
