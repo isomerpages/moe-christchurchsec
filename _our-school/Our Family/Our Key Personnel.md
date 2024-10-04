@@ -28,7 +28,7 @@ variant: markdown
 | **HOD ACT**    | Ms Lee Siew Foong  |
 | **HOD CCE**    | Ms Belle Lim   |
 | **HOD Discipline**    | Mdm Mandy Choo   |
-| **HOD English Language**    | Ms Seah Jiemin   |
+| **HOD English Language**    | Ms NurulJannah Binte Ishak   |
 | **HOD Science**    | Mr Muhamad Firdaus Bin Mohamed Yasin   |
 | **HOD Humanities**    | Mr Sng Thiam Eng   |
 | **HOD ICT**    | Mr Lim Yang Cherng   |
@@ -45,7 +45,6 @@ variant: markdown
 | **Asst. Year Head (Upper Sec)**    | Ms Siti Farisa    |
 | **SH ACT**    | Ms Ng Hui Ling   |
 | **SH CCE**    | Ms Nurul Aqidah Binte Shabudin  |
-| **SH English Language**    | Ms NurulJannah Binte Ishak   |
 | **SH English Language**    | Ms Rusydiah Abdul Razak    |
 | **SH Humanities**    | Ms Althea Yeo   |
 | **SH ICT**    | Ms Adelene Tan   |
