@@ -56,10 +56,10 @@ variant: tiptap
 <p>Actvity</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>24 Nov (Fri)</p>
+<p>22 Nov (Fri)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>25 Nov (Sat)</p>
+<p>23 Nov (Sat)</p>
 </th>
 </tr>
 <tr>
