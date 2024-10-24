@@ -10,6 +10,14 @@ sections:
       background: /images/Homepage/homepage-banner.gif
       url: open-house
   - infopic:
+      title: Open House 2024
+      id: infopic
+      description: Visit us to learn more about the Christ Church Experience!
+      button: More information here
+      url: /open-house/
+      image: /images/Admissions/Open House/OH_2024_EDM.jpg
+      alt: Image alt text
+  - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
       url: /others/be-curious-about-everything/
@@ -34,12 +42,4 @@ sections:
       url: /others/become-the-best-version-of-yourself/
       alt: Image alt text
       image: /images/Homepage/Drive to Excel.jpg
-  - infopic:
-      title: Open House 2024
-      id: infopic
-      description: Visit us to learn more about the Christ Church Experience!
-      button: More information here
-      url: /open-house/
-      image: /images/Admissions/Open House/OH_2024_EDM.jpg
-      alt: Image alt text
 ---
