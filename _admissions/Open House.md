@@ -78,7 +78,7 @@ variant: tiptap
 <p>OE Experience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.00am to 12.30pm</p>
+<p>10.30am to 11.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10.00am to 11.30pm</p>
