@@ -14,6 +14,7 @@ sections:
       id: infopic
       image: /images/2025/Homepage/Briefing_for_2025_Sec_1_Registration_Dec_2024.jpg
       alt: Image alt text
+      description: Details for 2025 Sec 1 e-Registration.
   - infopic:
       title: Open House 2024
       id: infopic
