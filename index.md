@@ -10,6 +10,12 @@ sections:
       background: /images/Homepage/homepage-banner.gif
       url: open-house
   - infopic:
+      title: 2025 Sec 1 e-Registration
+      id: infopic
+      image: /images/2025/Homepage/Briefing_for_2025_Sec_1_Registration_Dec_2024.jpg
+      alt: Image alt text
+      description: Details for 2025 Sec 1 e-Registration.
+  - infopic:
       title: Open House 2024
       id: infopic
       description: Visit us to learn more about the Christ Church Experience!
