@@ -9,12 +9,20 @@ sections:
   - hero:
       background: /images/Homepage/homepage-banner.gif
       url: open-house
-  - infopic:
-      title: 2025 Sec 1 e-Registration
-      id: infopic
-      image: /images/2025/Homepage/Briefing_for_2025_Sec_1_Registration_Dec_2024.jpg
-      alt: Image alt text
-      description: Details for 2025 Sec 1 e-Registration.
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Release of the GCE N-Level Examination Results
+          date: 12 December 2024
+          announcement: Click here for details
+          link_text: ""
+          link_url: ""
+        - title: 2025 Sec 1 e-Registration
+          date: 12 December 2024
+          announcement: Click here for details.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Open House 2024
       id: infopic
