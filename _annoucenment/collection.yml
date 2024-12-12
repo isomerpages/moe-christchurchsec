@@ -2,4 +2,5 @@ collections:
   annoucenment:
     output: true
     order:
+      - Sec 1  eRegistration 2025.md
       - Details for 2025 Sec 1 eRegistration.md
