@@ -14,12 +14,12 @@ sections:
       id: announcements
       announcement_items:
         - title: Release of the GCE N-Level Examination Results
-          date: 12 December 2024
+          date: 16 December 2024
           announcement: Details for GCE N-Level Examination Results
           link_text: Click here for details
           link_url: /release-gcenlevel-results-2025/
         - title: 2025 Sec 1 e-Registration
-          date: 12 December 2024
+          date: 20 December 2024
           announcement: Details for Sec 1 e-Registration.
           link_text: Click here for details.
           link_url: /sec-1-eregistration-2025/
