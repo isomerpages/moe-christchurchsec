@@ -19,7 +19,7 @@ are required to produce the relevant documents for the school's verification
 when collecting the results. Please inform your Form Teacher ahead of time
 if you are appointing a proxy for results collection.</p>
 <p>For more details on application to ITE and Polytechnics (DPP and PFP),
-please visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20241209-release-of-the-2024-singapore-cambridge-gce-na-and-nt-level-examination-results-on-16-december-2024</a>.
+please visit <a href="https://www.moe.gov.sg/news/press-releases/20241209-release-of-the-2024-singapore-cambridge-gce-na-and-nt-level-examination-results-on-16-december-2024" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20241209-release-of-the-2024-singapore-cambridge-gce-na-and-nt-level-examination-results-on-16-december-2024</a>.
 You may also find information on Education and Career Guidance (ECG) support
 through the same link.</p>
 <p>All the best CHRians, and see you on 16 December!</p>
