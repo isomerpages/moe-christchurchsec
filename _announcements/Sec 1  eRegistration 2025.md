@@ -33,12 +33,12 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Homepage/Briefing_for_2025_Sec_1_Registration_Dec_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Homepage/WhatsApp_Image_2024_12_17_at_4_12_16_PM.jpg">
 </div>
 <p></p>
