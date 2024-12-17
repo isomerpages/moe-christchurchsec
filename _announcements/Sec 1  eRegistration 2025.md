@@ -27,10 +27,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>29</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>17</p>
