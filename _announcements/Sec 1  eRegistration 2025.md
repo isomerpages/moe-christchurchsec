@@ -38,6 +38,12 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p>Primary 6 students who would like to appeal for transfer to Christ Church
+Secondary School may submit their applications <a href="https://www.christchurchsec.moe.edu.sg/our-school/forms/" rel="noopener nofollow" target="_blank">via this link</a>.
+Their PSLE score must meet our school's cut-off point of the 2025 posting
+year.</p>
+<p><strong><u>Any transfer will be subject to available vacancies and the school’s admission criteria.</u></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Homepage/WhatsApp_Image_2024_12_17_at_4_12_16_PM.jpg">
 </div>
