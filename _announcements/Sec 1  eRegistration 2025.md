@@ -39,9 +39,9 @@ description: ""
 </tbody>
 </table>
 <p>Primary 6 students who would like to appeal for transfer to Christ Church
-Secondary School may submit their applications through the <a href="https://go.gov.sg/appeal-sec1-2025" rel="noopener nofollow" target="_blank"><u>S1 (2025) Appeal for Transfer Form</u></a> 
-<a href="https://www.christchurchsec.moe.edu.sg/our-school/forms/" rel="noopener nofollow" target="_blank">via this link</a>. Their PSLE score must meet our school's cut-off point
-of the 2025 posting year.</p>
+Secondary School may submit their applications through the <a href="https://go.gov.sg/appeal-sec1-2025" rel="noopener nofollow" target="_blank"><u>S1 (2025) Appeal for Transfer Form</u></a>.
+Their PSLE score must meet our school's cut-off point of the 2025 posting
+year.</p>
 <p><strong><u>Any transfer will be subject to available vacancies and the school’s admission criteria.</u></strong>
 </p>
 <div class="isomer-image-wrapper">
