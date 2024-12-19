@@ -30,10 +30,5 @@ contacts:
       - email: contact@shanghai-uniforms.com
       - other: "63 Ubi Avenue 1 #04-09 63@Ubi Singapore 408937"
     title: Shanghai School Uniforms Pte Ltd
-  - content:
-      - phone: +65 9781 1531
-      - email: ""
-      - other: ""
-    title: Yeoong Charter Bus
 feedback: ""
 ---
