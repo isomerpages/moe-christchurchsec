@@ -27,30 +27,31 @@ variant: markdown
 | **School Staff Developer**    | Mrs Amy Yap    |
 | **HOD ACT**    | Ms Lee Siew Foong  |
 | **HOD CCE**    | Ms Belle Lim   |
-| **HOD Discipline**    | Mdm Mandy Choo   |
+| **HOD Discipline**    | Mdm Mandy Choo  |
 | **HOD English Language**    | Ms NurulJannah Binte Ishak   |
 | **HOD Science**    | Mr Muhamad Firdaus Bin Mohamed Yasin   |
 | **HOD Humanities**    | Mr Sng Thiam Eng   |
-| **HOD ICT**    | Mr Lim Yang Cherng   |
+| **HOD ICT**    | -   |
 | **HOD Mathematics**    | Mdm Sandy Wong   |
 | **HOD Mother Tongue**    | Mr Gavin Chong   |
 | **HOD PE &amp; CCA**    | Mr Ho Chee Hoong   |
-| **Year Head (Lower Sec)**    | -   |
+| **Year Head (Lower Sec)**    |  Ms Siti Farisa Binte Mohamad Noor   |
 | **Year Head (Upper Sec)**    | Mr Andy Lee  |
 
 
 | | |
 | -------- | -------- |
 | **Asst. Year Head (Lower Sec)**    | Ms Lynn Tang    |
-| **Asst. Year Head (Upper Sec)**    | Ms Siti Farisa    |
+| **Asst. Year Head (Upper Sec)**    | -    |
+| **SH Student Management**    | Mr Muhammad Yazid Bin Ramli |
 | **SH ACT**    | Ms Ng Hui Ling   |
 | **SH CCE**    | Ms Nurul Aqidah Binte Shabudin  |
 | **SH English Language**    | Ms Rusydiah Abdul Razak    |
 | **SH Humanities**    | Ms Althea Yeo   |
-| **SH ICT**    | Ms Adelene Tan   |
+| **SH ICT**    | Mr Chong Zi Yi  |
 | **SH Leadership**    | Mr Bek Jun Hao |
 | **SH PE**    | Ms Sheereen Loke   |
-| **SH Science**    | Mr Chong Zi Yi   |
+| **SH Science**    |  - |
 | **SH Tamil Language**    | Mdm Thilagavathy Kathiresan   |
 
 | | |
@@ -65,7 +66,9 @@ variant: markdown
 | **LT English Language**| Mr Tan Chai Hok|
 | **LT Physics**| Mr Low Swee Hian|
 | **ST Biology**| Mdm Juliza Binte Zulkifli| 
+| **ST Chemistry**| Ms Chong Mea Fun| 
 | **ST Design &amp; Technology**| Mdm Christabel Foon|
 | **ST History**| Mr Ashley Tan|
 | **ST Mathematics**| Mdm Betty Koh|
 | **ST Mathematics**| Ms Leow Swee Khim|
+| **ST English**| Mdm Low Huixian Heidi| 
