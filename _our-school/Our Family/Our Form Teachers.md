@@ -5,39 +5,41 @@ description: ""
 third_nav_title: Our Family
 variant: markdown
 ---
-### Form Teachers (2024)
+### Form Teachers (2025)
 
 |Class | FT1 | FT2|
 | -------- | -------- |-------- |
-|**S1-1**|Mr Shen Ching Jen|Ms Loke Zhen Yi|
-|**S1-2**|Ms Sheereen Loke Kit Ying| Ms Annelis Nur'ain Binte Haris|
-|**S1-3**| Mdm Roslina Bte Mahmood| Ms Cindy Wong |
-|**S1-4**|Mdm Amutha R Amirthalingam|Mr Azam Zaheerulhaq Abdul Mutalib|
-|**S1-5**|Ms Lai Liming|Mr Bek Jun Hao|
-|**S1-6**|Ms Liyana Filzah Binte Anuar |Ms Leow Swee Khim|
-|**S1-7**|Ms Rusydiah Binte Abdul Razak |Mr Vincent Yap|
-|**S1-8**|Mr Muhammad Isham Bin Ishak|Ms Amanda Tan|
-|**S2-1**|Mr Goh Joo Leng|Lee Yu Jie Melvin |
-|**S2-2**| Ms Regina Boon |Ms Loo Wei Lin |
-|**S2-3**| Mr Yap Choon Bock | Mr Goh Yang Kai|
-|**S2-4**|Mdm Ang Sze Yi|Mr Timothy Swee Wei Qiang|
-|**S2-5**|Ms Verona d/o Rhamanan| |
-|**S2-6**|Ms Ravathi d/o Gunasegaran| Mdm Elizabeth Ter |
-|**S2-7**|Ms Tay Ru Hui|Ms Ho Yi Ling|
-|**S2-8**|Ms Tan Soh Leng |Mdm Juliza Binte Zulkifli|
-|**S3-1**|Mr Muhammad Khairulnizam B A R| |
-|**S3-2**|Mdm Christabel Foon| |
-|**S3-3**|Mr Francis Seah| |
-|**S3-4**|Ms Wendy Chew||
-|**S3-5**|Mdm Rahimah Bte Selamat|Ms Val Tan |
-|**S3-6**|Mr Hu Chang Chuan| |
-|**S3-7**|Mr Desmond Chan| |
-|**S3-8**|Mdm Betty Koh| |
-|**S4-1**|Ms Yuan Xuelian|Mr Danial Matin Bin Zaini|
-|**S4-2**|Mdm Ng Hwee Bin|Ms Jacqueline Chye|
-|**S4-3**|Mr Sean Tan | Ms Uma Devi d/o Nadesvaran|
-|**S4-4**|Ms Chong Mea Fun|Ms Siti Nursyahidah Binte Ideris|
-|**S4-5**|Mr Leonard Chng |Ms Weng Xiaohong|
-|**S4-6**|Mr Ashley Tan|Mdm Wong Yea Sien|
-|**S4-7**|Mr Alan Ho| Mdm Maryam Binte Mohammad Sesth|
-|**S5-1**|Mr Muhamad Firdaus Bin Md Hair| |
+|**1RUGGED1**|Mdm Wong Yea Sien|Mr Muhamad Firdaus Bin Md Hair|
+|**1RUGGED2**|Mr Leonard Chng| Ms Annelis Nur'ain Binte Haris|
+|**1POWER1**| Ms Low Huixian Heidi| Mdm Elizabeth Ter |
+|**1POWER2**|Mr Alan Ho|Mr Tham Cheng Yuan|
+|**1GRIT1**|Ms Siti Nursyahidah Binte Ideris|Mr Danial Matin Bin Zaini|
+|**1GRIT2**|Ms Amanda Tan|Ms Yuan Xuelian|
+|**1BOLD1**|Mdm Maryam Binte Mohammad Sesth |Mr Bek Jun Hao|
+|**1BOLD2**|Mr Shen Ching Jen|Ms Ong Yi Lin Eileen|
+|**2RUGGED1**|Ms Loke Zhen Yi|Ms Chong Mea Fun|
+|**2RUGGED2**|Ms Sheereen Loke Kit Ying|Ms Tan Soh Leng |
+|**2POWER1**| Mdm Roslina Bte Mahmood | |
+|**2POWER2**|Mdm Amutha R. Amirthalingam||
+|**2GRIT1**|Ms Lai Liming| |
+|**2GRIT2**|Ms Liyana Filzah Binte Anuar |  |
+|**2BOLD1**|Ms Rusydiah Binte Abdul Razak|Mr Vincent Yap|
+|**2BOLD2**|Mr Muhammad Isham Bin Ishak||
+|**3RUGGED1**|Ms Leow Swee Khim| |
+|**3RUGGED2**|Ms Regina Boon| |
+|**3POWER1**|Mr Yap Choon Bock|Ms Cindy Wong |
+|**3POWER2**|Mdm Ang Sze Yi||
+|**3GRIT1**|Ms Verona d/o Rhamanan| |
+|**3GRIT2**|Ms Ravathi d/o Gunasegaran|Ms Hen Gek Mun, Crystal |
+|**3BOLD1**|Ms Tay Ru Hui| |
+|**3BOLD2**|Mdm Juliza Binte Zulkifli| |
+|**S4-1**|Mr Muhammad Khairulnizam B A R||
+|**S4-2**|Mdm Christabel Foon||
+|**S4-3**|Mr Francis Seah | |
+|**S4-4**|Ms Wendy Chew||
+|**S4-5**|Mdm Rahimah Bte Selamat||
+|**S4-6**|Mr Hu Chang Chuan||
+|**S4-7**|Mr Desmond Chan| |
+|**S4-8**|Mdm Betty Koh| |
+|**S5-1**|Ms Uma Devi d/o Nadesvaran| |
+|**S5-2**|Ms Ho Yi Ling| |
