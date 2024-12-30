@@ -37,7 +37,9 @@ variant: markdown
 |**S4-2**|Mdm Christabel Foon||
 |**S4-3**|Mr Francis Seah | |
 |**S4-4**|Ms Wendy Chew||
-|**S4-5**| ||
-|**S4-6**|||
-|**S4-7**|| |
-|**S5-1**|| |
+|**S4-5**|Mdm Rahimah Bte Selamat||
+|**S4-6**|Mr Hu Chang Chuan||
+|**S4-7**|Mr Desmond Chan| |
+|**S4-8**|Mdm Betty Koh| |
+|**S5-1**|Ms Uma Devi d/o Nadesvaran| |
+|**S5-2**|Ms Ho Yi Ling| |
