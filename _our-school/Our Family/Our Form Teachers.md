@@ -10,9 +10,9 @@ variant: markdown
 |Class | FT1 | FT2|
 | -------- | -------- |-------- |
 |**1RUGGED1**|Mdm Wong Yea Sien|Mr Muhamad Firdaus Bin Md Hair|
-|**1RUGGED2**|||
-|**1POWER1**| |  |
-|**1POWER2**|||
+|**1RUGGED2**|Mr Leonard Chng| Ms Annelis Nur'ain Binte Haris|
+|**1POWER1**| Ms Low Huixian Heidi| Mdm Elizabeth Ter |
+|**1POWER2**|Mr Alan Ho||
 |**1GRIT1**|||
 |**1GRIT2**|||
 |**1BOLD1**| ||
