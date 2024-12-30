@@ -9,15 +9,15 @@ variant: markdown
 
 |Class | FT1 | FT2|
 | -------- | -------- |-------- |
-|**1RUGGED1**|Mr Shen Ching Jen|Ms Loke Zhen Yi|
-|**1RUGGED2**|Ms Sheereen Loke Kit Ying| Ms Annelis Nur'ain Binte Haris|
-|**1POWER1**| Mdm Roslina Bte Mahmood| Ms Cindy Wong |
-|**1POWER2**|Mdm Amutha R Amirthalingam|Mr Azam Zaheerulhaq Abdul Mutalib|
-|**1GRIT1**|Ms Lai Liming|Mr Bek Jun Hao|
-|**1GRIT2**|Ms Liyana Filzah Binte Anuar |Ms Leow Swee Khim|
-|**1BOLD1**|Ms Rusydiah Binte Abdul Razak |Mr Vincent Yap|
-|**1BOLD2**|Mr Muhammad Isham Bin Ishak|Ms Amanda Tan|
-|**2RUGGED1**|Mr Goh Joo Leng|Lee Yu Jie Melvin |
+|**1RUGGED1**|||
+|**1RUGGED2**|||
+|**1POWER1**| |  |
+|**1POWER2**|||
+|**1GRIT1**|||
+|**1GRIT2**|||
+|**1BOLD1**| ||
+|**1BOLD2**|||
+|**2RUGGED1**|||
 |**2RUGGED2**| Ms Regina Boon |Ms Loo Wei Lin |
 |**2POWER1**| Mr Yap Choon Bock | Mr Goh Yang Kai|
 |**2POWER2**|Mdm Ang Sze Yi|Mr Timothy Swee Wei Qiang|
