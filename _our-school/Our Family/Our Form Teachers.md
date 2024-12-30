@@ -17,10 +17,10 @@ variant: markdown
 |**1GRIT2**|Ms Amanda Tan|Ms Yuan Xuelian|
 |**1BOLD1**|Mdm Maryam Binte Mohammad Sesth |Mr Bek Jun Hao|
 |**1BOLD2**|Mr Shen Ching Jen|Ms Ong Yi Lin Eileen|
-|**2RUGGED1**|||
-|**2RUGGED2**|  | |
-|**2POWER1**|  | |
-|**2POWER2**|||
+|**2RUGGED1**|Ms Loke Zhen Yi|Ms Chong Mea Fun|
+|**2RUGGED2**|Ms Sheereen Loke Kit Ying|Ms Tan Soh Leng |
+|**2POWER1**| Mdm Roslina Bte Mahmood | |
+|**2POWER2**|Mdm Amutha R. Amirthalingam||
 |**2GRIT1**|| |
 |**2GRIT2**||  |
 |**2BOLD1**|||
