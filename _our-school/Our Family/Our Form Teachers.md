@@ -21,22 +21,22 @@ variant: markdown
 |**2RUGGED2**|Ms Sheereen Loke Kit Ying|Ms Tan Soh Leng |
 |**2POWER1**| Mdm Roslina Bte Mahmood | |
 |**2POWER2**|Mdm Amutha R. Amirthalingam||
-|**2GRIT1**|| |
-|**2GRIT2**||  |
-|**2BOLD1**|||
-|**2BOLD2**| ||
-|**3RUGGED1**|| |
-|**3RUGGED2**|| |
-|**3POWER1**|| |
-|**3POWER2**|||
-|**3GRIT1**|| |
-|**3GRIT2**|| |
-|**3BOLD1**|| |
-|**3BOLD2**|| |
-|**S4-1**|||
-|**S4-2**|||
-|**S4-3**| | |
-|**S4-4**|||
+|**2GRIT1**|Ms Lai Liming| |
+|**2GRIT2**|Ms Liyana Filzah Binte Anuar |  |
+|**2BOLD1**|Ms Rusydiah Binte Abdul Razak|Mr Vincent Yap|
+|**2BOLD2**|Mr Muhammad Isham Bin Ishak||
+|**3RUGGED1**|Ms Leow Swee Khim| |
+|**3RUGGED2**|Ms Regina Boon| |
+|**3POWER1**|Mr Yap Choon Bock|Ms Cindy Wong |
+|**3POWER2**|Mdm Ang Sze Yi||
+|**3GRIT1**|Ms Verona d/o Rhamanan| |
+|**3GRIT2**|Ms Ravathi d/o Gunasegaran|Ms Hen Gek Mun, Crystal |
+|**3BOLD1**|Ms Tay Ru Hui| |
+|**3BOLD2**|Mdm Juliza Binte Zulkifli| |
+|**S4-1**|Mr Muhammad Khairulnizam B A R||
+|**S4-2**|Mdm Christabel Foon||
+|**S4-3**|Mr Francis Seah | |
+|**S4-4**|Ms Wendy Chew||
 |**S4-5**| ||
 |**S4-6**|||
 |**S4-7**|| |
