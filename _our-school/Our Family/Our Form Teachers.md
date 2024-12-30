@@ -18,9 +18,9 @@ variant: markdown
 |**1BOLD1**| ||
 |**1BOLD2**|||
 |**2RUGGED1**|||
-|**2RUGGED2**| Ms Regina Boon |Ms Loo Wei Lin |
-|**2POWER1**| Mr Yap Choon Bock | Mr Goh Yang Kai|
-|**2POWER2**|Mdm Ang Sze Yi|Mr Timothy Swee Wei Qiang|
+|**2RUGGED2**|  | |
+|**2POWER1**|  | |
+|**2POWER2**||Mr Timothy Swee Wei Qiang|
 |**2GRIT1**|Ms Verona d/o Rhamanan| |
 |**2GRIT2**|Ms Ravathi d/o Gunasegaran| Mdm Elizabeth Ter |
 |**2BOLD1**|Ms Tay Ru Hui|Ms Ho Yi Ling|
