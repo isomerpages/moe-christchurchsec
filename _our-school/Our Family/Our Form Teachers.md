@@ -12,11 +12,11 @@ variant: markdown
 |**1RUGGED1**|Mdm Wong Yea Sien|Mr Muhamad Firdaus Bin Md Hair|
 |**1RUGGED2**|Mr Leonard Chng| Ms Annelis Nur'ain Binte Haris|
 |**1POWER1**| Ms Low Huixian Heidi| Mdm Elizabeth Ter |
-|**1POWER2**|Mr Alan Ho||
-|**1GRIT1**|||
-|**1GRIT2**|||
-|**1BOLD1**| ||
-|**1BOLD2**|||
+|**1POWER2**|Mr Alan Ho|Mr Tham Cheng Yuan|
+|**1GRIT1**|Ms Siti Nursyahidah Binte Ideris|Mr Danial Matin Bin Zaini|
+|**1GRIT2**|Ms Amanda Tan|Ms Yuan Xuelian|
+|**1BOLD1**|Mdm Maryam Binte Mohammad Sesth |Mr Bek Jun Hao|
+|**1BOLD2**|Mr Shen Ching Jen|Ms Ong Yi Lin Eileen|
 |**2RUGGED1**|||
 |**2RUGGED2**|  | |
 |**2POWER1**|  | |
