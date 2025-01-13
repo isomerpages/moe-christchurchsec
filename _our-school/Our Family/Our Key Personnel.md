@@ -46,11 +46,11 @@ variant: markdown
 | **SH Student Management**    | Mr Muhammad Yazid Bin Ramli |
 | **SH ACT**    | Ms Ng Hui Ling   |
 | **SH CCE**    | Ms Nurul Aqidah Binte Shabudin  |
-| **SH English Language**    | Ms Rusydiah Abdul Razak    |
+| **SH English Language**    |  -  |
 | **SH Humanities**    | Ms Althea Yeo   |
 | **SH ICT**    | Mr Chong Zi Yi  |
-| **SH Leadership**    | Mr Bek Jun Hao |
-| **SH PE**    | Ms Sheereen Loke   |
+| **SH Leadership**    | - |
+| **SH PE**    | - |
 | **SH Science**    |  - |
 | **SH Tamil Language**    | Mdm Thilagavathy Kathiresan   |
 
@@ -68,7 +68,6 @@ variant: markdown
 | **ST Biology**| Mdm Juliza Binte Zulkifli| 
 | **ST Chemistry**| Ms Chong Mea Fun| 
 | **ST Design &amp; Technology**| Mdm Christabel Foon|
-| **ST History**| Mr Ashley Tan|
 | **ST Mathematics**| Mdm Betty Koh|
 | **ST Mathematics**| Ms Leow Swee Khim|
-| **ST English**| Mdm Low Huixian Heidi| 
+| **ST English**| Mdm Low Huixian Heidi|
