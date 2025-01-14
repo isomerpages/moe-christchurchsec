@@ -131,7 +131,7 @@ information on MOE Sexuality Education.</p>
 </li>
 </ol>
 <p></p>
-<h4><strong>Overview of&nbsp;CHRIST CHURCH SECONDARY SCHOOL’s&nbsp;Sexuality Education Programme for 2024</strong></h4>
+<h4><strong>Overview of&nbsp;CHRIST CHURCH SECONDARY SCHOOL’s&nbsp;Sexuality Education Programme for 2025</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -176,7 +176,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p>
 <br>
 </p>
-<p><strong>At Christ Church Secondary School, the following lessons from the Growing Years Programme will be taught in&nbsp;2024:</strong>
+<p><strong>At Christ Church Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 </li>
 </ol>
