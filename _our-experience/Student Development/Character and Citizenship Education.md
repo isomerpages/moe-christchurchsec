@@ -102,18 +102,14 @@ on sexuality issues.</p>
 </li>
 <li>
 <p>The Goals of Sexuality Education are to:</p>
-<p>(a)&nbsp;To help students make wise, responsible and informed decisions
-through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on
-human sexuality and the consequences of sexual activity;
-<br>(b) To help students know themselves and build healthy and rewarding relationships
-through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness,
-management of their thoughts, feelings and behaviours, development of empathy
-for others, possession of effective communication, problem-solving and
-decision-making skills; and
-<br>(c) To help students develop a moral compass, respect for themselves and
-for others as sexual beings, premised on the family as the basic unit of
-society, through the inculcation of&nbsp;positive mainstream values and
-attitudes&nbsp;about sexuality.</p>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.
+<br>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.
+<br>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
+<p></p>
 </li>
 </ol>
 <p></p>
