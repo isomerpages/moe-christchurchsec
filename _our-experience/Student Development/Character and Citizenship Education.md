@@ -183,50 +183,51 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <h4><strong>Secondary 1</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS1v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_1__1_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS2v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_1__2_.png">
 </div>
 <hr>
 <h4><strong>Secondary 2</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS3v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_2__1_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS4v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_2_2_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS5v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_2_3_.png">
 </div>
 <hr>
 <h4><strong>Secondary 3</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_3_1_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_3_2_.png">
 </div>
 <hr>
 <h4></h4>
 <h4><strong>Secondary 4</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_4_1_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_4_2_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_4_3_.png">
+</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS8.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS9.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS10.png">
-</div>
 <hr>
+<h4></h4>
 <h4><strong>Secondary 5</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_5.png">
 </div>
 <hr>
 <p></p>
@@ -235,27 +236,27 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, for Secondary 3 students to provide them
-with accurate information on STIs, HIV and protection from a health perspective.
-eTeens is conducted in two segments – a mass talk segment and a classroom-based
-programme.</p>
+with the Ministry of Education, to provide Secondary 3 students with accurate
+information on STIs, HIV and protection from a health perspective. eTeens
+is conducted in two segments – a mass talk segment and a classroom-based
+programme. The desired outcome of the eTeens programme is that students
+are empowered to make wise, informed and sensible decisions.</p>
 <p></p>
 </li>
 <li>
 <p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
-family. Abstinence and upholding family values are the key messages. The
-desired outcome of the eTeens programme is that students are empowered
-to make wise, informed and sensible decisions.</p>
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At Christ Church Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+<p><strong>At Christ Church Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS12.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Eteens.png">
+</div>
 <p><strong>Information for Parents</strong>
 </p>
 <ol start="10" data-tight="true" class="tight">
