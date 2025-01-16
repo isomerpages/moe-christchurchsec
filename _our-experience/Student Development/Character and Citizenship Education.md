@@ -173,15 +173,12 @@ of the possible consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p>
-<br>
-</p>
-<p><strong>At Christ Church Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
-</p>
+<hr>
 </li>
 </ol>
+<p><strong>At Christ Church Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+</p>
 <h4><strong>Secondary 1</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_1__1_.png">
 </div>
@@ -190,7 +187,6 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </div>
 <hr>
 <h4><strong>Secondary 2</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_2__1_.png">
 </div>
@@ -202,7 +198,6 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </div>
 <hr>
 <h4><strong>Secondary 3</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_3_1_.png">
 </div>
@@ -225,12 +220,10 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <hr>
 <h4></h4>
 <h4><strong>Secondary 5</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_5.png">
 </div>
 <hr>
-<p></p>
 <p><strong><em><u>eTeens</u></em><u> Programme:</u></strong>
 </p>
 <ol start="8" data-tight="true" class="tight">
