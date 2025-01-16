@@ -102,18 +102,14 @@ on sexuality issues.</p>
 </li>
 <li>
 <p>The Goals of Sexuality Education are to:</p>
-<p>(a)&nbsp;To help students make wise, responsible and informed decisions
-through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on
-human sexuality and the consequences of sexual activity;
-<br>(b) To help students know themselves and build healthy and rewarding relationships
-through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness,
-management of their thoughts, feelings and behaviours, development of empathy
-for others, possession of effective communication, problem-solving and
-decision-making skills; and
-<br>(c) To help students develop a moral compass, respect for themselves and
-for others as sexual beings, premised on the family as the basic unit of
-society, through the inculcation of&nbsp;positive mainstream values and
-attitudes&nbsp;about sexuality.</p>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.
+<br>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.
+<br>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
+<p></p>
 </li>
 </ol>
 <p></p>
@@ -135,7 +131,7 @@ information on MOE Sexuality Education.</p>
 </li>
 </ol>
 <p></p>
-<h4><strong>Overview of&nbsp;CHRIST CHURCH SECONDARY SCHOOL’s&nbsp;Sexuality Education Programme for 2024</strong></h4>
+<h4><strong>Overview of&nbsp;CHRIST CHURCH SECONDARY SCHOOL’s&nbsp;Sexuality Education Programme for 2025</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -177,89 +173,83 @@ of the possible consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p>
-<br>
-</p>
-<p><strong>At Christ Church Secondary School, the following lessons from the Growing Years Programme will be taught in&nbsp;2024:</strong>
-</p>
+<hr>
 </li>
 </ol>
+<p><strong>At Christ Church Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+</p>
 <h4><strong>Secondary 1</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS1v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_1__1_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS2v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_1__2_.png">
 </div>
 <hr>
 <h4><strong>Secondary 2</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS3v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_2__1_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS4v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_2_2_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS5v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_2_3_.png">
 </div>
 <hr>
 <h4><strong>Secondary 3</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_3_1_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_3_2_.png">
 </div>
 <hr>
 <h4></h4>
 <h4><strong>Secondary 4</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_4_1_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_4_2_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_4_3_.png">
+</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS8.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS9.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS10.png">
-</div>
 <hr>
+<h4></h4>
 <h4><strong>Secondary 5</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Sec_5.png">
 </div>
 <hr>
-<p></p>
 <p><strong><em><u>eTeens</u></em><u> Programme:</u></strong>
 </p>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, for Secondary 3 students to provide them
-with accurate information on STIs, HIV and protection from a health perspective.
-eTeens is conducted in two segments – a mass talk segment and a classroom-based
-programme.</p>
+with the Ministry of Education, to provide Secondary 3 students with accurate
+information on STIs, HIV and protection from a health perspective. eTeens
+is conducted in two segments – a mass talk segment and a classroom-based
+programme. The desired outcome of the eTeens programme is that students
+are empowered to make wise, informed and sensible decisions.</p>
 <p></p>
 </li>
 <li>
 <p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
-family. Abstinence and upholding family values are the key messages. The
-desired outcome of the eTeens programme is that students are empowered
-to make wise, informed and sensible decisions.</p>
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At Christ Church Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+<p><strong>At Christ Church Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/GYS/GYS12.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SEd/SEd_Eteens.png">
+</div>
 <p><strong>Information for Parents</strong>
 </p>
 <ol start="10" data-tight="true" class="tight">
@@ -270,14 +260,14 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="/files/Forms/GYS_Annex_A_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a> The completed form is to
-be submitted by 12/01/2024.</p>
+the start of the year and is also downloadable <a href="/files/2025/SEd_Opt_Out_Form_2025_Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a><a href="/files/Forms/GYS_Annex_A_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a> The
+completed form is to be submitted by 31/01/2025.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="/files/Forms/GYS_Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a> The completed form is to be
-submitted by 12/05/2024.</p>
+the start of the year and is also downloadable <a href="/files/2025/eTeens_Opt_Out_Form_2025_Annex_B.pdf" rel="noopener nofollow" target="_blank">here.</a> The completed
+form is to be submitted by 31/01/2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at <a href="ccss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ccss@moe.edu.sg</a> for discussion or to seek clarification
