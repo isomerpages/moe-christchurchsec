@@ -267,14 +267,14 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="/files/Forms/GYS_Annex_A_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a> The completed form is to
-be submitted by 12/01/2024.</p>
+the start of the year and is also downloadable <a href="/files/2025/SEd_Opt_Out_Form_2025_Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a><a href="/files/Forms/GYS_Annex_A_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a> The
+completed form is to be submitted by 31/01/2025.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="/files/Forms/GYS_Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a> The completed form is to be
-submitted by 12/05/2024.</p>
+the start of the year and is also downloadable <a href="/files/2025/eTeens_Opt_Out_Form_2025_Annex_B.pdf" rel="noopener nofollow" target="_blank">here.</a> The completed
+form is to be submitted by 31/01/2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at <a href="ccss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ccss@moe.edu.sg</a> for discussion or to seek clarification
