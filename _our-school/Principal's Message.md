@@ -2,152 +2,117 @@
 title: Principal's Message
 permalink: /our-family/p-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
+<p>Principal’s Message</p>
+<p>January 2025</p>
 <p>Dear CHRians,</p>
-<p></p>
-<center>
-<p><em>“I have come that they may have life, and have it to the full.” (John 10:10b, NIV)</em> 
-<br><em>“My purpose is to give them a rich and satisfying life.” (John 10:10b, NLT) </em>
-<br>
-</p></center>
-<p></p>
-<p>Jesus wants us to have abundant, overflowing lives. What would the abundant
-life look like to you in 2024?</p>
-<p>I don’t think Jesus was referring to abundance in material possessions
-like money and the latest devices – He wasn’t a wealthy man Himself. He
-also wasn’t referring to abundance in terms of popularity – He had His
-fair share of detractors.</p>
-<p>As we begin the year, here are three areas I wish all of us will be abundant
-in.</p>
-<p></p>
-<p><strong>Abundance in Relationships</strong>
+<p><strong>Three Observations in Japan</strong>
 </p>
-<p></p>
-<p>Jesus taught many important lessons about how we should relate to each
-other. For example:</p>
-<p></p>
-<p><em></em></p><center><em>“In everything, do to others what you would have them do to you, for this sums up the Law...” (Matthew 7:12)</em> 
-<br><em>“… Love your neighbour as yourself.” (Matthew 22:29)</em>
-<p></p></center>
-<p></p>
-<p></p>
-<p>The first verse (Matthew 7:12) is commonly referred to as the “Golden
-Rule”. If we follow these commandments, it will go a long way in helping
-us build and maintain strong relationships with our friends, schoolmates,
-teachers, family members and other loved ones.</p>
-<p></p>
-<center>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024/P message/P01.jpg">
-</div>
-<em>4-4’s VIA Project: Introducing elderly residents to DuoLingo to learn languages (6 Mar 2024)</em></center>
-<p></p>
-<p></p>
-<p>May we be blessed with abundance in our relationships!</p>
-<p></p>
-<p><strong>Abundance in Character</strong>
-</p>
-<p>Years ago, soon after I had gotten my driving license, I tried parking
-in a public car park for the first time. While reversing, I knew it had
-gone badly when I heard a little bump. I got off, and realised I had caused
-a small dent in the car parked in an adjacent lot. I panicked, and in a
-moment of moral failure, I got back into my car and fled the scene. Till
-now, I regret that I did not have the moral courage to leave a note with
-my name and contact details, so that I could make good the damage. On reflection,
-I resolved never to do something like that again.</p>
-<p>This should be a familiar quote: “Sow a thought, reap an action; sow an
-action, reap a habit; sow a habit, reap a character; sow a character, reap
-a destiny.”</p>
-<p>If I had continued not owning up to mistakes, and running away from taking
-responsibility, it would have become a habit, and eventually I would have
-reaped poor character. It applies to many other actions. For example, if
-you tell a lie once, twice, thrice, and then over and over again, lying
-would become a bad habit and that would reap dishonest character. Some
-of us struggle with anger management. When we get angry, we can sometimes
-lash out at those around us, even our parents. Nip your anger in the bud
-before it becomes part of your character.</p>
-<p>Similarly, when we think and act kindly and truthfully, that’s the kind
-of person we will become. Let’s sow positive thoughts and actions this
-year, and reap abundance in character.</p>
-<p></p>
-<p><strong>Abundance in Growth</strong>
-</p>
-<p></p>
-<p>A Big Hairy Audacious Goal is a long term, compelling target that companies
-and organisations set for themselves to inspire people to think big and
-take action. SpaceX is a spacecraft manufacturer and its Big Hairy Audacious
-Goal is to enable human exploration and settlement of Mars. Google, which
-needs no introduction, wants to organise the world’s information and make
-it universally accessible and useful.</p>
-<p></p>
-<p>Individuals can have Big Hairy Audacious Goals too – have any of you set
-New Year’s resolutions?</p>
-<p></p>
-<p>Here’s another quotable quote: “Do one thing everyday that scares you.”
-The point is to regularly do things that push you out of your comfort zone,
-because that is the best way to stretch yourself and grow.</p>
-<p>Listed below are some goals for you to consider:</p>
+<p>During the December holidays, I spent some time travelling in Japan. Here
+are three observations I made there. What do these tell us about Japanese
+culture and values?</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Read up one topic or chapter ahead in a subject you want to focus more
-on.</p>
+<p>Observation #1: Rubbish bins are rare in Japan. You will hardly see any
+on the streets, in shopping malls, train stations, and public toilets.
+Despite this, Japan is very clean. When buying food and drinks at a market,
+you are expected to stand near the stall to enjoy them, so that you can
+pass your trash back to the vendor when you are done. If you happen to
+have anything to throw away, like tissue paper or a food wrapper, you need
+to hold on to it, or keep it in your pocket, until you are back in your
+hotel. Many other big cities around the world also have few rubbish bins,
+for various reasons (e.g. as a precaution against terrorism), but are not
+as clean as Japanese cities.</p>
 </li>
 <li>
-<p>Complete <em>x</em> books.</p>
+<p>Observation #2: When you are travelling on a train in Japan, you will
+hardly ever hear locals talking – not even on the phone. You will also
+rarely hear phones ringing or notification alerts. If anyone is talking
+loudly, they are likely to be foreigners.</p>
 </li>
 <li>
-<p>Volunteer to be a presenter at morning assembly or an emcee at a school
-event.</p>
-</li>
-<li>
-<p>Form an interest group.</p>
-</li>
-<li>
-<p>Initiate a Values-in-Action project.</p>
-</li>
-<li>
-<p>Perform at Groovin’ Jamboree.</p>
-</li>
-<li>
-<p>[For Upper Sec CHRians] Sign up for the World of Work Experience.</p>
-</li>
-<li>
-<p>…… [Fill in your own audacious goals!]</p>
+<p>Observation #3: Japan has very interesting toilet bowls. In some public
+toilets, once you sit on the toilet bowl, it will automatically play music
+or pleasant sounds (like the sound of a flowing stream), while you are
+answering nature’s call.</p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
-<center>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024/P message/P02.jpg">
-</div>
-<em>Shriya (3-3), Arnold (4-1), and Xann (4-2) wrapping up Term 1 (8 Mar 2024)</em>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024/P message/P03.jpg">
-</div>
-<em>Firdauz (4-2), Siti Aiyla (4-4) and Varick (4-4) performing at Groovin’ Jamboree (23 Feb 2024)</em>
-
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024/P message/P04.png">
-</div>
-<em>Kah Yan (4-2) and Candice (4-4) at Royce Dental Surgery for World of Work Experience (Nov 2023)</em>
-
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024/P%20message/P05.jpg">
-</div>
-<em>Daniel (3-7) will be leading the Volleyball Interest Group this year</em>
-</center>
-<p></p>
-<p>Set some audacious goals for yourself to reach towards!</p>
-<p></p>
-<p>May 2024 be a year of abundance in relationships, character and growth
-for all of us in CHR!</p>
-<p></p>
-<p><em>[This message was adapted from my address to the school during the first morning assembly of the year on 2 Jan 2024.]</em>
+<p>&nbsp;Do you think there is a common thread linking these three observations?
+My theory is that consideration for others is highly valued in Japan, which
+explains, to some extent, all three observations.</p>
+<p>&nbsp;According to this <a href="https://japan-dev.com/blog/trash-cans-in-japan" rel="noopener noreferrer nofollow" target="_blank">website</a> that addresses
+the phenomenon of Japan’s “missing trash cans”, “In Japanese culture, societal
+harmony is among the most highly regarded values… inconveniencing others
+and disrupting societal harmony often requires an apology, even in situations
+that may seem minor to an outsider… Japanese people are especially sensitive
+toward public spaces and how they use them as an individual. They are aware
+that the public space belongs to others just as much as themselves, and
+because of this, keeping the environment clean simply becomes everyone’s
+personal concern. As a result, there’s a strong cultural norm of keeping
+public spaces clean and, therefore, handling your trash properly. There
+may be no trash cans around, but Japanese people aren’t bothered by this,
+as it’s already an established norm to carry the wrapper of your candy
+bar or the plastic bottle you finished in your bag until you get home.”</p>
+<p>This <a href="https://www.japan-guide.com/e/e2230.html" rel="noopener noreferrer nofollow" target="_blank">online Japan Guide</a> has
+a section on Train Manners, which advises travellers: “Keep your voice
+down. Talking loudly on trains is considered bad mannered and ranks highly
+amongst the most annoying behaviours on trains in Japan. Don’t talk on
+the phone… Set your phone to silent mode. Set the volume of your headphones
+low.”</p>
+<p>Similarly, musical toilet bowls masks the sounds of people relieving themselves,
+making the experience a pleasant one for all – even for those in neighbouring
+toilet cubicles!</p>
+<p>I think we can learn much from the Japanese about being Thoughtful Contributors,
+which is our focus for 2025. There will be many opportunities for all of
+us to be Thoughtful Contributors to each other, to the school, and to our
+environment.</p>
+<p>Here are two basic ways I would like all CHRians to be Thoughtful Contributors,
+based on Jesus’ teachings.</p>
+<p><strong>Let Your ‘Yes’ be ‘Yes’, and Your ‘No’ be ‘No’</strong>
+</p>
+<p><em>“… let your ‘Yes’ be ‘Yes’, and your ‘No’, ‘No’.” (Matthew 5:37)</em>
+</p>
+<p>When Jesus said this, He was teaching us to be men and women of our word.
+There is no need to swear in God’s name, or by heaven and earth, or on
+your life. If you are trustworthy, dependable, and honour what you say,
+people can just take you at your word. When you say ‘Yes’ and commit to
+something, follow through on your commitment and give it your all.</p>
+<p>Be wise about what you say ‘Yes’ and ‘No’ to. Say ‘Yes’ to learning, growth,
+and whatever is good for others, for the school, and for the community.
+Say ‘No’ to whatever is unhealthy, toxic, and hurtful to yourself and others.</p>
+<p><em>CHR Ambassadors and other student volunteers @ Open House 2024</em>
+</p>
+<p>Sometimes, saying ‘Yes’ all the time, even to good things, can lead to
+burnout. Having said that, I hope that you will say ‘Yes’ to opportunities
+more than you say ‘No’. Thoughtful Contributors turn up and are fully present.
+Thoughtful Contributors know that they have unique strengths, gifts, and
+personalities to bring to the table. When you say ‘No’, not only do you
+lose an opportunity to grow – you also lose an opportunity to contribute.</p>
+<p><em>Emcees, Class Champions, Designers, and Multimedia Managers preparing for Sec 1 Challenge Showcase</em>
+</p>
+<p><strong>Be Trustworthy With Little Things</strong>
+</p>
+<p><em>“Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.” (Luke 16:10)</em>
+</p>
+<p>Some of you hold leadership positions and responsibilities in your classes,
+CCAs, and Houses, such as Peer Support Mentors, CCE Champions and keyholders.
+Even if you do not hold a leadership position, I am sure you will be entrusted
+with, or volunteer to take on, certain responsibilities from time to time.
+Don’t look down on little things. As Thoughtful Contributors, fulfil your
+responsibilities, big or small, to the best of your abilities. If you can
+be trusted with little things, bigger things and bigger opportunities will
+come your way.</p>
+<p><em>Orientation Group Leaders leading Sec 1s in the school cheer @ CHR Family Dedication (Jan 2025)</em>
+</p>
+<p>In 2025, let’s all resolve to be Thoughtful Contributors who honour our
+word and are trustworthy even with little things!</p>
+<p>Mr Tay</p>
+<p><em>[This message was adapted from my address to the school during the first morning assembly of the year on 2 Jan 2025.]</em>
+</p>
+<p><strong>References:</strong>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://japan-dev.com/blog/trash-cans-in-japan</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.japan-guide.com/e/e2230.html</a>
 </p>
