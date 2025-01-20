@@ -81,6 +81,10 @@ something, follow through on your commitment and give it your all.</p>
 <p>Be wise about what you say ‘Yes’ and ‘No’ to. Say ‘Yes’ to learning, growth,
 and whatever is good for others, for the school, and for the community.
 Say ‘No’ to whatever is unhealthy, toxic, and hurtful to yourself and others.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="CHR Ambassadors and other student volunteers @ Open House 2024" src="/images/2025/P Message/Pmessage1.jpg">
+</div>
 <p><em>CHR Ambassadors and other student volunteers @ Open House 2024</em>
 </p>
 <p>Sometimes, saying ‘Yes’ all the time, even to good things, can lead to
@@ -89,6 +93,10 @@ more than you say ‘No’. Thoughtful Contributors turn up and are fully presen
 Thoughtful Contributors know that they have unique strengths, gifts, and
 personalities to bring to the table. When you say ‘No’, not only do you
 lose an opportunity to grow – you also lose an opportunity to contribute.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="CHR Ambassadors and other student volunteers @ Open House 2024" src="/images/2025/P Message/Pmessage2.jpg">
+</div>
 <p><em>Emcees, Class Champions, Designers, and Multimedia Managers preparing for Sec 1 Challenge Showcase</em>
 </p>
 <p><strong>Be Trustworthy With Little Things</strong>
@@ -103,6 +111,10 @@ Don’t look down on little things. As Thoughtful Contributors, fulfil your
 responsibilities, big or small, to the best of your abilities. If you can
 be trusted with little things, bigger things and bigger opportunities will
 come your way.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025/P Message/Pmessage3.jpg">
+</div>
 <p><em>Orientation Group Leaders leading Sec 1s in the school cheer @ CHR Family Dedication (Jan 2025)</em>
 </p>
 <p>In 2025, let’s all resolve to be Thoughtful Contributors who honour our
@@ -111,8 +123,6 @@ word and are trustworthy even with little things!</p>
 <p><em>[This message was adapted from my address to the school during the first morning assembly of the year on 2 Jan 2025.]</em>
 </p>
 <p><strong>References:</strong>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://japan-dev.com/blog/trash-cans-in-japan</a>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.japan-guide.com/e/e2230.html</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://japan-dev.com/blog/trash-cans-in-japan</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.japan-guide.com/e/e2230.html</a>
 </p>
