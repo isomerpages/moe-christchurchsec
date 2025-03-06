@@ -42,7 +42,6 @@ variant: markdown
 | | |
 | -------- | -------- |
 | **Asst. Year Head**    | Ms Lynn Tang    |
-| **Asst. Year Head**    | -    |
 | **SH Student Management**    | Mr Muhammad Yazid Bin Ramli |
 | **SH ACT**    | Ms Ng Hui Ling   |
 | **SH CCE**    | Ms Nurul Aqidah Binte Shabudin  |
