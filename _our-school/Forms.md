@@ -68,7 +68,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>For parents to change the DMA options. More information can be found
-<a href="/files/Forms/annex_a_c__dma_2025.pdf" rel="noopener nofollow" target="_blank">here.</a>
+<a href="/files/Forms/DMA2025.pdf" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 </td>
 </tr>
