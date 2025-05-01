@@ -51,7 +51,7 @@ for direct admission into the school in three talent areas:</p>
 </div>
 <p></p>
 <h4>Important Dates</h4>
-<p></p><a class="isomer-image-wrapper" href="www.moe.gov.sg/dsa-sec"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSAa.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/dsa-sec"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSAa.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/dsa-sec-application"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSAb.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/nmsdsa-sec-application"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSAc.png"></a>
 <p></p>
