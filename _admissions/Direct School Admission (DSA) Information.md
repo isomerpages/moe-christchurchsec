@@ -59,10 +59,10 @@ for direct admission into the school in three talent areas:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSAd.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSA10.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSAe.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSA11.png">
 </div>
