@@ -12,7 +12,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: 2025 Honours Day Students
           date: 01 June 2025
