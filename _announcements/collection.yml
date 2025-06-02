@@ -2,5 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - Sec 1  eRegistration 2025.md
-      - Release of the GCE NLevel Examination Results.md
+      - 2025 Honours Day Students Photos.md
