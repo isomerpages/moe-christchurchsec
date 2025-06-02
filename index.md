@@ -18,9 +18,7 @@ sections:
           announcement: The Honours Day 2025 student photos have been uploaded and are
             accessible via the link below.
           link_text: Click Here
-          link_url: "Photos for Honours Day (Students) are ready to share with the public:
-            https://drive.google.com/drive/folders/1gWEfcPNZ_-Cd5-W8a87o1UEMg5m\
-            pa8ac?usp=sharing"
+          link_url: https://drive.google.com/drive/folders/1gWEfcPNZ_-Cd5-W8a87o1UEMg5mpa8ac
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
