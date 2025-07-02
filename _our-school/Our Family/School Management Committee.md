@@ -13,7 +13,7 @@ variant: markdown
 | **Hon. Secretary** | Mr Adrian Tay Juncheng |
 | **Hon. Treasurer** | Mr Benjamin Gan Thiam Soon |
 | **Member/Chaplain** | Rev. William Tham Kok Meng |
-| **Member** | Mr Aaron Bahadur Masih |
+| **Member/Diocesan Secretary for Schools** | Dr Tan Bee Geok |
 | **Member** | Mr Patrick Koh Ley Boon|
 | **Member** | Mr Ngiau Chee Wei |
 | **Member** | Mr Foo Jia Ming |
