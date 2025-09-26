@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/Open House/OH_2024_EDM.jpg">
 </div>
-<h3>Open House 2024</h3>
+<h3>Open House 2025</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 Nov 2024 (Fri)</p>
+<p>28 Nov 2025 (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10.00am - 1.00pm</p>
@@ -34,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 Nov 2024 (Sat)</p>
+<p>29 Nov 2025 (Sat)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8.30am - 12.30pm</p>
@@ -43,7 +43,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h3>2024 Highlights</h3>
+<h3>2025 Highlights</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -56,10 +56,10 @@ variant: tiptap
 <p>Actvity</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>22 Nov (Fri)</p>
+<p>28 Nov (Fri)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>23 Nov (Sat)</p>
+<p>29 Nov (Sat)</p>
 </th>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ variant: tiptap
 <p>10.00am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00am</p>
+<p>10.00am</p>
 </td>
 </tr>
 <tr>
@@ -78,10 +78,10 @@ variant: tiptap
 <p>OE Experience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.30am to 11.30am</p>
+<p>10.30am to 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.00am to 11.30am</p>
+<p>10.30am to 12.00pm</p>
 </td>
 </tr>
 <tr>
@@ -126,11 +126,5 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="350" width="500" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/i5EkHJ6a5Y0"></iframe>
 </div>
-<h3>2022 e-Open House Panel</h3>
-<p>We were delighted to share our previous Open House panel sessions. During
-the session, we shared our education philosophies, highlights some of our
-unique experiences and answered some of the frequently asked questions</p>
-<div class="iframe-wrapper">
-<iframe height="350" width="500" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l60a4OTfHJs"></iframe>
-</div>
+<h3></h3>
 <p></p>
