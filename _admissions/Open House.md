@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/Open House/OH_2024_EDM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Open House/Open_House_2025.jpg">
 </div>
 <h3>Open House 2025</h3>
 <table style="minWidth: 50px">
