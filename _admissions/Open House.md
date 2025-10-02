@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Open House/Open_House_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Open House/Open_House_Social_Media_Poster.png">
 </div>
 <h3>Open House 2025</h3>
 <table style="minWidth: 50px">
@@ -52,7 +52,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Actvity</p>
+<p>Activity</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>28 Nov (Fri)</p>
