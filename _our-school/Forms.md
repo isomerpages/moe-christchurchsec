@@ -49,8 +49,6 @@ variant: tiptap
 <br>Go to “Services” and click on “Financial Assistance”. Login with SingPass
 required.</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>Online Form
 <br><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
