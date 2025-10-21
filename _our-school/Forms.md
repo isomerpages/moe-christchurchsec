@@ -63,7 +63,19 @@ child)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>For parents to apply for MOE Financial Assistance Scheme 2026.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents are encouraged to submit an online application.</p>
+</li>
+<li>
+<p>More information can be found here:
+<br><a href="https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students</a>
+</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
