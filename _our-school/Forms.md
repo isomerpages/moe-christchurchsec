@@ -41,13 +41,16 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Financial Assistance Scheme 2026</p>
+<p><a href="/files/2025/MOE_FAS_Application_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Scheme 2026</a>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Via Parents Gateway
 <br>Go to “Services” and click on “Financial Assistance”. Login with SingPass
 required.</p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Online Form
 <br><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
