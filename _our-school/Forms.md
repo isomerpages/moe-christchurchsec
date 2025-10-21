@@ -51,7 +51,7 @@ required.</p>
 <li>
 <p>Online Form
 <br><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
-<br>Login with SIngPass is required.</p>
+<br>Login with SingPass is required.</p>
 </li>
 <li>
 <p>Hardcopy Form
