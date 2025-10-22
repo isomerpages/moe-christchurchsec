@@ -45,10 +45,10 @@ variant: markdown
 | **SH Student Management**    | Mr Muhammad Yazid Bin Ramli |
 | **SH ACT**    | Ms Ng Hui Ling   |
 | **SH CCE**    | Ms Nurul Aqidah Binte Shabudin  |
-| **SH English Language**    |  -  |
+| **SH English Language**    |  Ms Rusydiah Binte Abdul Razak  |
 | **SH Humanities**    | Ms Althea Yeo   |
 | **SH ICT**    | Mr Chong Zi Yi  |
-| **SH Leadership**    | - |
+| **SH Leadership**    | Mr Bek Jun Hao |
 | **SH PE**    | - |
 | **SH Science**    |  - |
 | **SH Tamil Language**    | Mdm Thilagavathy Kathiresan   |
