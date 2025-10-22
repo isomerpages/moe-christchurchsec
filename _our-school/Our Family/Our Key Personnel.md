@@ -62,7 +62,6 @@ variant: markdown
 
 | | |
 | -------- | -------- |
-| **LT English Language**| Mr Tan Chai Hok|
 | **LT Physics**| Mr Low Swee Hian|
 | **ST Biology**| Mdm Juliza Binte Zulkifli| 
 | **ST Chemistry**| Ms Chong Mea Fun| 
