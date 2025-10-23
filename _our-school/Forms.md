@@ -27,7 +27,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/chrdma2024" rel="noopener noreferrer nofollow" target="_blank">Application to change DMA Option</a>
+<p><a href="https://go.gov.sg/chrmodifydma" rel="noopener noreferrer nofollow" target="_blank">Application to change DMA Option</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
