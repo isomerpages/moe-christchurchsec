@@ -27,7 +27,7 @@ third_nav_title: For Students
 <h4>Secondary 5:</h4>
 <p><em>Available at a later date</em>.</p>
 <hr>
-<p><em>*Please note that uniform sales will be made available at a later date.</em>
+<p>
 <br>
 </p>
 <p></p>
