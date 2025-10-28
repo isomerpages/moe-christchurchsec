@@ -2,6 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - For Students/Uniform.md
-      - For Students/Booklist.md
       - For Students/.keep
+      - For Students/Booklist.md
+      - For Students/Uniform.md
