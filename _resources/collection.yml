@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - For Students/Uniform.md
-      - For Students/Booklist & Uniform.md
+      - For Students/Booklist.md
       - For Students/.keep
