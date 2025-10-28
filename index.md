@@ -9,16 +9,6 @@ sections:
   - hero:
       background: /images/Homepage/homepage-banner.gif
       url: open-house
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: 2025 Honours Day Students
-          date: 01 June 2025
-          announcement: The Honours Day 2025 student photos have been uploaded and are
-            accessible via the link below.
-          link_text: Click Here
-          link_url: https://drive.google.com/drive/folders/1gWEfcPNZ_-Cd5-W8a87o1UEMg5mpa8ac
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
