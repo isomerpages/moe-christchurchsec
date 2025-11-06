@@ -9,7 +9,7 @@ third_nav_title: For Students
 <p><em>Available at a later date</em>.</p>
 <hr>
 <h4>Secondary 2:</h4>
-<p><a href="/files/2025/Booklist 2026/CCSS_Sec_2_v1.pdf" rel="noopener nofollow" target="_blank">Secondary 2 2026 Booklist</a>
+<p><a href="/files/2025/Booklist 2026/CCSS_Sec_2_v1.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (G1, G2, G3) 2026 Booklist</a>
 </p>
 <hr>
 <h4>Secondary 3:</h4>
