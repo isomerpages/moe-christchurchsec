@@ -174,8 +174,9 @@ they present their arguments with justification and evidence in a persuasive
 and respectful manner. In the process, students are taught to practise
 active listening, an important skill, so that they can raise meaningful
 points of interest during the debate session or class discussion.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english3.jpg">
+<img style="width: 60%; height: auto;" height="auto" width="100%" alt="ImageSecondary 3 students taking part in the intra-class debate" src="/images/Our%20Experience/Academic%20Programmes/English/english3.jpg">
 </div>
 <p>Secondary 3 students taking part in the intra-class debate</p>
 <h5>4. Project Work &amp; Presentation</h5>
