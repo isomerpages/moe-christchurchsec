@@ -23,7 +23,13 @@ readers</p>
 </ul>
 <h3>Subject Offerings</h3>
 <h5>Lower Secondary</h5>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -70,7 +76,13 @@ readers</p>
 </tbody>
 </table>
 <h5>Upper Secondary</h5>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -128,30 +140,29 @@ the school library, to explore the books available.</p>
 to the themes for the respective levels during the blended learning days.
 Some themes covered include Festivals &amp; Cultures, Food &amp; The Heart,
 Family, Friendship and The Roles We Play in Society. In addition, our Secondary
-2 students are given opportunities to share their thoughts on issues that
-matter to them during morning assemblies as part of the ‘CHR Read’ effort.</p>
+2 and 3 students are given opportunities to share their thoughts on issues
+that matter to them during morning assemblies as part of the ‘CHR Read’
+effort.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/English/english2_2025.jpg">
 </div>
-<p>Secondary 2 students presenting for ‘CHR Read</p>
-<p>
-<br>
-</p>
+<p>Secondary 2 students presenting for ‘CHR Reads'</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english4.jpeg">
 </div>
 <p>Students visit the LibroHub and complete reviews of an article or book
 which interests them</p>
-<h5>2. Public Speaking Programmes – S1 CHR Speakers &amp; S2 Storytelling</h5>
+<h5>2. Public Speaking Programmes – S1 CHR Speakers</h5>
 <p>As part of the department’s effort to build students’ confidence in public
 speaking and their ability to think on their feet, the Lower Secondary
 students are involved in the above programmes. ‘CHR Speakers’ gives the
 Secondary 1 students an opportunity to present their recount of an authentic
-experience in an engaging manner. ‘CHR Storytelling’ aims to equip our
-Secondary 2 students with the basic storytelling techniques through personal
-stories with accompanying photographs.</p>
+experience in an engaging manner.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/English/english1_2025.jpg">
 </div>
 <p>Secondary 1 participants for CHR Speakers</p>
 <h5>3. Debate and Discussion for the Upper Secondary Students</h5>
@@ -163,8 +174,9 @@ they present their arguments with justification and evidence in a persuasive
 and respectful manner. In the process, students are taught to practise
 active listening, an important skill, so that they can raise meaningful
 points of interest during the debate session or class discussion.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english3.jpg">
+<img style="width: 60%; height: auto;" height="auto" width="100%" alt="ImageSecondary 3 students taking part in the intra-class debate" src="/images/Our%20Experience/Academic%20Programmes/English/english3.jpg">
 </div>
 <p>Secondary 3 students taking part in the intra-class debate</p>
 <h5>4. Project Work &amp; Presentation</h5>
@@ -174,43 +186,54 @@ project work which allows rich exchange of ideas to take place.</p>
 <h3>Stretch Programmes</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Scrabble Competition (National &amp; Zonal)</p>
+<p>Student Journalists: Les Literato</p>
 </li>
 <li>
-<p>Student Journalists &amp; Radio Jockeys: Les Literato &amp; El Viva Voce</p>
+<p>Reading Ambassadors: CHReaders</p>
 </li>
 <li>
 <p>National Schools Literature Festival (NSLF)</p>
 </li>
 <li>
-<p>Commonwealth Essay Competition</p>
+<p>Queen's Commonwealth Essay Competition</p>
 </li>
 <li>
-<p>YMCA Plain English Speaking Awards (PESA)</p>
+<p>National Public Speaking Competition (NPSC)</p>
 </li>
 </ul>
 <h3>Achievements</h3>
-<p><strong>2023</strong>
+<p><strong>2024</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Commonwealth Essay Competition
-<br>- 1 Gold Finalist
-<br>- 1 Gold awardees
-<br>- 37 Silver Awardees
-<br>- 20 Bronze Awardees</p>
+<p>Commonwealth Essay Competition</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>4 Gold Awardees</p>
 </li>
-</ul>
-<p><strong>2022</strong>
-</p>
-<ul data-tight="true" class="tight">
 <li>
-<p>Commonwealth Essay Competition
-<br>- 1 Gold Finalist
-<br>- 6 Silver Awardees
-<br>- 18 Bronze Awardees
+<p>22 Silver Awardees</p>
+</li>
+<li>
+<p>31 Bronze Awardees
 <br>
 </p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Schools Literature Festival (NSLF)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 3 (Darshanaa, Sydnee, Janyyaa, Sharlina): Winner of Unseen Debate
+<br>
+</p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
