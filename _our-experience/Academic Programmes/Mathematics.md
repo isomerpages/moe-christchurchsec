@@ -12,7 +12,13 @@ capacity to deal with ambiguity so as to apply Mathematical skills in practical
 tasks and real-life problems.</p>
 <h3>Subject Offerings</h3>
 <h5>Lower Secondary</h5>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -45,7 +51,13 @@ tasks and real-life problems.</p>
 </tbody>
 </table>
 <h5>Upper Secondary</h5>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -105,7 +117,7 @@ tasks and real-life problems.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Computer Applications</p>
+<p>Computing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -175,15 +187,6 @@ Mathematics Competition (AMC) and Singapore Mathematics Olympiad (SMO)
 <br>- 1 Distinction
 <br>- 20 Credits
 <br>- 40 Proficiency
-<br>- 4 Participation
-<br>
-</p>
-</li>
-<li>
-<p><strong>Singapore Mathematical Olympiad (SMO)</strong>
-<br>- 1 Bronze
-<br>- 7 Honourable Mention
-<br>- 58 Participation
 <br>
 </p>
 </li>
@@ -194,6 +197,7 @@ Mathematics Competition (AMC) and Singapore Mathematics Olympiad (SMO)
 <br>- 38 Participation</p>
 </li>
 </ul>
+<p></p>
 <p><strong>2022</strong>
 </p>
 <ul>
