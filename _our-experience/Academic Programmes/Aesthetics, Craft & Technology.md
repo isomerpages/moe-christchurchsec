@@ -215,13 +215,19 @@ The programme also celebrates students’ achievements through the Design
 Innovative, and Adaptive Design.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT05_2025.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT05_2025.jpg">
 </div>
 <p><em>Sec 3 students discovering design ideas through their Learning Journey to Bird Paradise</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT06_2025.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/dnt.jpg">
+</div>
+<p><em>A student’s mock-up design inspired by insights gained during the Bird Paradise Learning Journey.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT06_2025.png">
 </div>
 <p><em>Awardees for the D&amp;T Creative Awards 2025</em>
 </p>
