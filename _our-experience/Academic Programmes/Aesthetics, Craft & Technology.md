@@ -41,13 +41,13 @@ excel.</p>
 <p>Art#</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✓</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✓</p>
 </td>
 </tr>
 <tr>
@@ -55,13 +55,13 @@ excel.</p>
 <p>Food &amp; Consumer Education#</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✓</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✓</p>
 </td>
 </tr>
 <tr>
@@ -69,13 +69,13 @@ excel.</p>
 <p>Music#</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✓</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✓</p>
 </td>
 </tr>
 <tr>
@@ -83,13 +83,13 @@ excel.</p>
 <p>Design &amp; Technology#</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✓</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✓</p>
 </td>
 </tr>
 </tbody>
@@ -272,7 +272,7 @@ compassionate heart for others. Our students also participate in Art competition
 yearly to raise awareness within the community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT08_2025.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT08_2025.jpg">
 </div>
 <p><em>Art-making in the studio</em>
 </p>
