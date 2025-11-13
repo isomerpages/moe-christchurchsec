@@ -188,11 +188,11 @@ a profound understanding of scientific principles in action.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/Science01.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/Science01.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science02.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science02.jpg">
 </div>
 <p></p>
 <h4><strong><u>Upper Secondary: Exploring Future Pathways</u></strong></h4>
@@ -204,32 +204,27 @@ look into science at the tertiary level and potential career pathways,
 connecting their passion for science to future possibilities.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science03.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science03.jpg">
 </div>
-<blockquote>
 <p><em>NUS Physics Demo Laboratory Learning Journey</em>
 </p>
-</blockquote>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science04.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science04.jpg">
 </div>
-<blockquote>
-<p><em>Students participating in a hands-on Biomedical Science Laboratory activity in Republic Polytechnic</em>
-</p>
-</blockquote>
+<p>Students participating in a hands-on Biomedical Science Laboratory activity
+in Republic Polytechnic</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science05.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science05.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science06.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science06.jpg">
 </div>
-<blockquote>
-<p><em>Deepening scientific interests through authentic learning experiences with Singapore Heart Foundation and National Kidney Foundation</em>
-</p>
-</blockquote>
+<p>Deepening scientific interests through authentic learning experiences
+with Singapore Heart Foundation and National Kidney Foundation</p>
 <p></p>
 <h3>Stretch Programmes</h3>
 <p>Students who show passion and potential in Science will be provided with
@@ -321,14 +316,14 @@ options</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science07.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science07.jpg">
 </div>
 <p><strong><em>Our students achieve 2nd place in the Influencer Showdown category.</em></strong>
 <br>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science08.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science08.jpg">
 </div>
 <p><strong><em>Our student receiving the Bronze award for the 2025 Singapore Junior Chemistry Olympiad</em></strong>
 </p>
