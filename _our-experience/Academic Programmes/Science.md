@@ -173,7 +173,7 @@ STEM for future learning and work.</p>
 classroom concepts to real-world applications, building critical thinking
 and confidence in every student.</p>
 <p></p>
-<h4><strong><u>Secondary 1 and 2: Building a Strong Foundation and Sharpening Critical &amp; Inventive Thinking</u></strong></h4>
+<h4><strong>Secondary 1 and 2: Building a Strong Foundation and Sharpening Critical &amp; Inventive Thinking</strong></h4>
 <p></p>
 <p>At this level, we make abstract science tangible. Students discover how
 STEM solve everyday problems during an immersive visit to the Science Centre.
@@ -195,7 +195,7 @@ a profound understanding of scientific principles in action.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science02.jpg">
 </div>
 <p></p>
-<h4><strong><u>Upper Secondary: Exploring Future Pathways</u></strong></h4>
+<h4><strong>Upper Secondary: Exploring Future Pathways</strong></h4>
 <p>The focus shifts to deepening scientific interests through authentic learning
 experiences. Students collaborate on health science projects with external
 organisations like the Singapore Heart Foundation and National Kidney Foundation.
