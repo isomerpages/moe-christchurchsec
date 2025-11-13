@@ -141,7 +141,7 @@ to the themes for the respective levels during the blended learning days.
 Some themes covered include Festivals &amp; Cultures, Food &amp; The Heart,
 Family, Friendship and The Roles We Play in Society. In addition, our Secondary
 2 and 3 students are given opportunities to share their thoughts on issues
-that matter to them during morning assemblies as part of the ‘CHR Read’
+that matter to them during morning assemblies as part of the ‘CHR Reads’
 effort.</p>
 <p></p>
 <div class="isomer-image-wrapper">
