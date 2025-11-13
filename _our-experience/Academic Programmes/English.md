@@ -145,7 +145,7 @@ that matter to them during morning assemblies as part of the ‘CHR Read’
 effort.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/English/english2_2025.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/English/english2_2025.jpg">
 </div>
 <p>Secondary 2 students presenting for ‘CHR Reads'</p>
 <p></p>
@@ -162,7 +162,7 @@ Secondary 1 students an opportunity to present their recount of an authentic
 experience in an engaging manner.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/English/english1_2025.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/English/english1_2025.jpg">
 </div>
 <p>Secondary 1 participants for CHR Speakers</p>
 <h5>3. Debate and Discussion for the Upper Secondary Students</h5>
@@ -176,7 +176,7 @@ active listening, an important skill, so that they can raise meaningful
 points of interest during the debate session or class discussion.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="ImageSecondary 3 students taking part in the intra-class debate" src="/images/Our%20Experience/Academic%20Programmes/English/english3.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="ImageSecondary 3 students taking part in the intra-class debate" src="/images/Our%20Experience/Academic%20Programmes/English/english3.jpg">
 </div>
 <p>Secondary 3 students taking part in the intra-class debate</p>
 <h5>4. Project Work &amp; Presentation</h5>
