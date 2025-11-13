@@ -184,17 +184,35 @@ Mathematics Competition (AMC) and Singapore Mathematics Olympiad (SMO)
 <ul>
 <li>
 <p><strong>Australian Mathematics Competition (AMC)</strong>
-<br>- 1 Distinction
-<br>- 20 Credits
-<br>- 40 Proficiency
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Distinction</p>
+</li>
+<li>
+<p>20 Credits</p>
+</li>
+<li>
+<p>40 Proficiency
 <br>
 </p>
 </li>
+</ul>
+</li>
 <li>
 <p><strong>International Mathematics Olympiad Challenge (IMPC)</strong>
-<br>- 2 Champion
-<br>- 5 Elitist
-<br>- 38 Participation</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2 Champion</p>
+</li>
+<li>
+<p>5 Elitist</p>
+</li>
+<li>
+<p>38 Participation</p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
@@ -203,24 +221,45 @@ Mathematics Competition (AMC) and Singapore Mathematics Olympiad (SMO)
 <ul>
 <li>
 <p><strong>Australian Mathematics Competition (AMC)</strong>
-<br>- 39 Credits
-<br>- 119 Proficiency
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>39 Credits</p>
+</li>
+<li>
+<p>119 Proficiency
 <br>
 </p>
+</li>
+</ul>
 </li>
 <li>
 <p><strong>Huaxia Cup</strong>
-<br>- 1 Gold
-<br>- 7 Silver
-<br>- 19 Bronze
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Gold</p>
+</li>
+<li>
+<p>7 Silver</p>
+</li>
+<li>
+<p>19 Bronze
 <br>
 </p>
 </li>
+</ul>
+</li>
 <li>
 <p><strong>World Mathematics Invitational</strong> 
-<br>- 3 Bronze
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 Bronze
 <br>
 </p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>

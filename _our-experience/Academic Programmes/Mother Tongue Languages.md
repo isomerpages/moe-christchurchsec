@@ -12,7 +12,13 @@ languages. Through various authentic learning platforms, students can use
 their MTL beyond the classroom and learn to appreciate their culture and
 heritage.</p>
 <h3>Subject Offerings</h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -87,7 +93,7 @@ heritage.</p>
 </tbody>
 </table>
 <h3>Key Programmes</h3>
-<h5>1. Mother Tongue Languages Fortnight programme</h5>
+<h4>Mother Tongue Languages Fortnight programme</h4>
 <p>The Mother Tongue Fortnight programme aims to provide platforms for students
 to actively learn MTL and the associated culture to experience MTL as 'a
 living language'. The students get to speak their MTL and better understand
@@ -106,7 +112,7 @@ musical instruments.</p>
 <img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0003.png">
 </div>
 <p>Learning to play Dhol Tash</p>
-<h5>2. Festive Celebrations</h5>
+<h5>Festive Celebrations</h5>
 <p>To share the joy of cultural festivities among students from different
 backgrounds, the MTL department organises Chinese New Year, Hari Raya,
 Tamil New Year and Deepavali celebrations annually. Through these celebrations,
@@ -124,7 +130,7 @@ and join in the celebrations with their peers and teachers.</p>
 <img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0006.png">
 </div>
 <p>Deepavali celebrations</p>
-<h5>3. Conversational Chinese &amp; Malay</h5>
+<h5>Conversational Chinese &amp; Malay</h5>
 <p>The Conversational Chinese and Malay (CCM) is an MOE-initiated programme
 which aims to strengthen Singapore’s multi-racial compact and enables students
 to learn functional Chinese or Malay Language to engage their counterparts

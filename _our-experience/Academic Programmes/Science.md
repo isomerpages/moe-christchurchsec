@@ -21,7 +21,13 @@ STEM for future learning and work.</p>
 </ul>
 <h3>Subject Offerings</h3>
 <h5>Lower Secondary</h5>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -54,7 +60,13 @@ STEM for future learning and work.</p>
 </tbody>
 </table>
 <h5>Upper Secondary</h5>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -157,20 +169,63 @@ STEM for future learning and work.</p>
 </tbody>
 </table>
 <h3>Key Programmes</h3>
-<p>Our Experiential Learning Programme (ELP) aims to expose students to authentic
-applications of Science in meaningful aspects of their lives. In developing
-skill sets in the Ways of Thinking and Doing in Science, students also
-get instilled with the joy of learning and the spirit of active learning
-so that they better appreciate the ubiquitous nature of Science.</p>
-<p>Our Secondary One students have the opportunity to visit the Science Centre
-in a programme where they discover how industries use the disciplines in
-Science, Technology, Engineering and Mathematics (STEM) and problem solving
-processes to develop solutions for everyday issues. ‘Marvel in Science’
-provides our Secondary Two students the platform to debunk certain scientific
-myths that are found in their everyday lives and in popular culture. In
-this game-based programme, students will learn and apply Science to various
-scenarios in today’s popular culture and build foundational skills critically
-to discern fact from fiction.</p>
+<p>Our science programme is built on active, hands-on learning. We connect
+classroom concepts to real-world applications, building critical thinking
+and confidence in every student.</p>
+<p></p>
+<h4><strong>Secondary 1 and 2: Building a Strong Foundation and Sharpening Critical &amp; Inventive Thinking</strong></h4>
+<p></p>
+<p>At this level, we make abstract science tangible. Students discover how
+STEM solve everyday problems during an immersive visit to the Science Centre.
+Students learn to navigate a world of information by discerning fact from
+fiction in our game-based ‘Marvel in Science’ programme.</p>
+<p>The lower secondary curriculum culminates in a major integrative project
+that connects science with our Outdoor Education LLP. Drawing from their
+resilience camp experiences, students apply science principles to a guided
+challenge which is designing and building a functional miniature zipline
+from recycled materials. This project fosters teamwork, ingenuity, and
+a profound understanding of scientific principles in action.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/Science01.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science02.jpg">
+</div>
+<p></p>
+<h4><strong>Upper Secondary: Exploring Future Pathways</strong></h4>
+<p>The focus shifts to deepening scientific interests through authentic learning
+experiences. Students collaborate on health science projects with external
+organisations like the Singapore Heart Foundation and National Kidney Foundation.
+Furthermore, learning journeys to tertiary institutions offer a direct
+look into science at the tertiary level and potential career pathways,
+connecting their passion for science to future possibilities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science03.jpg">
+</div>
+<p><em>NUS Physics Demo Laboratory Learning Journey</em>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science04.jpg">
+</div>
+<p>Students participating in a hands-on Biomedical Science Laboratory activity
+in Republic Polytechnic</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science05.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science06.jpg">
+</div>
+<p>Deepening scientific interests through authentic learning experiences
+with Singapore Heart Foundation and National Kidney Foundation</p>
+<p></p>
 <h3>Stretch Programmes</h3>
 <p>Students who show passion and potential in Science will be provided with
 opportunities to participate in fairs and competitions. These programmes
@@ -182,97 +237,93 @@ thinking skills and analytical skills, as well as strengthen the students’
 confidence. Students will gain valuable insights into their own learning
 abilities, allowing them to adjust their approach to learning in a fun
 and innovative manner.</p>
-<p>The annual International Elementz Fair, organised by Anderson Serangoon
-Junior College, aims to encourage students to venture into the world of
-research and discovery. It is a platform for Upper Secondary students to
-showcase their primary and secondary scientific research, and develop prototypes
-that can contribute to the betterment of society. Students are exposed
-to real world issues that challenge them to think critically for solutions
-based on scientific knowledge and skills.</p>
-<p>The IgnITE Skills Challenge is an annual competition that introduces technical
-skills and showcases a deeper understanding of courses offered by the Institutes
-of Technical Education (ITEs). Challenges are designed to be engaging and
-fun to make learning enjoyable and memorable. Students also learn new skills
-and gain insights into future career choices through workshops that are
-organised in collaborative and competitive settings.</p>
+<p></p>
+<p>Key programmes include:</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;<strong> International Elementz Fair, Singapore Science and Engineering Fair (SSEF), Singapore Youth Science Fair (SYSF)</strong>:
+An opportunity for students to conduct scientific research, develop prototypes
+that can benefit society, and apply their knowledge to solve real-world
+problems.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp; <strong>IgnITE Skills Challenge:</strong> A competition
+that introduces students to technical skills and ITE courses through engaging,
+hands-on challenges and workshops, providing insights into future career
+options</p>
+<p></p>
 <h3>Achievements</h3>
-<p><strong>2023</strong>
-</p>
-<ul>
-<li>
-<p><strong>Ignite Skills Challenge 2023</strong>
-<br>- 1 team achieving Bronze - X bots Category
-<br>- 6 teams achieving Top 10 placement
-<br>
-</p>
-</li>
-<li>
-<p><strong>Singapore Chemistry Olympiad</strong>
-<br>- 1 Bronze
-<br>- 2 Merit
-<br>
-</p>
-</li>
-<li>
-<p><strong>Singapore Physics Olympiad</strong>
-<br>- Team Results
-<br>- 4 Bronze
-<br>- Individual results
-<br>- 1 Bronze
-<br>- 8 Honourable Mentions
-<br>
-</p>
-</li>
-<li>
-<p><strong>Singapore Biology Olympiad</strong>
-<br>- 1 Silver
-<br>- 2 Honourable Mentions
-<br>
-</p>
-</li>
-<li>
-<p><strong>Elementz competition</strong>
-<br>- 1 Silver
-<br>
-</p>
-</li>
-</ul>
-<p><strong>2022</strong>
-</p>
-<ul>
-<li>
-<p><strong>Ignite Skills Challenge 2022</strong>
-<br>- Gold - Cyber Warrior category
-<br>- Silver - Social Media Retailing category
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Science/science1.jpg">
-</div>
-</li>
-</ul>
-<p><strong>2019</strong>
+<p><strong>2025</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>18th International Elementz Fair</strong>
-<br>- 2 Silver
-<br>- 1 Bronze
-<br>- 2 Certificate of Commendation
-<br>
-</p>
-</li>
-</ul>
-<p><strong>2018</strong>
+<p><strong>Singapore Junior Science Olympiad</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>2018 Singapore Youth Science Fair</strong>
-<br>- 1 Distinction, 2 Silver
-<br>- Most Innovative Project Award
-<br>- Most Outstanding Participation Award
-<br>
+<p>SJCHO - 1 Bronze, 1 Merit</p>
+</li>
+<li>
+<p>SJBO - 2 Silver, 1 Bronze, 2 Honourable mentions</p>
+</li>
+<li>
+<p>SJPO -&nbsp; 1 Silver, 1 Bronze</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Ignite Skills Challenge 2025</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2 teams in Top 10 - Business enterprise category</p>
+</li>
+<li>
+<p>1 team in Top 10 - X-bots</p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
+<p><strong>2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Singapore Junior Science Olympiad</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SJCHO - 1 Bronze</p>
+</li>
+<li>
+<p>SJBO - 1 Silver, 1 Bronze, 2 Honourable mentions</p>
+</li>
+<li>
+<p>SJPO -&nbsp; 1 Silver</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Ignite Skills Challenge 2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 teams in Top 10 - in various categories</p>
+</li>
+<li>
+<p>1 team achieving 2nd place - Influencer</p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science07.jpg">
+</div>
+<p><strong><em>Our students achieve 2nd place in the Influencer Showdown category.</em></strong>
+<br>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science08.jpg">
+</div>
+<p><strong><em>Our student receiving the Bronze award for the 2025 Singapore Junior Chemistry Olympiad</em></strong>
+</p>
