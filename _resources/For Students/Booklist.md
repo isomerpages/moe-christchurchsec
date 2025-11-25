@@ -13,7 +13,7 @@ third_nav_title: For Students
 </p>
 <hr>
 <h4>Secondary 3:</h4>
-<p><a href="/files/2025/Booklist 2026/CCSS_Sec_3_G1_v1.pdf" rel="noopener nofollow" target="_blank">Secondary 3 (G1) 2026 Booklist</a>
+<p><a href="/files/2025/Booklist 2026/ccss_sec_3_g1_v2.pdf" rel="noopener nofollow" target="_blank">Secondary 3 (G1) 2026 Booklist</a>
 <br><a href="/files/2025/Booklist 2026/CCSS_Sec_3_G2_v1.pdf" rel="noopener nofollow" target="_blank">Secondary 3 (G2) 2026 Booklist</a>
 <br><a href="/files/2025/Booklist 2026/CCSS_Sec_3_G3_v1.pdf" rel="noopener nofollow" target="_blank">Secondary 3 (G3) 2026 Booklist</a>
 </p>
