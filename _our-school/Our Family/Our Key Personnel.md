@@ -16,7 +16,7 @@ variant: markdown
 
 | **Vice-Principal** |**Vice-Principal** |
 | -------- | -------- | 
-| Mdm Heng Eu Lin |Mr Victor Ong |
+| Mdm Heng Eu Lin | |
 
 
 
