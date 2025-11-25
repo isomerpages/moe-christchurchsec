@@ -47,11 +47,11 @@ variant: markdown
 | **SH CCE**    | Ms Nurul Aqidah Binte Shabudin  |
 | **SH English Language**    |  Ms Rusydiah Binte Abdul Razak  |
 | **SH Humanities**    | Ms Althea Yeo   |
-| **SH ICT**    | Mr Chong Zi Yi  |
 | **SH Leadership**    | Mr Bek Jun Hao |
-| **SH PE**    | - |
+| **SH PE**    | Ms Sheereen Loke |
 | **SH Science**    |  - |
 | **SH Tamil Language**    | Mdm Thilagavathy Kathiresan   |
+| **SH Chinese Language**    | Ms Yuan Xuelian   |
 
 | | |
 | -------- | -------- |
