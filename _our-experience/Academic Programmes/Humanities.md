@@ -177,6 +177,7 @@ connect the knowledge and skills they have acquired in the classroom to
 the real world. As part of the department's inquiry approach to the Humanities,
 students learn by doing, seeing, and experiencing.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Hums/hums1.jpg">
 </div>
