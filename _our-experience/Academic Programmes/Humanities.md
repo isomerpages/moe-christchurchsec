@@ -26,7 +26,13 @@ and values from the study of the Humanities.</p>
 </li>
 </ul>
 <h5>Lower Secondary</h5>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -87,7 +93,13 @@ and values from the study of the Humanities.</p>
 </tbody>
 </table>
 <h5>Upper Secondary</h5>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -155,7 +167,38 @@ foster self-directed learners who are curious and passionate about the
 Humanities. Students learn through various experiential learning methods,
 such as Class-based Inquiry, Learning Journeys as well as Historical and
 Geographical Investigations. The department also leverages technology to
-bring the world into the classroom, thus enhancing students' learning experiences.
+bring the world into the classroom, thus enhancing students' learning experiences.</p>
+<p>The department's emphasis on outdoor and experiential learning is a unique
+feature of the Humanities education at Christ Church Secondary School.
+Students are encouraged to take up the role of young investigators and
+engage their senses to explore various topics in History and Geography.
+The Humanities Experiential Learning Programme (HELP) allows students to
+connect the knowledge and skills they have acquired in the classroom to
+the real world. As part of the department's inquiry approach to the Humanities,
+students learn by doing, seeing, and experiencing.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Hums/hums1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Hums/hums2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Hums/hums3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Hums/hums4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Hums/hums5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Hums/hums6.jpg">
+</div>
+<p>
 <br>
 </p>
 <p>The department's emphasis on outdoor and experiential learning is a unique
@@ -166,17 +209,8 @@ The Humanities Experiential Learning Programme (HELP) allows students to
 connect the knowledge and skills they have acquired in the classroom to
 the real world. As part of the department's inquiry approach to the Humanities,
 students learn by doing, seeing, and experiencing.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Hums/hums001.jpg">
-</div>
 <p>Students on a learning journey at Sungei Buloh</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Hums/hums002.jpg">
-</div>
 <p>Students interviewing tourists on a learning journey at Marina Bay</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Hums/hums003.jpg">
-</div>
 <p>Students engaging a mini archaeological dig lesson called ‘Totally Diggin’
 History’</p>
 <h3>Stretch Programmes</h3>
