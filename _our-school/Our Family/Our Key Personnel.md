@@ -31,7 +31,7 @@ variant: markdown
 | **HOD English Language**    | Ms NurulJannah Binte Ishak   |
 | **HOD Science**    | Mr Muhamad Firdaus Bin Mohamed Yasin   |
 | **HOD Humanities**    | Mr Sng Thiam Eng   |
-| **HOD ICT**    | -   |
+| **HOD ICT**    | Ms Tan Lay Hiok Faye   |
 | **HOD Mathematics**    | Mdm Sandy Wong   |
 | **HOD Mother Tongue**    | Mr Gavin Chong   |
 | **HOD PE &amp; CCA**    | Mr Ho Chee Hoong   |
@@ -46,10 +46,12 @@ variant: markdown
 | **SH ACT**    | Ms Ng Hui Ling   |
 | **SH CCE**    | Ms Nurul Aqidah Binte Shabudin  |
 | **SH English Language**    |  Ms Rusydiah Binte Abdul Razak  |
+| **SH Mathematics**    | Mr Desmond Kan   |
 | **SH Humanities**    | Ms Althea Yeo   |
+| **SH Geography**    | Mr Low Woon Kiat Nicholas   |
 | **SH Leadership**    | Mr Bek Jun Hao |
 | **SH PE**    | Ms Sheereen Loke |
-| **SH Science**    |  - |
+| **SH Science**    |  Ms Soon Huey Mynn Lorraine |
 | **SH Tamil Language**    | Mdm Thilagavathy Kathiresan   |
 | **SH Chinese Language**    | Ms Yuan Xuelian   |
 
