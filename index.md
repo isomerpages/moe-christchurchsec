@@ -15,6 +15,7 @@ sections:
       id: infobar
       button: click here
       url: https://www.christchurchsec.moe.edu.sg/open-house/
+      description: 28 & 29 November 2025
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
