@@ -3,7 +3,7 @@ title: Humanities
 permalink: /our-curriculum/academic/humanities/
 description: ""
 third_nav_title: Academic Programmes
-variant: markdown
+variant: tiptap
 ---
 <h3>Introduction</h3>
 <p>The Humanities department in Christ Church Secondary School is dedicated
@@ -202,18 +202,6 @@ students learn by doing, seeing, and experiencing.</p>
 <p>
 <br>
 </p>
-<p>The department's emphasis on outdoor and experiential learning is a unique
-feature of the Humanities education at Christ Church Secondary School.
-Students are encouraged to take up the role of young investigators and
-engage their senses to explore various topics in History and Geography.
-The Humanities Experiential Learning Programme (HELP) allows students to
-connect the knowledge and skills they have acquired in the classroom to
-the real world. As part of the department's inquiry approach to the Humanities,
-students learn by doing, seeing, and experiencing.</p>
-<p>Students on a learning journey at Sungei Buloh</p>
-<p>Students interviewing tourists on a learning journey at Marina Bay</p>
-<p>Students engaging a mini archaeological dig lesson called ‘Totally Diggin’
-History’</p>
 <h3>Stretch Programmes</h3>
 <p>The Humanities department offers a range of activities to engage students
 beyond the syllabus and help them develop skills in research, writing,
@@ -235,60 +223,7 @@ opinions. In addition, these programmes can also help students understand
 the decision-making process taken by governments and the importance of
 trade-offs and calculated risks in making decisions for the good of society.
 This can help students appreciate the complexity of governance and the
-challenges involved in balancing competing interests and priorities.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Hums/hums004.jpg">
-</div>
-<p>Students attending a sitting of Parliament</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Hums/hums005.jpg">
-</div>
-<p>Students at Nanyang Technological University for Model United Nations</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Hums/hums006.jpg">
-</div>
-<p>Students presenting their award-winning exhibit at the National Institute
-of Education for the Singapore History Day Challenge
+challenges involved in balancing competing interests and priorities.
 <br>
-</p>
-<h2>Achievements</h2>
-<p>
-<br><strong>2023</strong>
-</p>
-<p><strong>MOE History Challenge 2023</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>3 Certificate of participation</p>
-</li>
-<li>
-<p>1 shortlisted for History Talent Development Programme (HTDP)&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>Nanyang Technological University Model United Nations</p>
-</li>
-<li>
-<p>8 Certificate of Participation</p>
-</li>
-</ul>
-<p><strong>2022 </strong>
-<br>
-<br><strong>National Youth Environment Conference</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>9 Certificate of Participation</p>
-</li>
-<li>
-<p>1 Outstanding Delegate Award</p>
-</li>
-<li>
-<p>10th ASEAN Quiz</p>
-</li>
-<li>
-<p>Qualifying Rounds</p>
-</li>
-</ul>
-<p>
 <br>
 </p>
