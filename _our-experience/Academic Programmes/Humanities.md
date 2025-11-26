@@ -178,30 +178,29 @@ the real world. As part of the department's inquiry approach to the Humanities,
 students learn by doing, seeing, and experiencing.</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Hums/hums1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Hums/hums2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Hums/hums3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Hums/hums4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Hums/hums5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Hums/hums6.jpg">
-</div>
-<p>
-<br>
-</p>
+<figure>  
+<img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums1.jpg">  
+</figure>
+<img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums2.jpg">  
+
+<figure>  
+<img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums3.jpg">  
+<figcaption>Students engaging in Geographical Investigation at Sungei Buloh</figcaption>  
+</figure>
+<img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums4.jpg">  
+
+<img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums5.jpg">  
+
+<figure>  
+<img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums6.jpg">  
+<figcaption>Students interviewing tourists during their experiential learning at Marina Bay</figcaption> 
+</figure>
+<figure>  
+<img style="width: 60%; height: auto;" alt="Image" src="/images/2025/Hums/hums7.jpg">  
+<figcaption>Students engaging a mini archaeological dig lesson called ‘Totally Diggin’ History’</figcaption> 
+</figure>
+
+
 <h3>Stretch Programmes</h3>
 <p>The Humanities department offers a range of activities to engage students
 beyond the syllabus and help them develop skills in research, writing,
@@ -224,6 +223,21 @@ the decision-making process taken by governments and the importance of
 trade-offs and calculated risks in making decisions for the good of society.
 This can help students appreciate the complexity of governance and the
 challenges involved in balancing competing interests and priorities.
+	
+</p><figure>  
+<img style="width: 80%; height: auto;" alt="Image" src="/images/2025/Hums/hums8.jpg">  
+<figcaption>Students attending a sitting of Parliament </figcaption> 
+</figure>
+<figure>  
+<img style="width: 80%; height: auto;" alt="Image" src="/images/2025/Hums/hums9.jpg">  
+<figcaption>Delegates at the Singapore Chinese Girls’ Model United Nations in March 2025 </figcaption> 
+<figure>  
+<img style="width: 80%; height: auto;" alt="Image" src="/images/2025/Hums/hums10.jpg">  
+<figcaption>Delegates at the Singapore Model Cabinet in March 2025 </figcaption> 
+<figure>  
+<img style="width: 80%; height: auto;" alt="Image" src="/images/2025/Hums/hums11.jpg">  
+<figcaption>Students presenting their award-winning exhibit at the National Institute of Education for the Singapore History Day Challenge </figcaption> 
+</figure>
 <br>
 <br>
-</p>
+<p></p></figure></figure>
