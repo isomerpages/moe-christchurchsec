@@ -225,17 +225,17 @@ This can help students appreciate the complexity of governance and the
 challenges involved in balancing competing interests and priorities.
 	
 </p><figure>  
-<img style="width: 80%; height: auto;" alt="Image" src="/images/2025/Hums/hums8.jpg">  
+<img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums8.jpg">  
 <figcaption>Students attending a sitting of Parliament </figcaption> 
 </figure>
 <figure>  
-<img style="width: 80%; height: auto;" alt="Image" src="/images/2025/Hums/hums9.jpg">  
+<img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums9.jpg">  
 <figcaption>Delegates at the Singapore Chinese Girls’ Model United Nations in March 2025 </figcaption> 
 <figure>  
-<img style="width: 80%; height: auto;" alt="Image" src="/images/2025/Hums/hums10.jpg">  
+<img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums10.jpg">  
 <figcaption>Delegates at the Singapore Model Cabinet in March 2025 </figcaption> 
 <figure>  
-<img style="width: 80%; height: auto;" alt="Image" src="/images/2025/Hums/hums11.jpg">  
+<img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums11.jpg">  
 <figcaption>Students presenting their award-winning exhibit at the National Institute of Education for the Singapore History Day Challenge </figcaption> 
 </figure>
 <br>
