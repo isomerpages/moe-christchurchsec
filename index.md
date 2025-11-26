@@ -9,6 +9,12 @@ sections:
   - hero:
       background: /images/Homepage/homepage-banner.gif
       url: open-house
+  - infobar:
+      title: Open House 2025
+      subtitle: Christ Church Secondary School
+      id: infobar
+      button: Click here for more detials
+      url: https://www.christchurchsec.moe.edu.sg/open-house/
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
