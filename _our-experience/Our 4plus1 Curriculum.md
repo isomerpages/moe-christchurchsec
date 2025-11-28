@@ -33,7 +33,8 @@ in various activities, as one community.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/tEWySNXYCV4?si=ejGgGr4nFO6eUq-b"></iframe>
 </div>
 <p>Read more about the curriculum here:
-<br>https://www.8days.sg/entertainment/local/four-day-school-week-singapore-850686</p>
+<br><a href="https://www.8days.sg/entertainment/local/four-day-school-week-singapore-850686" rel="noopener nofollow" target="_blank">https://www.8days.sg/entertainment/local/four-day-school-week-singapore-850686</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/4plus1/straits%20times%202019.jpeg">
 </div>

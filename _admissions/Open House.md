@@ -69,7 +69,7 @@ variant: tiptap
 <p>10.00am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.00am</p>
+<p>10.00am, 11.30am</p>
 </td>
 </tr>
 <tr>
