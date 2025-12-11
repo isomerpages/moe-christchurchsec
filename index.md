@@ -10,7 +10,7 @@ sections:
       background: /images/Homepage/homepage-banner.gif
       url: open-house
   - infobar:
-      title: Secondary 1 Registration
+      title: 2026 Secondary 1 e-Registration
       subtitle: Christ Church Secondary School
       id: infobar
       button: click here
