@@ -27,7 +27,7 @@ third_nav_title: For Students
 <p>REPORTING TIME</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1:45 PM - 2:00PM</strong>
+<p><strong>1:45 PM</strong>
 </p>
 </td>
 </tr>
