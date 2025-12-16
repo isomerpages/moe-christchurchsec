@@ -44,7 +44,7 @@ variant: markdown
 | **Asst. Year Head**    | Ms Lynn Tang    |
 | **Asst. Year Head**    | Mr Vincent Yap    |
 | **SH Student Management**    | Mr Muhammad Yazid Bin Ramli |
-| **SH D&amp;T**    | Ms Ng Hui Ling   |
+| **SH Design &amp; Technology**    | Ms Ng Hui Ling   |
 | **SH CCE**    | Ms Nurul Aqidah Binte Shabudin  |
 | **SH English Language**    |  Ms Rusydiah Binte Abdul Razak  |
 | **SH Mathematics**    | Mr Desmond Kan   |
