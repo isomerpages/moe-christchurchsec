@@ -35,21 +35,21 @@ variant: markdown
 | **HOD Mathematics**    | Mdm Sandy Wong   |
 | **HOD Mother Tongue**    | Mr Gavin Chong   |
 | **HOD PE &amp; CCA**    | Mr Ho Chee Hoong   |
-| **Year Head (Sec 1 &amp; 3)**    |  Ms Siti Farisa Binte Mohamad Noor   |
-| **Year Head (Sec 2, 4 &amp; 5)**    | Mr Andy Lee  |
+| **Year Head**    |  Ms Siti Farisa Binte Mohamad Noor   |
+
 
 
 | | |
 | -------- | -------- |
 | **Asst. Year Head**    | Ms Lynn Tang    |
+| **Asst. Year Head**    | Mr Vincent Yap    |
 | **SH Student Management**    | Mr Muhammad Yazid Bin Ramli |
-| **SH ACT**    | Ms Ng Hui Ling   |
+| **SH D&amp;T**    | Ms Ng Hui Ling   |
 | **SH CCE**    | Ms Nurul Aqidah Binte Shabudin  |
 | **SH English Language**    |  Ms Rusydiah Binte Abdul Razak  |
 | **SH Mathematics**    | Mr Desmond Kan   |
-| **SH Humanities**    | Ms Althea Yeo   |
 | **SH Geography**    | Mr Low Woon Kiat Nicholas   |
-| **SH Leadership**    | Mr Bek Jun Hao |
+| **SH Student Leadership**    | Mr Bek Jun Hao |
 | **SH PE**    | Ms Sheereen Loke |
 | **SH Science**    |  Ms Soon Huey Mynn Lorraine |
 | **SH Tamil Language**    | Mdm Thilagavathy Kathiresan   |
