@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Our Family
 variant: markdown
 ---
-<img src="/images/Our%20Family/chr_school_leaders.jpg" style="width:500px">
-<div align="center">(L to R) Mdm Heng, Mr Ong &amp; Mr Tay</div>
+<img src="/images/Our%20Family/SL.jpg" style="width:500px">
+<div align="center">(L to R) Mr Tay, Mrs Ong &amp; Mdm Heng</div>
 
 ### School Leaders
 
@@ -16,7 +16,7 @@ variant: markdown
 
 | **Vice-Principal** |**Vice-Principal** |
 | -------- | -------- | 
-| Mdm Heng Eu Lin | |
+| Mdm Heng Eu Lin | Mrs Yvonne Ong |
 
 
 
