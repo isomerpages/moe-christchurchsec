@@ -25,18 +25,17 @@ variant: markdown
 | | |
 | -------- | -------- |
 | **School Staff Developer**    | Mrs Amy Yap    |
-| **HOD ACT**    | Ms Lee Siew Foong  |
-| **HOD CCE**    | Ms Belle Lim   |
+| **Year Head**    |  Ms Siti Farisa Binte Mohamad Noor   |
 | **HOD Discipline**    | Mdm Mandy Choo  |
 | **HOD English Language**    | Ms NurulJannah Binte Ishak   |
-| **HOD Science**    | Mr Muhamad Firdaus Bin Mohamed Yasin   |
-| **HOD Humanities**    | Mr Sng Thiam Eng   |
-| **HOD ICT**    | Ms Tan Lay Hiok Faye   |
 | **HOD Mathematics**    | Mdm Sandy Wong   |
+| **HOD Science**    | Mr Muhamad Firdaus Bin Mohamed Yasin   |
 | **HOD Mother Tongue**    | Mr Gavin Chong   |
+| **HOD Humanities**    | Mr Sng Thiam Eng   |
+| **HOD ACT**    | Ms Lee Siew Foong  |
+| **HOD CCE**    | Ms Belle Lim   |
 | **HOD PE &amp; CCA**    | Mr Ho Chee Hoong   |
-| **Year Head**    |  Ms Siti Farisa Binte Mohamad Noor   |
-
+| **HOD ICT**    | Ms Tan Lay Hiok Faye   |
 
 
 | | |
@@ -44,16 +43,18 @@ variant: markdown
 | **Asst. Year Head**    | Ms Lynn Tang    |
 | **Asst. Year Head**    | Mr Vincent Yap    |
 | **SH Student Management**    | Mr Muhammad Yazid Bin Ramli |
+| **SH Student Leadership**    | Mr Bek Jun Hao |
+| **SH English Language**    |  Ms Rusydiah Binte Abdul Razak  |
+| **SH Chinese Language**    | Ms Yuan Xuelian   |
+| **SH Tamil Language**    | Mdm Thilagavathy Kathiresan   |
+| **SH Mathematics**    | Mr Desmond Kan   |
+| **SH Science**    |  Ms Soon Huey Mynn Lorraine |
+| **SH Geography**    | Mr Low Woon Kiat Nicholas   |
 | **SH Design &amp; Technology**    | Ms Ng Hui Ling   |
 | **SH CCE**    | Ms Nurul Aqidah Binte Shabudin  |
-| **SH English Language**    |  Ms Rusydiah Binte Abdul Razak  |
-| **SH Mathematics**    | Mr Desmond Kan   |
-| **SH Geography**    | Mr Low Woon Kiat Nicholas   |
-| **SH Student Leadership**    | Mr Bek Jun Hao |
 | **SH PE**    | Ms Sheereen Loke |
-| **SH Science**    |  Ms Soon Huey Mynn Lorraine |
-| **SH Tamil Language**    | Mdm Thilagavathy Kathiresan   |
-| **SH Chinese Language**    | Ms Yuan Xuelian   |
+
+
 
 | | |
 | -------- | -------- |
