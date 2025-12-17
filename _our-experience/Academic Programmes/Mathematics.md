@@ -171,7 +171,7 @@ through role playing and working with their peers.</p>
 <figure>
 <img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths4.jpg">
 <figcaption>Learning about how to manage expenses</figcaption>
-<figure>	
+</figure>	
 	
 <h3>Stretch Programmes</h3>
 <p>Students are exposed to a broader community of Mathematics to stretch
@@ -180,9 +180,16 @@ to take part in international and national competitions such as Australian
 Mathematics Competition (AMC) and Singapore Mathematics Olympiad (SMO)
 .</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths5.jpg">
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths5.jpg">
 </div>
-<p>Certificate presentation for the Australian Mathematics Competition</p>
+
+<figure>
+<figcaption>
+Certificate presentation for the Australian Mathematics Competition
+</figcaption>
+</figure>
+
+
 <h3>Achievements</h3>
 <p><strong>2023</strong>
 </p>
@@ -267,4 +274,4 @@ Mathematics Competition (AMC) and Singapore Mathematics Olympiad (SMO)
 </ul>
 </li>
 </ul>
-<p></p></figure></figure>
+<p></p>
