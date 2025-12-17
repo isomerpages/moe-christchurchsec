@@ -265,39 +265,36 @@ are committed to develop our students to become curious learners with a
 compassionate heart for others. Our students also participate in Art competitions
 yearly to raise awareness within the community.</p>
 <p></p>
-<div class="isomer-image-wrapper">
+<figure>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT08_2025.jpg">
-</div>
-<p><em>Art-making in the studio</em>
-</p>
+<figcaption>Art-making in the studio</figcaption>
 <p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/combine.jpg">
-</div>
-<p><em>Participation for 2025 Live On Festival</em>
-</p>
+<figcaption>Participation for 2025 Live On Festival</figcaption>
+</figure>
+
 <h4>Music</h4>
 <p>The Music Unit aims to develop student’s aesthetics sensitivity and critical,
 adaptive and inventive thinking skills through the experience of a variety
 of music traditions and genres. Students experience musical expressions
 through active listening, collaborative performance and creative composition.</p>
 <p></p>
-<div class="isomer-image-wrapper">
+
+<figure>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT12_2025.jpg">
-</div>
-<p><em>Learning about rhythms through playing a percussion instrument.</em>
-</p>
+<figcaption>Learning about rhythms through playing a percussion instrument.</figcaption>
+</figure>
+
 <h4>Arts Education Programme (AEP)</h4>
 <p>Besides our academic programme from the subjects offered, we also have
 non-academic programmes, namely the Arts Education Programme. There are
 three segments in the Arts Education Programme (AEP) - Exposure, Experience
 and Excursion.</p>
 <p></p>
-<div class="isomer-image-wrapper">
+
+<figure>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT13_2025.jpg">
-</div>
-<p><em>AEP Exposure provides our students with the opportunity to understand different types of arts performances during assembly programmes</em>
-</p>
+<figcaption>AEP Exposure provides our students with the opportunity to understand different types of arts performances during assembly programmes</figcaption>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT14_2025.png">
@@ -316,4 +313,4 @@ and Excursion.</p>
 </div>
 <p>AEP Excursion provides our students opportunities to attend external arts-related
 exhibitions and performances</p>
-<p></p>
+<p></p></figure>
