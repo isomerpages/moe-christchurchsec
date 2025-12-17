@@ -1,9 +1,9 @@
 ---
 title: Aesthetics, Craft & Technology
-permalink: /our-curriculum/Academic/Aesthetic-Craft-n-Technology/
+permalink: /our-curriculum/academic/aesthetic-craft-n-technology/
 description: ""
 third_nav_title: Academic Programmes
-variant: tiptap
+variant: markdown
 ---
 <h3>Introduction</h3>
 <p>The Aesthetics, Craft &amp; Technology Department (ACT) consists of four
@@ -174,34 +174,28 @@ room.</p>
 financial planning, culinary skills, and the importance of nutrition for
 all lower secondary students.</p>
 <p></p>
-<div class="isomer-image-wrapper">
+<figure>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT01_2025.jpg">
-</div>
-<p><em>Lower Secondary students frying noodles during practical lesson</em>
-</p>
+<figcaption>Lower Secondary students frying noodles during practical lesson
+</figcaption>
 <p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/act001.jpg">
-</div>
-<p><em>Students learn culinary skills in the FCE kitchen</em>
-</p>
+<figcaption>Students learn culinary skills in the FCE kitchen.
+</figcaption>
 <p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT02_2025.jpg">
-</div>
-<p><em>Blazing Chilli Shrimp Burger prepared for Junior Chef Competition</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT03_2025.jpg">
-</div>
-<p><em>Examples of dishes taught using a range of culinary skills in Secondary Three</em>
-</p>
+<figcaption>Blazing Chilli Shrimp Burger prepared for Junior Chef Competition
+</figcaption>
 <p></p>
-<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT03_2025.jpg">
+<figcaption>Examples of dishes taught using a range of culinary skills in Secondary Three
+</figcaption>
+<p></p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT04_2025.jpg">
-</div>
-<p><em>Learning Journey to Ayam Brand Research and Development facility</em>
-</p>
+<figcaption>Learning Journey to Ayam Brand Research and Development facility
+</figcaption>	
+</figure>
+
 <p></p>
 <h4>Design &amp; Technology</h4>
 <p>The Design &amp; Technology (D&amp;T) programme at CHR inspires students
@@ -214,29 +208,23 @@ The programme also celebrates students’ achievements through the Design
 &amp; Technology Awards 2025, recognising outstanding works in Aesthetics,
 Innovative, and Adaptive Design.</p>
 <p></p>
-<div class="isomer-image-wrapper">
+<figure>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT05_2025.jpg">
-</div>
-<p><em>Sec 3 students discovering design ideas through their Learning Journey to Bird Paradise</em>
-</p>
+<figcaption>Sec 3 students discovering design ideas through their Learning Journey to Bird Paradise</figcaption>
 <p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/dnt.jpg">
-</div>
-<p><em>A student’s mock-up design inspired by insights gained during the Bird Paradise Learning Journey.</em>
-</p>
+<figcaption>A student’s mock-up design inspired by insights gained during the Bird Paradise Learning Journey.
+</figcaption>
 <p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT06_2025.png">
-</div>
-<p><em>Awardees for the D&amp;T Creative Awards 2025</em>
-</p>
+<figcaption>Awardees for the D&amp;T Creative Awards 2025
+</figcaption>
 <p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT07_2025.png">
-</div>
-<p><em>An award recipient showcasing his design to guests after the D&amp;T Creative Awards 2025.</em>
-</p>
+<figcaption>An award recipient showcasing his design to guests after the D&amp;T Creative Awards 2025.</figcaption>
+</figure>
+<p></p>
+	
 <h4><strong>Achievements</strong></h4>
 <p>2025 D&amp;T Award (<a rel="noopener noreferrer nofollow" target="_blank">https://home.dtes.org.sg/dt-awards/dt-awards-2025</a>):</p>
 <ul data-tight="true" class="tight">
@@ -277,55 +265,44 @@ are committed to develop our students to become curious learners with a
 compassionate heart for others. Our students also participate in Art competitions
 yearly to raise awareness within the community.</p>
 <p></p>
-<div class="isomer-image-wrapper">
+<figure>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT08_2025.jpg">
-</div>
-<p><em>Art-making in the studio</em>
-</p>
+<figcaption>Art-making in the studio</figcaption>
 <p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/combine.jpg">
-</div>
-<p><em>Participation for 2025 Live On Festival</em>
-</p>
+<figcaption>Participation for 2025 Live On Festival</figcaption>
+</figure>
+
 <h4>Music</h4>
 <p>The Music Unit aims to develop student’s aesthetics sensitivity and critical,
 adaptive and inventive thinking skills through the experience of a variety
 of music traditions and genres. Students experience musical expressions
 through active listening, collaborative performance and creative composition.</p>
 <p></p>
-<div class="isomer-image-wrapper">
+
+<figure>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT12_2025.jpg">
-</div>
-<p><em>Learning about rhythms through playing a percussion instrument.</em>
-</p>
+<figcaption>Learning about rhythms through playing a percussion instrument.</figcaption>
+</figure>
+
 <h4>Arts Education Programme (AEP)</h4>
 <p>Besides our academic programme from the subjects offered, we also have
 non-academic programmes, namely the Arts Education Programme. There are
 three segments in the Arts Education Programme (AEP) - Exposure, Experience
 and Excursion.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT13_2025.jpg">
-</div>
-<p><em>AEP Exposure provides our students with the opportunity to understand different types of arts performances during assembly programmes</em>
-</p>
+
+<figure>
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT13_2025.jpg">
+<figcaption>AEP Exposure provides our students with the opportunity to understand different types of arts performances during assembly programmes</figcaption>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT14_2025.png">
-</div>
-<p><em>AEP Experience provides our students opportunities to learn an art form through workshops held during the post-examination period.</em>
-</p>
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT14_2025.png">
+<figcaption>AEP Experience provides our students opportunities to learn an art form through workshops held during the post-examination period.</figcaption>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT15_2025.jpg">
-</div>
-<p><strong><em>AEP Excursion</em></strong><em> provides our students opportunities to attend external arts-related exhibitions and artist’s studios.</em>
-</p>
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT15_2025.jpg">
+<figcaption>AEP Excursion provides our students opportunities to attend external arts-related exhibitions and artist’s studios.</figcaption>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/ACT/act003.JPG">
-</div>
-<p>AEP Excursion provides our students opportunities to attend external arts-related
-exhibitions and performances</p>
-<p></p>
+<img style="width: 80%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/ACT/act003.JPG">
+<figcaption>AEP Excursion provides our students opportunities to attend external arts-related
+exhibitions and performances</figcaption>
+</figure>

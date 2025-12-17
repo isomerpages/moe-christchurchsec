@@ -180,21 +180,22 @@ students learn by doing, seeing, and experiencing.</p>
 <p></p>
 <figure>  
 <img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums1.jpg">  
-</figure>
+<p></p>
 <img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums2.jpg">  
-
-<figure>  
+<p></p>
 <img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums3.jpg">  
 <figcaption>Students engaging in Geographical Investigation at Sungei Buloh</figcaption>  
 </figure>
+<p></p>
+<figure>
 <img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums4.jpg">  
-
+<p></p>
 <img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums5.jpg">  
-
-<figure>  
+<p></p> 
 <img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums6.jpg">  
 <figcaption>Students interviewing tourists during their experiential learning at Marina Bay</figcaption> 
 </figure>
+
 <figure>  
 <img style="width: 60%; height: auto;" alt="Image" src="/images/2025/Hums/hums7.jpg">  
 <figcaption>Students engaging a mini archaeological dig lesson called ‘Totally Diggin’ History’</figcaption> 
@@ -223,21 +224,18 @@ the decision-making process taken by governments and the importance of
 trade-offs and calculated risks in making decisions for the good of society.
 This can help students appreciate the complexity of governance and the
 challenges involved in balancing competing interests and priorities.
-	
-</p><figure>  
+	</p>
+
+<figure>  
 <img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums8.jpg">  
 <figcaption>Students attending a sitting of Parliament </figcaption> 
-</figure>
-<figure>  
+	<p></p>
 <img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums9.jpg">  
 <figcaption>Delegates at the Singapore Chinese Girls’ Model United Nations in March 2025 </figcaption> 
-<figure>  
+	<p></p>
 <img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums10.jpg">  
 <figcaption>Delegates at the Singapore Model Cabinet in March 2025 </figcaption> 
-<figure>  
+<p></p>
 <img style="width: 100%; height: auto;" alt="Image" src="/images/2025/Hums/hums11.jpg">  
 <figcaption>Students presenting their award-winning exhibit at the National Institute of Education for the Singapore History Day Challenge </figcaption> 
 </figure>
-<br>
-<br>
-<p></p></figure></figure>

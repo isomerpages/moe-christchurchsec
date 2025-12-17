@@ -1,9 +1,9 @@
 ---
 title: Mathematics
-permalink: /our-curriculum/Academic/mathematics/
+permalink: /our-curriculum/academic/mathematics/
 description: ""
 third_nav_title: Academic Programmes
-variant: tiptap
+variant: markdown
 ---
 <h3>Introduction</h3>
 <p>The Mathematics Department aims to develop our students to be confident
@@ -152,32 +152,42 @@ Our students will also be able to gain insights into how Mathematics can
 help people to manage bills, income, expenses, taxes, loans, etc. They
 will also learn and understand more about personal finance and budgeting
 through role playing and working with their peers.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths1.jpg">
-</div>
-<p>Role playing and learning about budgeting</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths2.jpg">
-</div>
-<p>Working together to calculate the amount of foreign currency needed</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths3.jpg">
-</div>
-<p>Working out the transport costs needed</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths4.jpg">
-</div>
-<p>Learning about how to manage expenses</p>
+
+<figure> 
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths1.jpg">
+<figcaption>Role playing and learning about budgeting</figcaption>
+</figure> 
+
+<figure>
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths2.jpg">
+<figcaption>Working together to calculate the amount of foreign currency needed</figcaption>
+</figure>
+
+<figure>
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths3.jpg">
+<figcaption>Working out the transport costs needed</figcaption>
+</figure>
+
+<figure>
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths4.jpg">
+<figcaption>Learning about how to manage expenses</figcaption>
+</figure>	
+	
 <h3>Stretch Programmes</h3>
 <p>Students are exposed to a broader community of Mathematics to stretch
 their potential in the subject. Selected students are provided with opportunities
 to take part in international and national competitions such as Australian
 Mathematics Competition (AMC) and Singapore Mathematics Olympiad (SMO)
 .</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths5.jpg">
-</div>
-<p>Certificate presentation for the Australian Mathematics Competition</p>
+
+<figure>
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths5.jpg">
+<figcaption>
+Certificate presentation for the Australian Mathematics Competition
+</figcaption>
+</figure>
+
+
 <h3>Achievements</h3>
 <p><strong>2023</strong>
 </p>
