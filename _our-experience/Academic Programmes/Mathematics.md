@@ -179,11 +179,9 @@ their potential in the subject. Selected students are provided with opportunitie
 to take part in international and national competitions such as Australian
 Mathematics Competition (AMC) and Singapore Mathematics Olympiad (SMO)
 .</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths5.jpg">
-</div>
 
 <figure>
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths5.jpg">
 <figcaption>
 Certificate presentation for the Australian Mathematics Competition
 </figcaption>
