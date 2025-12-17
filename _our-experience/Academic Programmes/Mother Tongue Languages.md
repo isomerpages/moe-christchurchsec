@@ -100,18 +100,19 @@ living language'. The students get to speak their MTL and better understand
 their heritage and culture through a wide range of cultural activities
 organised, such as Chinese Fan painting, Batik Painting, and playing traditional
 musical instruments.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0001.png">
-</div>
-<p>Chinese Fan Painting</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0002.png">
-</div>
-<p>Batik Painting</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0003.png">
-</div>
-<p>Learning to play Dhol Tash</p>
+
+<figure>
+<img style="width: 80%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0001.png">
+<figcaption>Chinese Fan Painting</figcaption>
+	<p></p>
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0002.png">
+
+<figcaption>Batik Painting</figcaption>
+<p></p>
+<img style="width: 70%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0003.png">
+<figcaption>Learning to play Dhol Tash</figcaption>
+</figure>
+
 <h5>Festive Celebrations</h5>
 <p>To share the joy of cultural festivities among students from different
 backgrounds, the MTL department organises Chinese New Year, Hari Raya,
