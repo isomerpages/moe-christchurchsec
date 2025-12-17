@@ -187,13 +187,11 @@ from recycled materials. This project fosters teamwork, ingenuity, and
 a profound understanding of scientific principles in action.</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/Science01.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science02.jpg">
-</div>
+
+<figure>
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/Science01.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science02.jpg">
+</figure>
 <p></p>
 <h4><strong>Upper Secondary: Exploring Future Pathways</strong></h4>
 <p>The focus shifts to deepening scientific interests through authentic learning
@@ -203,28 +201,28 @@ Furthermore, learning journeys to tertiary institutions offer a direct
 look into science at the tertiary level and potential career pathways,
 connecting their passion for science to future possibilities.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science03.jpg">
-</div>
-<p><em>NUS Physics Demo Laboratory Learning Journey</em>
-</p>
+
+<figure>
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science03.jpg">
+<figcaption>NUS Physics Demo Laboratory Learning Journey
+</figcaption>
+</figure>
 <p></p>
+<figure>
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science04.jpg">
+Students participating in a hands-on Biomedical Science Laboratory activity
+in Republic Polytechnic
+
+</figure>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science04.jpg">
-</div>
-<p>Students participating in a hands-on Biomedical Science Laboratory activity
-in Republic Polytechnic</p>
+<figure>
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science05.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science06.jpg">
+<figcaption>Deepening scientific interests through authentic learning experiences
+with Singapore Heart Foundation and National Kidney Foundation
+</figcaption>
+</figure>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science05.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science06.jpg">
-</div>
-<p>Deepening scientific interests through authentic learning experiences
-with Singapore Heart Foundation and National Kidney Foundation</p>
 <p></p>
 <h3>Stretch Programmes</h3>
 <p>Students who show passion and potential in Science will be provided with
@@ -315,15 +313,14 @@ options</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science07.jpg">
-</div>
-<p><strong><em>Our students achieve 2nd place in the Influencer Showdown category.</em></strong>
-<br>
-</p>
+<figure>
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science07.jpg">
+<figcaption>Our students achieve 2nd place in the Influencer Showdown category.
+</figcaption>
+</figure>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science08.jpg">
-</div>
-<p><strong><em>Our student receiving the Bronze award for the 2025 Singapore Junior Chemistry Olympiad</em></strong>
-</p>
+<figure>
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science08.jpg">
+<figcaption>Our student receiving the Bronze award for the 2025 Singapore Junior Chemistry Olympiad
+</figcaption>
+</figure>
