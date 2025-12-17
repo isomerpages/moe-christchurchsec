@@ -119,18 +119,18 @@ backgrounds, the MTL department organises Chinese New Year, Hari Raya,
 Tamil New Year and Deepavali celebrations annually. Through these celebrations,
 students learn more about the different cultures, traditions and practices
 and join in the celebrations with their peers and teachers.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0004.png">
-</div>
-<p>Making of Tang Yuan (汤圆）during Chinese New Year celebrations</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0005.png">
-</div>
-<p>Hari Raya celebrations</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0006.png">
-</div>
-<p>Deepavali celebrations</p>
+
+<figure>
+<img style="width: 80%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0004.png">
+<figcaption>Making of Tang Yuan (汤圆）during Chinese New Year celebrations</figcaption>
+	<p></p>
+<img style="width: 80%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0005.png">
+<figcaption>Hari Raya celebrations</figcaption>
+	<p></p>
+<img style="width: 80%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mother%20Tongue/mt0006.png">
+<figcaption>Deepavali celebrations</figcaption>
+</figure>	
+	
 <h5>Conversational Chinese &amp; Malay</h5>
 <p>The Conversational Chinese and Malay (CCM) is an MOE-initiated programme
 which aims to strengthen Singapore’s multi-racial compact and enables students
