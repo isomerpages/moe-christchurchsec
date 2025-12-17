@@ -293,24 +293,16 @@ and Excursion.</p>
 <p></p>
 
 <figure>
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT13_2025.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT13_2025.jpg">
 <figcaption>AEP Exposure provides our students with the opportunity to understand different types of arts performances during assembly programmes</figcaption>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT14_2025.png">
-</div>
-<p><em>AEP Experience provides our students opportunities to learn an art form through workshops held during the post-examination period.</em>
-</p>
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT14_2025.png">
+<figcaption>AEP Experience provides our students opportunities to learn an art form through workshops held during the post-examination period.</figcaption>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT15_2025.jpg">
-</div>
-<p><strong><em>AEP Excursion</em></strong><em> provides our students opportunities to attend external arts-related exhibitions and artist’s studios.</em>
-</p>
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/ACT/ACT15_2025.jpg">
+<figcaption>AEP Excursion provides our students opportunities to attend external arts-related exhibitions and artist’s studios.</figcaption>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/ACT/act003.JPG">
-</div>
-<p>AEP Excursion provides our students opportunities to attend external arts-related
-exhibitions and performances</p>
-<p></p></figure>
+<img style="width: 80%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/ACT/act003.JPG">
+<figcaption>AEP Excursion provides our students opportunities to attend external arts-related
+exhibitions and performances</figcaption>
+</figure>
