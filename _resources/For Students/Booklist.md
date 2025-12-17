@@ -25,7 +25,8 @@ third_nav_title: For Students
 </p>
 <hr>
 <h4>Secondary 5:</h4>
-<p><em>Available at a later date</em>.</p>
+<p><a href="/files/2025/Booklist 2026/CCSS_5NA_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 5 (Normal Academic) 2026 Booklist</a>
+</p>
 <hr>
 <p>
 <br>
