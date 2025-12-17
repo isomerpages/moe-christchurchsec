@@ -152,10 +152,13 @@ Our students will also be able to gain insights into how Mathematics can
 help people to manage bills, income, expenses, taxes, loans, etc. They
 will also learn and understand more about personal finance and budgeting
 through role playing and working with their peers.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths1.jpg">
-</div>
-<p>Role playing and learning about budgeting</p>
+
+<figure> 
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths1.jpg">
+
+<figcaption>Role playing and learning about budgeting</figcaption>
+</figure> 
+
 <div class="isomer-image-wrapper">
 <img style="width: 30%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths2.jpg">
 </div>
