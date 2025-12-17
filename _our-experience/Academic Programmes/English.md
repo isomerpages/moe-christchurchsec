@@ -144,16 +144,17 @@ Family, Friendship and The Roles We Play in Society. In addition, our Secondary
 that matter to them during morning assemblies as part of the ‘CHR Reads’
 effort.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/English/english2_2025.jpg">
-</div>
-<p>Secondary 2 students presenting for ‘CHR Reads'</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english4.jpeg">
-</div>
-<p>Students visit the LibroHub and complete reviews of an article or book
-which interests them</p>
+<figure>
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/English/english2_2025.jpg">
+<figcaption>Secondary 2 students presenting for ‘CHR Reads'</figcaption>
+</figure>
+	
+<figure>
+<img style="width: 80%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/English/english4.jpeg">
+<figcaption>Students visit the LibroHub and complete reviews of an article or book
+which interests them</figcaption>
+</figure>
+
 <h5>2. Public Speaking Programmes – S1 CHR Speakers</h5>
 <p>As part of the department’s effort to build students’ confidence in public
 speaking and their ability to think on their feet, the Lower Secondary
@@ -161,10 +162,12 @@ students are involved in the above programmes. ‘CHR Speakers’ gives the
 Secondary 1 students an opportunity to present their recount of an authentic
 experience in an engaging manner.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/English/english1_2025.jpg">
-</div>
-<p>Secondary 1 participants for CHR Speakers</p>
+
+<figure>
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/English/english1_2025.jpg">
+<figcaption>Secondary 1 participants for CHR Speakers</figcaption>
+</figure>
+
 <h5>3. Debate and Discussion for the Upper Secondary Students</h5>
 <p>Debate and discussion are done as part of the EL curriculum in the Upper
 Secondary to extend students’ exposure to contemporary and controversial
@@ -175,10 +178,12 @@ and respectful manner. In the process, students are taught to practise
 active listening, an important skill, so that they can raise meaningful
 points of interest during the debate session or class discussion.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="ImageSecondary 3 students taking part in the intra-class debate" src="/images/Our%20Experience/Academic%20Programmes/English/english3.jpg">
-</div>
-<p>Secondary 3 students taking part in the intra-class debate</p>
+
+<figure>
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our%20Experience/Academic%20Programmes/English/english3.jpg">
+<figcaption>Secondary 3 students taking part in the intra-class debate</figcaption>
+</figure>
+
 <h5>4. Project Work &amp; Presentation</h5>
 <p>To encourage our students to be active learners and strengthen their ability
 to work in a team, the department designs our curriculum to include group-based
