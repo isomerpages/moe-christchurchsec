@@ -14,12 +14,6 @@ sections:
       id: announcements
       subtitle: Christ Church Secondary School
       announcement_items:
-        - title: Release of the GCE N-Level Examination Results 2025
-          date: 18 December 2025
-          announcement: The GCE N-Level Examination Results will be released on Thursday,
-            18 December 2025.
-          link_text: More details
-          link_url: https://christchurchsec.moe.edu.sg/release-of-the-gce-n-level-examination-results/
         - title: 2026 Secondary 1 e-Registration
           date: 19 December 2025
           announcement: For 2026 Secondary 1 e-registration details, please link below.
