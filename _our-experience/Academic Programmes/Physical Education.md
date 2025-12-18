@@ -62,7 +62,7 @@ resilience.</p>
 
 <p></p>
 <figure>
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Mother Tongue/PE7.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Mother Tongue/PE7.jpg">
 	<figcaption>Team hurdles and discussions during IHG finals</figcaption>  
 </figure>
 
