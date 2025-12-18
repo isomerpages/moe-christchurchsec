@@ -164,12 +164,12 @@ through role playing and working with their peers.</p>
 </figure>
 
 <figure>
-<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths3.jpg">
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/math3.jpg">
 <figcaption>Working out the transport costs needed</figcaption>
 </figure>
 
 <figure>
-<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths4.jpg">
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/math4.jpg">
 <figcaption>Learning about how to manage expenses</figcaption>
 </figure>	
 	
@@ -181,7 +181,7 @@ Mathematics Competition (AMC) and Singapore Mathematics Olympiad (SMO)
 .</p>
 
 <figure>
-<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths5.jpg">
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/math5.jpg">
 <figcaption>
 Certificate presentation for the Australian Mathematics Competition
 </figcaption>
