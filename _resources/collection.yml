@@ -2,8 +2,8 @@ collections:
   resources:
     output: true
     order:
-      - For Students/Locker Rental.md
       - For Students/.keep
       - For Students/Booklist.md
       - For Students/Uniform.md
+      - For Students/Locker Rental.md
       - For Students/Approved Sports Shoes.md
