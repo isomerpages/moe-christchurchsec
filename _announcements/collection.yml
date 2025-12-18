@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Release of the GCE N Level Examination Results.md
       - 2025 Honours Day Students Photos.md
