@@ -6,7 +6,12 @@ description: ""
 third_nav_title: For Students
 ---
 <h4>Secondary 1:</h4>
-<p><em>Available at a later date</em>.</p>
+<p><a href="/files/2025/Booklist 2026/CCSS_Booklist_2026__Sec_1G1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 (G1) 2026 Booklist</a>
+</p>
+<p><a href="/files/2025/Booklist 2026/CCSS_Booklist_2026__Sec_1G2.pdf" rel="noopener nofollow" target="_blank">Secondary 1 (G2) 2026 Booklist</a>
+</p>
+<p><a href="/files/2025/Booklist 2026/CCSS_Booklist_2026__Sec_1G3.pdf" rel="noopener nofollow" target="_blank">Secondary 1 (G3) 2026 Booklist</a>
+</p>
 <hr>
 <h4>Secondary 2:</h4>
 <p><a href="/files/2025/Booklist 2026/CCSS_Sec_2_v1.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (G1, G2, G3) 2026 Booklist</a>

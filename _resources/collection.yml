@@ -2,7 +2,8 @@ collections:
   resources:
     output: true
     order:
-      - For Students/Release of the GCE N Level Examination Results.md
       - For Students/.keep
       - For Students/Booklist.md
       - For Students/Uniform.md
+      - For Students/Locker Rental.md
+      - For Students/Approved Sports Shoes.md

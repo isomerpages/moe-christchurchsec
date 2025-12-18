@@ -3,7 +3,6 @@ title: Release of the GCE N Level Examination Results
 permalink: /release-of-the-gce-n-level-examination-results/
 variant: tiptap
 description: ""
-third_nav_title: For Students
 ---
 <p>The GCE N-Level Examination Results will be released as follows:</p>
 <table style="minWidth: 50px">

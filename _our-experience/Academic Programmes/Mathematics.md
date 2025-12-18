@@ -154,22 +154,22 @@ will also learn and understand more about personal finance and budgeting
 through role playing and working with their peers.</p>
 
 <figure> 
-<img style="width: 50%; height: auto;" height="auto" width="100%" alt="" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths1.jpg">
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/math1.jpg">
 <figcaption>Role playing and learning about budgeting</figcaption>
 </figure> 
 
 <figure>
-<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths2.jpg">
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/math2.jpg">
 <figcaption>Working together to calculate the amount of foreign currency needed</figcaption>
 </figure>
 
 <figure>
-<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths3.jpg">
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/math3.jpg">
 <figcaption>Working out the transport costs needed</figcaption>
 </figure>
 
 <figure>
-<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths4.jpg">
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/math4.jpg">
 <figcaption>Learning about how to manage expenses</figcaption>
 </figure>	
 	
@@ -181,7 +181,7 @@ Mathematics Competition (AMC) and Singapore Mathematics Olympiad (SMO)
 .</p>
 
 <figure>
-<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/maths5.jpg">
+<img style="width: 50%; height: auto;" height="auto" width="100%" alt="Image" src="/images/Our%20Experience/Academic%20Programmes/Mathematics/math5.jpg">
 <figcaption>
 Certificate presentation for the Australian Mathematics Competition
 </figcaption>
