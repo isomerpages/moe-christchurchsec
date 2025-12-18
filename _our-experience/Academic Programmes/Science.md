@@ -189,8 +189,9 @@ a profound understanding of scientific principles in action.</p>
 <p></p>
 
 <figure>
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/Science01.png">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science02.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/Science01.png">
+	<p></p>
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science02.jpg">
 </figure>
 <p></p>
 <h4><strong>Upper Secondary: Exploring Future Pathways</strong></h4>
@@ -203,7 +204,7 @@ connecting their passion for science to future possibilities.</p>
 <p></p>
 
 <figure>
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science03.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/Science/science03.jpg">
 <figcaption>NUS Physics Demo Laboratory Learning Journey
 </figcaption>
 </figure>
