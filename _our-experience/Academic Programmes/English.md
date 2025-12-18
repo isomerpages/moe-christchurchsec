@@ -145,7 +145,7 @@ that matter to them during morning assemblies as part of the ‘CHR Reads’
 effort.</p>
 <p></p>
 <figure>
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/English/english2_2025.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/English/english2_2025.jpg">
 <figcaption>Secondary 2 students presenting for ‘CHR Reads'</figcaption>
 </figure>
 	
@@ -164,7 +164,7 @@ experience in an engaging manner.</p>
 <p></p>
 
 <figure>
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/English/english1_2025.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Experience/Academic Programmes/English/english1_2025.jpg">
 <figcaption>Secondary 1 participants for CHR Speakers</figcaption>
 </figure>
 
@@ -180,7 +180,7 @@ points of interest during the debate session or class discussion.</p>
 <p></p>
 
 <figure>
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our%20Experience/Academic%20Programmes/English/english3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our%20Experience/Academic%20Programmes/English/english3.jpg">
 <figcaption>Secondary 3 students taking part in the intra-class debate</figcaption>
 </figure>
 
