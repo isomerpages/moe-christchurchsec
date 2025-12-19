@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h4>Welcome to Christ Church Secondary School</h4>
-<p>Please click <a href="https://sites.google.com/moe.edu.sg/2026chresec1registration/home" rel="noopener nofollow" target="_blank">here </a>for
-Secondary 1 e-Registration.</p>
-<p></p>
 <p>Our School's Cut Off Points for 2025</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -33,7 +30,7 @@ Secondary 1 e-Registration.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PLSE Score</p>
+<p>PSLE Score</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>17</p>
@@ -61,4 +58,5 @@ Secondary 1 e-Registration.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Please click <a href="https://sites.google.com/moe.edu.sg/2026chresec1registration/home" rel="noopener nofollow" target="_blank">here </a>for
+Secondary 1 e-Registration.</p>
