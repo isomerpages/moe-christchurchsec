@@ -20,19 +20,6 @@ sections:
             below.
           link_text: More details
           link_url: https://christchurchsec.moe.edu.sg/secondary-1-eregistration/
-  - infocols:
-      title: 2026 Secondary 1 e-Registration
-      subtitle: 2026 Sec 1 eRegistration
-      id: infocols
-      linktext: More details
-      url: https://sites.google.com/moe.edu.sg/2026chresec1registration/home
-      infoboxes:
-        - title: Posting Group 3
-          description: "17"
-        - title: Posting Group 2
-          description: "23"
-        - title: Posting Group 1
-          description: "29"
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
