@@ -16,7 +16,8 @@ sections:
       announcement_items:
         - title: 2026 Secondary 1 e-Registration
           date: 19 December 2025
-          announcement: For 2026 Secondary 1 e-registration details, please click link below.
+          announcement: For 2026 Secondary 1 e-registration details, please click the link
+            below.
           link_text: More details
           link_url: https://christchurchsec.moe.edu.sg/secondary-1-eregistration/
   - infopic:
