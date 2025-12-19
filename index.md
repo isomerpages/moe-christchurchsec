@@ -18,7 +18,7 @@ sections:
           date: 19 December 2025
           announcement: For 2026 Secondary 1 e-registration details, please click link below.
           link_text: More details
-          link_url: https://sites.google.com/moe.edu.sg/2026chresec1registration/home
+          link_url: https://christchurchsec.moe.edu.sg/secondary-1-eregistration/
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
