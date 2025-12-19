@@ -33,7 +33,7 @@ Secondary 1 e-Registration.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PLSE Score</p>
+<p>PSLE Score</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>17</p>
