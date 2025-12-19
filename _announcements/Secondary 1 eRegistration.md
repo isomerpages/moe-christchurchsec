@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4>Welcome to Christ Church Secondary School</h4>
-<p>Please click this <strong><a href="https://sites.google.com/moe.edu.sg/2026chresec1registration/home" rel="noopener nofollow" target="_blank">link</a></strong>
-<a href="https://sites.google.com/moe.edu.sg/2026chresec1registration/home" rel="noopener nofollow" target="_blank"></a>for e-Registration.</p>
+<p>Please click this <strong><a href="https://sites.google.com/moe.edu.sg/2026chresec1registration/home" rel="noopener nofollow" target="_blank">link </a></strong>for
+Secondary 1 e-Registration.</p>
 <p></p>
 <p>Our School's Cut Off Points for 2025</p>
 <table style="minWidth: 100px">
