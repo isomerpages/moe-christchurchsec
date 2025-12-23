@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<h4><strong>Sales of School Uniform:</strong></h4>
-<p></p>
+<h4><strong>Sales of School Uniform</strong></h4>
 <h4>January 2026 Sales on School Compound</h4>
 <p></p>
 <table style="minWidth: 50px">
