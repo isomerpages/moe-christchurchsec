@@ -18,7 +18,7 @@ variant: markdown
 |**1BOLD1**|Mr Desmond Chan|Ms Annelis Nur’ain Binte Haris|
 |**1BOLD2**|Ms Ho Yi Ling|Ms Janet Tay Yanling|
 |**2RUGGED1**|Mdm Wong Yea Sien||
-|**2RUGGED2**|Mr Muhamad Firdaus Bin Md Hair|Ms Sheryl Elizabeth Lee Min Min |
+|**2RUGGED2**|Mr Muhammad Firdaus Bin Md Hair|Ms Sheryl Elizabeth Lee Min Min |
 |**2POWER1**|Ms Low Huixian Heidi||
 |**2POWER2**|Mr Alan Ho||
 |**2GRIT1**|Mr Danial Matin Bin Zaini|Mr Leonard Chng|
