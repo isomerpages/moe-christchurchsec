@@ -20,28 +20,39 @@ Admissions Exercise (JAE) is outlined below:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Date</p>
+<p><strong>DATE</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Wednesday , 14 January 2026</p>
+<p><strong>Wednesday , 14 January 2026</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Reporting Time</strong>
-</p>
+<p>REPORTING TIME</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.45 PM</p>
+<p><strong>1.45 PM</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Attire</strong>
-</p>
+<p>REPORTING VENUE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Half uniform, with proper hairstyle and grooming</p>
+<p><strong>School Hall</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ATTIRE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Half uniform, with proper hairstyle and grooming</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -50,7 +61,7 @@ Admissions Exercise (JAE) is outlined below:</p>
 <p>Parents or guardians are welcome to accompany their child/ward to collect
 the results.</p>
 <p></p>
-<h4><u>Joint Admission Exercise (JAE) </u></h4>
+<h4><u>Joint Admission Exercise (JAE)</u></h4>
 <p></p>
 <p></p>
 <table style="minWidth: 50px">
@@ -69,7 +80,7 @@ the results.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Start date &amp; time</p>
+<p>Start Date &amp; Time</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>14 January 2026, 4:00PM</p>
@@ -77,7 +88,7 @@ the results.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>End date &amp; time</strong>
+<p><strong>End Date &amp; Time</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -95,5 +106,5 @@ the results.</p>
 </tbody>
 </table>
 <p></p>
-<p>Students are strongly encouraged to complete the JAE worksheet (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>)
-to plan their choices before submitting their online application.</p>
+<p>Students are strongly encouraged to complete the JAE worksheet (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>) to
+plan their choices before submitting their online application.</p>
