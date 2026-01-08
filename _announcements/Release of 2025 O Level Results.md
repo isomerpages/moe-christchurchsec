@@ -106,5 +106,5 @@ the results.</p>
 </tbody>
 </table>
 <p></p>
-<p>Students are strongly encouraged to complete the JAE worksheet (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>) to
-plan their choices before submitting their online application.</p>
+<p>Students are strongly encouraged to complete the JAE worksheet (<a href="www.moe.gov.sg/jaeworksheet" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>)
+to plan their choices before submitting their online application.</p>
