@@ -106,5 +106,5 @@ the results.</p>
 </tbody>
 </table>
 <p></p>
-<p>Students are strongly encouraged to complete the JAE worksheet (<a href="www.moe.gov.sg/jaeworksheet" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jaeworksheet) </a>to
-plan their choices before submitting their online application.</p>
+<p>Students are strongly encouraged to complete the JAE worksheet (<a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-worksheet.pdf" rel="noopener nofollow" target="_blank">click here</a>)
+to plan their choices before submitting their online application.</p>
