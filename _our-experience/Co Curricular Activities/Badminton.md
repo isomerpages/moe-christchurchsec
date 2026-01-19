@@ -46,9 +46,10 @@ CHR Badminton participates in National School Games for the following divisions:
 	
 ### Achievements
 
-- B Boys - Quarterfinal
-- B Girls - Quarterfinal
-- Sembawang GRC Inter- School Competition (Team) - 2nd Place
+**2025**
+- NSG B Div Boys - Quarterfinals
+- NSG B Div Girls - Quarterfinals
+- NSG C Div Boys League 4 - 4th Place
 
 ### Training Days &amp; Time
 
