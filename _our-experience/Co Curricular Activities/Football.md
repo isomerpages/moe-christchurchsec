@@ -37,7 +37,7 @@ a semi-final berth in League 2 of the National Schools Games.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%; height: auto;" height="auto" width="100%" alt="Image" src="/images/CCA/Football/football01.jfif">
 </div>
-<p>B Division Basketball (Girls) National School Games 2022</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%; height: auto;" height="auto" width="100%" alt="Image" src="/images/CCA/Football/football02.jfif">
 </div>
@@ -51,7 +51,7 @@ a semi-final berth in League 2 of the National Schools Games.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>NSG C Div Boys League 5 - 3rd Place</p>
+<p>NSG C Div League 5 - 3rd Place</p>
 </li>
 </ul>
 <p><strong>2024</strong>
