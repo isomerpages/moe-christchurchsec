@@ -3,6 +3,7 @@ title: English Drama
 permalink: /chr-experience/Co-Curricular-Activities/English-Drama/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
 
@@ -29,6 +30,9 @@ During their 4 - 5 years in the Drama Club, students will have various opportuni
 	
 
 ### Achievements
+
+**2025**<br>
+- Singapore Youth Festival Arts Presentation (Accomplishment)
 
 **2023**<br>
 - Singapore Youth Festival Arts Presentation (Accomplishment)
