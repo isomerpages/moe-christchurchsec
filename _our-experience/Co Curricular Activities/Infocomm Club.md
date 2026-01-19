@@ -27,6 +27,9 @@ Visit Us at [https://instagram.com/chr_icc](https://instagram.com/chr_icc)
 
 ### Achievements
 
+**2025**
+- Digital Business Challenge (2x 2nd Prize)
+
 **2024**
 - Digital Business Challenge (1st & 2nd Prize)
 
