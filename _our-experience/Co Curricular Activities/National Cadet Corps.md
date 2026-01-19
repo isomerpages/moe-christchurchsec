@@ -52,6 +52,9 @@ There are also further programmes that include the Precision Drill Squad, Freest
 
 ### Achievements
 
+**2025**
+- Unit Recognition (Distinction)
+
 **2024**
 
 - Unit Recognition (Distinction)
