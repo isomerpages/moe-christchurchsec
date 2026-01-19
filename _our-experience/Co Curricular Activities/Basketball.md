@@ -36,12 +36,12 @@ CHR Basketball participates in the annual National School Games for the followin
  ### Achievements
 
 **2025**
-- NSG C Div Boys League 4: 4th Place
-- Saints Cup Competition (Boys): 2nd Place
-- Chong Pang Cup Competition (Boys): 2nd Place
+- NSG C Div Girls League 2 - 4th Place
+- Saints Cup Competition (Boys) - 2nd Place
+- Chong Pang Cup Competition (Boys) - 2nd Place
 
 **2024** <br>
-- NSG C Div Girls League 2 : 3rd Place<br>
+- NSG C Div Girls League 2 - 3rd Place<br>
 
 **2022** <br>
 - B Division Boys: North Zone Top 8<br>
