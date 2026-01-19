@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /chr-experience/Co-Curricular-Activities/Concert-Band/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Introduction
 
@@ -31,6 +32,9 @@ The CHR Concert Band performs on the school and public stage for the musical del
 	
 
 ### Achievements
+
+**2025**
+- Singapore Youth Festival Arts Presentation (Accomplishment)
 
 **2023**
 - Singapore Youth Festival Arts Presentation (Accomplishment)
