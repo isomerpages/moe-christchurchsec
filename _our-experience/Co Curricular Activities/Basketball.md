@@ -35,6 +35,11 @@ CHR Basketball participates in the annual National School Games for the followin
 
  ### Achievements
 
+**2025**
+- NSG C Div Boys League 4: 4th Place
+- Saints Cup Competition (Boys): 2nd Place
+- Chong Pang Cup Competition (Boys): 2nd Place
+
 **2024** <br>
 - NSG C Div Girls League 2 : 3rd Place<br>
 
@@ -50,14 +55,14 @@ CHR Basketball participates in the annual National School Games for the followin
 
 | Day| Time | 
 | -------- | -------- | 
-| Tuesday   | 1600 - 1800 | 
-| Thursday  | 1600 - 1800 | 
-| Friday (CCA Day) | 0800 - 1045 | 
+| Tuesday   | 1600 - 1830 | 
+| Thursday  | 1600 - 1830 | 
+| Friday (CCA Day) | 0800 - 1115 | 
 
 **Girls:**
 
 | Day| Time | 
 | -------- | -------- | 
-| Monday  | 1600 - 1800 | 
-| Thursday  | 1600 - 1800 | 
-| Friday (CCA Day) | 0800 - 1045 |
+| Monday  | 1600 - 1830 | 
+| Wednesday  | 1600 - 1830 | 
+| Friday (CCA Day) | 0800 - 1115 |
