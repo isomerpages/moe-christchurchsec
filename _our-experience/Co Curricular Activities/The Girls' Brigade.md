@@ -39,6 +39,25 @@ a habit of precision, unity and respect. The Girls apply what they learn
 in drill when they participate in national drill competitions, National
 Day parades and awards ceremonies.</p>
 <h3>Achievements</h3>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Girls’ Brigade Company Award (Gold)</p>
+</li>
+<li>
+<p>The Girls’ Brigade Drill Competition (Silver)</p>
+</li>
+<li>
+<p>Pioneer Brigadier Brooch - Chlovelle Faith Quek, Abbygail Chee, Lael Danette
+See</p>
+</li>
+<li>
+<p>Best Girl Award - Liew Xin Yu
+<br>
+</p>
+</li>
+</ul>
 <p><strong>2024</strong>
 </p>
 <ul data-tight="true" class="tight">
