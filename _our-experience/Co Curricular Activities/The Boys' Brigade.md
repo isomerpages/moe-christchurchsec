@@ -29,12 +29,22 @@ Our Boys discover the key principles of leadership through habits of encourageme
 
 ### Achievements
 
+**2025**
+- Best Boys Award: Tan Kai Xi
+- BB Blaze (Gold)
+- J M Fraser Award for Excellence (High Distinction)
+- Founder's Award - Kaiser Koh, Loh Chong Lin, Kayven Too, Darius Tee, Tan Kai Xi
+- Pipes and Drums Festival
+	* Pipes (Junior) - Loo Min Xian (2nd), Sun Yuzhou (4th)
+	* Snare Drums (Junior) - Kaibigan Matteo (4th)
+	* Bass Drums (Senior) - Khong Jun Hong (1st)
+	* Combined Band (3rd)
+
 **2024**
 - J M Fraser Award for Excellence (High Distinction)
 - BB Blaze (Silver) 
 - Founder's Award - Brayven Sim
 - Best Boy Award - Brayven Sim
-- BB Blaze (Silver) 
 
 **2023**
 - BB Blaze (Silver) 

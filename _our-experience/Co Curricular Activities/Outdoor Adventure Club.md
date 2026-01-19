@@ -36,6 +36,16 @@ Orienteering Race (NOR)</p>
 situational games. This develops their leadership skills, increases their
 situational awareness and teaches them to work as a team.</p>
 <h3>Achievements</h3>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GARanG Race (Mixed - 3rd Place)</p>
+</li>
+<li>
+<p>National Orienteering Race (C Boys Category - 3rd Place)</p>
+</li>
+</ul>
 <p><strong>2024</strong>
 </p>
 <ul data-tight="true" class="tight">

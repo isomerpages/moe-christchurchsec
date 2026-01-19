@@ -47,27 +47,33 @@ a semi-final berth in League 2 of the National Schools Games.</p>
 </div>
 <p>A team huddle before a match</p>
 <h3>Achievements</h3>
-<p><strong>2024 (Schools National League System)</strong>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NSG C Div Boys League 5 - 3rd Place</p>
+</li>
+</ul>
+<p><strong>2024</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>NSG B Div League 3 - 2nd Place</p>
 </li>
 </ul>
-<p><strong>2023 (Schools National League System)</strong>
+<p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>B Division Boys: Preliminary Rounds Top 2 - Qualified for League 2 National
+<p>NSG B Div Boys: Preliminary Rounds Top 2 - Qualified for League 2 National
 School Games Group Stage</p>
 </li>
 </ul>
-<p><strong>2022</strong> 
-<br>
+<p><strong>2022</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>C Division Boys: North Zone Top 8</p>
+<p>NSG C Div Boys: North Zone Top 8</p>
 </li>
 </ul>
 <h3>Training Days &amp; Time</h3>

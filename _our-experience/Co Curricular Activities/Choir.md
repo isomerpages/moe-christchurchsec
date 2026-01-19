@@ -37,6 +37,9 @@ Choristers are taught sight-reading, singing to the pitch, enunciation, pronunci
 
 ### Achievements
  
+ **2025**<br>
+- Singapore Youth Festival Arts Presentation (Accomplishment)
+ 
 **2023**<br>
 - Singapore Youth Festival Arts Presentation (Accomplishment)
 
