@@ -45,6 +45,10 @@ Some of the key programs are:
 
 ### Achievements
 
+**2025**
+- Unit Overall Proficiency Award (UOPA) - Distinction
+- SCDF-NCDCC Badge - Kerwena Ho, Carissa Teo
+
 **2024**
 - Unit Overall Proficiency Award (UOPA) - Distinction
 - SCDF-NCDCC Badge - Shafiqah, Muhammad Safwan
