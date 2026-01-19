@@ -21,6 +21,9 @@ The Modern Dance Club explores the various types of dance, namely, Contemporary,
 
 ### Achievements
 
+**2025**
+- Singapore Youth Festival Arts Presentation (Distinction)
+
 **2023**
 - Singapore Youth Festival Arts Presentation (Accomplishment)
 
