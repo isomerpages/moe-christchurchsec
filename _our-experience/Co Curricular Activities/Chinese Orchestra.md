@@ -27,6 +27,9 @@ In the Chinese Orchestra, students will have various opportunities to take part 
 
 ### Achievements
 
+**2025**
+- Singapore Youth Festival Arts Presentation (Accomplishment)
+
 **2023**
 - Singapore Youth Festival Arts Presentation (Distinction)
 
