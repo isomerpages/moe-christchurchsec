@@ -61,7 +61,7 @@ a semi-final berth in League 2 of the National Schools Games.</p>
 <p>NSG B Div League 3 - 2nd Place</p>
 </li>
 </ul>
-<p><strong>2023 </strong>
+<p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -69,7 +69,7 @@ a semi-final berth in League 2 of the National Schools Games.</p>
 School Games Group Stage</p>
 </li>
 </ul>
-<p><strong>2022</strong> 
+<p><strong>2022</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
