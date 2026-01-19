@@ -43,6 +43,10 @@ Cadets also have opportunities to represent the school in events like National D
 
 ### Achievements
 
+**2025**
+- Unit Overall Proficiency Award (Distinction)
+- SPF-NPCC Badge - Selly Tan, Lah Zhi Yee, Charlesee Ang
+
 **2024**
 - Unit Overall Proficiency Award (Distinction)
 - SPF-NPCC Badge - Vince Andrei Tang, Sidra Chuay, Renae Foo 
