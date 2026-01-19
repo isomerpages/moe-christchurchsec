@@ -70,12 +70,6 @@ Some of the key programs are:
 | -------- | -------- | 
 | Friday (CCA Day) | 0800 - 1115 |
 
-**Selected Cadets:**
-
-| Day| Time | 
-| -------- | -------- | 
-| Thursday | 1500 - 1800 |
-
 
 	
 <figure>
