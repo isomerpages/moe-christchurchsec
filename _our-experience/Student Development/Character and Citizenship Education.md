@@ -176,13 +176,12 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <hr>
 </li>
 </ol>
-<p><strong>At Christ Church Secondary School, the following Sexuality Education lessons will be taught in 2026:</strong>
-</p>
+<h4><strong>At Christ Church Secondary School, the following Sexuality Education lessons will be taught in 2026:</strong></h4>
 <h4><strong>Secondary 1</strong></h4>
 <hr>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SEd/SEd_sec1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026/SEd/SEd_sec1.jpg">
 </div>
 <h4><strong>Secondary 2</strong></h4>
 <hr>
@@ -209,8 +208,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SEd/SEd_sec5.jpg">
 </div>
 <hr>
-<p><strong><em><u>eTeens</u></em><u> Programme:</u></strong>
-</p>
+<h4><strong><em><u>eTeens</u></em><u> Programme:</u></strong></h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p><em>eTeens</em> is a programme that was developed by Health Promotion Board,
@@ -233,8 +231,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At Christ Church Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
-</p>
+<h4><strong>At Christ Church Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SEd/eteen.jpg">
