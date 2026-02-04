@@ -37,7 +37,7 @@ such as impulse control, planning for the future, and thinking about consequence
 <p></p>
 <figure>
 <img style="width: 80%;" height="auto" width="90%" alt="" src="/images/2026/P Message/Prefrontal_Cortex.jpg">
-<figcaption><em>Sources: </em><a href="https://www.simplypsychology.org/prefrontal-cortex-development-age.html" rel="noopener nofollow" target="_blank">https://www.simplypsychology.org/prefrontal-cortex-development-age.html</a>
+<figcaption><em>Source: </em><a href="https://www.simplypsychology.org/prefrontal-cortex-development-age.html" rel="noopener nofollow" target="_blank">https://www.simplypsychology.org/prefrontal-cortex-development-age.html</a>
 </figcaption>  
 </figure>
 <p></p>
@@ -92,6 +92,7 @@ cortex to your advantage!</p>
 <p></p>
 <p>Mr Tay</p>
 <p></p>
-<p>For Further Reading:
-<a href="https://theconversation.com/teens-arent-just-risk-machines-theres-a-method-to-their-madness-89439" rel="noopener nofollow" target="_blank">https://theconversation.com/teens-arent-just-risk-machines-theres-a-method-to-their-madness-89439</a>
-</p>
+<p></p>
+<p>For Further Reading:</p>
+<li>
+<a href="https://theconversation.com/teens-arent-just-risk-machines-theres-a-method-to-their-madness-89439" rel="noopener nofollow" target="_blank">https://theconversation.com/teens-arent-just-risk-machines-theres-a-method-to-their-madness-89439</a></li>
