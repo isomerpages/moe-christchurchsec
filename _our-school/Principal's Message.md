@@ -35,11 +35,11 @@ not fully developed yet. The prefrontal cortex is responsible for functions
 such as impulse control, planning for the future, and thinking about consequences.</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/P Message/Prefrontal_Cortex.jpg">
-</div>
-<p><em>Sources: </em><a href="https://www.simplypsychology.org/prefrontal-cortex-development-age.html" rel="noopener nofollow" target="_blank">https://www.simplypsychology.org/prefrontal-cortex-development-age.html</a>
-</p>
+<figure>
+<img style="width: 80%;" height="auto" width="90%" alt="" src="/images/2026/P Message/Prefrontal_Cortex.jpg">
+<figcaption><em>Sources: </em><a href="https://www.simplypsychology.org/prefrontal-cortex-development-age.html" rel="noopener nofollow" target="_blank">https://www.simplypsychology.org/prefrontal-cortex-development-age.html</a>
+</figcaption>  
+</figure>
 <p></p>
 <p>Before I carry on, I need to say that the next time you do something foolish,
 do NOT blame it on your brain, and try to tell your parents or teachers,
@@ -80,12 +80,11 @@ every day. In 2025, just to cite a few examples, we saw CHRians initiate
 projects to raise funds for the school, rally support to bless migrant
 workers, and plan a student-led component during their trip to Taiwan.</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
+<figure>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/P Message/purposeful_leaders.jpg">
-</div>
-<p><em>Purposeful Leaders in Action (2025)</em>
-</p>
+<figcaption><em>Purposeful Leaders in Action (2025)</em>
+</figcaption>  
+</figure>
 <p></p>
 <p>What amazing initiatives will we see from CHRians this year?</p>
 <p>As you continue exploring as Purposeful Leaders, use your adolescent prefrontal
