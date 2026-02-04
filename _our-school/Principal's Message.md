@@ -91,7 +91,6 @@ workers, and plan a student-led component during their trip to Taiwan.</p>
 cortex to your advantage!</p>
 <p></p>
 <p>Mr Tay</p>
-<p></p>
-<p></p>
+
 <p>For Further Reading:<br>
 <a href="https://theconversation.com/teens-arent-just-risk-machines-theres-a-method-to-their-madness-89439" rel="noopener nofollow" target="_blank">https://theconversation.com/teens-arent-just-risk-machines-theres-a-method-to-their-madness-89439</a></p>
