@@ -2,127 +2,95 @@
 title: Principal's Message
 permalink: /our-family/p-message/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<p>Principal’s Message</p>
-<p>January 2025</p>
+<h4><strong>PRINCIPAL’S MESSAGE</strong></h4>
+<p>February 2026</p>
 <p>Dear CHRians,</p>
-<p><strong>Three Observations in Japan</strong>
-</p>
-<p>During the December holidays, I spent some time travelling in Japan. Here
-are three observations I made there. What do these tell us about Japanese
-culture and values?</p>
+<p>Do any of these questions sound familiar to you?</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Observation #1: Rubbish bins are rare in Japan. You will hardly see any
-on the streets, in shopping malls, train stations, and public toilets.
-Despite this, Japan is very clean. When buying food and drinks at a market,
-you are expected to stand near the stall to enjoy them, so that you can
-pass your trash back to the vendor when you are done. If you happen to
-have anything to throw away, like tissue paper or a food wrapper, you need
-to hold on to it, or keep it in your pocket, until you are back in your
-hotel. Many other big cities around the world also have few rubbish bins,
-for various reasons (e.g. as a precaution against terrorism), but are not
-as clean as Japanese cities.</p>
+<p>“Why didn’t you think before doing it?”</p>
 </li>
 <li>
-<p>Observation #2: When you are travelling on a train in Japan, you will
-hardly ever hear locals talking – not even on the phone. You will also
-rarely hear phones ringing or notification alerts. If anyone is talking
-loudly, they are likely to be foreigners.</p>
+<p>“Why can’t your words go through your brain first before coming out of
+your mouth?”</p>
 </li>
 <li>
-<p>Observation #3: Japan has very interesting toilet bowls. In some public
-toilets, once you sit on the toilet bowl, it will automatically play music
-or pleasant sounds (like the sound of a flowing stream), while you are
-answering nature’s call.</p>
+<p>“Why didn’t you press pause on your potential limiter?”</p>
 </li>
 </ul>
-<p>&nbsp;Do you think there is a common thread linking these three observations?
-My theory is that consideration for others is highly valued in Japan, which
-explains, to some extent, all three observations.</p>
-<p>&nbsp;According to this <a href="https://japan-dev.com/blog/trash-cans-in-japan" rel="noopener noreferrer nofollow" target="_blank">website</a> that addresses
-the phenomenon of Japan’s “missing trash cans”, “In Japanese culture, societal
-harmony is among the most highly regarded values… inconveniencing others
-and disrupting societal harmony often requires an apology, even in situations
-that may seem minor to an outsider… Japanese people are especially sensitive
-toward public spaces and how they use them as an individual. They are aware
-that the public space belongs to others just as much as themselves, and
-because of this, keeping the environment clean simply becomes everyone’s
-personal concern. As a result, there’s a strong cultural norm of keeping
-public spaces clean and, therefore, handling your trash properly. There
-may be no trash cans around, but Japanese people aren’t bothered by this,
-as it’s already an established norm to carry the wrapper of your candy
-bar or the plastic bottle you finished in your bag until you get home.”</p>
-<p>This <a href="https://www.japan-guide.com/e/e2230.html" rel="noopener noreferrer nofollow" target="_blank">online Japan Guide</a> has
-a section on Train Manners, which advises travellers: “Keep your voice
-down. Talking loudly on trains is considered bad mannered and ranks highly
-amongst the most annoying behaviours on trains in Japan. Don’t talk on
-the phone… Set your phone to silent mode. Set the volume of your headphones
-low.”</p>
-<p>Similarly, musical toilet bowls masks the sounds of people relieving themselves,
-making the experience a pleasant one for all – even for those in neighbouring
-toilet cubicles!</p>
-<p>I think we can learn much from the Japanese about being Thoughtful Contributors,
-which is our focus for 2025. There will be many opportunities for all of
-us to be Thoughtful Contributors to each other, to the school, and to our
-environment.</p>
-<p>Here are two basic ways I would like all CHRians to be Thoughtful Contributors,
-based on Jesus’ teachings.</p>
-<p><strong>Let Your ‘Yes’ be ‘Yes’, and Your ‘No’ be ‘No’</strong>
-</p>
-<p><em>“… let your ‘Yes’ be ‘Yes’, and your ‘No’, ‘No’.” (Matthew 5:37)</em>
-</p>
-<p>When Jesus said this, He was teaching us to be men and women of our word.
-There is no need to swear in God’s name, or by heaven and earth, or on
-your life. If you are trustworthy, dependable, and honour what you say,
-people can just take you at your word. When you say ‘Yes’ and commit to
-something, follow through on your commitment and give it your all.</p>
-<p>Be wise about what you say ‘Yes’ and ‘No’ to. Say ‘Yes’ to learning, growth,
-and whatever is good for others, for the school, and for the community.
-Say ‘No’ to whatever is unhealthy, toxic, and hurtful to yourself and others.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="CHR Ambassadors and other student volunteers @ Open House 2024" src="/images/2025/P Message/Pmessage1.jpg">
-</div>
-<p><em>CHR Ambassadors and other student volunteers @ Open House 2024</em>
-</p>
-<p>Sometimes, saying ‘Yes’ all the time, even to good things, can lead to
-burnout. Having said that, I hope that you will say ‘Yes’ to opportunities
-more than you say ‘No’. Thoughtful Contributors turn up and are fully present.
-Thoughtful Contributors know that they have unique strengths, gifts, and
-personalities to bring to the table. When you say ‘No’, not only do you
-lose an opportunity to grow – you also lose an opportunity to contribute.</p>
+<p>Young people are often criticised for being impulsive, lacking in self-control,
+and for taking unnecessary risks. I can easily think of situations some
+of you have gotten into that were deserving of such rebukes. I would like
+to reframe this criticism and show how it can be turned into an advantage
+that can help you be a Purposeful Leader.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="CHR Ambassadors and other student volunteers @ Open House 2024" src="/images/2025/P Message/Pmessage2.jpg">
-</div>
-<p><em>Emcees, Class Champions, Designers, and Multimedia Managers preparing for Sec 1 Challenge Showcase</em>
-</p>
-<p><strong>Be Trustworthy With Little Things</strong>
-</p>
-<p><em>“Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.” (Luke 16:10)</em>
-</p>
-<p>Some of you hold leadership positions and responsibilities in your classes,
-CCAs, and Houses, such as Peer Support Mentors, CCE Champions and keyholders.
-Even if you do not hold a leadership position, I am sure you will be entrusted
-with, or volunteer to take on, certain responsibilities from time to time.
-Don’t look down on little things. As Thoughtful Contributors, fulfil your
-responsibilities, big or small, to the best of your abilities. If you can
-be trusted with little things, bigger things and bigger opportunities will
-come your way.</p>
+<p>There is actually a neurological basis for this criticism. Scientists
+who study the brain tell us that there are differences between teenagers’
+brains and adults’ brains. One of these differences is that in the adolescent
+brain, the prefrontal cortex, which is near the front of your brain, is
+not fully developed yet. The prefrontal cortex is responsible for functions
+such as impulse control, planning for the future, and thinking about consequences.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025/P Message/Pmessage3.jpg">
-</div>
-<p><em>Orientation Group Leaders leading Sec 1s in the school cheer @ CHR Family Dedication (Jan 2025)</em>
-</p>
-<p>In 2025, let’s all resolve to be Thoughtful Contributors who honour our
-word and are trustworthy even with little things!</p>
+<p></p>
+<figure>
+<img style="width: 80%;" height="auto" width="90%" alt="" src="/images/2026/P Message/Prefrontal_Cortex.jpg">
+<figcaption><em>Source: </em><a href="https://www.simplypsychology.org/prefrontal-cortex-development-age.html" rel="noopener nofollow" target="_blank">https://www.simplypsychology.org/prefrontal-cortex-development-age.html</a>
+</figcaption>  
+</figure>
+<p></p>
+<p>Before I carry on, I need to say that the next time you do something foolish,
+do NOT blame it on your brain, and try to tell your parents or teachers,
+“It’s not my fault. My prefrontal cortex is not fully developed. My principal
+said so!” Neuroscience does not absolve you in any way from taking personal
+responsibility for your words and actions. In fact, knowing this, you should
+make a special effort to develop your prefrontal cortex through forming
+good habits, surrounding yourself with good company, taking advice from
+trusted adults, and thinking twice.</p>
+<p></p>
+<p>How can your undeveloped prefrontal cortex be turned into an advantage?
+I believe that God created us, and He did a good job of it. If this is
+how He designed our brains and the way they develop, there must be some
+advantage to it. If young people often find adults too cautious, conservative,
+and risk averse, then maybe as a young person, you are uniquely wired to
+take some risks – but healthy risks. What do I mean by healthy risk? Any
+time you step out of your comfort zone, and try something new, because
+you want to learn and grow, it’s a healthy risk. It’s a risk because you’re
+taking a step into the unknown, even if it is unfamiliar and scary. And
+if your intention is to grow, then it is likely to be healthy.</p>
+<p></p>
+<p>In her August 2025 TED Talk, titled “The Surprising Science of Adolescent
+Brains”, neuroscientist Jennifer Pfeifer said, “Adolescence isn’t a problem
+to be solved. It’s a transformative period of growth and opportunity… it’s
+time we reframe our view of adolescent brains. Don’t think of them as immature.
+They’re perfectly suited to meet the needs of young people. Their brains
+prime them to explore, learn quickly from rewards, and be sensitive to
+social status. It’s easy to think of those things as liabilities, but that
+would be a mistake. They’re actually powerful assets at a time in life
+when building identity, independence, and new relationships outside the
+family really matters.”</p>
+<p></p>
+<p>To become a Purposeful Leader, you need to explore your strengths, potential
+limiters, and interests; explore your community and the ways you can make
+a positive difference to those around you; as well as explore unfamiliar
+territory and new challenges to break new ground. CHRians do such exploration
+every day. In 2025, just to cite a few examples, we saw CHRians initiate
+projects to raise funds for the school, rally support to bless migrant
+workers, and plan a student-led component during their trip to Taiwan.</p>
+<p></p>
+<figure>
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/P Message/purposeful_leaders.jpg">
+<figcaption><em>Purposeful Leaders in Action (2025)</em>
+</figcaption>  
+</figure>
+<p></p>
+<p>What amazing initiatives will we see from CHRians this year?</p>
+<p>As you continue exploring as Purposeful Leaders, use your adolescent prefrontal
+cortex to your advantage!</p>
+<p></p>
 <p>Mr Tay</p>
-<p><em>[This message was adapted from my address to the school during the first morning assembly of the year on 2 Jan 2025.]</em>
-</p>
-<p><strong>References:</strong>
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://japan-dev.com/blog/trash-cans-in-japan</a>
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.japan-guide.com/e/e2230.html</a>
-</p>
+
+<p>For Further Reading:<br>
+<a href="https://theconversation.com/teens-arent-just-risk-machines-theres-a-method-to-their-madness-89439" rel="noopener nofollow" target="_blank">https://theconversation.com/teens-arent-just-risk-machines-theres-a-method-to-their-madness-89439</a></p>
