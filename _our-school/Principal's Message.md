@@ -36,7 +36,7 @@ such as impulse control, planning for the future, and thinking about consequence
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026/P Message/Prefrontal_Cortex.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/P Message/Prefrontal_Cortex.jpg">
 </div>
 <p><em>Sources: </em><a href="https://www.simplypsychology.org/prefrontal-cortex-development-age.html" rel="noopener nofollow" target="_blank">https://www.simplypsychology.org/prefrontal-cortex-development-age.html</a>
 </p>
@@ -82,7 +82,7 @@ workers, and plan a student-led component during their trip to Taiwan.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026/P Message/purposeful_leaders.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/P Message/purposeful_leaders.jpg">
 </div>
 <p><em>Purposeful Leaders in Action (2025)</em>
 </p>
