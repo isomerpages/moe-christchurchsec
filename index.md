@@ -14,12 +14,13 @@ sections:
       id: announcements
       subtitle: Christ Church Secondary School
       announcement_items:
-        - title: Release of 2025 GCE O-Level Examination Results
-          date: 08 January 2026
-          announcement: 2025 GCE O-Level Examination results will be released on
-            Wednesday, 14 January 2026. Please click the link below.
+        - title: Christ Church Secondary School Alumni Reunion 2026
+          date: 12 March 2026
+          announcement: Christ Church Secondary School warmly invites all alumni to our
+            CHR Alumni Reunion 2026, happening on 9 May 2026 (Saturday). Click
+            the link below to find out more!
           link_text: More Details
-          link_url: https://christchurchsec.moe.edu.sg/release-of-2025-o-level-results/
+          link_url: https://christchurchsec.moe.edu.sg/christ-church-secondary-school-alumni-reunion-2026/
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
