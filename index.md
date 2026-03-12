@@ -20,6 +20,13 @@ sections:
             Wednesday, 14 January 2026. Please click the link below.
           link_text: More Details
           link_url: https://christchurchsec.moe.edu.sg/release-of-2025-o-level-results/
+        - title: Christ Church Secondary School Alumni Reunion 2026
+          date: 12 March 2026
+          announcement: Christ Church Secondary School warmly invites all alumni to our
+            CHR Alumni Reunion 2026, happening on 9 May 2026 (Saturday). Click
+            the link below to find out more!
+          link_text: More Details
+          link_url: https://go.gov.sg/chr-reunion2026
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
