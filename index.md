@@ -20,7 +20,7 @@ sections:
             CHR Alumni Reunion 2026, happening on 9 May 2026 (Saturday). Click
             the link below to find out more!
           link_text: More Details
-          link_url: /christ-church-secondary-school-alumni-reunion-2026/
+          link_url: https://christchurchsec.moe.edu.sg/christ-church-secondary-school-alumni-reunion-2026/
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
