@@ -51,20 +51,20 @@ for direct admission into the school in three talent areas:</p>
 </div>
 <p></p>
 <h4>Important Dates</h4>
-<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/dsa-sec"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSAa.png"></a>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/dsa-sec-application"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSAb.png"></a>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/nmsdsa-sec-application"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSAc.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSAd.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/DSA_applicationperiod.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSAe.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/DSA_selectiontrial2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSA11.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/DSA_schoolprefencesubmission.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/DSA_arr.png">
 </div>
 <h4>Clarification</h4>
 <p>Frequently asked questions (FAQ) - <a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a> 
