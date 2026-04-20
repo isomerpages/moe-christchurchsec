@@ -23,48 +23,47 @@ for the duration of the programme.
 <p></p>
 <h4>Why Christ Church Secondary School(CHR)?</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSA2.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSA3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/dma3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/dma4.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSA4.png">
 </div>
+<h4></h4>
 <h4>Direct School Admission @ CHR</h4>
 <p>Christ Church Secondary School (CHR) welcomes Primary 6 students to apply
-for direct admission into the school in three talent areas:</p>
+for direct admission into the school in <strong>three talent areas:</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSA5.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSA6.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/dma6.png">
+</div>
 <h4>Application Criteria</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA 2025/DSA7.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/dma7.png">
+</div>
 <h4>Important Dates</h4>
 <p></p>
+<p></p><a class="isomer-image-wrapper" href="www.moe.gov.sg/dsa-sec"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/dma8aa.png"></a>
+<a class="isomer-image-wrapper" href="https://go.gov.sg/dsa-sec-application">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/dma8b.png">
+</a><a class="isomer-image-wrapper" href="https://go.gov.sg/nmsdsa-sec-application"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/dma8c.png"></a>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/DSA_applicationperiod.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/dma9.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/DSA_selectiontrial2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/DSA_schoolprefencesubmission.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/DSA_arr.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA 2026/dma10.png">
 </div>
 <h4>Clarification</h4>
 <p>Frequently asked questions (FAQ) - <a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a> 
