@@ -14,13 +14,14 @@ sections:
       id: announcements
       subtitle: Christ Church Secondary School
       announcement_items:
-        - title: Christ Church Secondary School Alumni Reunion 2026
-          date: 12 March 2026
-          announcement: Christ Church Secondary School warmly invites all alumni to our
-            CHR Alumni Reunion 2026, happening on 9 May 2026 (Saturday). Click
-            the link below to find out more!
-          link_text: More Details
-          link_url: https://christchurchsec.moe.edu.sg/christ-church-secondary-school-alumni-reunion-2026/
+        - title: Direct School Admission (DSA) 2026
+          date: 14 May 2026
+          announcement: "Discover how you can grow your strengths and passions at CHR
+            through our three DSA talent areas: Leadership, Basketball and
+            Outdoor Adventure. Find out more about the application process and
+            eligibility criteria here."
+          link_text: More details
+          link_url: https://www.christchurchsec.moe.edu.sg/our-school/direct-school-admissions-dsa-information/
   - infopic:
       title: Active Learners
       subtitle: Be Curious About Everything
