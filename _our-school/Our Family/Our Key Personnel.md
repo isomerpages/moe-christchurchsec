@@ -29,11 +29,11 @@ variant: markdown
 | **HOD Discipline**    | Mdm Mandy Choo  |
 | **HOD English Language**    | Ms NurulJannah Binte Ishak   |
 | **HOD Mathematics**    | Mdm Sandy Wong   |
-| **HOD Science**    | Mr Muhamad Firdaus Bin Mohamed Yasin   |
+| **HOD Science**    |  Ms Belle Lim  |
 | **HOD Mother Tongue**    | Mr Gavin Chong   |
 | **HOD Humanities**    | Mr Sng Thiam Eng   |
 | **HOD ACT**    | Ms Lee Siew Foong  |
-| **HOD CCE**    | Ms Belle Lim   |
+| **HOD CCE**    |    |
 | **HOD PE &amp; CCA**    | Mr Ho Chee Hoong   |
 | **HOD ICT**    | Ms Tan Lay Hiok Faye   |
 
@@ -60,6 +60,7 @@ variant: markdown
 | -------- | -------- |
 | **Administration Manager**    | Ms Lena Chung    |
 | **Operations Manager**    | Mr Anthony Lee   |
+| **Operations Manager**    | Mr Muhammad Halil Mohamed Alip   |
 
 ### Teacher Leaders
 
