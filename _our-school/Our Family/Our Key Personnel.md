@@ -60,6 +60,7 @@ variant: markdown
 | -------- | -------- |
 | **Administration Manager**    | Ms Lena Chung    |
 | **Operations Manager**    | Mr Anthony Lee   |
+| **Operations Manager**    | Mr Muhammad Halil Mohamed Alip   |
 
 ### Teacher Leaders
 
