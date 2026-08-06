@@ -21,4 +21,4 @@ variant: markdown
 | **Patrons**     | NIL     | 
 | **Trustees/Board Members:**     | Christ Church Secondary School Management Committee     | 
 | **Key Employees:**     | Principal and Vice-Principal(s)     | 
-| **Auditor:**     | CA Assurance LLP     | 
+| **Auditor:**     | CA Assurance LLP     |
